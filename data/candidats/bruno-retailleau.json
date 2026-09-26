@@ -1470,5 +1470,67 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "appareil_suffisant",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Désigné candidat par les adhérents LR le 19 avril 2026 (73,8 % en faveur d'une désignation directe, contre une primaire), il s'appuie sur l'appareil des Républicains, riche en élus locaux ; Europe 1 (10 septembre 2026) qualifie la quête des 500 parrainages de « formalité pour un parti bien implanté ». Pour mémoire, le camp LR avait obtenu 2 636 parrainages validés en 2022, au nom de Valérie Pécresse (chiffre de son camp, pas le sien).",
+  "sources": [
+   {
+    "media": "Les Républicains (site officiel)",
+    "titre": "Bruno RETAILLEAU largement désigné comme candidat des Républicains pour l'élection présidentielle",
+    "url": "https://republicains.fr/actualites/2026/04/20/bruno-retailleau-largement-designe-comme-candidat-des-republicains-pour-lelection-presidentielle/",
+    "date": "2026-04-20"
+   },
+   {
+    "media": "Public Sénat",
+    "titre": "Présidentielle : les adhérents LR désignent Bruno Retailleau comme candidat",
+    "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr",
+    "date": "2026-04-19"
+   },
+   {
+    "media": "Europe 1",
+    "titre": "Prêts bancaires, parrainages, locaux de campagne... La campagne présidentielle de Bruno Retailleau s'accélère en coulisses",
+    "url": "https://www.europe1.fr/politique/prets-bancaires-parrainages-locaux-de-campagne-la-campagne-presidentielle-de-bruno-retailleau-saccelere-en-coulisses-1067510",
+    "date": "2026-09-10"
+   },
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Les parrainages validés par candidat (présidentielle 2022)",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+    "date": "2022-03-07"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "dons",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Jamais candidat à la présidentielle, donc aucun compte CNCCFP antérieur ; selon l'AFP (Le Figaro, 8 juin 2026), il a créé l'association de financement de sa campagne. Selon Europe 1 (10 septembre 2026), il s'appuie sur les dons des adhérents et des levées de fonds auprès de grands donateurs, et négocie encore avec les banques un prêt de « plusieurs millions d'euros ». En 2024, LR a perçu 9 499 922 € d'aide publique, mais ses comptes affichent 12,3 M€ de dettes et une situation nette négative de 3,6 M€ (CNCCFP). Aucune alerte sur le financement.",
+  "sources": [
+   {
+    "media": "Europe 1",
+    "titre": "Prêts bancaires, parrainages, locaux de campagne... La campagne présidentielle de Bruno Retailleau s'accélère en coulisses",
+    "url": "https://www.europe1.fr/politique/prets-bancaires-parrainages-locaux-de-campagne-la-campagne-presidentielle-de-bruno-retailleau-saccelere-en-coulisses-1067510",
+    "date": "2026-09-10"
+   },
+   {
+    "media": "Le Figaro (AFP)",
+    "titre": "Les Républicains : Bruno Retailleau a créé l'association de financement de sa campagne",
+    "url": "https://www.lefigaro.fr/flash-actu/les-republicains-bruno-retailleau-a-cree-l-association-de-financement-de-sa-campagne-20260608",
+    "date": "2026-06-08"
+   },
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   }
+  ]
+ }
 }

@@ -1519,5 +1519,99 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": 200,
+  "officiel_2022": 906,
+  "texte": "En 2022, le Conseil constitutionnel avait validé 906 parrainages pour Jean-Luc Mélenchon. Pour 2027, LFI a lancé sa collecte auprès des maires en juin 2026 ; selon une information de franceinfo du 2 septembre 2026, il n'avait recueilli qu'« un peu plus de 200 » promesses, loin des 500 requises, l'entourage disant craindre de « se faire peur » si les parrainages n'arrivent pas d'eux-mêmes. Aucun parrainage n'est officiellement déposé : la collecte officielle n'est pas ouverte.",
+  "sources": [
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Parrainages validés par candidat – présidentielle 2022",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Candidatures à l'élection présidentielle française de 2022 (tableau des parrainages)",
+    "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+    "date": "2026-09-26"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "INFO FRANCEINFO. Jean-Luc Mélenchon n'a recueilli pour l'instant qu'un peu plus de 200 promesses de parrainages en vue de la présidentielle, loin des 500 nécessaires",
+    "url": "https://www.franceinfo.fr/politique/melenchon/info-franceinfo-jean-luc-melenchon-n-a-recueilli-pour-l-instant-qu-un-peu-plus-de-200-promesses-de-parrainages-en-vue-de-la-presidentielle-loin-des-500-necessaires_8172731.html",
+    "date": "2026-09-02"
+   },
+   {
+    "media": "Parlons Politique",
+    "titre": "Parrainages Mélenchon 2027 : pourquoi LFI doit convaincre les maires pour sécuriser sa candidature à la présidentielle",
+    "url": "https://www.parlons-politique.fr/elections/parrainages-melenchon-2027-pourquoi-lfi-doit-convaincre-les-maires-pour-securiser-sa-candidature-a-la-presidentielle_26204/",
+    "date": "2026-09-02"
+   },
+   {
+    "media": "La France insoumise (site officiel)",
+    "titre": "Parrainages d'élu·es pour l'élection présidentielle 2027",
+    "url": "https://lafranceinsoumise.fr/2026/06/22/parrainages-elus-pour-election-presidentielle-2027/",
+    "date": "2026-06-22"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "prets_bancaires_ue",
+   "apport_personnel",
+   "dons",
+   "parti",
+   "public"
+  ],
+  "alerte": "enquete",
+  "alerte_etranger": false,
+  "texte": "Présidentielle 2022 : compte approuvé après réformation par la CNCCFP (décision du 14 décembre 2022) ; 13 519 579 € de dépenses retenues, financées notamment par 8 059 303 € d'apport personnel, 2 352 347 € de dons, 1 300 000 € de versements de partis et 2 173 284 € de contributions directes des partis ; remboursement de l'État fixé à 7 629 786 €. En 2017, la campagne avait annoncé un prêt de 8 M€ de « deux banques coopératives » non nommées ; le compte 2017 (10 241 760 € de dépenses, dont 2 898 199 € de dons en recettes) a été approuvé après réformation par la CNCCFP, qui a ensuite saisi la justice. Une enquête ouverte en avril 2018 puis une information judiciaire ont porté sur des soupçons de surfacturations de prestations de cette campagne 2017 ; selon l'AFP (1er juin 2026), l'instruction a été close début mai 2026 avec quatre mises en examen : l'association L'Ère du peuple, la mandataire financière Marie-Pierre Oprandi, le député Bastien Lachaud et la députée Sophia Chikirou, dont la société Mediascop avait facturé 1 161 768 € à la campagne. Jean-Luc Mélenchon n'est pas mis en examen dans ce dossier et n'a pas été entendu par les juges. Au 26 septembre 2026, aucune réquisition du parquet ni décision sur un éventuel procès n'a été rendue publique ; les personnes mises en examen, qui contestent toute surfacturation, sont présumées innocentes. Aucun financement étranger n'est établi par une décision de justice, une enquête ouverte ou un rapport officiel.",
+  "sources": [
+   {
+    "media": "CNCCFP (JORF)",
+    "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Jean-Luc Mélenchon",
+    "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+    "date": "2023-01-27"
+   },
+   {
+    "media": "CNCCFP (JORF)",
+    "titre": "Décisions relatives aux comptes de campagne de l'élection présidentielle 2017",
+    "url": "https://cnccfp.fr/wp-content/uploads/2022/04/De%CC%81cisions_pre%CC%81sidentielle_2017.pdf",
+    "date": "2018-02-13"
+   },
+   {
+    "media": "Public Sénat",
+    "titre": "Présidentielle: Mélenchon obtient un prêt bancaire de 8 millions",
+    "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-melenchon-obtient-un-pret-bancaire-de-8-millions-52504",
+    "date": "2017-01-09"
+   },
+   {
+    "media": "France 24 (AFP)",
+    "titre": "Comptes de campagne 2017 de LFI: fin des investigations à Paris",
+    "url": "https://www.france24.com/fr/info-en-continu/20260601-comptes-de-campagne-2017-de-lfi-fin-des-investigations-%C3%A0-paris",
+    "date": "2026-06-01"
+   },
+   {
+    "media": "Le JDD",
+    "titre": "Comptes de campagne de LFI : l'enquête sur l'élection présidentielle de 2017 se clôt sur quatre mises en examen",
+    "url": "https://www.lejdd.fr/politique/comptes-de-campagne-de-lfi-lenquete-sur-lelection-presidentielle-de-2017-se-clot-sur-quatre-mises-en-examen-175440",
+    "date": "2026-05"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Comptes de campagne de LFI en 2017 : Sophia Chikirou mise en examen pour « escroquerie aggravée »",
+    "url": "https://www.franceinfo.fr/politique/la-france-insoumise/comptes-de-campagne-de-lfi-en-2017-sophia-chikirou-mise-en-examen-pour-escroquerie-aggravee_6799207.html",
+    "date": "2024-09-24"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Affaire des comptes de campagne de Jean-Luc Mélenchon en 2017",
+    "url": "https://fr.wikipedia.org/wiki/Affaire_des_comptes_de_campagne_de_Jean-Luc_M%C3%A9lenchon_en_2017",
+    "date": "2026-09-26"
+   }
+  ]
+ }
 }

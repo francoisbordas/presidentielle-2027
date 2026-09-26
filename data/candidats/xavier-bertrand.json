@@ -1,1246 +1,1307 @@
 {
-  "id": "xavier-bertrand",
-  "nom": "Xavier Bertrand",
-  "naissance": "1965-03-21",
-  "lieu_naissance": "Châlons-sur-Marne (aujourd'hui Châlons-en-Champagne, Marne)",
-  "parti": "Nous France (parti associé à LR ; membre de LR)",
-  "parti_sigle": "NF",
-  "famille": "droite",
-  "position": 4.0,
-  "position_justif": {
-    "texte": "Se définit comme « gaulliste social, d'une droite sociale et populaire » ; décrit comme représentatif du centre droit par Wikipédia (en) et comme porteur d'une droite « républicaine et sociale » opposée à toute alliance avec le RN par Le Monde. Position placée légèrement en deçà du repère LR (5) du barème.",
-    "sources": [
-      {
-        "media": "Wikipédia",
-        "titre": "Xavier Bertrand",
-        "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-        "date": "2026-09-25"
-      },
-      {
-        "media": "Wikipédia (en)",
-        "titre": "Xavier Bertrand",
-        "url": "https://en.wikipedia.org/wiki/Xavier_Bertrand",
-        "date": "2026-09-25"
-      },
-      {
-        "media": "Le Monde",
-        "titre": "Xavier Bertrand : « Le principal danger face au RN, c'est le défaitisme » (entretien reproduit sur nousfrance.fr)",
-        "url": "https://www.nousfrance.fr/2025/12/xavier-bertrand-le-principal-danger-face-au-rn-cest-le-defaitisme-le-monde/",
-        "date": "2025-12-18"
-      }
-    ]
-  },
-  "statut": "declare",
-  "photo": {
-    "fichier": "img/candidats/xavier-bertrand.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Xavier_Bertrand_2025_(cropped).jpg",
-    "auteur": "Claudio Centonze / European Union, 2025 / EC - Audiovisual Service",
-    "licence": "CC BY 4.0"
-  },
-  "logo_parti": {
-    "fichier": "img/partis/nf.png",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Logo_parti_Nous_France.png",
-    "licence": "Domaine public (selon Wikimedia Commons)"
-  },
-  "bio": {
-    "etudes": [
-      {
-        "texte": "Maîtrise de droit public à l'université de Reims Champagne-Ardenne, puis DESS d'administration locale.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Challenges",
-            "titre": "Le CV de Xavier Bertrand",
-            "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
-            "date": "2010-11-14"
-          }
-        ]
-      },
-      {
-        "texte": "N'a fait ni Sciences Po ni l'ENA ; se présente comme diplômé de droit public « loin des grandes écoles ».",
-        "sources": [
-          {
-            "media": "Le Monde",
-            "titre": "Présidentielle 2027 : Xavier Bertrand veut retenter sa chance (article reproduit sur nousfrance.fr)",
-            "url": "https://www.nousfrance.fr/2025/11/presidentielle-2027-xavier-bertrand-veut-retenter-sa-chance/",
-            "date": "2025-11-08"
-          },
-          {
-            "media": "Paris Match",
-            "titre": "Xavier Bertrand : « Sébastien Lecornu subira le même sort que Michel Barnier et François Bayrou » (entretien reproduit sur nousfrance.fr)",
-            "url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-sebastien-lecornu-subira-le-meme-sort-que-michel-barnier-et-francois-bayrou-paris-match/",
-            "date": "2025-10-30"
-          }
-        ]
-      }
-    ],
-    "carriere_hors_politique": [
-      {
-        "texte": "Agent général d'assurance (groupes AXA puis Swiss Life) de 1992 à 2004, dans l'Aisne.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Challenges",
-            "titre": "Le CV de Xavier Bertrand",
-            "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
-            "date": "2010-11-14"
-          },
-          {
-            "media": "Le Parisien",
-            "titre": "« Je veux porter le flambeau des classes moyennes » : Xavier Bertrand, à fond sur la ligne popu (article reproduit sur nousfrance.fr)",
-            "url": "https://www.nousfrance.fr/2025/12/je-veux-porter-le-flambeau-des-classes-moyennes-xavier-bertrand-a-fond-sur-la-ligne-popu-le-parisien/",
-            "date": "2025-12-20"
-          }
-        ]
-      },
-      {
-        "texte": "Assistant parlementaire du sénateur de l'Aisne Jacques Braconnier de 1987 à 1992.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Challenges",
-            "titre": "Le CV de Xavier Bertrand",
-            "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
-            "date": "2010-11-14"
-          }
-        ]
-      },
-      {
-        "texte": "Déclare à la HATVP des activités rémunérées de formateur depuis 2023 (ESG RH, ESCP Europe, Heip).",
-        "sources": [
-          {
-            "media": "HATVP",
-            "titre": "Fiche Xavier Bertrand – déclaration de modification substantielle des intérêts (3 avril 2025)",
-            "url": "https://www.hatvp.fr/fiche-nominative/?declarant=bertrand-xavier",
-            "date": "2025-04-03"
-          }
-        ]
-      }
-    ],
-    "mandats": [
-      {
-        "texte": "Conseiller municipal de Saint-Quentin depuis 1989, adjoint au maire de 1995 à 2010, conseiller général de l'Aisne de 1998 à 2002.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Challenges",
-            "titre": "Le CV de Xavier Bertrand",
-            "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
-            "date": "2010-11-14"
-          }
-        ]
-      },
-      {
-        "texte": "Député de la 2e circonscription de l'Aisne (élu en 2002, réélu en 2007 et 2012), siège laissé à sa suppléante lors de ses entrées au gouvernement ; démissionne en janvier 2016.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Challenges",
-            "titre": "Le CV de Xavier Bertrand",
-            "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
-            "date": "2010-11-14"
-          }
-        ]
-      },
-      {
-        "texte": "Secrétaire d'État chargé de l'Assurance maladie (31 mars 2004 – 31 mai 2005), gouvernement Raffarin III.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Challenges",
-            "titre": "Le CV de Xavier Bertrand",
-            "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
-            "date": "2010-11-14"
-          }
-        ]
-      },
-      {
-        "texte": "Ministre de la Santé et des Solidarités (2 juin 2005 – 26 mars 2007), gouvernement Villepin.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Challenges",
-            "titre": "Le CV de Xavier Bertrand",
-            "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
-            "date": "2010-11-14"
-          },
-          {
-            "media": "LCP",
-            "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
-            "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
-            "date": "2026-08-27"
-          }
-        ]
-      },
-      {
-        "texte": "Ministre du Travail, des Relations sociales et de la Solidarité (puis de la Famille) de mai 2007 à janvier 2009, puis ministre du Travail, de l'Emploi et de la Santé du 14 novembre 2010 au 10 mai 2012 (gouvernements Fillon).",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Challenges",
-            "titre": "Le CV de Xavier Bertrand",
-            "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
-            "date": "2010-11-14"
-          },
-          {
-            "media": "LCP",
-            "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
-            "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
-            "date": "2026-08-27"
-          }
-        ]
-      },
-      {
-        "texte": "Secrétaire général de l'UMP : par intérim à partir de décembre 2008, en titre du 24 janvier 2009 au 17 novembre 2010.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Le Parisien",
-            "titre": "Xavier Bertrand prend les commandes de l'UMP",
-            "url": "https://www.leparisien.fr/politique/xavier-bertrand-prend-les-commandes-de-l-ump-24-01-2009-386150.php",
-            "date": "2009-01-24"
-          },
-          {
-            "media": "Europe 1",
-            "titre": "UMP : Bertrand a remis sa démission",
-            "url": "https://www.europe1.fr/politique/UMP-Bertrand-a-remis-sa-demission-449376",
-            "date": "2010-11-17"
-          }
-        ]
-      },
-      {
-        "texte": "Maire de Saint-Quentin (4 octobre 2010 – janvier 2016) ; président de l'agglomération de Saint-Quentin (2014-2016) puis du Saint-Quentinois (2017-2020).",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "franceinfo",
-            "titre": "Xavier Bertrand, président Les Républicains de la Région Hauts-de-France, déclare qu'il \"sera\" candidat à l'élection présidentielle",
-            "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
-            "date": "2026-08-27"
-          }
-        ]
-      },
-      {
-        "texte": "Président du conseil régional des Hauts-de-France depuis le 4 janvier 2016 ; réélu en juin 2021 avec environ 52,4 % des voix au second tour.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "20 Minutes",
-            "titre": "Résultats des régionales en Hauts-de-France : Xavier Bertrand largement réélu président de la région",
-            "url": "https://www.20minutes.fr/elections/3071815-20210627-elections-regionales-hauts-france-xavier-bertrand-largement-reelu-president-region",
-            "date": "2021-06-27"
-          },
-          {
-            "media": "HATVP",
-            "titre": "Fiche Xavier Bertrand – déclaration de modification substantielle des intérêts (3 avril 2025)",
-            "url": "https://www.hatvp.fr/fiche-nominative/?declarant=bertrand-xavier",
-            "date": "2025-04-03"
-          }
-        ]
-      }
-    ],
-    "autres": [
-      {
-        "texte": "Quitte Les Républicains le 11 décembre 2017, au lendemain de l'élection de Laurent Wauquiez à la présidence du parti ; y réadhère en 2021.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Le Figaro",
-            "titre": "Bertrand annonce son départ des Républicains après l'élection de Wauquiez",
-            "url": "http://www.lefigaro.fr/politique/le-scan/2017/12/11/25001-20171211ARTFIG00273-xavier-bertrand-annonce-son-depart-des-republicains-apres-l-election-de-laurent-wauquiez.php",
-            "date": "2017-12-11"
-          }
-        ]
-      },
-      {
-        "texte": "Au congrès LR de désignation pour la présidentielle 2022, arrive quatrième au premier tour (2 décembre 2021) avec 22,36 % des voix, puis appelle à voter pour Valérie Pécresse.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Le Monde",
-            "titre": "Congrès Les Républicains : Xavier Bertrand, l'ex-cavalier seul, éliminé dès le premier tour",
-            "url": "https://www.lemonde.fr/politique/article/2021/12/02/congres-les-republicains-xavier-bertrand-l-ex-cavalier-seul-elimine-des-le-premier-tour_6104465_823448.html",
-            "date": "2021-12-02"
-          },
-          {
-            "media": "franceinfo (France 3 Hauts-de-France)",
-            "titre": "\"Je le serai\" : Xavier Bertrand annonce être candidat à l'élection présidentielle et s'exprime sur d'éventuelles primaires",
-            "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/je-le-serai-xavier-bertrand-annonce-sa-candidature-a-l-election-presidentielle-et-s-exprime-sur-d-eventuelles-primaires-3407339.html",
-            "date": "2026-08-27"
-          }
-        ]
-      },
-      {
-        "texte": "Annonce en juillet 2022 la création de « Nous France », parti associé à LR, lancé officiellement en octobre 2022 ; il en est président depuis septembre 2022 selon sa déclaration HATVP.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Le Figaro",
-            "titre": "Xavier Bertrand creuse son sillon",
-            "url": "https://www.lefigaro.fr/politique/xavier-bertrand-creuse-son-sillon-20220715",
-            "date": "2022-07-15"
-          },
-          {
-            "media": "Le Monde",
-            "titre": "Xavier Bertrand lance son parti, les yeux rivés vers l'élection présidentielle de 2027",
-            "url": "https://www.lemonde.fr/politique/article/2022/10/01/xavier-bertrand-lance-son-parti-les-yeux-rives-vers-l-election-presidentielle-de-2027_6143926_823448.html",
-            "date": "2022-10-01"
-          },
-          {
-            "media": "HATVP",
-            "titre": "Fiche Xavier Bertrand – déclaration de modification substantielle des intérêts (3 avril 2025)",
-            "url": "https://www.hatvp.fr/fiche-nominative/?declarant=bertrand-xavier",
-            "date": "2025-04-03"
-          }
-        ]
-      },
-      {
-        "texte": "Déclare le 3 février 2024 avoir « bien l'intention d'être candidat » à la présidentielle de 2027.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "La Dépêche du Midi",
-            "titre": "Présidentielle 2027 : Xavier Bertrand déclare avoir \"bien l'intention d'être candidat\"",
-            "url": "https://www.ladepeche.fr/2024/02/03/presidentielle-2027-xavier-bertrand-le-president-lr-des-hauts-de-france-declare-avoir-bien-lintention-detre-candidat-11742325.php",
-            "date": "2024-02-03"
-          },
-          {
-            "media": "TF1 Info",
-            "titre": "Présidentielle 2027 : Xavier Bertrand a \"bien l'intention\" d'être candidat",
-            "url": "https://www.tf1info.fr/politique/presidentielle-2027-xavier-bertrand-a-bien-l-intention-d-etre-candidat-2284981.html",
-            "date": "2024-02-03"
-          }
-        ]
-      },
-      {
-        "texte": "Le 27 août 2026, à l'université d'été du Medef, répond « Je le serai » à la question de sa candidature à la présidentielle 2027 ; il précise qu'il se déclarera « en candidat indépendant » et refuse une primaire de la droite et du centre.",
-        "sources": [
-          {
-            "media": "franceinfo",
-            "titre": "Xavier Bertrand, président Les Républicains de la Région Hauts-de-France, déclare qu'il \"sera\" candidat à l'élection présidentielle",
-            "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
-            "date": "2026-08-27"
-          },
-          {
-            "media": "LCP",
-            "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
-            "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
-            "date": "2026-08-27"
-          },
-          {
-            "media": "franceinfo (France 3 Hauts-de-France)",
-            "titre": "\"Je le serai\" : Xavier Bertrand annonce être candidat à l'élection présidentielle et s'exprime sur d'éventuelles primaires",
-            "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/je-le-serai-xavier-bertrand-annonce-sa-candidature-a-l-election-presidentielle-et-s-exprime-sur-d-eventuelles-primaires-3407339.html",
-            "date": "2026-08-27"
-          },
-          {
-            "media": "ici (France Bleu)",
-            "titre": "Présidentielle 2027 : Xavier Bertrand annonce qu'il sera candidat",
-            "url": "https://www.ici.fr/infos/politique/presidentielle-2027-xavier-bertrand-annonce-officiellement-sa-candidature-1274056",
-            "date": "2026-08-27"
-          }
-        ]
-      },
-      {
-        "texte": "Le même jour, il indique que « le moment n'est pas venu » pour une déclaration officielle, qu'il prévoit d'ici la fin de l'année 2026 ; son entourage précise qu'il ne s'agit pas d'une annonce officielle de candidature.",
-        "sources": [
-          {
-            "media": "franceinfo",
-            "titre": "Xavier Bertrand, président Les Républicains de la Région Hauts-de-France, déclare qu'il \"sera\" candidat à l'élection présidentielle",
-            "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
-            "date": "2026-08-27"
-          },
-          {
-            "media": "LCP",
-            "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
-            "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
-            "date": "2026-08-27"
-          },
-          {
-            "media": "franceinfo (France 3 Hauts-de-France)",
-            "titre": "\"Je le serai\" : Xavier Bertrand annonce être candidat à l'élection présidentielle et s'exprime sur d'éventuelles primaires",
-            "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/je-le-serai-xavier-bertrand-annonce-sa-candidature-a-l-election-presidentielle-et-s-exprime-sur-d-eventuelles-primaires-3407339.html",
-            "date": "2026-08-27"
-          }
-        ]
-      },
-      {
-        "texte": "Les Républicains ont investi Bruno Retailleau comme candidat pour 2027.",
-        "sources": [
-          {
-            "media": "franceinfo",
-            "titre": "Xavier Bertrand, président Les Républicains de la Région Hauts-de-France, déclare qu'il \"sera\" candidat à l'élection présidentielle",
-            "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
-            "date": "2026-08-27"
-          },
-          {
-            "media": "LCP",
-            "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
-            "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
-            "date": "2026-08-27"
-          }
-        ]
-      },
-      {
-        "texte": "S'engage, s'il est élu, à n'effectuer qu'un seul mandat.",
-        "sources": [
-          {
-            "media": "Ouest-France",
-            "titre": "Xavier Bertrand presque candidat à la présidentielle (article reproduit sur nousfrance.fr)",
-            "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
-            "date": "2026-08-03"
-          },
-          {
-            "media": "La Provence",
-            "titre": "Rencontres économiques d'Aix : « Il faut une République des territoires et un mandat unique » (article reproduit sur nousfrance.fr)",
-            "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
-            "date": "2026-07-05"
-          }
-        ]
-      },
-      {
-        "texte": "Ministre de la Santé, il met en place en 2006 l'interdiction de fumer dans les lieux publics.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Paris Match",
-            "titre": "Xavier Bertrand : « Sébastien Lecornu subira le même sort que Michel Barnier et François Bayrou » (entretien reproduit sur nousfrance.fr)",
-            "url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-sebastien-lecornu-subira-le-meme-sort-que-michel-barnier-et-francois-bayrou-paris-match/",
-            "date": "2025-10-30"
-          }
-        ]
-      },
-      {
-        "texte": "Publie à l'automne 2025 un livre autobiographique, « Rien n'est jamais écrit » (Robert Laffont).",
-        "sources": [
-          {
-            "media": "Le Monde",
-            "titre": "Xavier Bertrand : « Le principal danger face au RN, c'est le défaitisme » (entretien reproduit sur nousfrance.fr)",
-            "url": "https://www.nousfrance.fr/2025/12/xavier-bertrand-le-principal-danger-face-au-rn-cest-le-defaitisme-le-monde/",
-            "date": "2025-12-18"
-          },
-          {
-            "media": "Paris Match",
-            "titre": "Xavier Bertrand : « Sébastien Lecornu subira le même sort que Michel Barnier et François Bayrou » (entretien reproduit sur nousfrance.fr)",
-            "url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-sebastien-lecornu-subira-le-meme-sort-que-michel-barnier-et-francois-bayrou-paris-match/",
-            "date": "2025-10-30"
-          }
-        ]
-      },
-      {
-        "texte": "Le 1er septembre 2025, annonce qu'il n'appellera pas les députés LR à voter la confiance au gouvernement Bayrou « si le plan reste en l'état ».",
-        "sources": [
-          {
-            "media": "franceinfo",
-            "titre": "Budget : Xavier Bertrand n'appellera pas les députés LR à voter la confiance \"si le plan de François Bayrou reste en l'état\"",
-            "url": "https://www.franceinfo.fr/economie/budget/budget-si-le-plan-de-francois-bayrou-reste-en-l-etat-je-ne-voterai-pas-la-confiance-declare-xavier-bertrand_7466470.html",
-            "date": "2025-09-01"
-          },
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          }
-        ]
-      },
-      {
-        "texte": "En 2016, après avoir fait baisser de 5 % les indemnités des élus régionaux, il fait augmenter son indemnité d'élu de l'agglomération de Saint-Quentin, ce qui lui vaut des critiques.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Xavier Bertrand",
-            "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Le Figaro",
-            "titre": "Pour compenser son non-cumul, Xavier Bertrand a augmenté ses indemnités",
-            "url": "http://www.lefigaro.fr/politique/le-scan/2016/03/31/25001-20160331ARTFIG00211-pour-compenser-son-non-cumul-bertrand-a-augmente-ses-indemnites.php",
-            "date": "2016-03-31"
-          }
-        ]
-      }
-    ]
-  },
-  "programme": {
-    "economie_fiscalite": {
-      "resume": "Propose une baisse de l'impôt sur le revenu pour les premières tranches, s'oppose à la « taxe Zucman » et préfère un relèvement de la flat tax ; propose de redistribuer aux actifs contraints de prendre leur voiture le surplus de recettes lié à la hausse des carburants.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Propose une baisse de l'impôt sur le revenu « pour les premières tranches ».",
-          "sources": [
-            {
-              "media": "AFP",
-              "titre": "Xavier Bertrand se présente comme le « candidat des classes moyennes », contre « les extrêmes » (dépêche reproduite sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-se-presente-comme-le-candidat-des-classes-moyennes-contre-les-extremes-afp/",
-              "date": "2025-10-25"
-            },
-            {
-              "media": "Le Monde",
-              "titre": "Présidentielle 2027 : Xavier Bertrand veut retenter sa chance (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/11/presidentielle-2027-xavier-bertrand-veut-retenter-sa-chance/",
-              "date": "2025-11-08"
-            }
-          ]
-        },
-        {
-          "texte": "S'oppose à la taxe proposée par Gabriel Zucman (« une connerie fiscale ») et se dit favorable à un relèvement de la « flat tax ».",
-          "sources": [
-            {
-              "media": "Le Point",
-              "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
-              "date": "2025-10-26"
-            },
-            {
-              "media": "Libération",
-              "titre": "Avant la présidentielle, Xavier Bertrand se pose en « opposant d'intérêt général » (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/avant-la-presidentielle-xavier-bertrand-se-pose-en-opposant-dinteret-general-liberation/",
-              "date": "2025-10-25"
-            }
-          ]
-        },
-        {
-          "texte": "Propose que les recettes supplémentaires de l'État liées à la hausse du prix des carburants soient redistribuées « aux artisans, aux infirmiers et aux salariés » qui dépendent de leur voiture.",
-          "sources": [
-            {
-              "media": "Nous France (site du candidat)",
-              "titre": "Hausse du carburant – La proposition de Xavier Bertrand",
-              "url": "https://www.nousfrance.fr/2026/04/hausse-du-carburant-la-proposition-de-xavier-bertrand/",
-              "date": "2026-04-15"
-            }
-          ]
-        }
-      ]
-    },
-    "budget_dette": {
-      "resume": "Veut une « règle d'or budgétaire » inscrite par référendum, privilégie la baisse de la dépense publique sur la hausse des impôts, et propose de ne plus remplacer tous les départs à la retraite de fonctionnaires.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Propose de soumettre à référendum une « règle d'or budgétaire » et défend « un autre budget », préférant « la baisse de la dépense publique à la hausse des impôts ».",
-          "sources": [
-            {
-              "media": "Libération",
-              "titre": "Avant la présidentielle, Xavier Bertrand se pose en « opposant d'intérêt général » (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/avant-la-presidentielle-xavier-bertrand-se-pose-en-opposant-dinteret-general-liberation/",
-              "date": "2025-10-25"
-            }
-          ]
-        },
-        {
-          "texte": "Estime que « l'État doit maigrir » et propose de réduire le nombre de fonctionnaires : « les départs à la retraite ne peuvent plus être remplacés comme aujourd'hui ». Il approuve l'objectif de 44 milliards d'euros d'économies mais juge le plan Bayrou « injuste ».",
-          "sources": [
-            {
-              "media": "franceinfo",
-              "titre": "Budget : Xavier Bertrand n'appellera pas les députés LR à voter la confiance \"si le plan de François Bayrou reste en l'état\"",
-              "url": "https://www.franceinfo.fr/economie/budget/budget-si-le-plan-de-francois-bayrou-reste-en-l-etat-je-ne-voterai-pas-la-confiance-declare-xavier-bertrand_7466470.html",
-              "date": "2025-09-01"
-            }
-          ]
-        },
-        {
-          "texte": "Veut « mettre fin au dérapage des dépenses sociales » en faisant « des économies partout où c'est possible ».",
-          "sources": [
-            {
-              "media": "Le Figaro",
-              "titre": "« Je n'ai pas le profil d'une prise de guerre, je trace ma route » : le pari de Xavier Bertrand (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
-              "date": "2026-08-04"
-            },
-            {
-              "media": "LCP",
-              "titre": "Présidentielle : Xavier Bertrand indique « tester ses idées » et envisager de concourir en tant que « candidat indépendant »",
-              "url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
-              "date": "2026-08-03"
-            }
-          ]
-        }
-      ]
-    },
-    "retraites": {
-      "resume": "Défend l'introduction d'une part de retraite par capitalisation (système mixte capitalisation-répartition) et a proposé « une autre réforme des retraites ».",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Défend la retraite par capitalisation, en complément de la répartition.",
-          "sources": [
-            {
-              "media": "Le Figaro",
-              "titre": "« Je n'ai pas le profil d'une prise de guerre, je trace ma route » : le pari de Xavier Bertrand (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
-              "date": "2026-08-04"
-            },
-            {
-              "media": "LCP",
-              "titre": "Présidentielle : Xavier Bertrand indique « tester ses idées » et envisager de concourir en tant que « candidat indépendant »",
-              "url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
-              "date": "2026-08-03"
-            },
-            {
-              "media": "Wikipédia",
-              "titre": "Xavier Bertrand",
-              "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "A proposé en octobre 2025, « sans attendre 2027 », « une autre réforme des retraites ».",
-          "sources": [
-            {
-              "media": "AFP",
-              "titre": "Xavier Bertrand se présente comme le « candidat des classes moyennes », contre « les extrêmes » (dépêche reproduite sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-se-presente-comme-le-candidat-des-classes-moyennes-contre-les-extremes-afp/",
-              "date": "2025-10-25"
-            },
-            {
-              "media": "Le Point",
-              "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
-              "date": "2025-10-26"
-            }
-          ]
-        }
-      ]
-    },
-    "travail_salaires": {
-      "resume": "Propose la fin des jours de carence différenciés entre public et privé et s'oppose à un contrat permettant de licencier les jeunes sans motif.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Propose la fin des jours de carence différenciés entre le secteur public et le secteur privé.",
-          "sources": [
-            {
-              "media": "Le Point",
-              "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
-              "date": "2025-10-26"
-            }
-          ]
-        },
-        {
-          "texte": "Déclare refuser un « CDI qui permettrait de licencier les jeunes sans motif ».",
-          "sources": [
-            {
-              "media": "BFMTV (vidéo reproduite sur nousfrance.fr)",
-              "titre": "Xavier Bertrand : « Je refuse ce CDI qui permettrait de licencier les jeunes sans motif »",
-              "url": "https://www.nousfrance.fr/2026/02/xavier-bertrand-je-refuse-ce-cdi-qui-permettrait-de-licencier-les-jeunes-sans-motif-bfm/",
-              "date": "2026-02-09"
-            }
-          ]
-        },
-        {
-          "texte": "Veut étendre au niveau national des dispositifs de sa région, dont une aide aux salariés qui ont besoin d'un véhicule pour travailler et une aide à la garde d'enfants pour les parents qui travaillent.",
-          "sources": [
-            {
-              "media": "Ouest-France",
-              "titre": "Xavier Bertrand presque candidat à la présidentielle (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
-              "date": "2026-08-03"
-            }
-          ]
-        }
-      ]
-    },
-    "sante": {
-      "resume": "Propose avec Yannick Neuder une grande loi pluriannuelle de santé, s'oppose aux mesures du PLFSS remettant en cause le système conventionnel et veut être « plus ferme avec les grands laboratoires ».",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Propose, avec le député Yannick Neuder, « une grande loi pluriannuelle de santé » et refuse d'appliquer les mesures du PLFSS remettant en cause le système conventionnel de négociation avec les médecins libéraux.",
-          "sources": [
-            {
-              "media": "Le Parisien",
-              "titre": "Xavier Bertrand : « On ne dirige pas un pays par la peur » (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
-              "date": "2026-01-10"
-            }
-          ]
-        },
-        {
-          "texte": "Estime qu'il faut « être plus ferme avec les grands laboratoires plutôt que de chercher à faire la peau des pharmacies rurales ».",
-          "sources": [
-            {
-              "media": "La Montagne",
-              "titre": "« Je ne crois qu'à une droite de rassemblement » : Xavier Bertrand continue de se préparer pour 2027 (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/08/je-ne-crois-qua-une-droite-de-rassemblement-xavier-bertrand-continue-de-se-preparer-pour-2027-la-montagne/",
-              "date": "2025-08-19"
-            }
-          ]
-        },
-        {
-          "texte": "Fait de la santé et de l'école ses priorités en matière de services publics.",
-          "sources": [
-            {
-              "media": "Crif",
-              "titre": "Xavier Bertrand : « Ceux qui pensent qu'on peut s'allier avec l'extrême droite se trompent » (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/06/xavier-bertrand-ceux-qui-pensent-quon-peut-sallier-avec-lextreme-droite-se-trompent-le-crif/",
-              "date": "2026-06-02"
-            },
-            {
-              "media": "Le Monde",
-              "titre": "Xavier Bertrand : « Le principal danger face au RN, c'est le défaitisme » (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/12/xavier-bertrand-le-principal-danger-face-au-rn-cest-le-defaitisme-le-monde/",
-              "date": "2025-12-18"
-            }
-          ]
-        }
-      ]
-    },
-    "education": {
-      "resume": "Propose une réforme du système des bourses et l'extension de l'allocation de rentrée scolaire versée à tous les lycéens dans sa région ; veut consacrer 1 % du budget de l'État à la culture d'ici 2032, avec la culture « au cœur du socle éducatif ».",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Propose une réforme du système des bourses.",
-          "sources": [
-            {
-              "media": "Le Monde",
-              "titre": "Présidentielle 2027 : Xavier Bertrand veut retenter sa chance (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/11/presidentielle-2027-xavier-bertrand-veut-retenter-sa-chance/",
-              "date": "2025-11-08"
-            },
-            {
-              "media": "Le Point",
-              "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
-              "date": "2025-10-26"
-            }
-          ]
-        },
-        {
-          "texte": "Cite l'allocation de rentrée scolaire versée à tous les lycéens des Hauts-de-France parmi les mesures régionales qu'il veut étendre au pays.",
-          "sources": [
-            {
-              "media": "Ouest-France",
-              "titre": "Xavier Bertrand presque candidat à la présidentielle (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
-              "date": "2026-08-03"
-            }
-          ]
-        },
-        {
-          "texte": "Propose que 1 % du budget de l'État soit consacré à la culture (objectif 2032) et que chaque élève rencontre une œuvre ou un spectacle au cours de sa scolarité.",
-          "sources": [
-            {
-              "media": "Var-Matin",
-              "titre": "« Je m'y prépare » : Xavier Bertrand pose les bases de son projet pour la présidentielle avec la culture en toile de fond (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/08/je-my-prepare-pas-encore-officiellement-candidat-xavier-bertrand-pose-les-bases-de-son-projet-pour-la-presidentielle-avec-la-culture-en-toile-de-fond-var-matin/",
-              "date": "2026-08-03"
-            },
-            {
-              "media": "Le Parisien",
-              "titre": "« Si on avait Superman en rayon, l'affaire serait déjà pliée face à Marine Le Pen » : Xavier Bertrand s'y voit encore (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/07/si-on-avait-superman-en-rayon-laffaire-serait-deja-pliee-face-a-marine-le-pen-xavier-bertrand-sy-voit-encore-le-parisien/",
-              "date": "2026-07-15"
-            }
-          ]
-        }
-      ]
-    },
-    "immigration": {
-      "resume": "Propose un référendum pour que le Parlement fixe chaque année des quotas d'immigration ; en 2021, il proposait aussi de réduire en priorité l'immigration familiale et d'expulser tout étranger condamné à de la prison ferme.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Propose un référendum portant notamment sur des quotas migratoires.",
-          "sources": [
-            {
-              "media": "Libération",
-              "titre": "Avant la présidentielle, Xavier Bertrand se pose en « opposant d'intérêt général » (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/avant-la-presidentielle-xavier-bertrand-se-pose-en-opposant-dinteret-general-liberation/",
-              "date": "2025-10-25"
-            },
-            {
-              "media": "Le Point",
-              "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
-              "date": "2025-10-26"
-            }
-          ]
-        },
-        {
-          "texte": "Programme 2021-2022 : réviser la Constitution par référendum pour que « le Parlement fixe des quotas d'immigration » chaque année.",
-          "sources": [
-            {
-              "media": "Europe 1",
-              "titre": "Xavier Bertrand dévoile ses propositions pour \"reprendre le contrôle\" de l'immigration",
-              "url": "https://www.europe1.fr/politique/xavier-bertrand-devoile-ses-propositions-pour-reprendre-le-controle-de-limmigration-4075260",
-              "date": "2021-11-04"
-            },
-            {
-              "media": "Les Surligneurs",
-              "titre": "Xavier Bertrand souhaite un référendum « à trois questions » pour modifier la Constitution : immigration, terrorisme, laïcité",
-              "url": "https://lessurligneurs.eu/xavier-bertrand-souhaite-un-referendum-a-trois-questions-pour-modifier-la-constitution-immigration-terrorisme-laicite/",
-              "date": "2020-12-12"
-            }
-          ]
-        },
-        {
-          "texte": "Programme 2021-2022 : réduire en priorité l'immigration familiale, mettre fin au « système actuel de régularisation », expulser « tout étranger condamné à de la prison ferme à l'issue de sa peine » et adopter une « loi d'urgence migratoire ».",
-          "sources": [
-            {
-              "media": "Europe 1",
-              "titre": "Xavier Bertrand dévoile ses propositions pour \"reprendre le contrôle\" de l'immigration",
-              "url": "https://www.europe1.fr/politique/xavier-bertrand-devoile-ses-propositions-pour-reprendre-le-controle-de-limmigration-4075260",
-              "date": "2021-11-04"
-            }
-          ]
-        }
-      ]
-    },
-    "securite_justice": {
-      "resume": "Propose un référendum incluant les peines planchers et des peines minimales pour les auteurs d'agressions contre les maires, pompiers, gendarmes et policiers.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Propose de soumettre les peines planchers à référendum.",
-          "sources": [
-            {
-              "media": "Libération",
-              "titre": "Avant la présidentielle, Xavier Bertrand se pose en « opposant d'intérêt général » (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/avant-la-presidentielle-xavier-bertrand-se-pose-en-opposant-dinteret-general-liberation/",
-              "date": "2025-10-25"
-            },
-            {
-              "media": "Le Point",
-              "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
-              "date": "2025-10-26"
-            }
-          ]
-        },
-        {
-          "texte": "Défend des peines minimales pour ceux qui s'en prennent aux maires, aux pompiers, aux gendarmes et aux policiers.",
-          "sources": [
-            {
-              "media": "La Montagne",
-              "titre": "« Je ne crois qu'à une droite de rassemblement » : Xavier Bertrand continue de se préparer pour 2027 (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/08/je-ne-crois-qua-une-droite-de-rassemblement-xavier-bertrand-continue-de-se-preparer-pour-2027-la-montagne/",
-              "date": "2025-08-19"
-            },
-            {
-              "media": "Nous France (site du candidat)",
-              "titre": "Lettre aux maires de Xavier Bertrand",
-              "url": "https://www.nousfrance.fr/2026/03/lettre-aux-maires-de-xavier-bertrand/",
-              "date": "2026-03-30"
-            }
-          ]
-        }
-      ]
-    },
-    "defense_international": {
-      "resume": "Demande un sommet de l'OTAN sur les intentions américaines concernant le Groenland et un partenariat renforcé UE-Groenland.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "A demandé en janvier 2026 au président de la République d'exiger la convocation d'un sommet de l'OTAN sur les intentions américaines et de rappeler l'opposition de la France à l'annexion du Groenland ; propose un partenariat renforcé entre l'UE, le Danemark et le Groenland.",
-          "sources": [
-            {
-              "media": "Le Parisien",
-              "titre": "Xavier Bertrand : « On ne dirige pas un pays par la peur » (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
-              "date": "2026-01-10"
-            }
-          ]
-        }
-      ]
-    },
-    "europe": {
-      "resume": "Demande le refus de l'accord UE-Mercosur en l'état et la saisine de la Cour de justice de l'UE ; appelle à lutter contre l'extraterritorialité américaine.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Demande de refuser l'accord UE-Mercosur « en l'état » et d'engager un recours devant la CJUE pour en contester la validité.",
-          "sources": [
-            {
-              "media": "La Tribune",
-              "titre": "« Saisir la CJUE : le dernier recours contre le Mercosur », par Julien Dive et Xavier Bertrand (tribune reproduite sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/01/saisir-la-cjue-le-dernier-recours-contre-le-mercosur-par-julien-dive-et-xavier-bertrand-la-tribune/",
-              "date": "2026-01-08"
-            },
-            {
-              "media": "Le Parisien",
-              "titre": "Xavier Bertrand : « On ne dirige pas un pays par la peur » (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
-              "date": "2026-01-10"
-            }
-          ]
-        },
-        {
-          "texte": "Appelle à « lutter contre l'extraterritorialité américaine », notamment sur l'intelligence artificielle et les centres de données.",
-          "sources": [
-            {
-              "media": "Corse-Matin",
-              "titre": "Pour Xavier Bertrand, « l'autonomie de la Corse doit être soumise à référendum » (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/08/pour-xavier-bertrand-lautonomie-de-la-corse-doit-etre-soumise-a-referendum-corse-matin/",
-              "date": "2025-08-07"
-            }
-          ]
-        }
-      ]
-    },
-    "ia_numerique": {
-      "resume": "Plaide pour une souveraineté numérique renforcée face aux États-Unis.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Plaide pour une souveraineté numérique renforcée face aux États-Unis et contre l'extraterritorialité américaine, citant l'IA et les data centers.",
-          "sources": [
-            {
-              "media": "Corse-Matin",
-              "titre": "Pour Xavier Bertrand, « l'autonomie de la Corse doit être soumise à référendum » (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/08/pour-xavier-bertrand-lautonomie-de-la-corse-doit-etre-soumise-a-referendum-corse-matin/",
-              "date": "2025-08-07"
-            }
-          ]
-        }
-      ]
-    },
-    "logement": {
-      "resume": "Fait du logement une priorité et propose de confier pleinement la compétence logement aux collectivités.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Cite le logement comme priorité de son projet.",
-          "sources": [
-            {
-              "media": "Le Figaro",
-              "titre": "« Je n'ai pas le profil d'une prise de guerre, je trace ma route » : le pari de Xavier Bertrand (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
-              "date": "2026-08-04"
-            }
-          ]
-        },
-        {
-          "texte": "Estime que si la compétence logement était pleinement confiée aux régions, les projets aboutiraient plus vite.",
-          "sources": [
-            {
-              "media": "La Provence",
-              "titre": "Rencontres économiques d'Aix : « Il faut une République des territoires et un mandat unique » (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
-              "date": "2026-07-05"
-            }
-          ]
-        }
-      ]
-    },
-    "agriculture": {
-      "resume": "Promet de faire de la stratégie agricole une priorité nationale et s'oppose à l'accord UE-Mercosur.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Déclare : « Je ferai de la stratégie agricole une priorité pour le pays, avec les agriculteurs et non contre eux. »",
-          "sources": [
-            {
-              "media": "Le Parisien",
-              "titre": "Xavier Bertrand : « On ne dirige pas un pays par la peur » (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
-              "date": "2026-01-10"
-            }
-          ]
-        },
-        {
-          "texte": "Estime que l'accord UE-Mercosur ouvre la voie à « une agriculture low-cost » et menace l'élevage français.",
-          "sources": [
-            {
-              "media": "La Tribune",
-              "titre": "« Saisir la CJUE : le dernier recours contre le Mercosur », par Julien Dive et Xavier Bertrand (tribune reproduite sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/01/saisir-la-cjue-le-dernier-recours-contre-le-mercosur-par-julien-dive-et-xavier-bertrand-la-tribune/",
-              "date": "2026-01-08"
-            }
-          ]
-        }
-      ]
-    },
-    "institutions": {
-      "resume": "Propose un mandat présidentiel unique, une « République des territoires » recentrant l'État sur le régalien et un « conseiller territorial » fusionnant élus départementaux et régionaux (-40 % d'élus).",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Défend un mandat présidentiel unique de cinq ans.",
-          "sources": [
-            {
-              "media": "Ouest-France",
-              "titre": "Xavier Bertrand presque candidat à la présidentielle (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
-              "date": "2026-08-03"
-            },
-            {
-              "media": "La Provence",
-              "titre": "Rencontres économiques d'Aix : « Il faut une République des territoires et un mandat unique » (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
-              "date": "2026-07-05"
-            }
-          ]
-        },
-        {
-          "texte": "Selon Le Figaro, il veut proposer par référendum le « septennat unique ».",
-          "sources": [
-            {
-              "media": "Le Figaro",
-              "titre": "« Je n'ai pas le profil d'une prise de guerre, je trace ma route » : le pari de Xavier Bertrand (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
-              "date": "2026-08-04"
-            }
-          ]
-        },
-        {
-          "texte": "Propose une « République des territoires » : l'État central se concentrerait sur la justice, la sécurité, le contrôle de l'immigration, la défense et la diplomatie, le reste relevant des collectivités.",
-          "sources": [
-            {
-              "media": "La Provence",
-              "titre": "Rencontres économiques d'Aix : « Il faut une République des territoires et un mandat unique » (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
-              "date": "2026-07-05"
-            },
-            {
-              "media": "La Montagne",
-              "titre": "« Je ne crois qu'à une droite de rassemblement » : Xavier Bertrand continue de se préparer pour 2027 (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/08/je-ne-crois-qua-une-droite-de-rassemblement-xavier-bertrand-continue-de-se-preparer-pour-2027-la-montagne/",
-              "date": "2025-08-19"
-            }
-          ]
-        },
-        {
-          "texte": "Propose un « conseiller territorial » fusionnant les mandats de conseiller régional et départemental, ce qui réduirait selon lui de 40 % le nombre d'élus.",
-          "sources": [
-            {
-              "media": "Libération",
-              "titre": "Avant la présidentielle, Xavier Bertrand se pose en « opposant d'intérêt général » (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/avant-la-presidentielle-xavier-bertrand-se-pose-en-opposant-dinteret-general-liberation/",
-              "date": "2025-10-25"
-            },
-            {
-              "media": "La Montagne",
-              "titre": "« Je ne crois qu'à une droite de rassemblement » : Xavier Bertrand continue de se préparer pour 2027 (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/08/je-ne-crois-qua-une-droite-de-rassemblement-xavier-bertrand-continue-de-se-preparer-pour-2027-la-montagne/",
-              "date": "2025-08-19"
-            },
-            {
-              "media": "Le Point",
-              "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
-              "date": "2025-10-26"
-            }
-          ]
-        },
-        {
-          "texte": "Demande que l'autonomie de la Corse soit soumise à référendum.",
-          "sources": [
-            {
-              "media": "Corse-Matin",
-              "titre": "Pour Xavier Bertrand, « l'autonomie de la Corse doit être soumise à référendum » (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2025/08/pour-xavier-bertrand-lautonomie-de-la-corse-doit-etre-soumise-a-referendum-corse-matin/",
-              "date": "2025-08-07"
-            },
-            {
-              "media": "Corse-Matin",
-              "titre": "Xavier Bertrand : « Paris n'a pas envie de dépenser un euro de plus pour la Corse » (entretien reproduit sur nousfrance.fr)",
-              "url": "https://www.nousfrance.fr/2026/05/xavier-bertrand-paris-na-pas-envie-de-depenser-un-euro-de-plus-pour-la-corse-corse-matin/",
-              "date": "2026-05-01"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "affaires": [
-    {
-      "intitule": "Affaire du Mediator : critiques sur son rôle de ministre de la Santé",
-      "statut": "accusation",
-      "date": "2010-12",
-      "description": "En mars 2006, ministre de la Santé, il maintient le remboursement du Mediator (laboratoires Servier) malgré un avis de la Haute Autorité de santé. Lors du scandale fin 2010-début 2011, Le Canard enchaîné révèle que deux de ses anciens conseillers au ministère étaient rémunérés par Servier ; plusieurs médias l'accusent de conflit d'intérêts ou de négligence. Il affirme avoir connu la dangerosité du médicament en novembre 2010. Aucune poursuite le visant n'est signalée par les sources consultées.",
-      "sources": [
-        {
-          "media": "Wikipédia",
-          "titre": "Xavier Bertrand",
-          "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-          "date": "2026-09-25"
-        },
-        {
-          "media": "L'Express",
-          "titre": "Scandale du Mediator : ces ministres qui \"ne savaient pas\"",
-          "url": "https://www.lexpress.fr/actualite/politique/scandale-du-mediator-ces-ministres-qui-ne-savaient-pas_946677.html",
-          "date": "2010-12-20"
-        },
-        {
-          "media": "Le JDD",
-          "titre": "Mediator : Xavier Bertrand se dédouane",
-          "url": "https://www.lejdd.fr/Societe/Mediator-Bertrand-reconnait-des-defaillances-graves-245605-3241637",
-          "date": "2010-12-20"
-        }
-      ]
-    },
-    {
-      "intitule": "Enquête pour détournement de fonds publics sur les frais de réception des élus de la majorité régionale (Hauts-de-France)",
-      "statut": "enquete",
-      "date": "2020-02-23",
-      "description": "Le parquet de Lille a ouvert le 23 février 2020 une enquête pour détournement de fonds publics après un signalement du groupe RN au conseil régional, portant sur des repas et séminaires d'élus de la majorité LR-UDI (2018-2019) pris en charge par la région (environ 15 300 euros signalés). Mediapart, qui avait révélé l'affaire, évoque plus de 7 000 euros de repas politiques. Selon ici (France Bleu), Xavier Bertrand n'est pas personnellement visé ; la majorité régionale conteste les accusations. Aucune issue de l'enquête n'a été trouvée dans les sources consultées.",
-      "sources": [
-        {
-          "media": "Mediapart",
-          "titre": "Région Hauts-de-France : la justice enquête sur les banquets des élus de la majorité",
-          "url": "https://www.mediapart.fr/journal/france/070520/region-hauts-de-france-la-justice-enquete-sur-les-banquets-des-elus-de-la-majorite",
-          "date": "2020-05-07"
-        },
-        {
-          "media": "ici (France Bleu)",
-          "titre": "Le conseil régional des Hauts-de-France visé par une enquête pour détournement de fonds publics",
-          "url": "https://www.ici.fr/infos/faits-divers-justice/le-conseil-regional-des-hauts-de-france-vise-par-une-enquete-pour-detournement-de-fonds-publics-1588915697",
-          "date": "2020-05-08"
-        },
-        {
-          "media": "Wikipédia",
-          "titre": "Xavier Bertrand",
-          "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-          "date": "2026-09-25"
-        }
-      ]
-    },
-    {
-      "intitule": "Enquête préliminaire pour prise illégale d'intérêts visant trois élus-chasseurs de sa majorité régionale",
-      "statut": "enquete",
-      "date": "2024-02-01",
-      "description": "Une enquête préliminaire pour prise illégale d'intérêts a été ouverte contre trois conseillers régionaux de la majorité, présidents ou vice-présidents de fédérations départementales de chasse, qui ont pris part à des votes de subventions à leurs fédérations. Xavier Bertrand n'est pas personnellement mis en cause.",
-      "sources": [
-        {
-          "media": "Mediacités",
-          "titre": "Hauts-de-France : une enquête préliminaire ouverte contre trois élus-chasseurs pour prise illégale d'intérêts",
-          "url": "https://www.mediacites.fr/breve/lille/2024/02/01/hauts-de-france-une-enquete-preliminaire-ouverte-contre-trois-elus-chasseurs-pour-prise-illegale-dinterets/",
-          "date": "2024-02-01"
-        }
-      ]
-    }
-  ],
-  "financement": [
-    {
-      "texte": "Éliminé au premier tour du congrès LR le 2 décembre 2021, il n'a pas été candidat à l'élection présidentielle de 2022 et n'a donc pas de compte de campagne présidentielle soumis à la CNCCFP.",
-      "sources": [
-        {
-          "media": "Le Monde",
-          "titre": "Congrès Les Républicains : Xavier Bertrand, l'ex-cavalier seul, éliminé dès le premier tour",
-          "url": "https://www.lemonde.fr/politique/article/2021/12/02/congres-les-republicains-xavier-bertrand-l-ex-cavalier-seul-elimine-des-le-premier-tour_6104465_823448.html",
-          "date": "2021-12-02"
-        },
-        {
-          "media": "Wikipédia",
-          "titre": "Xavier Bertrand",
-          "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
-          "date": "2026-09-25"
-        }
-      ]
-    },
-    {
-      "texte": "Pour 2027, il s'appuie sur son parti Nous France, qui a commencé à lever des fonds et à recueillir des soutiens ; le 14 décembre 2025, il a sollicité par courriel le soutien financier des sympathisants de Nous France.",
-      "sources": [
-        {
-          "media": "Ouest-France",
-          "titre": "Xavier Bertrand presque candidat à la présidentielle (article reproduit sur nousfrance.fr)",
-          "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
-          "date": "2026-08-03"
-        },
-        {
-          "media": "Le Parisien",
-          "titre": "« Je veux porter le flambeau des classes moyennes » : Xavier Bertrand, à fond sur la ligne popu (article reproduit sur nousfrance.fr)",
-          "url": "https://www.nousfrance.fr/2025/12/je-veux-porter-le-flambeau-des-classes-moyennes-xavier-bertrand-a-fond-sur-la-ligne-popu-le-parisien/",
-          "date": "2025-12-20"
-        }
-      ]
-    },
-    {
-      "texte": "Déclaration d'intérêts HATVP (3 avril 2025) : indemnités nettes de président de région de 47 709 € (2024) et de vice-président de l'agglomération du Saint-Quentinois de 14 505 € (2024) ; rémunérations de formateur (ESG RH, ESCP Europe) ; présidence de Nous France non rémunérée ; parts dans une SCI évaluées à 140 000 € et une part de la SASP Saint-Quentin Basket-Ball (500 €). Sa déclaration de patrimoine n'est pas publiée.",
-      "sources": [
-        {
-          "media": "HATVP",
-          "titre": "Fiche Xavier Bertrand – déclaration de modification substantielle des intérêts (3 avril 2025)",
-          "url": "https://www.hatvp.fr/fiche-nominative/?declarant=bertrand-xavier",
-          "date": "2025-04-03"
-        }
-      ]
-    }
+ "id": "xavier-bertrand",
+ "nom": "Xavier Bertrand",
+ "naissance": "1965-03-21",
+ "lieu_naissance": "Châlons-sur-Marne (aujourd'hui Châlons-en-Champagne, Marne)",
+ "parti": "Nous France (parti associé à LR ; membre de LR)",
+ "parti_sigle": "NF",
+ "famille": "droite",
+ "position": 4.0,
+ "position_justif": {
+  "texte": "Se définit comme « gaulliste social, d'une droite sociale et populaire » ; décrit comme représentatif du centre droit par Wikipédia (en) et comme porteur d'une droite « républicaine et sociale » opposée à toute alliance avec le RN par Le Monde. Position placée légèrement en deçà du repère LR (5) du barème.",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Xavier Bertrand",
+    "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Wikipédia (en)",
+    "titre": "Xavier Bertrand",
+    "url": "https://en.wikipedia.org/wiki/Xavier_Bertrand",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Le Monde",
+    "titre": "Xavier Bertrand : « Le principal danger face au RN, c'est le défaitisme » (entretien reproduit sur nousfrance.fr)",
+    "url": "https://www.nousfrance.fr/2025/12/xavier-bertrand-le-principal-danger-face-au-rn-cest-le-defaitisme-le-monde/",
+    "date": "2025-12-18"
+   }
   ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/xavier-bertrand.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Xavier_Bertrand_2025_(cropped).jpg",
+  "auteur": "Claudio Centonze / European Union, 2025 / EC - Audiovisual Service",
+  "licence": "CC BY 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/nf.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Logo_parti_Nous_France.png",
+  "licence": "Domaine public (selon Wikimedia Commons)"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Maîtrise de droit public à l'université de Reims Champagne-Ardenne, puis DESS d'administration locale.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Challenges",
+      "titre": "Le CV de Xavier Bertrand",
+      "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
+      "date": "2010-11-14"
+     }
+    ]
+   },
+   {
+    "texte": "N'a fait ni Sciences Po ni l'ENA ; se présente comme diplômé de droit public « loin des grandes écoles ».",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Présidentielle 2027 : Xavier Bertrand veut retenter sa chance (article reproduit sur nousfrance.fr)",
+      "url": "https://www.nousfrance.fr/2025/11/presidentielle-2027-xavier-bertrand-veut-retenter-sa-chance/",
+      "date": "2025-11-08"
+     },
+     {
+      "media": "Paris Match",
+      "titre": "Xavier Bertrand : « Sébastien Lecornu subira le même sort que Michel Barnier et François Bayrou » (entretien reproduit sur nousfrance.fr)",
+      "url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-sebastien-lecornu-subira-le-meme-sort-que-michel-barnier-et-francois-bayrou-paris-match/",
+      "date": "2025-10-30"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Agent général d'assurance (groupes AXA puis Swiss Life) de 1992 à 2004, dans l'Aisne.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Challenges",
+      "titre": "Le CV de Xavier Bertrand",
+      "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
+      "date": "2010-11-14"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "« Je veux porter le flambeau des classes moyennes » : Xavier Bertrand, à fond sur la ligne popu (article reproduit sur nousfrance.fr)",
+      "url": "https://www.nousfrance.fr/2025/12/je-veux-porter-le-flambeau-des-classes-moyennes-xavier-bertrand-a-fond-sur-la-ligne-popu-le-parisien/",
+      "date": "2025-12-20"
+     }
+    ]
+   },
+   {
+    "texte": "Assistant parlementaire du sénateur de l'Aisne Jacques Braconnier de 1987 à 1992.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Challenges",
+      "titre": "Le CV de Xavier Bertrand",
+      "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
+      "date": "2010-11-14"
+     }
+    ]
+   },
+   {
+    "texte": "Déclare à la HATVP des activités rémunérées de formateur depuis 2023 (ESG RH, ESCP Europe, Heip).",
+    "sources": [
+     {
+      "media": "HATVP",
+      "titre": "Fiche Xavier Bertrand – déclaration de modification substantielle des intérêts (3 avril 2025)",
+      "url": "https://www.hatvp.fr/fiche-nominative/?declarant=bertrand-xavier",
+      "date": "2025-04-03"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseiller municipal de Saint-Quentin depuis 1989, adjoint au maire de 1995 à 2010, conseiller général de l'Aisne de 1998 à 2002.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Challenges",
+      "titre": "Le CV de Xavier Bertrand",
+      "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
+      "date": "2010-11-14"
+     }
+    ]
+   },
+   {
+    "texte": "Député de la 2e circonscription de l'Aisne (élu en 2002, réélu en 2007 et 2012), siège laissé à sa suppléante lors de ses entrées au gouvernement ; démissionne en janvier 2016.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Challenges",
+      "titre": "Le CV de Xavier Bertrand",
+      "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
+      "date": "2010-11-14"
+     }
+    ]
+   },
+   {
+    "texte": "Secrétaire d'État chargé de l'Assurance maladie (31 mars 2004 – 31 mai 2005), gouvernement Raffarin III.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Challenges",
+      "titre": "Le CV de Xavier Bertrand",
+      "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
+      "date": "2010-11-14"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre de la Santé et des Solidarités (2 juin 2005 – 26 mars 2007), gouvernement Villepin.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Challenges",
+      "titre": "Le CV de Xavier Bertrand",
+      "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
+      "date": "2010-11-14"
+     },
+     {
+      "media": "LCP",
+      "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
+      "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+      "date": "2026-08-27"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre du Travail, des Relations sociales et de la Solidarité (puis de la Famille) de mai 2007 à janvier 2009, puis ministre du Travail, de l'Emploi et de la Santé du 14 novembre 2010 au 10 mai 2012 (gouvernements Fillon).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Challenges",
+      "titre": "Le CV de Xavier Bertrand",
+      "url": "https://www.challenges.fr/economie/le-cv-de-xavier-bertrand_355919",
+      "date": "2010-11-14"
+     },
+     {
+      "media": "LCP",
+      "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
+      "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+      "date": "2026-08-27"
+     }
+    ]
+   },
+   {
+    "texte": "Secrétaire général de l'UMP : par intérim à partir de décembre 2008, en titre du 24 janvier 2009 au 17 novembre 2010.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Xavier Bertrand prend les commandes de l'UMP",
+      "url": "https://www.leparisien.fr/politique/xavier-bertrand-prend-les-commandes-de-l-ump-24-01-2009-386150.php",
+      "date": "2009-01-24"
+     },
+     {
+      "media": "Europe 1",
+      "titre": "UMP : Bertrand a remis sa démission",
+      "url": "https://www.europe1.fr/politique/UMP-Bertrand-a-remis-sa-demission-449376",
+      "date": "2010-11-17"
+     }
+    ]
+   },
+   {
+    "texte": "Maire de Saint-Quentin (4 octobre 2010 – janvier 2016) ; président de l'agglomération de Saint-Quentin (2014-2016) puis du Saint-Quentinois (2017-2020).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Xavier Bertrand, président Les Républicains de la Région Hauts-de-France, déclare qu'il \"sera\" candidat à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+      "date": "2026-08-27"
+     }
+    ]
+   },
+   {
+    "texte": "Président du conseil régional des Hauts-de-France depuis le 4 janvier 2016 ; réélu en juin 2021 avec environ 52,4 % des voix au second tour.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Résultats des régionales en Hauts-de-France : Xavier Bertrand largement réélu président de la région",
+      "url": "https://www.20minutes.fr/elections/3071815-20210627-elections-regionales-hauts-france-xavier-bertrand-largement-reelu-president-region",
+      "date": "2021-06-27"
+     },
+     {
+      "media": "HATVP",
+      "titre": "Fiche Xavier Bertrand – déclaration de modification substantielle des intérêts (3 avril 2025)",
+      "url": "https://www.hatvp.fr/fiche-nominative/?declarant=bertrand-xavier",
+      "date": "2025-04-03"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Quitte Les Républicains le 11 décembre 2017, au lendemain de l'élection de Laurent Wauquiez à la présidence du parti ; y réadhère en 2021.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Bertrand annonce son départ des Républicains après l'élection de Wauquiez",
+      "url": "http://www.lefigaro.fr/politique/le-scan/2017/12/11/25001-20171211ARTFIG00273-xavier-bertrand-annonce-son-depart-des-republicains-apres-l-election-de-laurent-wauquiez.php",
+      "date": "2017-12-11"
+     }
+    ]
+   },
+   {
+    "texte": "Au congrès LR de désignation pour la présidentielle 2022, arrive quatrième au premier tour (2 décembre 2021) avec 22,36 % des voix, puis appelle à voter pour Valérie Pécresse.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Congrès Les Républicains : Xavier Bertrand, l'ex-cavalier seul, éliminé dès le premier tour",
+      "url": "https://www.lemonde.fr/politique/article/2021/12/02/congres-les-republicains-xavier-bertrand-l-ex-cavalier-seul-elimine-des-le-premier-tour_6104465_823448.html",
+      "date": "2021-12-02"
+     },
+     {
+      "media": "franceinfo (France 3 Hauts-de-France)",
+      "titre": "\"Je le serai\" : Xavier Bertrand annonce être candidat à l'élection présidentielle et s'exprime sur d'éventuelles primaires",
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/je-le-serai-xavier-bertrand-annonce-sa-candidature-a-l-election-presidentielle-et-s-exprime-sur-d-eventuelles-primaires-3407339.html",
+      "date": "2026-08-27"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce en juillet 2022 la création de « Nous France », parti associé à LR, lancé officiellement en octobre 2022 ; il en est président depuis septembre 2022 selon sa déclaration HATVP.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Xavier Bertrand creuse son sillon",
+      "url": "https://www.lefigaro.fr/politique/xavier-bertrand-creuse-son-sillon-20220715",
+      "date": "2022-07-15"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Xavier Bertrand lance son parti, les yeux rivés vers l'élection présidentielle de 2027",
+      "url": "https://www.lemonde.fr/politique/article/2022/10/01/xavier-bertrand-lance-son-parti-les-yeux-rives-vers-l-election-presidentielle-de-2027_6143926_823448.html",
+      "date": "2022-10-01"
+     },
+     {
+      "media": "HATVP",
+      "titre": "Fiche Xavier Bertrand – déclaration de modification substantielle des intérêts (3 avril 2025)",
+      "url": "https://www.hatvp.fr/fiche-nominative/?declarant=bertrand-xavier",
+      "date": "2025-04-03"
+     }
+    ]
+   },
+   {
+    "texte": "Déclare le 3 février 2024 avoir « bien l'intention d'être candidat » à la présidentielle de 2027.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "La Dépêche du Midi",
+      "titre": "Présidentielle 2027 : Xavier Bertrand déclare avoir \"bien l'intention d'être candidat\"",
+      "url": "https://www.ladepeche.fr/2024/02/03/presidentielle-2027-xavier-bertrand-le-president-lr-des-hauts-de-france-declare-avoir-bien-lintention-detre-candidat-11742325.php",
+      "date": "2024-02-03"
+     },
+     {
+      "media": "TF1 Info",
+      "titre": "Présidentielle 2027 : Xavier Bertrand a \"bien l'intention\" d'être candidat",
+      "url": "https://www.tf1info.fr/politique/presidentielle-2027-xavier-bertrand-a-bien-l-intention-d-etre-candidat-2284981.html",
+      "date": "2024-02-03"
+     }
+    ]
+   },
+   {
+    "texte": "Le 27 août 2026, à l'université d'été du Medef, répond « Je le serai » à la question de sa candidature à la présidentielle 2027 ; il précise qu'il se déclarera « en candidat indépendant » et refuse une primaire de la droite et du centre.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Xavier Bertrand, président Les Républicains de la Région Hauts-de-France, déclare qu'il \"sera\" candidat à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+      "date": "2026-08-27"
+     },
+     {
+      "media": "LCP",
+      "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
+      "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+      "date": "2026-08-27"
+     },
+     {
+      "media": "franceinfo (France 3 Hauts-de-France)",
+      "titre": "\"Je le serai\" : Xavier Bertrand annonce être candidat à l'élection présidentielle et s'exprime sur d'éventuelles primaires",
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/je-le-serai-xavier-bertrand-annonce-sa-candidature-a-l-election-presidentielle-et-s-exprime-sur-d-eventuelles-primaires-3407339.html",
+      "date": "2026-08-27"
+     },
+     {
+      "media": "ici (France Bleu)",
+      "titre": "Présidentielle 2027 : Xavier Bertrand annonce qu'il sera candidat",
+      "url": "https://www.ici.fr/infos/politique/presidentielle-2027-xavier-bertrand-annonce-officiellement-sa-candidature-1274056",
+      "date": "2026-08-27"
+     }
+    ]
+   },
+   {
+    "texte": "Le même jour, il indique que « le moment n'est pas venu » pour une déclaration officielle, qu'il prévoit d'ici la fin de l'année 2026 ; son entourage précise qu'il ne s'agit pas d'une annonce officielle de candidature.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Xavier Bertrand, président Les Républicains de la Région Hauts-de-France, déclare qu'il \"sera\" candidat à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+      "date": "2026-08-27"
+     },
+     {
+      "media": "LCP",
+      "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
+      "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+      "date": "2026-08-27"
+     },
+     {
+      "media": "franceinfo (France 3 Hauts-de-France)",
+      "titre": "\"Je le serai\" : Xavier Bertrand annonce être candidat à l'élection présidentielle et s'exprime sur d'éventuelles primaires",
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/je-le-serai-xavier-bertrand-annonce-sa-candidature-a-l-election-presidentielle-et-s-exprime-sur-d-eventuelles-primaires-3407339.html",
+      "date": "2026-08-27"
+     }
+    ]
+   },
+   {
+    "texte": "Les Républicains ont investi Bruno Retailleau comme candidat pour 2027.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Xavier Bertrand, président Les Républicains de la Région Hauts-de-France, déclare qu'il \"sera\" candidat à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+      "date": "2026-08-27"
+     },
+     {
+      "media": "LCP",
+      "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
+      "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+      "date": "2026-08-27"
+     }
+    ]
+   },
+   {
+    "texte": "S'engage, s'il est élu, à n'effectuer qu'un seul mandat.",
+    "sources": [
+     {
+      "media": "Ouest-France",
+      "titre": "Xavier Bertrand presque candidat à la présidentielle (article reproduit sur nousfrance.fr)",
+      "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+      "date": "2026-08-03"
+     },
+     {
+      "media": "La Provence",
+      "titre": "Rencontres économiques d'Aix : « Il faut une République des territoires et un mandat unique » (article reproduit sur nousfrance.fr)",
+      "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
+      "date": "2026-07-05"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre de la Santé, il met en place en 2006 l'interdiction de fumer dans les lieux publics.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Paris Match",
+      "titre": "Xavier Bertrand : « Sébastien Lecornu subira le même sort que Michel Barnier et François Bayrou » (entretien reproduit sur nousfrance.fr)",
+      "url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-sebastien-lecornu-subira-le-meme-sort-que-michel-barnier-et-francois-bayrou-paris-match/",
+      "date": "2025-10-30"
+     }
+    ]
+   },
+   {
+    "texte": "Publie à l'automne 2025 un livre autobiographique, « Rien n'est jamais écrit » (Robert Laffont).",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Xavier Bertrand : « Le principal danger face au RN, c'est le défaitisme » (entretien reproduit sur nousfrance.fr)",
+      "url": "https://www.nousfrance.fr/2025/12/xavier-bertrand-le-principal-danger-face-au-rn-cest-le-defaitisme-le-monde/",
+      "date": "2025-12-18"
+     },
+     {
+      "media": "Paris Match",
+      "titre": "Xavier Bertrand : « Sébastien Lecornu subira le même sort que Michel Barnier et François Bayrou » (entretien reproduit sur nousfrance.fr)",
+      "url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-sebastien-lecornu-subira-le-meme-sort-que-michel-barnier-et-francois-bayrou-paris-match/",
+      "date": "2025-10-30"
+     }
+    ]
+   },
+   {
+    "texte": "Le 1er septembre 2025, annonce qu'il n'appellera pas les députés LR à voter la confiance au gouvernement Bayrou « si le plan reste en l'état ».",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Budget : Xavier Bertrand n'appellera pas les députés LR à voter la confiance \"si le plan de François Bayrou reste en l'état\"",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-si-le-plan-de-francois-bayrou-reste-en-l-etat-je-ne-voterai-pas-la-confiance-declare-xavier-bertrand_7466470.html",
+      "date": "2025-09-01"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "En 2016, après avoir fait baisser de 5 % les indemnités des élus régionaux, il fait augmenter son indemnité d'élu de l'agglomération de Saint-Quentin, ce qui lui vaut des critiques.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Xavier Bertrand",
+      "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Pour compenser son non-cumul, Xavier Bertrand a augmenté ses indemnités",
+      "url": "http://www.lefigaro.fr/politique/le-scan/2016/03/31/25001-20160331ARTFIG00211-pour-compenser-son-non-cumul-bertrand-a-augmente-ses-indemnites.php",
+      "date": "2016-03-31"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "economie_fiscalite": {
+   "resume": "Propose une baisse de l'impôt sur le revenu pour les premières tranches, s'oppose à la « taxe Zucman » et préfère un relèvement de la flat tax ; propose de redistribuer aux actifs contraints de prendre leur voiture le surplus de recettes lié à la hausse des carburants.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose une baisse de l'impôt sur le revenu « pour les premières tranches ».",
+     "sources": [
+      {
+       "media": "AFP",
+       "titre": "Xavier Bertrand se présente comme le « candidat des classes moyennes », contre « les extrêmes » (dépêche reproduite sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-se-presente-comme-le-candidat-des-classes-moyennes-contre-les-extremes-afp/",
+       "date": "2025-10-25"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Présidentielle 2027 : Xavier Bertrand veut retenter sa chance (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/11/presidentielle-2027-xavier-bertrand-veut-retenter-sa-chance/",
+       "date": "2025-11-08"
+      }
+     ]
+    },
+    {
+     "texte": "S'oppose à la taxe proposée par Gabriel Zucman (« une connerie fiscale ») et se dit favorable à un relèvement de la « flat tax ».",
+     "sources": [
+      {
+       "media": "Le Point",
+       "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
+       "date": "2025-10-26"
+      },
+      {
+       "media": "Libération",
+       "titre": "Avant la présidentielle, Xavier Bertrand se pose en « opposant d'intérêt général » (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/avant-la-presidentielle-xavier-bertrand-se-pose-en-opposant-dinteret-general-liberation/",
+       "date": "2025-10-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose que les recettes supplémentaires de l'État liées à la hausse du prix des carburants soient redistribuées « aux artisans, aux infirmiers et aux salariés » qui dépendent de leur voiture.",
+     "sources": [
+      {
+       "media": "Nous France (site du candidat)",
+       "titre": "Hausse du carburant – La proposition de Xavier Bertrand",
+       "url": "https://www.nousfrance.fr/2026/04/hausse-du-carburant-la-proposition-de-xavier-bertrand/",
+       "date": "2026-04-15"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Veut une « règle d'or budgétaire » inscrite par référendum, privilégie la baisse de la dépense publique sur la hausse des impôts, et propose de ne plus remplacer tous les départs à la retraite de fonctionnaires.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de soumettre à référendum une « règle d'or budgétaire » et défend « un autre budget », préférant « la baisse de la dépense publique à la hausse des impôts ».",
+     "sources": [
+      {
+       "media": "Libération",
+       "titre": "Avant la présidentielle, Xavier Bertrand se pose en « opposant d'intérêt général » (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/avant-la-presidentielle-xavier-bertrand-se-pose-en-opposant-dinteret-general-liberation/",
+       "date": "2025-10-25"
+      }
+     ]
+    },
+    {
+     "texte": "Estime que « l'État doit maigrir » et propose de réduire le nombre de fonctionnaires : « les départs à la retraite ne peuvent plus être remplacés comme aujourd'hui ». Il approuve l'objectif de 44 milliards d'euros d'économies mais juge le plan Bayrou « injuste ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Budget : Xavier Bertrand n'appellera pas les députés LR à voter la confiance \"si le plan de François Bayrou reste en l'état\"",
+       "url": "https://www.franceinfo.fr/economie/budget/budget-si-le-plan-de-francois-bayrou-reste-en-l-etat-je-ne-voterai-pas-la-confiance-declare-xavier-bertrand_7466470.html",
+       "date": "2025-09-01"
+      }
+     ]
+    },
+    {
+     "texte": "Veut « mettre fin au dérapage des dépenses sociales » en faisant « des économies partout où c'est possible ».",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "« Je n'ai pas le profil d'une prise de guerre, je trace ma route » : le pari de Xavier Bertrand (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
+       "date": "2026-08-04"
+      },
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : Xavier Bertrand indique « tester ses idées » et envisager de concourir en tant que « candidat indépendant »",
+       "url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
+       "date": "2026-08-03"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Défend l'introduction d'une part de retraite par capitalisation (système mixte capitalisation-répartition) et a proposé « une autre réforme des retraites ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Défend la retraite par capitalisation, en complément de la répartition.",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "« Je n'ai pas le profil d'une prise de guerre, je trace ma route » : le pari de Xavier Bertrand (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
+       "date": "2026-08-04"
+      },
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : Xavier Bertrand indique « tester ses idées » et envisager de concourir en tant que « candidat indépendant »",
+       "url": "https://lcp.fr/actualites/presidentielle-xavier-bertrand-indique-tester-ses-idees-et-envisager-de-concourir-en",
+       "date": "2026-08-03"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Xavier Bertrand",
+       "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "A proposé en octobre 2025, « sans attendre 2027 », « une autre réforme des retraites ».",
+     "sources": [
+      {
+       "media": "AFP",
+       "titre": "Xavier Bertrand se présente comme le « candidat des classes moyennes », contre « les extrêmes » (dépêche reproduite sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/xavier-bertrand-se-presente-comme-le-candidat-des-classes-moyennes-contre-les-extremes-afp/",
+       "date": "2025-10-25"
+      },
+      {
+       "media": "Le Point",
+       "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
+       "date": "2025-10-26"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose la fin des jours de carence différenciés entre public et privé et s'oppose à un contrat permettant de licencier les jeunes sans motif.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose la fin des jours de carence différenciés entre le secteur public et le secteur privé.",
+     "sources": [
+      {
+       "media": "Le Point",
+       "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
+       "date": "2025-10-26"
+      }
+     ]
+    },
+    {
+     "texte": "Déclare refuser un « CDI qui permettrait de licencier les jeunes sans motif ».",
+     "sources": [
+      {
+       "media": "BFMTV (vidéo reproduite sur nousfrance.fr)",
+       "titre": "Xavier Bertrand : « Je refuse ce CDI qui permettrait de licencier les jeunes sans motif »",
+       "url": "https://www.nousfrance.fr/2026/02/xavier-bertrand-je-refuse-ce-cdi-qui-permettrait-de-licencier-les-jeunes-sans-motif-bfm/",
+       "date": "2026-02-09"
+      }
+     ]
+    },
+    {
+     "texte": "Veut étendre au niveau national des dispositifs de sa région, dont une aide aux salariés qui ont besoin d'un véhicule pour travailler et une aide à la garde d'enfants pour les parents qui travaillent.",
+     "sources": [
+      {
+       "media": "Ouest-France",
+       "titre": "Xavier Bertrand presque candidat à la présidentielle (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+       "date": "2026-08-03"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Propose avec Yannick Neuder une grande loi pluriannuelle de santé, s'oppose aux mesures du PLFSS remettant en cause le système conventionnel et veut être « plus ferme avec les grands laboratoires ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose, avec le député Yannick Neuder, « une grande loi pluriannuelle de santé » et refuse d'appliquer les mesures du PLFSS remettant en cause le système conventionnel de négociation avec les médecins libéraux.",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "Xavier Bertrand : « On ne dirige pas un pays par la peur » (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
+       "date": "2026-01-10"
+      }
+     ]
+    },
+    {
+     "texte": "Estime qu'il faut « être plus ferme avec les grands laboratoires plutôt que de chercher à faire la peau des pharmacies rurales ».",
+     "sources": [
+      {
+       "media": "La Montagne",
+       "titre": "« Je ne crois qu'à une droite de rassemblement » : Xavier Bertrand continue de se préparer pour 2027 (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/08/je-ne-crois-qua-une-droite-de-rassemblement-xavier-bertrand-continue-de-se-preparer-pour-2027-la-montagne/",
+       "date": "2025-08-19"
+      }
+     ]
+    },
+    {
+     "texte": "Fait de la santé et de l'école ses priorités en matière de services publics.",
+     "sources": [
+      {
+       "media": "Crif",
+       "titre": "Xavier Bertrand : « Ceux qui pensent qu'on peut s'allier avec l'extrême droite se trompent » (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/06/xavier-bertrand-ceux-qui-pensent-quon-peut-sallier-avec-lextreme-droite-se-trompent-le-crif/",
+       "date": "2026-06-02"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Xavier Bertrand : « Le principal danger face au RN, c'est le défaitisme » (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/12/xavier-bertrand-le-principal-danger-face-au-rn-cest-le-defaitisme-le-monde/",
+       "date": "2025-12-18"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Propose une réforme du système des bourses et l'extension de l'allocation de rentrée scolaire versée à tous les lycéens dans sa région ; veut consacrer 1 % du budget de l'État à la culture d'ici 2032, avec la culture « au cœur du socle éducatif ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose une réforme du système des bourses.",
+     "sources": [
+      {
+       "media": "Le Monde",
+       "titre": "Présidentielle 2027 : Xavier Bertrand veut retenter sa chance (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/11/presidentielle-2027-xavier-bertrand-veut-retenter-sa-chance/",
+       "date": "2025-11-08"
+      },
+      {
+       "media": "Le Point",
+       "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
+       "date": "2025-10-26"
+      }
+     ]
+    },
+    {
+     "texte": "Cite l'allocation de rentrée scolaire versée à tous les lycéens des Hauts-de-France parmi les mesures régionales qu'il veut étendre au pays.",
+     "sources": [
+      {
+       "media": "Ouest-France",
+       "titre": "Xavier Bertrand presque candidat à la présidentielle (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+       "date": "2026-08-03"
+      }
+     ]
+    },
+    {
+     "texte": "Propose que 1 % du budget de l'État soit consacré à la culture (objectif 2032) et que chaque élève rencontre une œuvre ou un spectacle au cours de sa scolarité.",
+     "sources": [
+      {
+       "media": "Var-Matin",
+       "titre": "« Je m'y prépare » : Xavier Bertrand pose les bases de son projet pour la présidentielle avec la culture en toile de fond (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/08/je-my-prepare-pas-encore-officiellement-candidat-xavier-bertrand-pose-les-bases-de-son-projet-pour-la-presidentielle-avec-la-culture-en-toile-de-fond-var-matin/",
+       "date": "2026-08-03"
+      },
+      {
+       "media": "Le Parisien",
+       "titre": "« Si on avait Superman en rayon, l'affaire serait déjà pliée face à Marine Le Pen » : Xavier Bertrand s'y voit encore (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/07/si-on-avait-superman-en-rayon-laffaire-serait-deja-pliee-face-a-marine-le-pen-xavier-bertrand-sy-voit-encore-le-parisien/",
+       "date": "2026-07-15"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Propose un référendum pour que le Parlement fixe chaque année des quotas d'immigration ; en 2021, il proposait aussi de réduire en priorité l'immigration familiale et d'expulser tout étranger condamné à de la prison ferme.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose un référendum portant notamment sur des quotas migratoires.",
+     "sources": [
+      {
+       "media": "Libération",
+       "titre": "Avant la présidentielle, Xavier Bertrand se pose en « opposant d'intérêt général » (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/avant-la-presidentielle-xavier-bertrand-se-pose-en-opposant-dinteret-general-liberation/",
+       "date": "2025-10-25"
+      },
+      {
+       "media": "Le Point",
+       "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
+       "date": "2025-10-26"
+      }
+     ]
+    },
+    {
+     "texte": "Programme 2021-2022 : réviser la Constitution par référendum pour que « le Parlement fixe des quotas d'immigration » chaque année.",
+     "sources": [
+      {
+       "media": "Europe 1",
+       "titre": "Xavier Bertrand dévoile ses propositions pour \"reprendre le contrôle\" de l'immigration",
+       "url": "https://www.europe1.fr/politique/xavier-bertrand-devoile-ses-propositions-pour-reprendre-le-controle-de-limmigration-4075260",
+       "date": "2021-11-04"
+      },
+      {
+       "media": "Les Surligneurs",
+       "titre": "Xavier Bertrand souhaite un référendum « à trois questions » pour modifier la Constitution : immigration, terrorisme, laïcité",
+       "url": "https://lessurligneurs.eu/xavier-bertrand-souhaite-un-referendum-a-trois-questions-pour-modifier-la-constitution-immigration-terrorisme-laicite/",
+       "date": "2020-12-12"
+      }
+     ]
+    },
+    {
+     "texte": "Programme 2021-2022 : réduire en priorité l'immigration familiale, mettre fin au « système actuel de régularisation », expulser « tout étranger condamné à de la prison ferme à l'issue de sa peine » et adopter une « loi d'urgence migratoire ».",
+     "sources": [
+      {
+       "media": "Europe 1",
+       "titre": "Xavier Bertrand dévoile ses propositions pour \"reprendre le contrôle\" de l'immigration",
+       "url": "https://www.europe1.fr/politique/xavier-bertrand-devoile-ses-propositions-pour-reprendre-le-controle-de-limmigration-4075260",
+       "date": "2021-11-04"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose un référendum incluant les peines planchers et des peines minimales pour les auteurs d'agressions contre les maires, pompiers, gendarmes et policiers.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de soumettre les peines planchers à référendum.",
+     "sources": [
+      {
+       "media": "Libération",
+       "titre": "Avant la présidentielle, Xavier Bertrand se pose en « opposant d'intérêt général » (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/avant-la-presidentielle-xavier-bertrand-se-pose-en-opposant-dinteret-general-liberation/",
+       "date": "2025-10-25"
+      },
+      {
+       "media": "Le Point",
+       "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
+       "date": "2025-10-26"
+      }
+     ]
+    },
+    {
+     "texte": "Défend des peines minimales pour ceux qui s'en prennent aux maires, aux pompiers, aux gendarmes et aux policiers.",
+     "sources": [
+      {
+       "media": "La Montagne",
+       "titre": "« Je ne crois qu'à une droite de rassemblement » : Xavier Bertrand continue de se préparer pour 2027 (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/08/je-ne-crois-qua-une-droite-de-rassemblement-xavier-bertrand-continue-de-se-preparer-pour-2027-la-montagne/",
+       "date": "2025-08-19"
+      },
+      {
+       "media": "Nous France (site du candidat)",
+       "titre": "Lettre aux maires de Xavier Bertrand",
+       "url": "https://www.nousfrance.fr/2026/03/lettre-aux-maires-de-xavier-bertrand/",
+       "date": "2026-03-30"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Demande un sommet de l'OTAN sur les intentions américaines concernant le Groenland et un partenariat renforcé UE-Groenland.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "A demandé en janvier 2026 au président de la République d'exiger la convocation d'un sommet de l'OTAN sur les intentions américaines et de rappeler l'opposition de la France à l'annexion du Groenland ; propose un partenariat renforcé entre l'UE, le Danemark et le Groenland.",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "Xavier Bertrand : « On ne dirige pas un pays par la peur » (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
+       "date": "2026-01-10"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Demande le refus de l'accord UE-Mercosur en l'état et la saisine de la Cour de justice de l'UE ; appelle à lutter contre l'extraterritorialité américaine.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Demande de refuser l'accord UE-Mercosur « en l'état » et d'engager un recours devant la CJUE pour en contester la validité.",
+     "sources": [
+      {
+       "media": "La Tribune",
+       "titre": "« Saisir la CJUE : le dernier recours contre le Mercosur », par Julien Dive et Xavier Bertrand (tribune reproduite sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/01/saisir-la-cjue-le-dernier-recours-contre-le-mercosur-par-julien-dive-et-xavier-bertrand-la-tribune/",
+       "date": "2026-01-08"
+      },
+      {
+       "media": "Le Parisien",
+       "titre": "Xavier Bertrand : « On ne dirige pas un pays par la peur » (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
+       "date": "2026-01-10"
+      }
+     ]
+    },
+    {
+     "texte": "Appelle à « lutter contre l'extraterritorialité américaine », notamment sur l'intelligence artificielle et les centres de données.",
+     "sources": [
+      {
+       "media": "Corse-Matin",
+       "titre": "Pour Xavier Bertrand, « l'autonomie de la Corse doit être soumise à référendum » (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/08/pour-xavier-bertrand-lautonomie-de-la-corse-doit-etre-soumise-a-referendum-corse-matin/",
+       "date": "2025-08-07"
+      }
+     ]
+    }
+   ]
+  },
+  "ia_numerique": {
+   "resume": "Plaide pour une souveraineté numérique renforcée face aux États-Unis.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Plaide pour une souveraineté numérique renforcée face aux États-Unis et contre l'extraterritorialité américaine, citant l'IA et les data centers.",
+     "sources": [
+      {
+       "media": "Corse-Matin",
+       "titre": "Pour Xavier Bertrand, « l'autonomie de la Corse doit être soumise à référendum » (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/08/pour-xavier-bertrand-lautonomie-de-la-corse-doit-etre-soumise-a-referendum-corse-matin/",
+       "date": "2025-08-07"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Fait du logement une priorité et propose de confier pleinement la compétence logement aux collectivités.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Cite le logement comme priorité de son projet.",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "« Je n'ai pas le profil d'une prise de guerre, je trace ma route » : le pari de Xavier Bertrand (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
+       "date": "2026-08-04"
+      }
+     ]
+    },
+    {
+     "texte": "Estime que si la compétence logement était pleinement confiée aux régions, les projets aboutiraient plus vite.",
+     "sources": [
+      {
+       "media": "La Provence",
+       "titre": "Rencontres économiques d'Aix : « Il faut une République des territoires et un mandat unique » (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
+       "date": "2026-07-05"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Promet de faire de la stratégie agricole une priorité nationale et s'oppose à l'accord UE-Mercosur.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Déclare : « Je ferai de la stratégie agricole une priorité pour le pays, avec les agriculteurs et non contre eux. »",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "Xavier Bertrand : « On ne dirige pas un pays par la peur » (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/01/xavier-bertrand-on-ne-dirige-pas-un-pays-par-la-peur-le-parisien/",
+       "date": "2026-01-10"
+      }
+     ]
+    },
+    {
+     "texte": "Estime que l'accord UE-Mercosur ouvre la voie à « une agriculture low-cost » et menace l'élevage français.",
+     "sources": [
+      {
+       "media": "La Tribune",
+       "titre": "« Saisir la CJUE : le dernier recours contre le Mercosur », par Julien Dive et Xavier Bertrand (tribune reproduite sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/01/saisir-la-cjue-le-dernier-recours-contre-le-mercosur-par-julien-dive-et-xavier-bertrand-la-tribune/",
+       "date": "2026-01-08"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose un mandat présidentiel unique, une « République des territoires » recentrant l'État sur le régalien et un « conseiller territorial » fusionnant élus départementaux et régionaux (-40 % d'élus).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Défend un mandat présidentiel unique de cinq ans.",
+     "sources": [
+      {
+       "media": "Ouest-France",
+       "titre": "Xavier Bertrand presque candidat à la présidentielle (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+       "date": "2026-08-03"
+      },
+      {
+       "media": "La Provence",
+       "titre": "Rencontres économiques d'Aix : « Il faut une République des territoires et un mandat unique » (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
+       "date": "2026-07-05"
+      }
+     ]
+    },
+    {
+     "texte": "Selon Le Figaro, il veut proposer par référendum le « septennat unique ».",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "« Je n'ai pas le profil d'une prise de guerre, je trace ma route » : le pari de Xavier Bertrand (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/08/je-nai-pas-le-profil-dune-prise-de-guerre-je-trace-ma-route-le-pari-de-xavier-bertrand-pour-simposer-comme-candidat-de-la-droite-et-du-centre-le-figaro/",
+       "date": "2026-08-04"
+      }
+     ]
+    },
+    {
+     "texte": "Propose une « République des territoires » : l'État central se concentrerait sur la justice, la sécurité, le contrôle de l'immigration, la défense et la diplomatie, le reste relevant des collectivités.",
+     "sources": [
+      {
+       "media": "La Provence",
+       "titre": "Rencontres économiques d'Aix : « Il faut une République des territoires et un mandat unique » (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/07/rencontres-economiques-daix-il-faut-une-republique-des-territoires-et-un-mandat-unique-pour-xavier-bertrand-la-provence/",
+       "date": "2026-07-05"
+      },
+      {
+       "media": "La Montagne",
+       "titre": "« Je ne crois qu'à une droite de rassemblement » : Xavier Bertrand continue de se préparer pour 2027 (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/08/je-ne-crois-qua-une-droite-de-rassemblement-xavier-bertrand-continue-de-se-preparer-pour-2027-la-montagne/",
+       "date": "2025-08-19"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un « conseiller territorial » fusionnant les mandats de conseiller régional et départemental, ce qui réduirait selon lui de 40 % le nombre d'élus.",
+     "sources": [
+      {
+       "media": "Libération",
+       "titre": "Avant la présidentielle, Xavier Bertrand se pose en « opposant d'intérêt général » (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/avant-la-presidentielle-xavier-bertrand-se-pose-en-opposant-dinteret-general-liberation/",
+       "date": "2025-10-25"
+      },
+      {
+       "media": "La Montagne",
+       "titre": "« Je ne crois qu'à une droite de rassemblement » : Xavier Bertrand continue de se préparer pour 2027 (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/08/je-ne-crois-qua-une-droite-de-rassemblement-xavier-bertrand-continue-de-se-preparer-pour-2027-la-montagne/",
+       "date": "2025-08-19"
+      },
+      {
+       "media": "Le Point",
+       "titre": "« Que l'État arrête de nous faire les poches » : à Saint-Quentin, Xavier Bertrand s'échauffe pour la présidentielle (article reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/10/que-letat-arrete-de-nous-faire-les-poches-a-saint-quentin-xavier-bertrand-sechauffe-pour-la-presidentielle-le-point/",
+       "date": "2025-10-26"
+      }
+     ]
+    },
+    {
+     "texte": "Demande que l'autonomie de la Corse soit soumise à référendum.",
+     "sources": [
+      {
+       "media": "Corse-Matin",
+       "titre": "Pour Xavier Bertrand, « l'autonomie de la Corse doit être soumise à référendum » (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2025/08/pour-xavier-bertrand-lautonomie-de-la-corse-doit-etre-soumise-a-referendum-corse-matin/",
+       "date": "2025-08-07"
+      },
+      {
+       "media": "Corse-Matin",
+       "titre": "Xavier Bertrand : « Paris n'a pas envie de dépenser un euro de plus pour la Corse » (entretien reproduit sur nousfrance.fr)",
+       "url": "https://www.nousfrance.fr/2026/05/xavier-bertrand-paris-na-pas-envie-de-depenser-un-euro-de-plus-pour-la-corse-corse-matin/",
+       "date": "2026-05-01"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Affaire du Mediator : critiques sur son rôle de ministre de la Santé",
+   "statut": "accusation",
+   "date": "2010-12",
+   "description": "En mars 2006, ministre de la Santé, il maintient le remboursement du Mediator (laboratoires Servier) malgré un avis de la Haute Autorité de santé. Lors du scandale fin 2010-début 2011, Le Canard enchaîné révèle que deux de ses anciens conseillers au ministère étaient rémunérés par Servier ; plusieurs médias l'accusent de conflit d'intérêts ou de négligence. Il affirme avoir connu la dangerosité du médicament en novembre 2010. Aucune poursuite le visant n'est signalée par les sources consultées.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Xavier Bertrand",
+     "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "L'Express",
+     "titre": "Scandale du Mediator : ces ministres qui \"ne savaient pas\"",
+     "url": "https://www.lexpress.fr/actualite/politique/scandale-du-mediator-ces-ministres-qui-ne-savaient-pas_946677.html",
+     "date": "2010-12-20"
+    },
+    {
+     "media": "Le JDD",
+     "titre": "Mediator : Xavier Bertrand se dédouane",
+     "url": "https://www.lejdd.fr/Societe/Mediator-Bertrand-reconnait-des-defaillances-graves-245605-3241637",
+     "date": "2010-12-20"
+    }
+   ]
+  },
+  {
+   "intitule": "Enquête pour détournement de fonds publics sur les frais de réception des élus de la majorité régionale (Hauts-de-France)",
+   "statut": "enquete",
+   "date": "2020-02-23",
+   "description": "Le parquet de Lille a ouvert le 23 février 2020 une enquête pour détournement de fonds publics après un signalement du groupe RN au conseil régional, portant sur des repas et séminaires d'élus de la majorité LR-UDI (2018-2019) pris en charge par la région (environ 15 300 euros signalés). Mediapart, qui avait révélé l'affaire, évoque plus de 7 000 euros de repas politiques. Selon ici (France Bleu), Xavier Bertrand n'est pas personnellement visé ; la majorité régionale conteste les accusations. Aucune issue de l'enquête n'a été trouvée dans les sources consultées.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Région Hauts-de-France : la justice enquête sur les banquets des élus de la majorité",
+     "url": "https://www.mediapart.fr/journal/france/070520/region-hauts-de-france-la-justice-enquete-sur-les-banquets-des-elus-de-la-majorite",
+     "date": "2020-05-07"
+    },
+    {
+     "media": "ici (France Bleu)",
+     "titre": "Le conseil régional des Hauts-de-France visé par une enquête pour détournement de fonds publics",
+     "url": "https://www.ici.fr/infos/faits-divers-justice/le-conseil-regional-des-hauts-de-france-vise-par-une-enquete-pour-detournement-de-fonds-publics-1588915697",
+     "date": "2020-05-08"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Xavier Bertrand",
+     "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Enquête préliminaire pour prise illégale d'intérêts visant trois élus-chasseurs de sa majorité régionale",
+   "statut": "enquete",
+   "date": "2024-02-01",
+   "description": "Une enquête préliminaire pour prise illégale d'intérêts a été ouverte contre trois conseillers régionaux de la majorité, présidents ou vice-présidents de fédérations départementales de chasse, qui ont pris part à des votes de subventions à leurs fédérations. Xavier Bertrand n'est pas personnellement mis en cause.",
+   "sources": [
+    {
+     "media": "Mediacités",
+     "titre": "Hauts-de-France : une enquête préliminaire ouverte contre trois élus-chasseurs pour prise illégale d'intérêts",
+     "url": "https://www.mediacites.fr/breve/lille/2024/02/01/hauts-de-france-une-enquete-preliminaire-ouverte-contre-trois-elus-chasseurs-pour-prise-illegale-dinterets/",
+     "date": "2024-02-01"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Éliminé au premier tour du congrès LR le 2 décembre 2021, il n'a pas été candidat à l'élection présidentielle de 2022 et n'a donc pas de compte de campagne présidentielle soumis à la CNCCFP.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Congrès Les Républicains : Xavier Bertrand, l'ex-cavalier seul, éliminé dès le premier tour",
+     "url": "https://www.lemonde.fr/politique/article/2021/12/02/congres-les-republicains-xavier-bertrand-l-ex-cavalier-seul-elimine-des-le-premier-tour_6104465_823448.html",
+     "date": "2021-12-02"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Xavier Bertrand",
+     "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Pour 2027, il s'appuie sur son parti Nous France, qui a commencé à lever des fonds et à recueillir des soutiens ; le 14 décembre 2025, il a sollicité par courriel le soutien financier des sympathisants de Nous France.",
+   "sources": [
+    {
+     "media": "Ouest-France",
+     "titre": "Xavier Bertrand presque candidat à la présidentielle (article reproduit sur nousfrance.fr)",
+     "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+     "date": "2026-08-03"
+    },
+    {
+     "media": "Le Parisien",
+     "titre": "« Je veux porter le flambeau des classes moyennes » : Xavier Bertrand, à fond sur la ligne popu (article reproduit sur nousfrance.fr)",
+     "url": "https://www.nousfrance.fr/2025/12/je-veux-porter-le-flambeau-des-classes-moyennes-xavier-bertrand-a-fond-sur-la-ligne-popu-le-parisien/",
+     "date": "2025-12-20"
+    }
+   ]
+  },
+  {
+   "texte": "Déclaration d'intérêts HATVP (3 avril 2025) : indemnités nettes de président de région de 47 709 € (2024) et de vice-président de l'agglomération du Saint-Quentinois de 14 505 € (2024) ; rémunérations de formateur (ESG RH, ESCP Europe) ; présidence de Nous France non rémunérée ; parts dans une SCI évaluées à 140 000 € et une part de la SASP Saint-Quentin Basket-Ball (500 €). Sa déclaration de patrimoine n'est pas publiée.",
+   "sources": [
+    {
+     "media": "HATVP",
+     "titre": "Fiche Xavier Bertrand – déclaration de modification substantielle des intérêts (3 avril 2025)",
+     "url": "https://www.hatvp.fr/fiche-nominative/?declarant=bertrand-xavier",
+     "date": "2025-04-03"
+    }
+   ]
+  }
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Il a dit le 27 août 2026 qu'il « sera » candidat, en indépendant, hors de toute primaire, alors que LR a investi Bruno Retailleau ; il prévoit de se déclarer officiellement plus tard. Interrogé par Ouest-France (3 août 2026), il a répondu « oui » à la question de savoir s'il avait commencé à collecter des parrainages, citant les militants de Nous France et le soutien de « nombreux maires, présidents de département, parlementaires », sans chiffre.",
+  "sources": [
+   {
+    "media": "franceinfo",
+    "titre": "Xavier Bertrand, président Les Républicains de la Région Hauts-de-France, déclare qu'il « sera » candidat à l'élection présidentielle",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/xavier-bertrand-figure-de-la-droite-et-president-de-la-region-hauts-de-france-annonce-sa-candidature-a-l-election-presidentielle_8164871.html",
+    "date": "2026-08-27"
+   },
+   {
+    "media": "Ouest-France (reproduit sur nousfrance.fr)",
+    "titre": "Xavier Bertrand presque candidat à la présidentielle",
+    "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+    "date": "2026-08-03"
+   },
+   {
+    "media": "LCP",
+    "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
+    "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+    "date": "2026-08-27"
+   },
+   {
+    "media": "Entrevue",
+    "titre": "Présidentielle 2027 : Xavier Bertrand devrait officialiser sa candidature à la fin de l'année",
+    "url": "https://entrevue.fr/elections/presidentielle-2027-xavier-bertrand-devrait-officialiser-sa-candidature-a-la-fin-de-lannee/",
+    "date": "2026-08-03"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "dons"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Il n'a pas été candidat en 2022 (battu au congrès LR de décembre 2021) : pas de compte de campagne. Pour 2027, il dit avoir « commencé à lever des fonds » depuis « un bon moment ». Le site de son mouvement Nous France collecte des dons (7 500 € maximum par personne) au bénéfice de l'AFLM (Association de financement de l'association La Manufacture) ; Nous France a déposé des comptes 2024 jugés en règle par la CNCCFP et n'est pas éligible à l'aide publique. Aucun montant ni prêt rendu public, aucune alerte sur le financement.",
+  "sources": [
+   {
+    "media": "Ouest-France (reproduit sur nousfrance.fr)",
+    "titre": "Xavier Bertrand presque candidat à la présidentielle",
+    "url": "https://www.nousfrance.fr/2026/08/xavier-bertrand-presque-candidat-a-la-presidentielle-ouest-france/",
+    "date": "2026-08-03"
+   },
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   },
+   {
+    "media": "Nous France (site du parti)",
+    "titre": "Page d'accueil – formulaire de don",
+    "url": "https://www.nousfrance.fr/",
+    "date": "2026-09-26"
+   }
+  ]
+ }
 }

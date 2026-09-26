@@ -292,5 +292,59 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "difficulte",
+  "revendique": 40,
+  "officiel_2022": 36,
+  "texte": "En 2022, elle n'a obtenu que 36 parrainages validés, loin des 500 requis. Candidate de Solution démocratique pour 2027, elle fait démarcher les maires par des militants ; en août 2026, le parti revendique « environ 40 signatures » de maires (promesses), un chiffre non vérifiable avant l'ouverture de la collecte officielle.",
+  "sources": [
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Liste des parrainages validés – présidentielle 2022 (fichier CSV)",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/telechargement/parrainagestotal.csv",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "Actu.fr",
+    "titre": "Présidentielle 2027 : cet Yvelinois cherche déjà des parrainages pour un mouvement citoyen et sa candidate",
+    "url": "https://actu.fr/ile-de-france/le-chesnay-rocquencourt_78158/presidentielle-2027-cet-yvelinois-cherche-deja-des-parrainages-pour-un-mouvement-citoyen-et-sa-candidate_64666399.html",
+    "date": "2026-08-18"
+   },
+   {
+    "media": "LCP",
+    "titre": "Présidentielle 2027 : la course aux 500 signatures d'élus nécessaires pour se présenter a commencé",
+    "url": "https://lcp.fr/actualites/presidentielle-2027-la-course-aux-500-signatures-d-elus-necessaires-pour-se-presenter-a",
+    "date": "2026-07-05"
+   },
+   {
+    "media": "Solution démocratique (site officiel)",
+    "titre": "Parrainage 2027",
+    "url": "https://solutiondemocratique.fr/parrainage2027/",
+    "date": "2026-09-26"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "dons"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Pas de compte de campagne présidentielle (candidature non validée en 2022). Solution démocratique finance sa préparation par des adhésions (10 €) et des dons défiscalisables ; aucun budget ni prêt n'est publié. Le parti respectait ses obligations comptables au titre de 2024 selon la CNCCFP. Aucune alerte.",
+  "sources": [
+   {
+    "media": "Solution démocratique (site officiel)",
+    "titre": "Solution Démocratique, parti politique pour la démocratie directe",
+    "url": "https://solutiondemocratique.fr/",
+    "date": "2026-09-26"
+   },
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (JO du 10 février 2026)",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   }
+  ]
+ }
 }

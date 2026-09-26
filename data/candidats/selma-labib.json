@@ -1,239 +1,281 @@
 {
-  "id": "selma-labib",
-  "nom": "Selma Labib",
-  "naissance": "1995-08-25",
-  "lieu_naissance": null,
-  "parti": "NPA-Révolutionnaires",
-  "parti_sigle": "NPA-R",
-  "famille": "extreme_gauche",
-  "position": -9.5,
-  "position_justif": {
-    "texte": "Porte-parole du NPA-Révolutionnaires, branche trotskiste issue de la scission du NPA en 2022, qui avait proposé une candidature commune derrière Nathalie Arthaud (LO) ; revendique une candidature « ouvrière et révolutionnaire ». Positionnée comme LO (−9,5).",
-    "sources": [
-      {
-        "media": "Wikipédia",
-        "titre": "Nouveau Parti anticapitaliste",
-        "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
-        "date": "2026-09-25"
-      },
-      {
-        "media": "NPA-Révolutionnaires (site officiel)",
-        "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
-        "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
-        "date": "2026-06-17"
-      }
-    ]
-  },
-  "statut": "investi",
-  "photo": {
-    "fichier": null,
-    "source_url": null,
-    "auteur": null,
-    "licence": null
-  },
-  "logo_parti": {
-    "fichier": "img/partis/npa-r.svg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Logo-NPA_Revo.svg",
-    "licence": "CC0"
-  },
-  "bio": {
-    "etudes": [],
-    "carriere_hors_politique": [
-      {
-        "texte": "Conductrice de bus en région parisienne.",
-        "sources": [
-          {
-            "media": "NPA-Révolutionnaires (site officiel)",
-            "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
-            "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
-            "date": "2026-06-17"
-          },
-          {
-            "media": "Wikipédia",
-            "titre": "Nouveau Parti anticapitaliste",
-            "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
-            "date": "2026-09-25"
-          }
-        ]
-      }
-    ],
-    "mandats": [
-      {
-        "texte": "Aucun mandat électif ; porte-parole du NPA-Révolutionnaires.",
-        "sources": [
-          {
-            "media": "NPA-Révolutionnaires (site officiel)",
-            "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
-            "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
-            "date": "2026-06-17"
-          },
-          {
-            "media": "Wikipédia",
-            "titre": "Nouveau Parti anticapitaliste",
-            "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
-            "date": "2026-09-25"
-          }
-        ]
-      }
-    ],
-    "autres": [
-      {
-        "texte": "Militante féministe et antiraciste depuis une douzaine d'années ; a participé aux mobilisations contre la loi Travail, des Gilets jaunes et contre la réforme des retraites.",
-        "sources": [
-          {
-            "media": "NPA-Révolutionnaires (site officiel)",
-            "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
-            "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
-            "date": "2026-06-17"
-          }
-        ]
-      },
-      {
-        "texte": "Tête de liste (avec Gaël Quirante) de la liste NPA-R « Pour un monde sans frontières ni patrons, urgence révolution ! » aux européennes de 2024, après le refus de LO d'une liste commune.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Nouveau Parti anticapitaliste",
-            "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "NPA-Révolutionnaires (site officiel)",
-            "titre": "Le 9 juin : voter et faire voter pour la liste « Pour un monde sans frontières ni patrons, urgence révolution ! » conduite par Selma Labib et Gaël Quirante",
-            "url": "https://npa-revolutionnaires.org/le-9-juin-voter-et-faire-voter-pour-la-liste-pour-un-monde-sans-frontieres-ni-patrons-urgence-revolution-conduite-par-selma-labib-et-gael-quirante/",
-            "date": "2024-06"
-          }
-        ]
-      },
-      {
-        "texte": "Candidature à la présidentielle annoncée le 17 juin 2026, après le refus de Lutte ouvrière d'une campagne commune derrière Nathalie Arthaud.",
-        "sources": [
-          {
-            "media": "NPA-Révolutionnaires (site officiel)",
-            "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
-            "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
-            "date": "2026-06-17"
-          },
-          {
-            "media": "Wikipédia",
-            "titre": "Nouveau Parti anticapitaliste",
-            "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Wikipédia",
-            "titre": "Candidatures à l'élection présidentielle française de 2027",
-            "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-            "date": "2026-09-25"
-          }
-        ]
-      },
-      {
-        "texte": "Candidate à la mairie d'Ivry-sur-Seine en 2026.",
-        "sources": [
-          {
-            "media": "NPA-Révolutionnaires (site officiel)",
-            "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
-            "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
-            "date": "2026-06-17"
-          }
-        ]
-      }
-    ]
-  },
-  "programme": {
-    "travail_salaires": {
-      "resume": "Revendique la hausse des salaires et des allocations chômage et l'interdiction des licenciements, avec la propriété collective des moyens de production.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Met en avant les salaires, les allocations chômage et la défense des emplois face aux licenciements.",
-          "sources": [
-            {
-              "media": "NPA-Révolutionnaires (site officiel)",
-              "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
-              "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
-              "date": "2026-06-17"
-            }
-          ]
-        },
-        {
-          "texte": "Défend « la propriété collective des moyens de production » : « C'est nous qui produisons tout, donc c'est à nous de décider de tout ».",
-          "sources": [
-            {
-              "media": "NPA-Révolutionnaires (site officiel)",
-              "titre": "Campagne présidentielle",
-              "url": "https://npa-revolutionnaires.org/campagnes-presidentielles",
-              "date": "2026-09-25"
-            }
-          ]
-        }
-      ]
-    },
-    "defense_international": {
-      "resume": "S'oppose aux dépenses militaires et à « l'impérialisme français » en Afrique et au Moyen-Orient ; soutient les Palestiniens face à « l'État génocidaire d'Israël ».",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "S'oppose aux dépenses militaires et à l'impérialisme français ; soutient les Palestiniens contre « l'État génocidaire d'Israël ».",
-          "sources": [
-            {
-              "media": "NPA-Révolutionnaires (site officiel)",
-              "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
-              "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
-              "date": "2026-06-17"
-            }
-          ]
-        }
-      ]
-    },
-    "immigration": {
-      "resume": "Défend un monde « sans frontières » et s'oppose aux campagnes contre les migrants.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "S'oppose aux « campagnes racistes » contre les migrants.",
-          "sources": [
-            {
-              "media": "NPA-Révolutionnaires (site officiel)",
-              "titre": "Campagne présidentielle",
-              "url": "https://npa-revolutionnaires.org/campagnes-presidentielles",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "Liste européenne 2024 « Pour un monde sans frontières ni patrons ».",
-          "sources": [
-            {
-              "media": "NPA-Révolutionnaires (site officiel)",
-              "titre": "Le 9 juin : voter et faire voter pour la liste « Pour un monde sans frontières ni patrons, urgence révolution ! » conduite par Selma Labib et Gaël Quirante",
-              "url": "https://npa-revolutionnaires.org/le-9-juin-voter-et-faire-voter-pour-la-liste-pour-un-monde-sans-frontieres-ni-patrons-urgence-revolution-conduite-par-selma-labib-et-gael-quirante/",
-              "date": "2024-06"
-            },
-            {
-              "media": "Wikipédia",
-              "titre": "Nouveau Parti anticapitaliste",
-              "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
-              "date": "2026-09-25"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "affaires": [],
-  "financement": [
-    {
-      "texte": "Campagne 2027 : souscription en ligne ouverte par le NPA-Révolutionnaires ; aucun prêt ni budget rendu public.",
-      "sources": [
-        {
-          "media": "NPA-Révolutionnaires (site officiel)",
-          "titre": "Campagne présidentielle",
-          "url": "https://npa-revolutionnaires.org/campagnes-presidentielles",
-          "date": "2026-09-25"
-        }
-      ]
-    }
+ "id": "selma-labib",
+ "nom": "Selma Labib",
+ "naissance": "1995-08-25",
+ "lieu_naissance": null,
+ "parti": "NPA-Révolutionnaires",
+ "parti_sigle": "NPA-R",
+ "famille": "extreme_gauche",
+ "position": -9.5,
+ "position_justif": {
+  "texte": "Porte-parole du NPA-Révolutionnaires, branche trotskiste issue de la scission du NPA en 2022, qui avait proposé une candidature commune derrière Nathalie Arthaud (LO) ; revendique une candidature « ouvrière et révolutionnaire ». Positionnée comme LO (−9,5).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Nouveau Parti anticapitaliste",
+    "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "NPA-Révolutionnaires (site officiel)",
+    "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+    "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+    "date": "2026-06-17"
+   }
   ]
+ },
+ "statut": "investi",
+ "photo": {
+  "fichier": null,
+  "source_url": null,
+  "auteur": null,
+  "licence": null
+ },
+ "logo_parti": {
+  "fichier": "img/partis/npa-r.svg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Logo-NPA_Revo.svg",
+  "licence": "CC0"
+ },
+ "bio": {
+  "etudes": [],
+  "carriere_hors_politique": [
+   {
+    "texte": "Conductrice de bus en région parisienne.",
+    "sources": [
+     {
+      "media": "NPA-Révolutionnaires (site officiel)",
+      "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+      "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+      "date": "2026-06-17"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Nouveau Parti anticapitaliste",
+      "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Aucun mandat électif ; porte-parole du NPA-Révolutionnaires.",
+    "sources": [
+     {
+      "media": "NPA-Révolutionnaires (site officiel)",
+      "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+      "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+      "date": "2026-06-17"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Nouveau Parti anticapitaliste",
+      "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Militante féministe et antiraciste depuis une douzaine d'années ; a participé aux mobilisations contre la loi Travail, des Gilets jaunes et contre la réforme des retraites.",
+    "sources": [
+     {
+      "media": "NPA-Révolutionnaires (site officiel)",
+      "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+      "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+      "date": "2026-06-17"
+     }
+    ]
+   },
+   {
+    "texte": "Tête de liste (avec Gaël Quirante) de la liste NPA-R « Pour un monde sans frontières ni patrons, urgence révolution ! » aux européennes de 2024, après le refus de LO d'une liste commune.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Nouveau Parti anticapitaliste",
+      "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "NPA-Révolutionnaires (site officiel)",
+      "titre": "Le 9 juin : voter et faire voter pour la liste « Pour un monde sans frontières ni patrons, urgence révolution ! » conduite par Selma Labib et Gaël Quirante",
+      "url": "https://npa-revolutionnaires.org/le-9-juin-voter-et-faire-voter-pour-la-liste-pour-un-monde-sans-frontieres-ni-patrons-urgence-revolution-conduite-par-selma-labib-et-gael-quirante/",
+      "date": "2024-06"
+     }
+    ]
+   },
+   {
+    "texte": "Candidature à la présidentielle annoncée le 17 juin 2026, après le refus de Lutte ouvrière d'une campagne commune derrière Nathalie Arthaud.",
+    "sources": [
+     {
+      "media": "NPA-Révolutionnaires (site officiel)",
+      "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+      "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+      "date": "2026-06-17"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Nouveau Parti anticapitaliste",
+      "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Candidate à la mairie d'Ivry-sur-Seine en 2026.",
+    "sources": [
+     {
+      "media": "NPA-Révolutionnaires (site officiel)",
+      "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+      "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+      "date": "2026-06-17"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "travail_salaires": {
+   "resume": "Revendique la hausse des salaires et des allocations chômage et l'interdiction des licenciements, avec la propriété collective des moyens de production.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Met en avant les salaires, les allocations chômage et la défense des emplois face aux licenciements.",
+     "sources": [
+      {
+       "media": "NPA-Révolutionnaires (site officiel)",
+       "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+       "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+       "date": "2026-06-17"
+      }
+     ]
+    },
+    {
+     "texte": "Défend « la propriété collective des moyens de production » : « C'est nous qui produisons tout, donc c'est à nous de décider de tout ».",
+     "sources": [
+      {
+       "media": "NPA-Révolutionnaires (site officiel)",
+       "titre": "Campagne présidentielle",
+       "url": "https://npa-revolutionnaires.org/campagnes-presidentielles",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "S'oppose aux dépenses militaires et à « l'impérialisme français » en Afrique et au Moyen-Orient ; soutient les Palestiniens face à « l'État génocidaire d'Israël ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "S'oppose aux dépenses militaires et à l'impérialisme français ; soutient les Palestiniens contre « l'État génocidaire d'Israël ».",
+     "sources": [
+      {
+       "media": "NPA-Révolutionnaires (site officiel)",
+       "titre": "Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+       "url": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+       "date": "2026-06-17"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Défend un monde « sans frontières » et s'oppose aux campagnes contre les migrants.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "S'oppose aux « campagnes racistes » contre les migrants.",
+     "sources": [
+      {
+       "media": "NPA-Révolutionnaires (site officiel)",
+       "titre": "Campagne présidentielle",
+       "url": "https://npa-revolutionnaires.org/campagnes-presidentielles",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Liste européenne 2024 « Pour un monde sans frontières ni patrons ».",
+     "sources": [
+      {
+       "media": "NPA-Révolutionnaires (site officiel)",
+       "titre": "Le 9 juin : voter et faire voter pour la liste « Pour un monde sans frontières ni patrons, urgence révolution ! » conduite par Selma Labib et Gaël Quirante",
+       "url": "https://npa-revolutionnaires.org/le-9-juin-voter-et-faire-voter-pour-la-liste-pour-un-monde-sans-frontieres-ni-patrons-urgence-revolution-conduite-par-selma-labib-et-gael-quirante/",
+       "date": "2024-06"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Nouveau Parti anticapitaliste",
+       "url": "https://fr.wikipedia.org/wiki/Nouveau_Parti_anticapitaliste",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [
+  {
+   "texte": "Campagne 2027 : souscription en ligne ouverte par le NPA-Révolutionnaires ; aucun prêt ni budget rendu public.",
+   "sources": [
+    {
+     "media": "NPA-Révolutionnaires (site officiel)",
+     "titre": "Campagne présidentielle",
+     "url": "https://npa-revolutionnaires.org/campagnes-presidentielles",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Candidature annoncée le 17 juin 2026 par le NPA-Révolutionnaires, qui affirme que « plusieurs dizaines de maires ont déjà accepté de parrainer » Selma Labib ; aucun chiffre précis n'a été communiqué au 26 septembre 2026. La collecte officielle des parrainages n'est pas ouverte.",
+  "sources": [
+   {
+    "media": "NPA-Révolutionnaires (site officiel)",
+    "titre": "Communiqué - Présidentielle 2027 : Selma Labib, une candidature ouvrière et révolutionnaire, soutenue par Gaël Quirante",
+    "url": "https://npa-revolutionnaires.org/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante/",
+    "date": "2026-06-17"
+   },
+   {
+    "media": "Parlons Politique",
+    "titre": "Présidentielle 2027 : le défi Selma Labib",
+    "url": "https://www.parlons-politique.fr/elections/une-conductrice-de-bus-face-au-filtre-des-500-signatures-pour-porter-la-voix-de-lextreme-gauche-en-2027_21537/",
+    "date": "2026-06-17"
+   },
+   {
+    "media": "Actu Évreux",
+    "titre": "Le NPA-Révolutionnaires présente Selma Labib pour l'élection présidentielle de 2027",
+    "url": "https://www.actuevreux.fr/politique/19112",
+    "date": "2026-06"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "dons"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Pas de compte de campagne présidentielle antérieur à son nom. Le parti se finance par des dons collectés par l'Association de financement du NPA-Révolutionnaires (AFNPAR, agrément n° 1652 du 10 octobre 2024), plafonnés à 7 500 € par an et par donateur ; aucun budget, dispositif propre à la campagne ni prêt n'a été rendu public au 26 septembre 2026. Aucune alerte sur le financement trouvée.",
+  "sources": [
+   {
+    "media": "NPA-Révolutionnaires (site officiel)",
+    "titre": "Souscription",
+    "url": "https://npa-revolutionnaires.org/souscription/",
+    "date": "2026-09-26"
+   }
+  ]
+ }
 }

@@ -317,5 +317,47 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Candidat du petit parti Équinoxe, qui a désigné un responsable « Parrainages » mais ne publie aucun chiffre. En juillet 2026, il évoquait en Haute-Marne « une quinzaine d'élus intéressés », sans qu'il s'agisse de promesses formelles ; Le Parisien (12 août 2026) présente les 500 parrainages comme son principal défi.",
+  "sources": [
+   {
+    "media": "Journal de la Haute-Marne",
+    "titre": "Sous la bannière d'Équinoxe, Antoine Mikolajczak brigue la présidence de la République",
+    "url": "https://jhm.fr/sous-la-banniere-dequinoxe-antoine-mikolajczak-brigue-la-presidence-de-la-republique/",
+    "date": "2026-07-12"
+   },
+   {
+    "media": "Le Parisien",
+    "titre": "« Monsieur Tout-le-Monde » candidat à la présidentielle 2027 ? Antoine Mikolajczak et Équinoxe face au défi des 500 parrainages",
+    "url": "https://www.leparisien.fr/oise-60/monsieur-tout-le-monde-candidat-a-la-presidentielle-2027-antoine-mikolajczak-et-equinoxe-face-au-defi-des-500-parrainages-12-08-2026-CN5YEZHLCJGF7CSTOWAQUMI4PY.php",
+    "date": "2026-08-12"
+   },
+   {
+    "media": "Équinoxe (site officiel)",
+    "titre": "Présidentielle 2027 - Parti Équinoxe",
+    "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+    "date": "2026-09-26"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "dons"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Aucun compte de campagne présidentielle antérieur. Le site d'Équinoxe affiche un bouton « Faire un don » (vers l'espace adhérents du parti), sans préciser de budget, d'association de financement ni de mandataire. Aucune information publique sur des prêts. Aucune alerte sur le financement relevée.",
+  "sources": [
+   {
+    "media": "Équinoxe (site officiel)",
+    "titre": "Présidentielle 2027 - Parti Équinoxe",
+    "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+    "date": "2026-09-26"
+   }
+  ]
+ }
 }

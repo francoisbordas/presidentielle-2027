@@ -770,5 +770,66 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Le 30 août 2026 sur BFMTV, il affirme disposer de « plusieurs centaines » de parrainages, sans atteindre les 500, et dit s'appuyer sur une centaine de représentants chargés de solliciter les maires ; il s'agit de promesses revendiquées, sans chiffre précis. Le 17 septembre 2026, il met en avant l'appel d'une vingtaine d'élus locaux. En 2012, il avait renoncé, son équipe affirmant qu'il n'avait pas les 500 signatures.",
+  "sources": [
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2027 : « Je me bats pour être candidat », déclare Dominique de Villepin, qui revendique « plusieurs centaines » de parrainages",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html",
+    "date": "2026-08-30"
+   },
+   {
+    "media": "Anadolu (AA)",
+    "titre": "Présidentielle 2027 : Villepin affirme vouloir être candidat et disposer de « plusieurs centaines de parrainages »",
+    "url": "https://www.aa.com.tr/fr/france/pr%C3%A9sidentielle-2027-villepin-affirme-vouloir-%C3%AAtre-candidat-et-disposer-de-plusieurs-centaines-de-parrainages-/4041546",
+    "date": "2026-08-30"
+   },
+   {
+    "media": "L'Opinion",
+    "titre": "« Quelque chose doit changer » : l'appel des maires en faveur de Dominique de Villepin pour 2027",
+    "url": "https://www.lopinion.fr/politique/quelque-chose-doit-changer-lappel-des-maires-en-faveur-de-dominique-de-villepin-pour-2027",
+    "date": "2026-09-17"
+   },
+   {
+    "media": "20 Minutes",
+    "titre": "Les 600 signatures de Villepin: info ou intox?",
+    "url": "https://www.20minutes.fr/elections/902255-20120321-600-signatures-villepin-info-intox",
+    "date": "2012-03-21"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "dons"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Aucun compte de campagne présidentielle antérieur. Pour 2027, il dit multiplier les « rendez-vous de collecte » (30 août 2026). Son parti, La France humaniste, créé en juin 2025, est à adhésion gratuite, et ses comptes ne figurent pas encore dans les publications de la CNCCFP (exercice 2024). Aucune alerte sur le financement de campagne.",
+  "sources": [
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2027 : « Je me bats pour être candidat »…",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html",
+    "date": "2026-08-30"
+   },
+   {
+    "media": "Sud Ouest (avec AFP)",
+    "titre": "Dominique de Villepin inaugure les locaux de son parti avec « toute son énergie tendue vers 2027 »",
+    "url": "https://www.sudouest.fr/ile-de-france/paris/dominique-de-villepin-inaugure-les-locaux-de-son-parti-avec-toute-son-energie-tendue-vers-2027-27133746.php",
+    "date": "2025-12-17"
+   },
+   {
+    "media": "CNews",
+    "titre": "« Justice sociale et ordre républicain » : Dominique de Villepin lance son propre parti, baptisé La France humaniste",
+    "url": "https://www.cnews.fr/france/2025-06-24/justice-sociale-et-ordre-republicain-dominique-de-villepin-lance-son-propre-parti",
+    "date": "2025-06-24"
+   }
+  ]
+ }
 }

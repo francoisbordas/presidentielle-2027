@@ -1,1053 +1,1122 @@
 {
-  "id": "fabien-roussel",
-  "nom": "Fabien Roussel",
-  "naissance": "1969-04-16",
-  "lieu_naissance": "Béthune (Pas-de-Calais)",
-  "parti": "Parti communiste français",
-  "parti_sigle": "PCF",
-  "famille": "gauche",
-  "position": -6.5,
-  "position_justif": {
-    "texte": "Candidat du PCF, classé « gauche radicale » par Wikipédia (positionnement actuel du parti, extrême gauche historiquement). Valeur −6,5 retenue selon le barème PCF ; Fabien Roussel se démarque de LFI sur la sécurité, le nucléaire ou le RSA (« gauche du travail »), ce qui ne justifie pas de le placer plus à gauche.",
-    "sources": [
-      {
-        "media": "Wikipédia",
-        "titre": "Parti communiste français",
-        "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais",
-        "date": "2026-09-25"
-      },
-      {
-        "media": "Wikipédia",
-        "titre": "Fabien Roussel",
-        "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-        "date": "2026-09-25"
-      },
-      {
-        "media": "Les Échos",
-        "titre": "Sécurité, nucléaire : le candidat du PCF Fabien Roussel affiche son originalité à gauche",
-        "url": "https://www.lesechos.fr/politique-societe/politique/securite-nucleaire-le-candidat-du-pcf-affiche-son-originalite-a-gauche-1360051",
-        "date": "2021-11-01"
-      }
-    ]
-  },
-  "statut": "investi",
-  "photo": {
-    "fichier": "img/candidats/fabien-roussel.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg",
-    "auteur": "Zouhair Nakara",
-    "licence": "CC BY-SA 4.0"
-  },
-  "logo_parti": {
-    "fichier": "img/partis/pcf.svg",
-    "source_url": "https://fr.wikipedia.org/wiki/Fichier:Logo_du_Parti_communiste_fran%C3%A7ais_(2018,_rouge).svg",
-    "licence": "Marque déposée (logo non libre, hébergé sur Wikipédia en français)"
-  },
-  "bio": {
-    "etudes": [
-      {
-        "texte": "Formé au métier de journaliste reporter d'images (JRI) au Centre de formation des journalistes (CFPJ) ; aucune mention de diplôme universitaire dans les sources consultées.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Fabien Roussel",
-            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "France Culture",
-            "titre": "Fabien Roussel : de la carte de presse à la carte du PCF",
-            "url": "https://www.franceculture.fr/emissions/comme-personne/fabien-roussel-de-la-carte-de-presse-a-la-carte-du-pcf",
-            "date": "2020-12-18"
-          }
-        ]
-      }
-    ],
-    "carriere_hors_politique": [
-      {
-        "texte": "Journaliste : entré à L'Humanité en 1989 (stagiaire, coursier, iconographe), puis pigiste pour France 3 (émission « Au bout de la rue », 1995-1996) ; son site de campagne 2027 le présente comme « journaliste de métier ».",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Fabien Roussel",
-            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Site de campagne",
-            "titre": "Fabien Roussel 2027 – VIVRE !",
-            "url": "https://www.fabienroussel2027.fr/",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "France Culture",
-            "titre": "Fabien Roussel : de la carte de presse à la carte du PCF",
-            "url": "https://www.franceculture.fr/emissions/comme-personne/fabien-roussel-de-la-carte-de-presse-a-la-carte-du-pcf",
-            "date": "2020-12-18"
-          }
-        ]
-      },
-      {
-        "texte": "Conseiller chargé de la communication au cabinet de Michelle Demessine, secrétaire d'État au Tourisme (1997), puis assistant parlementaire des députés communistes du Nord Alain Bocquet et Jean-Jacques Candelier (2009-2014), et de la sénatrice Michelle Demessine (2015-2017).",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Fabien Roussel",
-            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "L'Obs",
-            "titre": "Qui est le nouveau patron des communistes ? 10 choses à savoir sur Fabien Roussel",
-            "url": "https://www.nouvelobs.com/politique/20181123.OBS5965/qui-est-le-nouveau-patron-des-communistes-10-choses-a-savoir-sur-fabien-roussel.html",
-            "date": "2018-11-25"
-          }
-        ]
-      }
-    ],
-    "mandats": [
-      {
-        "texte": "Conseiller municipal de Saint-Amand-les-Eaux (Nord) depuis mars 2014.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Fabien Roussel",
-            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Saint-Amand-les-Eaux (archive)",
-            "titre": "Conseil municipal de Saint-Amand-les-Eaux",
-            "url": "https://web.archive.org/web/20181029085655/http://www.saint-amand-les-eaux.fr:80/fr/conseil-municipale-de-saint-amand-les-eaux.htm",
-            "date": "2018-10-29"
-          }
-        ]
-      },
-      {
-        "texte": "Député de la 20e circonscription du Nord de juin 2017 à juin 2024, succédant à Alain Bocquet ; réélu en 2022.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Fabien Roussel",
-            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Assemblée nationale",
-            "titre": "Fiche de député – Fabien Roussel",
-            "url": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720692",
-            "date": "2026-09-25"
-          }
-        ]
-      },
-      {
-        "texte": "Battu dès le premier tour des législatives de 2024 (31,19 %) par le candidat RN Guillaume Florquin (50,3 %).",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Fabien Roussel",
-            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "franceinfo",
-            "titre": "Législatives 2024 : le communiste Fabien Roussel battu dès le premier tour par un candidat RN",
-            "url": "https://www.franceinfo.fr/elections/legislatives-2024-le-communiste-fabien-roussel-battu-des-le-premier-tour-par-un-candidat-rn_6638694.html",
-            "date": "2024-06-30"
-          },
-          {
-            "media": "Le Monde",
-            "titre": "Fabien Roussel battu dès le premier tour des législatives 2024, un coup dur pour les communistes",
-            "url": "https://www.lemonde.fr/politique/article/2024/07/01/fabien-roussel-battu-des-le-premier-tour-des-legislatives-2024-un-coup-dur-pour-les-communistes_6245687_823448.html",
-            "date": "2024-07-01"
-          }
-        ]
-      },
-      {
-        "texte": "Secrétaire national du Parti communiste français depuis le 25 novembre 2018 (succédant à Pierre Laurent), reconduit en 2023 puis le 5 juillet 2026 au congrès de Lille avec 70,1 % des voix.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Fabien Roussel",
-            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Le Monde",
-            "titre": "Fabien Roussel élu secrétaire national du Parti communiste français",
-            "url": "https://www.lemonde.fr/politique/article/2018/11/25/fabien-roussel-elu-secretaire-national-du-parti-communiste-francais_5388353_823448.html",
-            "date": "2018-11-25"
-          },
-          {
-            "media": "franceinfo",
-            "titre": "Réélu à la tête du Parti communiste, Fabien Roussel fait un pas de plus vers sa candidature à la présidentielle",
-            "url": "https://www.franceinfo.fr/politique/fabien-roussel/reelu-a-la-tete-du-pcf-fabien-roussel-fait-un-pas-de-plus-vers-sa-candidature-a-la-presidentielle_8094911.html",
-            "date": "2026-07-05"
-          }
-        ]
-      },
-      {
-        "texte": "Maire de Saint-Amand-les-Eaux depuis le 30 janvier 2025 (succédant à Alain Bocquet) ; réélu dès le premier tour des municipales du 15 mars 2026 (51,06 %).",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Fabien Roussel",
-            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "BFMTV",
-            "titre": "Nord: Fabien Roussel devient maire de Saint-Amand-les-Eaux",
-            "url": "https://www.bfmtv.com/grand-lille/nord-fabien-roussel-devient-maire-de-saint-amand-les-eaux_AN-202501300994.html",
-            "date": "2025-01-30"
-          },
-          {
-            "media": "Libération",
-            "titre": "Résultats des municipales à Saint-Amand-les-Eaux : Fabien Roussel réélu dès le premier tour",
-            "url": "https://www.liberation.fr/politique/elections/resultats-des-municipales-a-saint-amand-les-eaux-fabien-roussel-reelu-des-le-premier-tour-20260315_EQO2AIZEIZBLHOMBSZ7DE7N4UU/",
-            "date": "2026-03-15"
-          }
-        ]
-      },
-      {
-        "texte": "Tête de liste PCF aux régionales 2015 en Nord-Pas-de-Calais-Picardie (5,32 %, aucun siège).",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Fabien Roussel",
-            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Ministère de l'Intérieur",
-            "titre": "Résultats des élections régionales de 2015 – Nord-Pas-de-Calais-Picardie",
-            "url": "https://www.interieur.gouv.fr/Elections/Les-resultats/Regionales/elecresult__regionales-2015/(path)/regionales-2015/32/32.html",
-            "date": "2015-12"
-          }
-        ]
-      }
-    ],
-    "autres": [
-      {
-        "texte": "Candidat du PCF à la présidentielle 2022 : 802 422 voix, 2,28 %, 8e position. LFI lui reproche d'avoir privé Jean-Luc Mélenchon du second tour (il manquait environ 420 000 voix à ce dernier).",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Fabien Roussel",
-            "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Ministère de l'Intérieur",
-            "titre": "Résultats de l'élection présidentielle 2022 – France entière",
-            "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/FE.php",
-            "date": "2022-04-10"
-          },
-          {
-            "media": "franceinfo",
-            "titre": "Réélu à la tête du Parti communiste, Fabien Roussel fait un pas de plus vers sa candidature à la présidentielle",
-            "url": "https://www.franceinfo.fr/politique/fabien-roussel/reelu-a-la-tete-du-pcf-fabien-roussel-fait-un-pas-de-plus-vers-sa-candidature-a-la-presidentielle_8094911.html",
-            "date": "2026-07-05"
-          }
-        ]
-      },
-      {
-        "texte": "Candidature 2027 validée par 72 % des adhérents du PCF (vote du 3 au 6 septembre 2026) et annoncée le 6 septembre 2026 sur TF1, avec le slogan « Vivre » ; candidature autonome, hors primaire de la gauche.",
-        "sources": [
-          {
-            "media": "LCP",
-            "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
-            "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
-            "date": "2026-09-06"
-          },
-          {
-            "media": "franceinfo",
-            "titre": "Le communiste Fabien Roussel officialise sa candidature à l'élection présidentielle de 2027 pour défendre \"un projet de rupture\"",
-            "url": "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html",
-            "date": "2026-09-06"
-          },
-          {
-            "media": "PCF (site officiel)",
-            "titre": "Élection présidentielle : Fabien Roussel désigné candidat à 72% par les communistes",
-            "url": "https://www.pcf.fr/presidentielle2027_fabien_roussel_designe_candidat",
-            "date": "2026-09-06"
-          },
-          {
-            "media": "Le Figaro",
-            "titre": "Présidentielle 2027 : adoubé par ses militants, le communiste Fabien Roussel officialise sa candidature en solitaire",
-            "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-adoube-par-ses-militants-le-communiste-fabien-roussel-officialise-sa-candidature-en-solitaire-20260906",
-            "date": "2026-09-06"
-          }
-        ]
-      },
-      {
-        "texte": "Déclare en juin 2026 qu'il n'est « pas envisageable » pour le PCF de soutenir Jean-Luc Mélenchon ou Raphaël Glucksmann en 2027.",
-        "sources": [
-          {
-            "media": "franceinfo",
-            "titre": "Présidentielle 2027 : \"Pour nous, il n'est pas envisageable de soutenir Jean-Luc Mélenchon ou Raphaël Glucksmann\", souligne Fabien Roussel",
-            "url": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-pour-nous-il-n-est-pas-envisageable-de-soutenir-jean-luc-melenchon-ou-raphael-glucksmann-souligne-fabien-roussel_8039078.html",
-            "date": "2026-06-01"
-          }
-        ]
-      },
-      {
-        "texte": "Reproche en avril 2026 à LFI de faire du « communautarisme » avec le concept de « Nouvelle France » de Jean-Luc Mélenchon.",
-        "sources": [
-          {
-            "media": "franceinfo",
-            "titre": "Fabien Roussel reproche à LFI de faire du \"communautarisme\" et de contribuer à \"fracturer la France\"",
-            "url": "https://www.franceinfo.fr/politique/fabien-roussel/fabien-roussel-reproche-a-lfi-de-faire-du-communautarisme-et-de-contribuer-a-fracturer-la-france_7908554.html",
-            "date": "2026-04-01"
-          }
-        ]
-      },
-      {
-        "texte": "En juillet 2024, des enregistrements diffusés sur X le montrent envisager une majorité parlementaire « sans les insoumis » ; il en a confirmé l'authenticité tout en contestant vouloir quitter l'alliance de gauche.",
-        "sources": [
-          {
-            "media": "franceinfo",
-            "titre": "Législatives 2024 : ce que l'on sait des enregistrements de Fabien Roussel autour d'une potentielle coalition sans La France insoumise à l'Assemblée",
-            "url": "https://www.franceinfo.fr/elections/legislatives/legislatives-2024-ce-que-l-on-sait-des-enregistrements-de-fabien-roussel-autour-d-une-potentielle-coalition-sans-la-france-insoumise-a-l-assemblee_6657921.html",
-            "date": "2024-07-10"
-          }
-        ]
-      }
-    ]
-  },
-  "programme": {
-    "economie_fiscalite": {
-      "resume": "Propose de rétablir l'ISF, de soumettre revenus financiers et dividendes à cotisations, de nationaliser une grande banque (pôle public bancaire) et TotalEnergies, et de punir la fraude fiscale de prison et de privation des droits civiques.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Déclare à la Fête de l'Humanité 2026 : « nous rétablirons l'impôt de solidarité sur la fortune » et « nous mettrons des cotisations sur les revenus financiers et sur les dividendes ». Le rétablissement de l'ISF figurait déjà dans son programme 2022.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
-              "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
-              "date": "2026-09-15"
-            },
-            {
-              "media": "BFMTV",
-              "titre": "Présidentielle: Smic à 1500 euros, rétablissement de l'ISF… Roussel égraine ses propositions économiques",
-              "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/presidentielle-a-marseille-roussel-promet-un-smic-a-1500-euros-et-le-retablissement-de-l-isf_AV-202202060185.html",
-              "date": "2022-02-06"
-            }
-          ]
-        },
-        {
-          "texte": "Propose de « nationaliser une grande banque » et de construire un pôle public bancaire prêtant à taux bonifiés, nuls voire négatifs selon des critères sociaux et écologiques.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
-              "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
-              "date": "2026-09-15"
-            }
-          ]
-        },
-        {
-          "texte": "Le PCF propose de nationaliser TotalEnergies en indemnisant les petits actionnaires au cours du marché (moins de 20 milliards d'euros selon le parti), via des obligations d'État sur 30 ans.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "TotalEnergies : assez de profit sur la crise, nationalisation !",
-              "url": "https://www.pcf.fr/nationalisation_total",
-              "date": "2026-09"
-            }
-          ]
-        },
-        {
-          "texte": "Propose de lutter contre la fraude et l'évasion fiscales par des peines de prison et la privation des droits civiques.",
-          "sources": [
-            {
-              "media": "LCP",
-              "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
-              "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
-              "date": "2026-09-06"
-            },
-            {
-              "media": "France 24 (AFP)",
-              "titre": "Fraude fiscale: Roussel (PCF) veut la \"prison ferme\" pour les coupables",
-              "url": "https://www.france24.com/fr/info-en-continu/20210615-fraude-fiscale-roussel-pcf-veut-la-prison-ferme-pour-les-coupables",
-              "date": "2021-06-15"
-            }
-          ]
-        }
-      ]
-    },
-    "budget_dette": {
-      "resume": "Attribue la hausse de la dette aux gouvernements depuis 2017 et propose de financer l'investissement public par un pôle bancaire public ; le programme PCF chiffre ses dépenses publiques à environ 300 milliards d'euros par an.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Affirme que la France a payé 1 350 milliards d'euros d'intérêts sur sa dette et en impute la hausse à Emmanuel Macron ; propose de financer l'économie par une banque nationalisée et un pôle public bancaire.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
-              "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
-              "date": "2026-09-15"
-            }
-          ]
-        },
-        {
-          "texte": "Le programme du PCF (rubrique « Moyens », rédigé pour 2022) estime ses mesures à « de l'ordre de 300 milliards » d'euros de dépenses publiques par an, et prévoit un fonds de 250 milliards d'euros abondé par la Caisse des dépôts et Bpifrance.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Moyen n°1 : financement du programme",
-              "url": "https://www.pcf.fr/moyen_1",
-              "date": "2026-09-25"
-            }
-          ]
-        }
-      ]
-    },
-    "retraites": {
-      "resume": "Propose le retour de la retraite à 60 ans à taux plein, avec une pension égale à 75 % du revenu net d'activité et aucune pension inférieure à 1 200 € net.",
-      "origine": "programme 2022",
-      "details": [
-        {
-          "texte": "Le programme du PCF prévoit une loi rétablissant la retraite à 60 ans à taux plein pour une carrière complète, avec une pension atteignant 75 % du revenu net d'activité.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Objectif n°1 : une révolution du travail et la revalorisation des salaires",
-              "url": "https://www.pcf.fr/objectif_1",
-              "date": "2026-09-25"
-            },
-            {
-              "media": "L'Humanité",
-              "titre": "Retraites. Fabien Roussel propose une réforme « juste »",
-              "url": "https://www.humanite.fr/retraites-fabien-roussel-propose-une-reforme-juste-710546",
-              "date": "2021-06-10"
-            }
-          ]
-        },
-        {
-          "texte": "Le programme du PCF fixe à 1 200 euros net le minimum de pension et prévoit de rétablir la demi-part des veuves et des veufs.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Objectif n°1 : une révolution du travail et la revalorisation des salaires",
-              "url": "https://www.pcf.fr/objectif_1",
-              "date": "2026-09-25"
-            }
-          ]
-        }
-      ]
-    },
-    "travail_salaires": {
-      "resume": "Propose d'augmenter le Smic (1 500 € net en 2022, 1 600 € net dans le programme en ligne du PCF), de passer aux 32 heures sans perte de salaire, de remplacer le RSA par un emploi ou une formation salariés, et d'abroger la loi Travail.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "En 2022, il proposait un Smic à 1 500 euros net.",
-          "sources": [
-            {
-              "media": "Wikipédia",
-              "titre": "Fabien Roussel",
-              "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-              "date": "2026-09-25"
-            },
-            {
-              "media": "BFMTV",
-              "titre": "Présidentielle: Smic à 1500 euros, rétablissement de l'ISF… Roussel égraine ses propositions économiques",
-              "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/presidentielle-a-marseille-roussel-promet-un-smic-a-1500-euros-et-le-retablissement-de-l-isf_AV-202202060185.html",
-              "date": "2022-02-06"
-            }
-          ]
-        },
-        {
-          "texte": "Le programme publié sur le site du PCF prévoit un Smic à 1 600 euros net par mois (2 021 euros brut) et une hausse de 30 % des salaires de la fonction publique.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Objectif n°1 : une révolution du travail et la revalorisation des salaires",
-              "url": "https://www.pcf.fr/objectif_1",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "Le programme du PCF prévoit de passer la semaine de travail à 32 heures, sans diminution de salaire.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Objectif n°1 : une révolution du travail et la revalorisation des salaires",
-              "url": "https://www.pcf.fr/objectif_1",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "Propose de « remplacer le RSA par un salaire » en proposant « à chaque Français un emploi ou une formation » rémunérés à temps plein (livre « Le parti pris du travail », avril 2025).",
-          "sources": [
-            {
-              "media": "franceinfo",
-              "titre": "Fabien Roussel veut \"remplacer le RSA par un salaire\", en échange \"d'un emploi ou d'une formation\" proposés \"à chaque Français\"",
-              "url": "https://www.franceinfo.fr/economie/emploi/fabien-roussel-veut-remplacer-le-rsa-par-un-salaire-en-echange-d-un-emploi-ou-d-une-formation-proposes-a-chaque-francais_7205565.html",
-              "date": "2025-04-23"
-            },
-            {
-              "media": "Le Figaro",
-              "titre": "Le communiste Fabien Roussel réaffirme sa volonté de «supprimer le RSA»",
-              "url": "https://www.lefigaro.fr/politique/le-communiste-fabien-roussel-renouvelle-sa-volonte-de-supprimer-le-rsa-20250220",
-              "date": "2025-02-20"
-            }
-          ]
-        },
-        {
-          "texte": "Annonce vouloir abroger la loi Travail, rétablir les CHSCT et les délégués du personnel, et instaurer autant de représentants des salariés que des actionnaires dans les conseils d'administration.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
-              "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
-              "date": "2026-09-15"
-            }
-          ]
-        }
-      ]
-    },
-    "sante": {
-      "resume": "Le programme PCF prévoit un remboursement des soins à 100 % par la Sécurité sociale, 100 000 emplois à l'hôpital public, 12 000 places par an en études de médecine et 300 000 emplois en Ehpad.",
-      "origine": "programme 2022",
-      "details": [
-        {
-          "texte": "Le programme du PCF vise une prise en charge des soins à 100 % par la Sécurité sociale, l'ouverture de 12 000 places par an en études de médecine (au lieu de 8 000) et la création de 100 000 emplois dans l'hôpital public.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Objectif n°2 : priorité aux biens communs, services publics et Sécurité sociale",
-              "url": "https://www.pcf.fr/objectif_2",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "Le programme du PCF prévoit 300 000 emplois en Ehpad et 100 000 aides à domicile sur trois ans, financés par une contribution de 2 % sur les dividendes.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Objectif n°2 : priorité aux biens communs, services publics et Sécurité sociale",
-              "url": "https://www.pcf.fr/objectif_2",
-              "date": "2026-09-25"
-            }
-          ]
-        }
-      ]
-    },
-    "education": {
-      "resume": "Le programme PCF prévoit 90 000 recrutements d'enseignants, un budget de l'Éducation nationale porté à 80 milliards d'euros (+45 %), un revenu étudiant de 850 € par mois et la scolarisation garantie dès 2 ans.",
-      "origine": "programme 2022",
-      "details": [
-        {
-          "texte": "Le programme du PCF prévoit 90 000 recrutements d'enseignants, une hausse de 30 % de leurs salaires et un budget de l'Éducation nationale porté à 80 milliards d'euros (+45 %), avec un temps scolaire de 27 heures en primaire et 32 heures au collège.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Objectif n°2 : priorité aux biens communs, services publics et Sécurité sociale",
-              "url": "https://www.pcf.fr/objectif_2",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "Le programme du PCF prévoit un revenu de 850 euros par mois pour tous les étudiants, l'ouverture du RSA aux moins de 25 ans et la gratuité du permis de conduire pour les moins de 25 ans.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Objectif n°3 : la jeunesse, avenir de la France",
-              "url": "https://www.pcf.fr/objectif_3",
-              "date": "2026-09-25"
-            }
-          ]
-        }
-      ]
-    },
-    "immigration": {
-      "resume": "A dénoncé des frontières « transformées en passoires » (2023), en précisant viser la circulation des biens et des capitaux ; affirme en 2026 que les immigrés ne sont pas responsables des fermetures d'usines et s'oppose à l'interdiction du voile dans l'espace public.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "En avril 2023, il déclare que les gouvernements ont « transformé nos frontières en passoires » ; critiqué à gauche, il explique viser les délocalisations et l'évasion fiscale, pas l'immigration.",
-          "sources": [
-            {
-              "media": "Wikipédia",
-              "titre": "Fabien Roussel",
-              "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-              "date": "2026-09-25"
-            },
-            {
-              "media": "franceinfo",
-              "titre": "CHRONIQUE. Immigration : nos frontières sont-elles \"des passoires\" ?",
-              "url": "https://www.franceinfo.fr/replay-radio/entre-les-lignes/immigration-nos-frontieres-sont-elles-des-passoires_5746598.html",
-              "date": "2023-04-16"
-            }
-          ]
-        },
-        {
-          "texte": "Déclare à la Fête de l'Humanité 2026 que « ce n'est pas à cause des étrangers et des immigrés » que des usines sont menacées, et que c'est le racisme qu'« il faut interdire partout et pas le voile ».",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
-              "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
-              "date": "2026-09-15"
-            }
-          ]
-        }
-      ]
-    },
-    "securite_justice": {
-      "resume": "Propose de recruter 60 000 policiers, enquêteurs et douaniers (2,5 milliards d'euros) contre le narcotrafic ; son programme 2022 prévoyait 30 000 policiers de proximité et 25 000 magistrats et éducateurs.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "En novembre 2025 à Marseille, il propose d'embaucher 60 000 policiers, enquêteurs et douaniers contre le narcotrafic, chiffrant la mesure à 2,5 milliards d'euros, et déclare : « Jamais nous ne dirons \"Tout le monde déteste la police\" ».",
-          "sources": [
-            {
-              "media": "franceinfo",
-              "titre": "Fabien Roussel veut 60 000 policiers et douaniers de plus pour mener \"un combat sans merci\" contre le narcotrafic",
-              "url": "https://www.franceinfo.fr/societe/drogue/fabien-roussel-veut-60-000-policiers-et-douaniers-de-plus-pour-mener-un-combat-sans-merci-contre-le-narcotrafic_7635125.html",
-              "date": "2025-11-23"
-            }
-          ]
-        },
-        {
-          "texte": "Le programme du PCF prévoit le recrutement de 30 000 policiers de proximité et de 25 000 magistrats et éducateurs.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Objectif n°2 : priorité aux biens communs, services publics et Sécurité sociale",
-              "url": "https://www.pcf.fr/objectif_2",
-              "date": "2026-09-25"
-            },
-            {
-              "media": "Wikipédia",
-              "titre": "Fabien Roussel",
-              "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-              "date": "2026-09-25"
-            }
-          ]
-        }
-      ]
-    },
-    "defense_international": {
-      "resume": "Place « la paix au cœur » de sa campagne, refuse de voter des crédits militaires pour des guerres « qui ne sont pas les nôtres » et prône des négociations sur l'Ukraine ; il proposait en 2021 de quitter le commandement intégré de l'OTAN.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Déclare en septembre 2026 que « nous mettrons la question de la paix au cœur de cette campagne » et que la France doit participer « à toutes les coalitions internationales pour faire taire les armes ».",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
-              "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
-              "date": "2026-09-15"
-            },
-            {
-              "media": "Site de campagne",
-              "titre": "Fabien Roussel 2027 – VIVRE !",
-              "url": "https://www.fabienroussel2027.fr/",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "En novembre 2025, il déclare : « Jamais nous ne voterons des crédits militaires et les pleins pouvoirs à des dirigeants prêts à envoyer nos enfants se faire tuer pour des guerres qui ne sont pas les nôtres », renvoyant dos à dos le « nationalisme de Poutine » et les partisans d'une guerre contre la Russie.",
-          "sources": [
-            {
-              "media": "franceinfo",
-              "titre": "Fabien Roussel veut 60 000 policiers et douaniers de plus pour mener \"un combat sans merci\" contre le narcotrafic",
-              "url": "https://www.franceinfo.fr/societe/drogue/fabien-roussel-veut-60-000-policiers-et-douaniers-de-plus-pour-mener-un-combat-sans-merci-contre-le-narcotrafic_7635125.html",
-              "date": "2025-11-23"
-            }
-          ]
-        },
-        {
-          "texte": "En mars 2024, il s'oppose à l'hypothèse d'un envoi de troupes en Ukraine et demande l'ouverture de négociations entre Moscou et Kiev.",
-          "sources": [
-            {
-              "media": "franceinfo",
-              "titre": "Guerre en Ukraine : Fabien Roussel craint une \"escalade guerrière\" conduisant à \"un conflit généralisé\"",
-              "url": "https://www.franceinfo.fr/replay-radio/le-grand-temoin/guerre-en-ukraine-fabien-roussel-craint-une-escalade-guerriere-conduisant-a-un-conflit-generalise_6381652.html",
-              "date": "2024-03-08"
-            }
-          ]
-        },
-        {
-          "texte": "En 2021, il proposait de quitter le commandement intégré de l'OTAN ; selon Wikipédia, il a ensuite accepté le maintien de la France dans l'Alliance après l'invasion russe de l'Ukraine.",
-          "sources": [
-            {
-              "media": "Wikipédia",
-              "titre": "Fabien Roussel",
-              "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-              "date": "2026-09-25"
-            },
-            {
-              "media": "franceinfo",
-              "titre": "Crise des sous-marins : \"Il faut marquer le coup et quitter le commandement intégré\" de l'Otan, estime Fabien Roussel",
-              "url": "https://www.francetvinfo.fr/monde/asie/crise-des-sous-marins-australiens/video-crise-des-sous-marins-il-faut-marquer-le-coup-et-quitter-le-commandement-integre-de-l-otan-estime-fabien-roussel_4776733.html",
-              "date": "2021-09-19"
-            }
-          ]
-        }
-      ]
-    },
-    "europe": {
-      "resume": "Critique les traités européens et de libre-échange sans proposer de sortie de l'UE ; a proposé un référendum d'initiative parlementaire sur le CETA (2024).",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Critique les traités européens et demande de « retrouver » la souveraineté de la France, sans proposer de sortie de l'Union européenne.",
-          "sources": [
-            {
-              "media": "Wikipédia",
-              "titre": "Fabien Roussel",
-              "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "En avril 2024, il menace de lancer un référendum d'initiative parlementaire si l'Assemblée ne vote pas sur l'accord de libre-échange UE-Canada (CETA).",
-          "sources": [
-            {
-              "media": "franceinfo",
-              "titre": "Ceta : \"S'il le faut, nous lancerons un processus de référendum d'initiative parlementaire\", déclare le communiste Fabien Roussel",
-              "url": "https://www.franceinfo.fr/politique/fabien-roussel/ceta-s-il-le-faut-nous-lancerons-un-processus-de-referendum-d-initiative-parlementaire-declare-le-communiste-fabien-roussel_6476096.html",
-              "date": "2024-04-09"
-            }
-          ]
-        }
-      ]
-    },
-    "energie_climat": {
-      "resume": "Défend un mix nucléaire et renouvelables sous maîtrise publique, propose une baisse de 30 % du prix de l'électricité via EDF, un plafonnement du carburant à 1,60-1,70 €/l, un « état d'urgence énergétique » et la sortie des énergies fossiles en quinze ans.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Favorable au maintien et à la relance du nucléaire, associé aux énergies renouvelables.",
-          "sources": [
-            {
-              "media": "Le Point",
-              "titre": "Fabien Roussel : « Je suis favorable au maintien du nucléaire en France »",
-              "url": "https://www.lepoint.fr/economie/fabien-roussel-je-suis-favorable-au-maintien-du-nucleaire-en-france-20-05-2021-2427383_28.php",
-              "date": "2021-05-20"
-            },
-            {
-              "media": "franceinfo",
-              "titre": "Présidentielle 2022 : Fabien Roussel souhaite relancer le nucléaire",
-              "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/presidentielle-2022-fabien-roussel-souhaite-relancer-le-nucleaire_5065801.html",
-              "date": "2022-04-06"
-            },
-            {
-              "media": "Les Échos",
-              "titre": "Sécurité, nucléaire : le candidat du PCF Fabien Roussel affiche son originalité à gauche",
-              "url": "https://www.lesechos.fr/politique-societe/politique/securite-nucleaire-le-candidat-du-pcf-affiche-son-originalite-a-gauche-1360051",
-              "date": "2021-11-01"
-            }
-          ]
-        },
-        {
-          "texte": "En avril 2026, il demande un plafonnement du prix des carburants à 1,60 ou 1,70 euro, le blocage des marges des pétroliers dont TotalEnergies, et une baisse immédiate de 30 % du prix de l'électricité grâce à la maîtrise publique d'EDF.",
-          "sources": [
-            {
-              "media": "franceinfo",
-              "titre": "1er-Mai : Fabien Roussel \"appelle à une réaction forte des Français du monde du travail\" pour \"que l'Etat protège le pouvoir d'achat\"",
-              "url": "https://www.franceinfo.fr/politique/fabien-roussel/1er-mai-fabien-roussel-appelle-a-une-reaction-forte-des-francais-du-monde-du-travail-pour-que-l-etat-protege-le-pouvoir-d-achat_7936841.html",
-              "date": "2026-04-14"
-            },
-            {
-              "media": "franceinfo",
-              "titre": "Chaleur : \"Il faut faire baisser les factures d'électricité le plus possible pour faire tourner les clim, les ventilos\", exhorte Fabien Roussel",
-              "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/chaleur-il-faut-faire-baisser-les-factures-d-electricite-le-plus-possible-pour-faire-tourner-les-clim-les-ventilos-exhorte-fabien-roussel_8028638.html",
-              "date": "2026-05-26"
-            }
-          ]
-        },
-        {
-          "texte": "En septembre 2026, il réclame un « état d'urgence énergétique » face à la hausse des prix.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Roussel, un candidat en lutte",
-              "url": "https://www.pcf.fr/roussel_un_candidat_en_lutte",
-              "date": "2026-09-23"
-            }
-          ]
-        },
-        {
-          "texte": "Propose de « planifier la sortie des énergies fossiles dans les quinze prochaines années » ; sa candidature met en avant un « plan climat » avec une « trajectoire carbone ».",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
-              "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
-              "date": "2026-09-15"
-            },
-            {
-              "media": "LCP",
-              "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
-              "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
-              "date": "2026-09-06"
-            }
-          ]
-        }
-      ]
-    },
-    "logement": {
-      "resume": "Le programme PCF prévoit 200 000 logements sociaux par an, un loyer plafonné à 20 % des revenus, 10 milliards d'euros par an pour rénover 700 000 logements et l'abrogation de la loi Elan.",
-      "origine": "programme 2022",
-      "details": [
-        {
-          "texte": "Le programme du PCF prévoit la construction de 200 000 logements sociaux par an, l'encadrement des loyers (quittance limitée à 20 % des revenus du foyer), 10 milliards d'euros par an pour rénover 700 000 logements, l'abrogation de la loi Elan et l'interdiction de la vente de logements sociaux.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Objectif n°6 : à la conquête de l'égalité réelle",
-              "url": "https://www.pcf.fr/objectif_6",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "Le programme du PCF prévoit de porter le parc de logements étudiants Crous de 175 000 à 525 000 en cinq ans.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Programme du PCF – Objectif n°3 : la jeunesse, avenir de la France",
-              "url": "https://www.pcf.fr/objectif_3",
-              "date": "2026-09-25"
-            }
-          ]
-        }
-      ]
-    },
-    "agriculture": {
-      "resume": "A soutenu la mobilisation agricole de 2024 et proposé un « Grenelle de l'agriculture » ; veut que la France redevienne « une grande nation agricole » et s'oppose aux accords de libre-échange qui pénalisent l'agriculture.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "En janvier 2024, il soutient la mobilisation des agriculteurs et propose un « Grenelle de l'agriculture » réunissant producteurs, industriels et grande distribution.",
-          "sources": [
-            {
-              "media": "franceinfo",
-              "titre": "Colère des agriculteurs : \"Je soutiens, je partage la colère de cette profession\", assure Fabien Roussel",
-              "url": "https://www.franceinfo.fr/replay-radio/19h20-politique/colere-des-agriculteurs-je-soutiens-je-partage-la-colere-de-cette-profession-assure-fabien-roussel_6303459.html",
-              "date": "2024-01-29"
-            }
-          ]
-        },
-        {
-          "texte": "Déclare en septembre 2026 : « Nous allons redevenir une grande nation agricole en prenant soin de nos agriculteurs, de nos terres comme du vivant ».",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
-              "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
-              "date": "2026-09-15"
-            }
-          ]
-        }
-      ]
-    },
-    "institutions": {
-      "resume": "Propose une « parité sociale » : autant d'ouvriers et d'employés au Parlement, et autant de représentants des salariés que d'actionnaires dans les conseils d'administration.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Propose une « parité sociale » pour qu'il y ait au Parlement « autant d'ouvriers, d'employés et moins d'avocats, de fiscalistes et de financiers », et autant de représentants des salariés que d'actionnaires dans les conseils d'administration.",
-          "sources": [
-            {
-              "media": "PCF (site officiel)",
-              "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
-              "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
-              "date": "2026-09-15"
-            }
-          ]
-        },
-        {
-          "texte": "En 2019, il s'est dit favorable à des référendums d'initiative citoyenne (RIC) « sur tous les sujets ».",
-          "sources": [
-            {
-              "media": "Wikipédia",
-              "titre": "Fabien Roussel",
-              "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-              "date": "2026-09-25"
-            },
-            {
-              "media": "La Voix du Nord",
-              "titre": "Fabien Roussel (PCF) est pour des RIC «sur tous les sujets», y compris la peine de mort",
-              "url": "https://www.lavoixdunord.fr/517856/article/2019-01-08/fabien-roussel-pcf-est-pour-des-ric-sur-tous-les-sujets-y-compris-la-peine-de",
-              "date": "2019-01-08"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "affaires": [
-    {
-      "intitule": "Soupçons d'emploi fictif d'assistant parlementaire (2009-2014)",
-      "statut": "enquete",
-      "date": "2022-03-11",
-      "description": "Mediapart a affirmé le 20 février 2022 n'avoir trouvé aucune trace du travail de Fabien Roussel comme assistant du député Jean-Jacques Candelier entre 2009 et 2014 (environ 3 000 euros par mois). Le Parquet national financier a ouvert une enquête préliminaire pour détournement de fonds publics et recel, confiée à l'OCLCIFF ; Fabien Roussel a été entendu en audition libre fin août 2022. Il conteste les faits et dit avoir suivi les conflits sociaux du Douaisis ; Jean-Jacques Candelier affirme qu'il était bien son assistant. Aucune mise en examen ni décision de classement n'a été trouvée dans les sources au 25 septembre 2026.",
-      "sources": [
-        {
-          "media": "Mediapart",
-          "titre": "À l'Assemblée, un assistant parlementaire fantôme nommé Fabien Roussel",
-          "url": "https://www.mediapart.fr/journal/france/200222/l-assemblee-un-assistant-parlementaire-fantome-nomme-fabien-roussel",
-          "date": "2022-02-20"
-        },
-        {
-          "media": "Le Monde",
-          "titre": "Fabien Roussel visé par une enquête pour emploi fictif sur son activité en tant qu'assistant parlementaire",
-          "url": "https://www.lemonde.fr/politique/article/2022/03/11/fabien-roussel-vise-par-une-enquete-pour-emploi-fictif-sur-son-activite-en-tant-qu-assistant-parlementaire_6117126_823448.html",
-          "date": "2022-03-11"
-        },
-        {
-          "media": "France 24 (AFP)",
-          "titre": "Fabien Roussel visé par une enquête du PNF sur des soupçons d'emploi fictif",
-          "url": "https://www.france24.com/fr/info-en-continu/20220311-fabien-roussel-vis%C3%A9-par-une-enqu%C3%AAte-du-pnf-sur-des-soup%C3%A7ons-d-emploi-fictif",
-          "date": "2022-03-11"
-        },
-        {
-          "media": "franceinfo",
-          "titre": "Fabien Roussel se défend d'avoir occupé un emploi fictif à l'Assemblée nationale",
-          "url": "https://www.franceinfo.fr/elections/presidentielle/fabien-roussel-se-defend-d-avoir-occupe-un-emploi-fictif-a-l-assemblee-nationale_4973568.html",
-          "date": "2022-02-21"
-        },
-        {
-          "media": "franceinfo",
-          "titre": "Soupçons d'emploi fictif : Fabien Roussel entendu fin août par la justice en audition libre",
-          "url": "https://www.franceinfo.fr/politique/fabien-roussel/soupcons-d-emploi-fictif-fabien-roussel-entendu-fin-aout-par-la-justice-en-audition-libre_5357146.html",
-          "date": "2022-09-12"
-        },
-        {
-          "media": "Wikipédia",
-          "titre": "Fabien Roussel",
-          "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-          "date": "2026-09-25"
-        }
-      ]
-    },
-    {
-      "intitule": "Poursuite en diffamation engagée par le Rassemblement national",
-      "statut": "relaxe_ou_non_lieu",
-      "date": "2022-12-15",
-      "description": "Poursuivi par le RN pour des propos tenus le 30 octobre 2019 sur France 2 évoquant l'implication de militants d'extrême droite dans des actions violentes (attaque de la mosquée de Bayonne), Fabien Roussel a été relaxé par le tribunal correctionnel de Paris le 27 janvier 2022 ; la cour d'appel de Paris a confirmé le 15 décembre 2022 en lui reconnaissant la bonne foi (selon le PCF).",
-      "sources": [
-        {
-          "media": "PCF (site officiel)",
-          "titre": "Le Rassemblement national débouté de son action en justice contre Fabien Roussel",
-          "url": "https://www.pcf.fr/le_rassemblement_national_d_bout_de_son_action_en_justice_contre_fabien_roussel",
-          "date": "2022-12"
-        }
-      ]
-    }
-  ],
-  "financement": [
-    {
-      "texte": "Présidentielle 2022 : la CNCCFP a approuvé son compte de campagne par décision du 14 décembre 2022 ; dépenses retenues de 812 595 euros, remboursement forfaitaire de l'État de 754 886 euros (plafond de 800 423 euros pour un candidat sous 5 %).",
-      "sources": [
-        {
-          "media": "Légifrance (JORF)",
-          "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Fabien ROUSSEL (CCCJ2300776S)",
-          "url": "https://www.legifrance.gouv.fr/jorf/id/CCCJ2300776S",
-          "date": "2022-12-14"
-        },
-        {
-          "media": "Wikipédia",
-          "titre": "Modèle : Élection présidentielle française de 2022 : comptes",
-          "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le:%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022_:_comptes",
-          "date": "2026-09-25"
-        }
-      ]
-    },
-    {
-      "texte": "Les comptes de campagne des candidats de 2022 ont été validés par la CNCCFP, pour certains avec des réserves.",
-      "sources": [
-        {
-          "media": "Le Monde",
-          "titre": "Les comptes de campagne de l'élection présidentielle 2022 validés, avec des réserves",
-          "url": "https://www.lemonde.fr/politique/article/2023/01/27/les-comptes-de-campagne-de-l-election-presidentielle-2022-valides-avec-des-reserves_6159507_823448.html",
-          "date": "2023-01-27"
-        },
-        {
-          "media": "CNCCFP",
-          "titre": "Élection présidentielle 2022 – Publication des comptes de campagne des candidats",
-          "url": "https://cnccfp.fr/election-presidentielle-2022-publication-des-comptes-de-campagne-des-candidats/",
-          "date": "2022-07-19"
-        }
-      ]
-    },
-    {
-      "texte": "Selon le rapport de la CNCCFP sur l'exercice 2024, le PCF est le parti à la meilleure situation financière : bilan de 39,8 millions d'euros, 5,3 millions de dettes, soit 34,5 millions d'euros de situation nette (patrimoine immobilier compris) ; il a perçu 17,4 millions d'euros de dons et cotisations.",
-      "sources": [
-        {
-          "media": "Public Sénat",
-          "titre": "Explosion des micro-partis, formations dans le rouge, aides publiques et surprises… Ce que révèle le rapport de la commission des comptes de campagne",
-          "url": "https://www.publicsenat.fr/actualites/politique/explosion-des-micro-partis-formations-dans-le-rouge-aides-publiques-et-surprises-ce-que-revele-le-rapport-de-la-commission-des-comptes-de-campagne",
-          "date": "2026-06-25"
-        },
-        {
-          "media": "Wikipédia",
-          "titre": "Parti communiste français",
-          "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais",
-          "date": "2026-09-25"
-        }
-      ]
-    },
-    {
-      "texte": "Le PCF est largement financé par les cotisations (1 % du revenu des adhérents) et par le reversement d'une partie des indemnités de ses élus ; il revendique 6 700 élus et 37 620 adhérents à jour de cotisation en 2026.",
-      "sources": [
-        {
-          "media": "franceinfo",
-          "titre": "\"Il y a un enracinement dans le territoire à conserver\" : le Parti communiste français, troisième force municipale, compte bien garder son rang",
-          "url": "https://www.franceinfo.fr/elections/il-y-a-un-enracinement-dans-le-territoire-a-conserver-le-parti-communiste-francais-troisieme-force-municipale-compte-bien-garder-son-rang_7824767.html",
-          "date": "2026-03-06"
-        },
-        {
-          "media": "Le Point",
-          "titre": "Pourquoi les finances du PCF ne sont pas dans le rouge",
-          "url": "https://www.lepoint.fr/politique/pourquoi-les-finances-du-pcf-ne-sont-pas-dans-le-rouge-14-04-2022-2472128_20.php",
-          "date": "2022-04-14"
-        },
-        {
-          "media": "PCF (site officiel)",
-          "titre": "Élection présidentielle : Fabien Roussel désigné candidat à 72% par les communistes",
-          "url": "https://www.pcf.fr/presidentielle2027_fabien_roussel_designe_candidat",
-          "date": "2026-09-06"
-        },
-        {
-          "media": "Wikipédia",
-          "titre": "Parti communiste français",
-          "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais",
-          "date": "2026-09-25"
-        }
-      ]
-    },
-    {
-      "texte": "En 2022, il déclarait reverser 2 000 euros par mois de ses indemnités de député à son parti.",
-      "sources": [
-        {
-          "media": "Wikipédia",
-          "titre": "Fabien Roussel",
-          "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
-          "date": "2026-09-25"
-        },
-        {
-          "media": "Yahoo Actualités",
-          "titre": "Fabien Roussel dans Président 2022 : \"Je reverse 2000 euros par mois de mes émoluments à mon parti…\"",
-          "url": "https://fr.news.yahoo.com/fabien-roussel-candidat-election-presidentielles-melenchon-jadot-macron-poutine-090816457.html",
-          "date": "2022-03-10"
-        }
-      ]
-    }
+ "id": "fabien-roussel",
+ "nom": "Fabien Roussel",
+ "naissance": "1969-04-16",
+ "lieu_naissance": "Béthune (Pas-de-Calais)",
+ "parti": "Parti communiste français",
+ "parti_sigle": "PCF",
+ "famille": "gauche",
+ "position": -6.5,
+ "position_justif": {
+  "texte": "Candidat du PCF, classé « gauche radicale » par Wikipédia (positionnement actuel du parti, extrême gauche historiquement). Valeur −6,5 retenue selon le barème PCF ; Fabien Roussel se démarque de LFI sur la sécurité, le nucléaire ou le RSA (« gauche du travail »), ce qui ne justifie pas de le placer plus à gauche.",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Parti communiste français",
+    "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Fabien Roussel",
+    "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Les Échos",
+    "titre": "Sécurité, nucléaire : le candidat du PCF Fabien Roussel affiche son originalité à gauche",
+    "url": "https://www.lesechos.fr/politique-societe/politique/securite-nucleaire-le-candidat-du-pcf-affiche-son-originalite-a-gauche-1360051",
+    "date": "2021-11-01"
+   }
   ]
+ },
+ "statut": "investi",
+ "photo": {
+  "fichier": "img/candidats/fabien-roussel.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg",
+  "auteur": "Zouhair Nakara",
+  "licence": "CC BY-SA 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/pcf.svg",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Logo_du_Parti_communiste_fran%C3%A7ais_(2018,_rouge).svg",
+  "licence": "Marque déposée (logo non libre, hébergé sur Wikipédia en français)"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Formé au métier de journaliste reporter d'images (JRI) au Centre de formation des journalistes (CFPJ) ; aucune mention de diplôme universitaire dans les sources consultées.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Fabien Roussel",
+      "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "France Culture",
+      "titre": "Fabien Roussel : de la carte de presse à la carte du PCF",
+      "url": "https://www.franceculture.fr/emissions/comme-personne/fabien-roussel-de-la-carte-de-presse-a-la-carte-du-pcf",
+      "date": "2020-12-18"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Journaliste : entré à L'Humanité en 1989 (stagiaire, coursier, iconographe), puis pigiste pour France 3 (émission « Au bout de la rue », 1995-1996) ; son site de campagne 2027 le présente comme « journaliste de métier ».",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Fabien Roussel",
+      "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Site de campagne",
+      "titre": "Fabien Roussel 2027 – VIVRE !",
+      "url": "https://www.fabienroussel2027.fr/",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "France Culture",
+      "titre": "Fabien Roussel : de la carte de presse à la carte du PCF",
+      "url": "https://www.franceculture.fr/emissions/comme-personne/fabien-roussel-de-la-carte-de-presse-a-la-carte-du-pcf",
+      "date": "2020-12-18"
+     }
+    ]
+   },
+   {
+    "texte": "Conseiller chargé de la communication au cabinet de Michelle Demessine, secrétaire d'État au Tourisme (1997), puis assistant parlementaire des députés communistes du Nord Alain Bocquet et Jean-Jacques Candelier (2009-2014), et de la sénatrice Michelle Demessine (2015-2017).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Fabien Roussel",
+      "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "L'Obs",
+      "titre": "Qui est le nouveau patron des communistes ? 10 choses à savoir sur Fabien Roussel",
+      "url": "https://www.nouvelobs.com/politique/20181123.OBS5965/qui-est-le-nouveau-patron-des-communistes-10-choses-a-savoir-sur-fabien-roussel.html",
+      "date": "2018-11-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseiller municipal de Saint-Amand-les-Eaux (Nord) depuis mars 2014.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Fabien Roussel",
+      "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Saint-Amand-les-Eaux (archive)",
+      "titre": "Conseil municipal de Saint-Amand-les-Eaux",
+      "url": "https://web.archive.org/web/20181029085655/http://www.saint-amand-les-eaux.fr:80/fr/conseil-municipale-de-saint-amand-les-eaux.htm",
+      "date": "2018-10-29"
+     }
+    ]
+   },
+   {
+    "texte": "Député de la 20e circonscription du Nord de juin 2017 à juin 2024, succédant à Alain Bocquet ; réélu en 2022.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Fabien Roussel",
+      "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Assemblée nationale",
+      "titre": "Fiche de député – Fabien Roussel",
+      "url": "https://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA720692",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Battu dès le premier tour des législatives de 2024 (31,19 %) par le candidat RN Guillaume Florquin (50,3 %).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Fabien Roussel",
+      "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Législatives 2024 : le communiste Fabien Roussel battu dès le premier tour par un candidat RN",
+      "url": "https://www.franceinfo.fr/elections/legislatives-2024-le-communiste-fabien-roussel-battu-des-le-premier-tour-par-un-candidat-rn_6638694.html",
+      "date": "2024-06-30"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Fabien Roussel battu dès le premier tour des législatives 2024, un coup dur pour les communistes",
+      "url": "https://www.lemonde.fr/politique/article/2024/07/01/fabien-roussel-battu-des-le-premier-tour-des-legislatives-2024-un-coup-dur-pour-les-communistes_6245687_823448.html",
+      "date": "2024-07-01"
+     }
+    ]
+   },
+   {
+    "texte": "Secrétaire national du Parti communiste français depuis le 25 novembre 2018 (succédant à Pierre Laurent), reconduit en 2023 puis le 5 juillet 2026 au congrès de Lille avec 70,1 % des voix.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Fabien Roussel",
+      "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Fabien Roussel élu secrétaire national du Parti communiste français",
+      "url": "https://www.lemonde.fr/politique/article/2018/11/25/fabien-roussel-elu-secretaire-national-du-parti-communiste-francais_5388353_823448.html",
+      "date": "2018-11-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Réélu à la tête du Parti communiste, Fabien Roussel fait un pas de plus vers sa candidature à la présidentielle",
+      "url": "https://www.franceinfo.fr/politique/fabien-roussel/reelu-a-la-tete-du-pcf-fabien-roussel-fait-un-pas-de-plus-vers-sa-candidature-a-la-presidentielle_8094911.html",
+      "date": "2026-07-05"
+     }
+    ]
+   },
+   {
+    "texte": "Maire de Saint-Amand-les-Eaux depuis le 30 janvier 2025 (succédant à Alain Bocquet) ; réélu dès le premier tour des municipales du 15 mars 2026 (51,06 %).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Fabien Roussel",
+      "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "BFMTV",
+      "titre": "Nord: Fabien Roussel devient maire de Saint-Amand-les-Eaux",
+      "url": "https://www.bfmtv.com/grand-lille/nord-fabien-roussel-devient-maire-de-saint-amand-les-eaux_AN-202501300994.html",
+      "date": "2025-01-30"
+     },
+     {
+      "media": "Libération",
+      "titre": "Résultats des municipales à Saint-Amand-les-Eaux : Fabien Roussel réélu dès le premier tour",
+      "url": "https://www.liberation.fr/politique/elections/resultats-des-municipales-a-saint-amand-les-eaux-fabien-roussel-reelu-des-le-premier-tour-20260315_EQO2AIZEIZBLHOMBSZ7DE7N4UU/",
+      "date": "2026-03-15"
+     }
+    ]
+   },
+   {
+    "texte": "Tête de liste PCF aux régionales 2015 en Nord-Pas-de-Calais-Picardie (5,32 %, aucun siège).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Fabien Roussel",
+      "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Résultats des élections régionales de 2015 – Nord-Pas-de-Calais-Picardie",
+      "url": "https://www.interieur.gouv.fr/Elections/Les-resultats/Regionales/elecresult__regionales-2015/(path)/regionales-2015/32/32.html",
+      "date": "2015-12"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Candidat du PCF à la présidentielle 2022 : 802 422 voix, 2,28 %, 8e position. LFI lui reproche d'avoir privé Jean-Luc Mélenchon du second tour (il manquait environ 420 000 voix à ce dernier).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Fabien Roussel",
+      "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Résultats de l'élection présidentielle 2022 – France entière",
+      "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/FE.php",
+      "date": "2022-04-10"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Réélu à la tête du Parti communiste, Fabien Roussel fait un pas de plus vers sa candidature à la présidentielle",
+      "url": "https://www.franceinfo.fr/politique/fabien-roussel/reelu-a-la-tete-du-pcf-fabien-roussel-fait-un-pas-de-plus-vers-sa-candidature-a-la-presidentielle_8094911.html",
+      "date": "2026-07-05"
+     }
+    ]
+   },
+   {
+    "texte": "Candidature 2027 validée par 72 % des adhérents du PCF (vote du 3 au 6 septembre 2026) et annoncée le 6 septembre 2026 sur TF1, avec le slogan « Vivre » ; candidature autonome, hors primaire de la gauche.",
+    "sources": [
+     {
+      "media": "LCP",
+      "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+      "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+      "date": "2026-09-06"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Le communiste Fabien Roussel officialise sa candidature à l'élection présidentielle de 2027 pour défendre \"un projet de rupture\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html",
+      "date": "2026-09-06"
+     },
+     {
+      "media": "PCF (site officiel)",
+      "titre": "Élection présidentielle : Fabien Roussel désigné candidat à 72% par les communistes",
+      "url": "https://www.pcf.fr/presidentielle2027_fabien_roussel_designe_candidat",
+      "date": "2026-09-06"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Présidentielle 2027 : adoubé par ses militants, le communiste Fabien Roussel officialise sa candidature en solitaire",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/presidentielle-2027-adoube-par-ses-militants-le-communiste-fabien-roussel-officialise-sa-candidature-en-solitaire-20260906",
+      "date": "2026-09-06"
+     }
+    ]
+   },
+   {
+    "texte": "Déclare en juin 2026 qu'il n'est « pas envisageable » pour le PCF de soutenir Jean-Luc Mélenchon ou Raphaël Glucksmann en 2027.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2027 : \"Pour nous, il n'est pas envisageable de soutenir Jean-Luc Mélenchon ou Raphaël Glucksmann\", souligne Fabien Roussel",
+      "url": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-pour-nous-il-n-est-pas-envisageable-de-soutenir-jean-luc-melenchon-ou-raphael-glucksmann-souligne-fabien-roussel_8039078.html",
+      "date": "2026-06-01"
+     }
+    ]
+   },
+   {
+    "texte": "Reproche en avril 2026 à LFI de faire du « communautarisme » avec le concept de « Nouvelle France » de Jean-Luc Mélenchon.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Fabien Roussel reproche à LFI de faire du \"communautarisme\" et de contribuer à \"fracturer la France\"",
+      "url": "https://www.franceinfo.fr/politique/fabien-roussel/fabien-roussel-reproche-a-lfi-de-faire-du-communautarisme-et-de-contribuer-a-fracturer-la-france_7908554.html",
+      "date": "2026-04-01"
+     }
+    ]
+   },
+   {
+    "texte": "En juillet 2024, des enregistrements diffusés sur X le montrent envisager une majorité parlementaire « sans les insoumis » ; il en a confirmé l'authenticité tout en contestant vouloir quitter l'alliance de gauche.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Législatives 2024 : ce que l'on sait des enregistrements de Fabien Roussel autour d'une potentielle coalition sans La France insoumise à l'Assemblée",
+      "url": "https://www.franceinfo.fr/elections/legislatives/legislatives-2024-ce-que-l-on-sait-des-enregistrements-de-fabien-roussel-autour-d-une-potentielle-coalition-sans-la-france-insoumise-a-l-assemblee_6657921.html",
+      "date": "2024-07-10"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "economie_fiscalite": {
+   "resume": "Propose de rétablir l'ISF, de soumettre revenus financiers et dividendes à cotisations, de nationaliser une grande banque (pôle public bancaire) et TotalEnergies, et de punir la fraude fiscale de prison et de privation des droits civiques.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Déclare à la Fête de l'Humanité 2026 : « nous rétablirons l'impôt de solidarité sur la fortune » et « nous mettrons des cotisations sur les revenus financiers et sur les dividendes ». Le rétablissement de l'ISF figurait déjà dans son programme 2022.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
+       "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+       "date": "2026-09-15"
+      },
+      {
+       "media": "BFMTV",
+       "titre": "Présidentielle: Smic à 1500 euros, rétablissement de l'ISF… Roussel égraine ses propositions économiques",
+       "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/presidentielle-a-marseille-roussel-promet-un-smic-a-1500-euros-et-le-retablissement-de-l-isf_AV-202202060185.html",
+       "date": "2022-02-06"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de « nationaliser une grande banque » et de construire un pôle public bancaire prêtant à taux bonifiés, nuls voire négatifs selon des critères sociaux et écologiques.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
+       "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+       "date": "2026-09-15"
+      }
+     ]
+    },
+    {
+     "texte": "Le PCF propose de nationaliser TotalEnergies en indemnisant les petits actionnaires au cours du marché (moins de 20 milliards d'euros selon le parti), via des obligations d'État sur 30 ans.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "TotalEnergies : assez de profit sur la crise, nationalisation !",
+       "url": "https://www.pcf.fr/nationalisation_total",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de lutter contre la fraude et l'évasion fiscales par des peines de prison et la privation des droits civiques.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+       "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+       "date": "2026-09-06"
+      },
+      {
+       "media": "France 24 (AFP)",
+       "titre": "Fraude fiscale: Roussel (PCF) veut la \"prison ferme\" pour les coupables",
+       "url": "https://www.france24.com/fr/info-en-continu/20210615-fraude-fiscale-roussel-pcf-veut-la-prison-ferme-pour-les-coupables",
+       "date": "2021-06-15"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Attribue la hausse de la dette aux gouvernements depuis 2017 et propose de financer l'investissement public par un pôle bancaire public ; le programme PCF chiffre ses dépenses publiques à environ 300 milliards d'euros par an.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Affirme que la France a payé 1 350 milliards d'euros d'intérêts sur sa dette et en impute la hausse à Emmanuel Macron ; propose de financer l'économie par une banque nationalisée et un pôle public bancaire.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
+       "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+       "date": "2026-09-15"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme du PCF (rubrique « Moyens », rédigé pour 2022) estime ses mesures à « de l'ordre de 300 milliards » d'euros de dépenses publiques par an, et prévoit un fonds de 250 milliards d'euros abondé par la Caisse des dépôts et Bpifrance.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Moyen n°1 : financement du programme",
+       "url": "https://www.pcf.fr/moyen_1",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose le retour de la retraite à 60 ans à taux plein, avec une pension égale à 75 % du revenu net d'activité et aucune pension inférieure à 1 200 € net.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Le programme du PCF prévoit une loi rétablissant la retraite à 60 ans à taux plein pour une carrière complète, avec une pension atteignant 75 % du revenu net d'activité.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Objectif n°1 : une révolution du travail et la revalorisation des salaires",
+       "url": "https://www.pcf.fr/objectif_1",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "L'Humanité",
+       "titre": "Retraites. Fabien Roussel propose une réforme « juste »",
+       "url": "https://www.humanite.fr/retraites-fabien-roussel-propose-une-reforme-juste-710546",
+       "date": "2021-06-10"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme du PCF fixe à 1 200 euros net le minimum de pension et prévoit de rétablir la demi-part des veuves et des veufs.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Objectif n°1 : une révolution du travail et la revalorisation des salaires",
+       "url": "https://www.pcf.fr/objectif_1",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose d'augmenter le Smic (1 500 € net en 2022, 1 600 € net dans le programme en ligne du PCF), de passer aux 32 heures sans perte de salaire, de remplacer le RSA par un emploi ou une formation salariés, et d'abroger la loi Travail.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "En 2022, il proposait un Smic à 1 500 euros net.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Fabien Roussel",
+       "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "BFMTV",
+       "titre": "Présidentielle: Smic à 1500 euros, rétablissement de l'ISF… Roussel égraine ses propositions économiques",
+       "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/presidentielle-a-marseille-roussel-promet-un-smic-a-1500-euros-et-le-retablissement-de-l-isf_AV-202202060185.html",
+       "date": "2022-02-06"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme publié sur le site du PCF prévoit un Smic à 1 600 euros net par mois (2 021 euros brut) et une hausse de 30 % des salaires de la fonction publique.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Objectif n°1 : une révolution du travail et la revalorisation des salaires",
+       "url": "https://www.pcf.fr/objectif_1",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme du PCF prévoit de passer la semaine de travail à 32 heures, sans diminution de salaire.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Objectif n°1 : une révolution du travail et la revalorisation des salaires",
+       "url": "https://www.pcf.fr/objectif_1",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de « remplacer le RSA par un salaire » en proposant « à chaque Français un emploi ou une formation » rémunérés à temps plein (livre « Le parti pris du travail », avril 2025).",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Fabien Roussel veut \"remplacer le RSA par un salaire\", en échange \"d'un emploi ou d'une formation\" proposés \"à chaque Français\"",
+       "url": "https://www.franceinfo.fr/economie/emploi/fabien-roussel-veut-remplacer-le-rsa-par-un-salaire-en-echange-d-un-emploi-ou-d-une-formation-proposes-a-chaque-francais_7205565.html",
+       "date": "2025-04-23"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "Le communiste Fabien Roussel réaffirme sa volonté de «supprimer le RSA»",
+       "url": "https://www.lefigaro.fr/politique/le-communiste-fabien-roussel-renouvelle-sa-volonte-de-supprimer-le-rsa-20250220",
+       "date": "2025-02-20"
+      }
+     ]
+    },
+    {
+     "texte": "Annonce vouloir abroger la loi Travail, rétablir les CHSCT et les délégués du personnel, et instaurer autant de représentants des salariés que des actionnaires dans les conseils d'administration.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
+       "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+       "date": "2026-09-15"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Le programme PCF prévoit un remboursement des soins à 100 % par la Sécurité sociale, 100 000 emplois à l'hôpital public, 12 000 places par an en études de médecine et 300 000 emplois en Ehpad.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Le programme du PCF vise une prise en charge des soins à 100 % par la Sécurité sociale, l'ouverture de 12 000 places par an en études de médecine (au lieu de 8 000) et la création de 100 000 emplois dans l'hôpital public.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Objectif n°2 : priorité aux biens communs, services publics et Sécurité sociale",
+       "url": "https://www.pcf.fr/objectif_2",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme du PCF prévoit 300 000 emplois en Ehpad et 100 000 aides à domicile sur trois ans, financés par une contribution de 2 % sur les dividendes.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Objectif n°2 : priorité aux biens communs, services publics et Sécurité sociale",
+       "url": "https://www.pcf.fr/objectif_2",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Le programme PCF prévoit 90 000 recrutements d'enseignants, un budget de l'Éducation nationale porté à 80 milliards d'euros (+45 %), un revenu étudiant de 850 € par mois et la scolarisation garantie dès 2 ans.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Le programme du PCF prévoit 90 000 recrutements d'enseignants, une hausse de 30 % de leurs salaires et un budget de l'Éducation nationale porté à 80 milliards d'euros (+45 %), avec un temps scolaire de 27 heures en primaire et 32 heures au collège.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Objectif n°2 : priorité aux biens communs, services publics et Sécurité sociale",
+       "url": "https://www.pcf.fr/objectif_2",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme du PCF prévoit un revenu de 850 euros par mois pour tous les étudiants, l'ouverture du RSA aux moins de 25 ans et la gratuité du permis de conduire pour les moins de 25 ans.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Objectif n°3 : la jeunesse, avenir de la France",
+       "url": "https://www.pcf.fr/objectif_3",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "A dénoncé des frontières « transformées en passoires » (2023), en précisant viser la circulation des biens et des capitaux ; affirme en 2026 que les immigrés ne sont pas responsables des fermetures d'usines et s'oppose à l'interdiction du voile dans l'espace public.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "En avril 2023, il déclare que les gouvernements ont « transformé nos frontières en passoires » ; critiqué à gauche, il explique viser les délocalisations et l'évasion fiscale, pas l'immigration.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Fabien Roussel",
+       "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "CHRONIQUE. Immigration : nos frontières sont-elles \"des passoires\" ?",
+       "url": "https://www.franceinfo.fr/replay-radio/entre-les-lignes/immigration-nos-frontieres-sont-elles-des-passoires_5746598.html",
+       "date": "2023-04-16"
+      }
+     ]
+    },
+    {
+     "texte": "Déclare à la Fête de l'Humanité 2026 que « ce n'est pas à cause des étrangers et des immigrés » que des usines sont menacées, et que c'est le racisme qu'« il faut interdire partout et pas le voile ».",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
+       "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+       "date": "2026-09-15"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose de recruter 60 000 policiers, enquêteurs et douaniers (2,5 milliards d'euros) contre le narcotrafic ; son programme 2022 prévoyait 30 000 policiers de proximité et 25 000 magistrats et éducateurs.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "En novembre 2025 à Marseille, il propose d'embaucher 60 000 policiers, enquêteurs et douaniers contre le narcotrafic, chiffrant la mesure à 2,5 milliards d'euros, et déclare : « Jamais nous ne dirons \"Tout le monde déteste la police\" ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Fabien Roussel veut 60 000 policiers et douaniers de plus pour mener \"un combat sans merci\" contre le narcotrafic",
+       "url": "https://www.franceinfo.fr/societe/drogue/fabien-roussel-veut-60-000-policiers-et-douaniers-de-plus-pour-mener-un-combat-sans-merci-contre-le-narcotrafic_7635125.html",
+       "date": "2025-11-23"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme du PCF prévoit le recrutement de 30 000 policiers de proximité et de 25 000 magistrats et éducateurs.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Objectif n°2 : priorité aux biens communs, services publics et Sécurité sociale",
+       "url": "https://www.pcf.fr/objectif_2",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Fabien Roussel",
+       "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Place « la paix au cœur » de sa campagne, refuse de voter des crédits militaires pour des guerres « qui ne sont pas les nôtres » et prône des négociations sur l'Ukraine ; il proposait en 2021 de quitter le commandement intégré de l'OTAN.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Déclare en septembre 2026 que « nous mettrons la question de la paix au cœur de cette campagne » et que la France doit participer « à toutes les coalitions internationales pour faire taire les armes ».",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
+       "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+       "date": "2026-09-15"
+      },
+      {
+       "media": "Site de campagne",
+       "titre": "Fabien Roussel 2027 – VIVRE !",
+       "url": "https://www.fabienroussel2027.fr/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "En novembre 2025, il déclare : « Jamais nous ne voterons des crédits militaires et les pleins pouvoirs à des dirigeants prêts à envoyer nos enfants se faire tuer pour des guerres qui ne sont pas les nôtres », renvoyant dos à dos le « nationalisme de Poutine » et les partisans d'une guerre contre la Russie.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Fabien Roussel veut 60 000 policiers et douaniers de plus pour mener \"un combat sans merci\" contre le narcotrafic",
+       "url": "https://www.franceinfo.fr/societe/drogue/fabien-roussel-veut-60-000-policiers-et-douaniers-de-plus-pour-mener-un-combat-sans-merci-contre-le-narcotrafic_7635125.html",
+       "date": "2025-11-23"
+      }
+     ]
+    },
+    {
+     "texte": "En mars 2024, il s'oppose à l'hypothèse d'un envoi de troupes en Ukraine et demande l'ouverture de négociations entre Moscou et Kiev.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Guerre en Ukraine : Fabien Roussel craint une \"escalade guerrière\" conduisant à \"un conflit généralisé\"",
+       "url": "https://www.franceinfo.fr/replay-radio/le-grand-temoin/guerre-en-ukraine-fabien-roussel-craint-une-escalade-guerriere-conduisant-a-un-conflit-generalise_6381652.html",
+       "date": "2024-03-08"
+      }
+     ]
+    },
+    {
+     "texte": "En 2021, il proposait de quitter le commandement intégré de l'OTAN ; selon Wikipédia, il a ensuite accepté le maintien de la France dans l'Alliance après l'invasion russe de l'Ukraine.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Fabien Roussel",
+       "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "Crise des sous-marins : \"Il faut marquer le coup et quitter le commandement intégré\" de l'Otan, estime Fabien Roussel",
+       "url": "https://www.francetvinfo.fr/monde/asie/crise-des-sous-marins-australiens/video-crise-des-sous-marins-il-faut-marquer-le-coup-et-quitter-le-commandement-integre-de-l-otan-estime-fabien-roussel_4776733.html",
+       "date": "2021-09-19"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Critique les traités européens et de libre-échange sans proposer de sortie de l'UE ; a proposé un référendum d'initiative parlementaire sur le CETA (2024).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Critique les traités européens et demande de « retrouver » la souveraineté de la France, sans proposer de sortie de l'Union européenne.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Fabien Roussel",
+       "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "En avril 2024, il menace de lancer un référendum d'initiative parlementaire si l'Assemblée ne vote pas sur l'accord de libre-échange UE-Canada (CETA).",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Ceta : \"S'il le faut, nous lancerons un processus de référendum d'initiative parlementaire\", déclare le communiste Fabien Roussel",
+       "url": "https://www.franceinfo.fr/politique/fabien-roussel/ceta-s-il-le-faut-nous-lancerons-un-processus-de-referendum-d-initiative-parlementaire-declare-le-communiste-fabien-roussel_6476096.html",
+       "date": "2024-04-09"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Défend un mix nucléaire et renouvelables sous maîtrise publique, propose une baisse de 30 % du prix de l'électricité via EDF, un plafonnement du carburant à 1,60-1,70 €/l, un « état d'urgence énergétique » et la sortie des énergies fossiles en quinze ans.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Favorable au maintien et à la relance du nucléaire, associé aux énergies renouvelables.",
+     "sources": [
+      {
+       "media": "Le Point",
+       "titre": "Fabien Roussel : « Je suis favorable au maintien du nucléaire en France »",
+       "url": "https://www.lepoint.fr/economie/fabien-roussel-je-suis-favorable-au-maintien-du-nucleaire-en-france-20-05-2021-2427383_28.php",
+       "date": "2021-05-20"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "Présidentielle 2022 : Fabien Roussel souhaite relancer le nucléaire",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/presidentielle-2022-fabien-roussel-souhaite-relancer-le-nucleaire_5065801.html",
+       "date": "2022-04-06"
+      },
+      {
+       "media": "Les Échos",
+       "titre": "Sécurité, nucléaire : le candidat du PCF Fabien Roussel affiche son originalité à gauche",
+       "url": "https://www.lesechos.fr/politique-societe/politique/securite-nucleaire-le-candidat-du-pcf-affiche-son-originalite-a-gauche-1360051",
+       "date": "2021-11-01"
+      }
+     ]
+    },
+    {
+     "texte": "En avril 2026, il demande un plafonnement du prix des carburants à 1,60 ou 1,70 euro, le blocage des marges des pétroliers dont TotalEnergies, et une baisse immédiate de 30 % du prix de l'électricité grâce à la maîtrise publique d'EDF.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "1er-Mai : Fabien Roussel \"appelle à une réaction forte des Français du monde du travail\" pour \"que l'Etat protège le pouvoir d'achat\"",
+       "url": "https://www.franceinfo.fr/politique/fabien-roussel/1er-mai-fabien-roussel-appelle-a-une-reaction-forte-des-francais-du-monde-du-travail-pour-que-l-etat-protege-le-pouvoir-d-achat_7936841.html",
+       "date": "2026-04-14"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "Chaleur : \"Il faut faire baisser les factures d'électricité le plus possible pour faire tourner les clim, les ventilos\", exhorte Fabien Roussel",
+       "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/chaleur-il-faut-faire-baisser-les-factures-d-electricite-le-plus-possible-pour-faire-tourner-les-clim-les-ventilos-exhorte-fabien-roussel_8028638.html",
+       "date": "2026-05-26"
+      }
+     ]
+    },
+    {
+     "texte": "En septembre 2026, il réclame un « état d'urgence énergétique » face à la hausse des prix.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Roussel, un candidat en lutte",
+       "url": "https://www.pcf.fr/roussel_un_candidat_en_lutte",
+       "date": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de « planifier la sortie des énergies fossiles dans les quinze prochaines années » ; sa candidature met en avant un « plan climat » avec une « trajectoire carbone ».",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
+       "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+       "date": "2026-09-15"
+      },
+      {
+       "media": "LCP",
+       "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+       "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+       "date": "2026-09-06"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Le programme PCF prévoit 200 000 logements sociaux par an, un loyer plafonné à 20 % des revenus, 10 milliards d'euros par an pour rénover 700 000 logements et l'abrogation de la loi Elan.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Le programme du PCF prévoit la construction de 200 000 logements sociaux par an, l'encadrement des loyers (quittance limitée à 20 % des revenus du foyer), 10 milliards d'euros par an pour rénover 700 000 logements, l'abrogation de la loi Elan et l'interdiction de la vente de logements sociaux.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Objectif n°6 : à la conquête de l'égalité réelle",
+       "url": "https://www.pcf.fr/objectif_6",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme du PCF prévoit de porter le parc de logements étudiants Crous de 175 000 à 525 000 en cinq ans.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Programme du PCF – Objectif n°3 : la jeunesse, avenir de la France",
+       "url": "https://www.pcf.fr/objectif_3",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "A soutenu la mobilisation agricole de 2024 et proposé un « Grenelle de l'agriculture » ; veut que la France redevienne « une grande nation agricole » et s'oppose aux accords de libre-échange qui pénalisent l'agriculture.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "En janvier 2024, il soutient la mobilisation des agriculteurs et propose un « Grenelle de l'agriculture » réunissant producteurs, industriels et grande distribution.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Colère des agriculteurs : \"Je soutiens, je partage la colère de cette profession\", assure Fabien Roussel",
+       "url": "https://www.franceinfo.fr/replay-radio/19h20-politique/colere-des-agriculteurs-je-soutiens-je-partage-la-colere-de-cette-profession-assure-fabien-roussel_6303459.html",
+       "date": "2024-01-29"
+      }
+     ]
+    },
+    {
+     "texte": "Déclare en septembre 2026 : « Nous allons redevenir une grande nation agricole en prenant soin de nos agriculteurs, de nos terres comme du vivant ».",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
+       "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+       "date": "2026-09-15"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose une « parité sociale » : autant d'ouvriers et d'employés au Parlement, et autant de représentants des salariés que d'actionnaires dans les conseils d'administration.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose une « parité sociale » pour qu'il y ait au Parlement « autant d'ouvriers, d'employés et moins d'avocats, de fiscalistes et de financiers », et autant de représentants des salariés que d'actionnaires dans les conseils d'administration.",
+     "sources": [
+      {
+       "media": "PCF (site officiel)",
+       "titre": "Fête de l'Humanité 2026 : discours de Fabien Roussel",
+       "url": "https://www.pcf.fr/fete_de_lhumanite_2026_discours_de_fabien_roussel",
+       "date": "2026-09-15"
+      }
+     ]
+    },
+    {
+     "texte": "En 2019, il s'est dit favorable à des référendums d'initiative citoyenne (RIC) « sur tous les sujets ».",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Fabien Roussel",
+       "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "La Voix du Nord",
+       "titre": "Fabien Roussel (PCF) est pour des RIC «sur tous les sujets», y compris la peine de mort",
+       "url": "https://www.lavoixdunord.fr/517856/article/2019-01-08/fabien-roussel-pcf-est-pour-des-ric-sur-tous-les-sujets-y-compris-la-peine-de",
+       "date": "2019-01-08"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Soupçons d'emploi fictif d'assistant parlementaire (2009-2014)",
+   "statut": "enquete",
+   "date": "2022-03-11",
+   "description": "Mediapart a affirmé le 20 février 2022 n'avoir trouvé aucune trace du travail de Fabien Roussel comme assistant du député Jean-Jacques Candelier entre 2009 et 2014 (environ 3 000 euros par mois). Le Parquet national financier a ouvert une enquête préliminaire pour détournement de fonds publics et recel, confiée à l'OCLCIFF ; Fabien Roussel a été entendu en audition libre fin août 2022. Il conteste les faits et dit avoir suivi les conflits sociaux du Douaisis ; Jean-Jacques Candelier affirme qu'il était bien son assistant. Aucune mise en examen ni décision de classement n'a été trouvée dans les sources au 25 septembre 2026.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "À l'Assemblée, un assistant parlementaire fantôme nommé Fabien Roussel",
+     "url": "https://www.mediapart.fr/journal/france/200222/l-assemblee-un-assistant-parlementaire-fantome-nomme-fabien-roussel",
+     "date": "2022-02-20"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Fabien Roussel visé par une enquête pour emploi fictif sur son activité en tant qu'assistant parlementaire",
+     "url": "https://www.lemonde.fr/politique/article/2022/03/11/fabien-roussel-vise-par-une-enquete-pour-emploi-fictif-sur-son-activite-en-tant-qu-assistant-parlementaire_6117126_823448.html",
+     "date": "2022-03-11"
+    },
+    {
+     "media": "France 24 (AFP)",
+     "titre": "Fabien Roussel visé par une enquête du PNF sur des soupçons d'emploi fictif",
+     "url": "https://www.france24.com/fr/info-en-continu/20220311-fabien-roussel-vis%C3%A9-par-une-enqu%C3%AAte-du-pnf-sur-des-soup%C3%A7ons-d-emploi-fictif",
+     "date": "2022-03-11"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Fabien Roussel se défend d'avoir occupé un emploi fictif à l'Assemblée nationale",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/fabien-roussel-se-defend-d-avoir-occupe-un-emploi-fictif-a-l-assemblee-nationale_4973568.html",
+     "date": "2022-02-21"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Soupçons d'emploi fictif : Fabien Roussel entendu fin août par la justice en audition libre",
+     "url": "https://www.franceinfo.fr/politique/fabien-roussel/soupcons-d-emploi-fictif-fabien-roussel-entendu-fin-aout-par-la-justice-en-audition-libre_5357146.html",
+     "date": "2022-09-12"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Fabien Roussel",
+     "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Poursuite en diffamation engagée par le Rassemblement national",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2022-12-15",
+   "description": "Poursuivi par le RN pour des propos tenus le 30 octobre 2019 sur France 2 évoquant l'implication de militants d'extrême droite dans des actions violentes (attaque de la mosquée de Bayonne), Fabien Roussel a été relaxé par le tribunal correctionnel de Paris le 27 janvier 2022 ; la cour d'appel de Paris a confirmé le 15 décembre 2022 en lui reconnaissant la bonne foi (selon le PCF).",
+   "sources": [
+    {
+     "media": "PCF (site officiel)",
+     "titre": "Le Rassemblement national débouté de son action en justice contre Fabien Roussel",
+     "url": "https://www.pcf.fr/le_rassemblement_national_d_bout_de_son_action_en_justice_contre_fabien_roussel",
+     "date": "2022-12"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Présidentielle 2022 : la CNCCFP a approuvé son compte de campagne par décision du 14 décembre 2022 ; dépenses retenues de 3 880 949 euros (4 016 174 euros déclarés) ; 56 570 euros d'affichage jugés irréguliers (flocage de véhicules et affichage sur des locaux du PCF), dont 45 537 euros déduits du remboursement forfaitaire, ramené de 800 423 à 754 886 euros.",
+   "sources": [
+    {
+     "media": "Légifrance (JORF)",
+     "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Fabien ROUSSEL (CCCJ2300776S)",
+     "url": "https://www.legifrance.gouv.fr/jorf/id/CCCJ2300776S",
+     "date": "2022-12-14"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Modèle : Élection présidentielle française de 2022 : comptes",
+     "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le:%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022_:_comptes",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Les comptes de campagne des candidats de 2022 ont été validés par la CNCCFP, pour certains avec des réserves.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Les comptes de campagne de l'élection présidentielle 2022 validés, avec des réserves",
+     "url": "https://www.lemonde.fr/politique/article/2023/01/27/les-comptes-de-campagne-de-l-election-presidentielle-2022-valides-avec-des-reserves_6159507_823448.html",
+     "date": "2023-01-27"
+    },
+    {
+     "media": "CNCCFP",
+     "titre": "Élection présidentielle 2022 – Publication des comptes de campagne des candidats",
+     "url": "https://cnccfp.fr/election-presidentielle-2022-publication-des-comptes-de-campagne-des-candidats/",
+     "date": "2022-07-19"
+    }
+   ]
+  },
+  {
+   "texte": "Selon le rapport de la CNCCFP sur l'exercice 2024, le PCF est le parti à la meilleure situation financière : bilan de 39,8 millions d'euros, 5,3 millions de dettes, soit 34,5 millions d'euros de situation nette (patrimoine immobilier compris) ; il a perçu 17,4 millions d'euros de dons et cotisations.",
+   "sources": [
+    {
+     "media": "Public Sénat",
+     "titre": "Explosion des micro-partis, formations dans le rouge, aides publiques et surprises… Ce que révèle le rapport de la commission des comptes de campagne",
+     "url": "https://www.publicsenat.fr/actualites/politique/explosion-des-micro-partis-formations-dans-le-rouge-aides-publiques-et-surprises-ce-que-revele-le-rapport-de-la-commission-des-comptes-de-campagne",
+     "date": "2026-06-25"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Parti communiste français",
+     "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Le PCF est largement financé par les cotisations (1 % du revenu des adhérents) et par le reversement d'une partie des indemnités de ses élus ; il revendique 6 700 élus et 37 620 adhérents à jour de cotisation en 2026.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "\"Il y a un enracinement dans le territoire à conserver\" : le Parti communiste français, troisième force municipale, compte bien garder son rang",
+     "url": "https://www.franceinfo.fr/elections/il-y-a-un-enracinement-dans-le-territoire-a-conserver-le-parti-communiste-francais-troisieme-force-municipale-compte-bien-garder-son-rang_7824767.html",
+     "date": "2026-03-06"
+    },
+    {
+     "media": "Le Point",
+     "titre": "Pourquoi les finances du PCF ne sont pas dans le rouge",
+     "url": "https://www.lepoint.fr/politique/pourquoi-les-finances-du-pcf-ne-sont-pas-dans-le-rouge-14-04-2022-2472128_20.php",
+     "date": "2022-04-14"
+    },
+    {
+     "media": "PCF (site officiel)",
+     "titre": "Élection présidentielle : Fabien Roussel désigné candidat à 72% par les communistes",
+     "url": "https://www.pcf.fr/presidentielle2027_fabien_roussel_designe_candidat",
+     "date": "2026-09-06"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Parti communiste français",
+     "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "En 2022, il déclarait reverser 2 000 euros par mois de ses indemnités de député à son parti.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Fabien Roussel",
+     "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Yahoo Actualités",
+     "titre": "Fabien Roussel dans Président 2022 : \"Je reverse 2000 euros par mois de mes émoluments à mon parti…\"",
+     "url": "https://fr.news.yahoo.com/fabien-roussel-candidat-election-presidentielles-melenchon-jadot-macron-poutine-090816457.html",
+     "date": "2022-03-10"
+    }
+   ]
+  }
+ ],
+ "parrainages": {
+  "statut": "appareil_suffisant",
+  "revendique": null,
+  "officiel_2022": 626,
+  "texte": "Investi par 72 % des adhérents du PCF (vote du 3 au 6 septembre 2026). Le PCF revendique 6 700 élus et la direction de 661 communes (mars 2026), ce qui rend ses parrainages quasi assurés ; aucun chiffre de promesses n'a été publié. En 2022, le Conseil constitutionnel avait validé 626 parrainages à son nom.",
+  "sources": [
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Les parrainages validés par candidat – présidentielle 2022",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "Sortiraparis",
+    "titre": "Présidentielle 2022 : découvrez les 12 candidats officiels de cette campagne électorale",
+    "url": "https://www.sortiraparis.com/actualites/a-paris/guides/260650-presidentielle-2022-decouvrez-les-12-candidats-officiels-de-cette-campagne-electorale",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "LCP",
+    "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+    "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+    "date": "2026-09-06"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "\"Il y a un enracinement dans le territoire à conserver\" : le Parti communiste français, troisième force municipale, compte bien garder son rang",
+    "url": "https://www.franceinfo.fr/elections/il-y-a-un-enracinement-dans-le-territoire-a-conserver-le-parti-communiste-francais-troisieme-force-municipale-compte-bien-garder-son-rang_7824767.html",
+    "date": "2026-03-06"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "apport_personnel",
+   "dons",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Compte 2022 (décision CNCCFP du 14 décembre 2022, JO du 27 janvier 2023) : 3 880 949 € de dépenses retenues, financées notamment par 1 200 000 € de versements du PCF, 1 431 008 € de contributions des partis (dépenses payées directement et concours en nature), un apport personnel retenu de 976 461 € et 182 545 € de dons ; compte approuvé après réformation. La CNCCFP a jugé irréguliers 56 570 € d'affichage (10 203 € de flocage de véhicules et 46 367 € d'affichage sur des locaux du PCF), dont 45 537 € réglés par le mandataire, déduits du remboursement de l'État, ramené de 800 423 € à 754 886 €. Pour 2027, il s'appuie sur le PCF, parti à la meilleure situation financière selon la CNCCFP (situation nette de 34,5 M€ en 2024, 17,4 M€ de dons et cotisations). Aucune procédure judiciaire visant le financement de ses campagnes n'a été trouvée.",
+  "sources": [
+   {
+    "media": "Journal officiel / CNCCFP",
+    "titre": "Décisions du 14 décembre 2022 relatives aux comptes de campagne – présidentielle 2022 (JO du 27 janvier 2023)",
+    "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+    "date": "2023-01-27"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2022 : huit choses à retenir des comptes de campagne des candidats",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-huit-choses-a-retenir-des-comptes-de-campagne-des-candidats_5624543.html",
+    "date": "2023-01-27"
+   },
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   },
+   {
+    "media": "Public Sénat",
+    "titre": "Explosion des micro-partis, formations dans le rouge, aides publiques et surprises… Ce que révèle le rapport de la commission des comptes de campagne",
+    "url": "https://www.publicsenat.fr/actualites/politique/explosion-des-micro-partis-formations-dans-le-rouge-aides-publiques-et-surprises-ce-que-revele-le-rapport-de-la-commission-des-comptes-de-campagne",
+    "date": "2026-06-25"
+   }
+  ]
+ }
 }

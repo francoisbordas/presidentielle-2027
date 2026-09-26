@@ -943,5 +943,91 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "appareil_suffisant",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Candidat de Renaissance, qui compte de très nombreux élus (le maire de Bordeaux Thomas Cazenave préside son comité des maires) : parrainages quasi assurés, mais aucun chiffre revendiqué. Il n'était pas candidat en 2022 ; le candidat de ce camp, Emmanuel Macron, avait alors obtenu 2 098 parrainages validés.",
+  "sources": [
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Parrainages validés par candidat – présidentielle 2022",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "LCP",
+    "titre": "Présidentielle : Nouveaux visages, « optimisme »... Comment Gabriel Attal veut « réveiller la campagne » et s'imposer dans le bloc central",
+    "url": "https://lcp.fr/actualites/presidentielle-gabriel-attal-presente-son-equipe-de-campagne-et-promet-de-ne-pas-faire",
+    "date": "2026-09-03"
+   },
+   {
+    "media": "CNews",
+    "titre": "« Un renouvellement des visages » : Gabriel Attal présente son équipe de campagne pour 2027",
+    "url": "https://www.cnews.fr/france/2026-09-03/un-renouvellement-des-visages-gabriel-attal-presente-son-equipe-de-campagne-pour",
+    "date": "2026-09-03"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "dons",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Première candidature présidentielle : pas de compte antérieur. La période de financement de la campagne 2027 a commencé le 1er avril 2026 ; son trésorier de campagne est Philippe Englebert (site de campagne). La campagne s'appuie sur Renaissance, qui a reçu 13,19 M€ d'aide publique en 2024 via Ensemble ! (CNCCFP), disposait de 21,7 M€ selon LCP, et a acté en juillet 2025 la vente de son siège pour 31,4 M€ ; elle s'appuie aussi sur des dons. Selon une déclaration déposée aux États-Unis (FARA) rapportée par O'Dwyer's et Intelligence Online/La Lettre, un investisseur californien, Gabriel Eshaghian, le représente bénévolement et pourrait organiser des levées de fonds auprès de Français vivant aux États-Unis ; la loi n'autorise que les dons de personnes de nationalité française ou résidant en France, et aucun don étranger n'est documenté. Aucune procédure sur le financement de sa campagne n'a été trouvée.",
+  "sources": [
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   },
+   {
+    "media": "LCP",
+    "titre": "Dons, banques, argent public… D'où vient l'argent des campagnes présidentielles ?",
+    "url": "https://lcp.fr/actualites/dons-banques-argent-public-d-ou-vient-l-argent-des-campagnes-presidentielles-434695",
+    "date": "2026-04-04"
+   },
+   {
+    "media": "LCP",
+    "titre": "Tournée des « 1000 bistrots » de Gabriel Attal : quelles règles régissent les frais de repas durant la campagne présidentielle ?",
+    "url": "https://lcp.fr/actualites/tournee-des-1000-bistrots-de-gabriel-attal-quelles-regles-regissent-les-frais-de-repas",
+    "date": "2026-09-10"
+   },
+   {
+    "media": "20 Minutes",
+    "titre": "Renaissance : Gabriel Attal acte la vente du siège du parti pour 31,4 millions d'euros",
+    "url": "https://www.20minutes.fr/politique/4162688-20250709-renaissance-gabriel-attal-acte-vente-siege-parti-31-4-millions-euros",
+    "date": "2025-07-09"
+   },
+   {
+    "media": "Site de campagne",
+    "titre": "Philippe Englebert, trésorier",
+    "url": "https://attalpresident.fr/mon-equipe/philippe-englebert",
+    "date": "2026-09-26"
+   },
+   {
+    "media": "O'Dwyer's PR News",
+    "titre": "French Politico Gets US Rep",
+    "url": "https://www.odwyerpr.com/story/public/25287/2026-09-10/french-politico-gets-us-rep.html",
+    "date": "2026-09-10"
+   },
+   {
+    "media": "Intelligence Online (payant)",
+    "titre": "Gabriel Attal mise sur un financier local pour lever des fonds chez les démocrates californiens",
+    "url": "https://www.intelligenceonline.fr/europe-russie/2026/09/08/gabriel-attal-mise-sur-un-financier-local-pour-lever-des-fonds-chez-les-democrates-californiens,110873007-art",
+    "date": "2026-09-08"
+   },
+   {
+    "media": "Renaissance",
+    "titre": "Bulletin de don (AFIR, agréée le 7 mars 2016 sous le n° 1158)",
+    "url": "https://doc.parti.re/bulletin-don.pdf",
+    "date": "2026-09-26"
+   }
+  ]
+ }
 }

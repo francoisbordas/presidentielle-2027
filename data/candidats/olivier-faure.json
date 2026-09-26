@@ -729,5 +729,78 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "appareil_suffisant",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Premier secrétaire du PS, Olivier Faure a officialisé le 30 août 2026 sur TF1 sa candidature à la primaire du PS, de Place publique et de la GRS (1er tour les 9-10 octobre 2026, 2d tour les 16-17 octobre). S'il est désigné, il bénéficierait de l'appareil du PS, qui dispose de très nombreux élus : en 2022, la candidate du camp socialiste, Anne Hidalgo, avait obtenu 1 440 parrainages validés. Aucun chiffre de promesses n'est revendiqué pour 2027.",
+  "sources": [
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Parrainages validés par candidat – présidentielle 2022",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Candidatures à l'élection présidentielle française de 2022 (tableau des parrainages)",
+    "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+    "date": "2026-09-26"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Primaire présidentielle socialiste française de 2026",
+    "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+    "date": "2026-09-26"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Le Parti socialiste et Place Publique valident l'accord sur les modalités de la primaire à laquelle participera Raphaël Glucksmann",
+    "url": "https://www.franceinfo.fr/politique/ps/le-parti-socialiste-valide-l-accord-sur-les-modalites-de-la-primaire-a-laquelle-participera-raphael-glucksmann_8161388.html",
+    "date": "2026-08-26"
+   },
+   {
+    "media": "TF1 Info",
+    "titre": "\"Oui je suis candidat à la présidence de la République\", confirme Olivier Faure sur TF1",
+    "url": "https://www.tf1info.fr/politique/oui-je-suis-candidat-a-la-presidence-de-la-republique-confirme-olivier-faure-sur-tf1-2461307.html",
+    "date": "2026-08-30"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Olivier Faure n'a jamais eu de compte de campagne présidentielle. Sa campagne reposerait sur le PS : selon la CNCCFP, le parti a perçu 4 674 320 € d'aide publique au titre de 2024 et affichait fin 2024 une situation nette de 33 435 409 €, héritée notamment de la vente de son siège de la rue de Solférino (45,55 M€, 2017-2018). La participation à la primaire est ouverte aux non-adhérents moyennant 15 € (10 € tarif social). Aucune procédure ni question sérieuse sur ce financement n'a été trouvée.",
+  "sources": [
+   {
+    "media": "CNCCFP (JORF)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   },
+   {
+    "media": "LCP",
+    "titre": "Dons, banques, argent public… D'où vient l'argent des campagnes présidentielles ?",
+    "url": "https://lcp.fr/actualites/dons-banques-argent-public-d-ou-vient-l-argent-des-campagnes-presidentielles-434695",
+    "date": "2026-04-04"
+   },
+   {
+    "media": "Le Monde",
+    "titre": "Le PS va vendre son siège au groupe Apsys pour 45,55 millions d'euros",
+    "url": "https://www.lemonde.fr/politique/article/2017/12/19/le-groupe-apsys-acquereur-du-siege-du-ps-rue-de-solferino-pour-45-55-millions-d-euros_5232049_823448.html",
+    "date": "2017-12-19"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Primaire présidentielle socialiste française de 2026",
+    "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+    "date": "2026-09-26"
+   }
+  ]
+ }
 }

@@ -399,5 +399,45 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "inconnu",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Élisabeth Borne n'est pas candidate déclarée au 26 septembre 2026 : le 19 septembre sur franceinfo, elle déclarait « Je ne suis pas dans cette logique-là », tout en regrettant que, « dans cette élection, le centre n'est pas représenté ». Aucune collecte de parrainages annoncée.",
+  "sources": [
+   {
+    "media": "Entrevue",
+    "titre": "Présidentielle 2027 : Élisabeth Borne juge que « le centre n'est pas représenté »",
+    "url": "https://entrevue.fr/presidentielle-2027/presidentielle-2027-elisabeth-borne-juge-que-le-centre-nest-pas-represente/",
+    "date": "2026-09-19"
+   },
+   {
+    "media": "LCP",
+    "titre": "Présidentielle 2027: la liste des candidats déjà en lice et des prétendants",
+    "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+    "date": "2026-09-24"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "N'a jamais été candidate à une présidentielle : aucun compte de campagne CNCCFP. Elle a créé le mouvement « Bâtissons ensemble » (évoqué lors de son départ de la direction de Renaissance le 6 mai 2026) ; aucune donnée publique sur son financement (association de financement, dons, prêts) n'a été trouvée. Aucune alerte sur le financement.",
+  "sources": [
+   {
+    "media": "LCP",
+    "titre": "Elisabeth Borne claque la porte de la direction de Renaissance et critique la ligne Attal",
+    "url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne",
+    "date": "2026-05-06"
+   },
+   {
+    "media": "CNews",
+    "titre": "«Bâtissons Ensemble» : Elisabeth Borne réunit une partie du centre pour le premier rassemblement de son mouvement",
+    "url": "https://www.cnews.fr/france/2026-06-24/batissons-ensemble-elisabeth-borne-reunit-une-partie-du-centre-pour-le-premier",
+    "date": "2026-06-24"
+   }
+  ]
+ }
 }

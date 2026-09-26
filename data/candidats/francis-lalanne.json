@@ -792,5 +792,63 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "inconnu",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Candidature officialisée le 19 août 2026, soutenue par le mouvement France Libre et par Dieudonné ; aucune source consultée ne fait état d'un chiffre de parrainages d'élus. Son site de campagne met en avant des « parrainages citoyens » (messages de soutien en ligne), qui n'ont aucune valeur légale. Il est inéligible jusqu'au 17 octobre 2026 (voir fonds), soit avant l'ouverture de la collecte officielle.",
+  "sources": [
+   {
+    "media": "Le JDD",
+    "titre": "Présidentielle 2027 : Francis Lalanne officialise sa candidature",
+    "url": "https://www.lejdd.fr/politique/une-rupture-avec-le-systeme-francis-lalanne-officialise-sa-candidature-pour-2027-181428",
+    "date": "2026-08-19"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2027 : le chanteur Francis Lalanne annonce être candidat, premier meeting vendredi à Paris",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html",
+    "date": "2026-08-19"
+   },
+   {
+    "media": "Dieudonné et Francis Lalanne 2027 (site de campagne)",
+    "titre": "Parrainages Citoyens",
+    "url": "https://dieudolalanne2027.com/parrainages-citoyens/",
+    "date": "2026-09-26"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [],
+  "alerte": "condamnation",
+  "alerte_etranger": false,
+  "texte": "Aucun compte de campagne présidentielle antérieur et aucune information publique sur le financement de la campagne 2027 (association de financement, prêts ou dons). Tête de la liste « France libre » aux européennes de 2024 (0,04 %), il n'a pas déposé de compte de campagne : selon le Conseil d'État, les pièces envoyées par courriel à la CNCCFP « ne constituaient pas » le compte qu'il était tenu d'établir. Statuant comme juge de l'élection, le Conseil d'État l'a déclaré inéligible pour 18 mois le 17 avril 2025, soit jusqu'au 17 octobre 2026. Il s'agit d'une sanction du manquement à l'obligation de déposer un compte, non d'une condamnation pénale ni d'une décision portant sur l'origine des fonds.",
+  "sources": [
+   {
+    "media": "France 24 (AFP)",
+    "titre": "Le chanteur et ex-candidat aux européennes Francis Lalanne déclaré inéligible",
+    "url": "https://www.france24.com/fr/info-en-continu/20250417-le-chanteur-et-ex-candidat-aux-europ%C3%A9ennes-francis-lalanne-d%C3%A9clar%C3%A9-in%C3%A9ligible",
+    "date": "2025-04-17"
+   },
+   {
+    "media": "Le Parisien",
+    "titre": "Francis Lalanne : le chanteur et ex-candidat aux européennes déclaré inéligible par le Conseil d'État",
+    "url": "https://www.leparisien.fr/culture-loisirs/musique/francis-lalanne-le-chanteur-et-ex-candidat-aux-europeennes-declare-ineligible-par-le-conseil-detat-17-04-2025-S22CE5HONFD3TMFPW2IRREF6XU.php",
+    "date": "2025-04-17"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Francis Lalanne, chanteur et ex-candidat aux européennes, déclaré inéligible pendant dix-huit mois",
+    "url": "https://www.franceinfo.fr/politique/francis-lalanne-chanteur-et-ex-candidat-aux-europeennes-declare-ineligible-pendant-18-mois_7196604.html",
+    "date": "2025-04-18"
+   },
+   {
+    "media": "Tribunal administratif de Lyon",
+    "titre": "Élections municipales à Lyon : le tribunal rejette le recours contre le refus de la préfète d'enregistrer la liste de Francis Lalanne",
+    "url": "https://lyon.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/elections-municipales-a-lyon-le-tribunal-rejette-le-recours-contre-le-refus-de-la-prefete-d-enregistrer-la-liste-de-francis-lalanne",
+    "date": "2026-02-26"
+   }
+  ]
+ }
 }

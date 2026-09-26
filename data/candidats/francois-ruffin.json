@@ -699,5 +699,67 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "François Ruffin a lancé très tôt une opération « 500 maires » et a rencontré des maires, notamment dans l'Indre le 25 juin 2026. Selon Entrevue (3 septembre 2026), son équipe revendiquait fin juin « une petite centaine » de promesses de signatures, sans décompte public plus récent. Sans grand parti derrière lui (Debout !), les 500 parrainages sont présentés comme un obstacle majeur. Il n'était pas candidat en 2022.",
+  "sources": [
+   {
+    "media": "Entrevue",
+    "titre": "Présidentielle 2027 : où en sont les candidats dans la course aux 500 parrainages ?",
+    "url": "https://entrevue.fr/presidentielle-2027/presidentielle-2027-ou-en-sont-les-candidats-dans-la-course-aux-500-parrainages/",
+    "date": "2026-09-03"
+   },
+   {
+    "media": "Parlons Politique",
+    "titre": "François Ruffin veut convaincre sans appareil, mais la présidentielle 2027 lui impose parrainages, argent et unité à gauche",
+    "url": "https://www.parlons-politique.fr/elections/francois-ruffin-veut-convaincre-sans-appareil-mais-la-presidentielle-2027-lui-impose-parrainages-argent-et-unite-a-gauche_14996/",
+    "date": "2026-05-02"
+   },
+   {
+    "media": "Le Monde (via Titres Presse)",
+    "titre": "Présidentielle 2027 : dans l'Indre, François Ruffin se lance à la conquête des parrainages des maires",
+    "url": "https://www.titrespresse.com/12450142603/indre-francois-ruffin",
+    "date": "2026-06-25"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "dons",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Aucun compte de campagne présidentielle antérieur (première candidature). La campagne « Nous Président ! » collecte des dons via la plateforme de son parti Debout ! (don.debout.fr/ruffin2027). En 2024, Picardie Debout (devenu Debout ! en juin 2025) a reçu 70 400 € reversés par La France insoumise sur l'aide publique perçue par celle-ci, selon l'avis de la CNCCFP sur les comptes 2024 des partis (JO du 10 février 2026). Aucune alerte sur le financement relevée.",
+  "sources": [
+   {
+    "media": "Nous Président ! (site de campagne)",
+    "titre": "Nous Président !",
+    "url": "https://nouspresident.fr/",
+    "date": "2026-09-26"
+   },
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (tableau n° 13)",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   },
+   {
+    "media": "Public Sénat",
+    "titre": "Explosion des micro-partis, formations dans le rouge, aides publiques et surprises… Ce que révèle le rapport de la commission des comptes de campagne",
+    "url": "https://www.publicsenat.fr/actualites/politique/explosion-des-micro-partis-formations-dans-le-rouge-aides-publiques-et-surprises-ce-que-revele-le-rapport-de-la-commission-des-comptes-de-campagne",
+    "date": "2026-06-25"
+   },
+   {
+    "media": "France 3 Hauts-de-France",
+    "titre": "Le mouvement \"Picardie Debout !\" de François Ruffin devient un micro-parti politique",
+    "url": "https://france3-regions.franceinfo.fr/hauts-de-france/somme/amiens/mouvement-picardie-debout-francois-ruffin-devient-micro-parti-politique-1630994.html",
+    "date": "2019-02-28"
+   }
+  ]
+ }
 }

@@ -17,9 +17,14 @@ Un fait avec 1 seule source apparaît avec le badge « ⚠ source unique ».
   "bio": {"etudes": [fact], "carriere_hors_politique": [fact], "mandats": [fact], "autres": [fact]},
   "programme": {"<theme>": {"resume": "une phrase", "origine": "programme 2027|déclarations 2025-2026|programme 2022", "details": [fact]}},
   "affaires": [{"intitule": "...", "statut": "condamnation_definitive|condamnation_non_definitive|proces_en_cours|mis_en_examen|enquete|accusation|classe_sans_suite|relaxe_ou_non_lieu", "date": "...", "description": "...", "sources": [...]}],
-  "financement": [fact]
+  "financement": [fact],
+  "parrainages": {"statut": "revendique_500|appareil_suffisant|en_collecte|difficulte|inconnu", "revendique": 500, "officiel_2022": 2459, "texte": "...", "sources": [...]},
+  "fonds": {"origines": ["parti|prets_bancaires_ue|pret_etranger_hors_ue|apport_personnel|dons|public"], "alerte": "aucune|question|enquete|condamnation", "alerte_etranger": false, "texte": "...", "sources": [...]}
 }
 ```
 Thèmes : economie_fiscalite, budget_dette, retraites, travail_salaires, sante, education, immigration, securite_justice, defense_international, europe, energie_climat, ia_numerique, logement, agriculture, institutions.
 
 Pour régénérer la page : `python3 build.py`.
+
+Parrainages : la collecte officielle s'ouvre avec le décret de convocation (2027) ; avant, seules des promesses revendiquées existent.
+Alerte financement : `question` = doute dans la presse sérieuse, `enquete` = procédure ouverte, `condamnation` = décision rendue ; `alerte_etranger` seulement si argent étranger documenté (prêt, don, rapport officiel). Chaque alerte : ≥ 2 sources.

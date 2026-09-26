@@ -1,217 +1,263 @@
 {
-  "id": "benoit-mathieu",
-  "nom": "Benoît Mathieu",
-  "naissance": null,
-  "lieu_naissance": null,
-  "parti": "Sans étiquette",
-  "parti_sigle": "DIV",
-  "famille": "non_classe",
-  "position": 0,
-  "position_justif": {
-    "texte": "Non classé par les sources : aucune source consultée ne situe ce candidat sur l'axe gauche-droite (valeur par défaut centre / 0, sans signification politique).",
-    "sources": [
-      {
-        "media": "Wikipédia",
-        "titre": "Candidatures à l'élection présidentielle française de 2027",
-        "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-        "date": "2026-09-25"
-      }
-    ]
-  },
-  "statut": "declare",
-  "photo": {
-    "fichier": null,
-    "source_url": null,
-    "auteur": null,
-    "licence": null
-  },
-  "logo_parti": {
-    "fichier": null,
-    "source_url": null,
-    "licence": null
-  },
-  "bio": {
-    "etudes": [
-      {
-        "texte": "Ingénieur de formation (ingénieur agroalimentaire selon Solution Démocratique).",
-        "sources": [
-          {
-            "media": "France 3 Nouvelle-Aquitaine (franceinfo)",
-            "titre": "\"Le défi le plus fou de toute ma vie\" : cet ingénieur sillonne la France à vélo pour devenir président de la République",
-            "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/correze/brive/le-defi-le-plus-fou-de-toute-ma-vie-cet-ingenieur-sillonne-la-france-a-velo-pour-devenir-president-de-la-republique-3396664.html",
-            "date": "2026-08-04"
-          },
-          {
-            "media": "Solution Démocratique",
-            "titre": "Benoît Mathieu 2027 : démocratie directe et analyse du programme",
-            "url": "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
-            "date": "2026-04-27"
-          }
-        ]
-      }
-    ],
-    "carriere_hors_politique": [
-      {
-        "texte": "Ancien professeur de mathématiques.",
-        "sources": [
-          {
-            "media": "France 3 Bourgogne-Franche-Comté (franceinfo)",
-            "titre": "« Je vais continuer jusqu'au bout » : candidat à la présidentielle 2027, il parcourt 10 000 kilomètres à vélo pour récolter les parrainages",
-            "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/je-vais-continuer-jusqu-au-bout-candidat-a-la-presidentielle-2027-il-parcourt-10-000-kilometres-a-velo-pour-recolter-les-parrainages-3338204.html",
-            "date": "2026-04-23"
-          },
-          {
-            "media": "Solution Démocratique",
-            "titre": "Benoît Mathieu 2027 : démocratie directe et analyse du programme",
-            "url": "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
-            "date": "2026-04-27"
-          }
-        ]
-      }
-    ],
-    "mandats": [
-      {
-        "texte": "Aucun mandat ni parcours dans un parti politique ; se présente comme candidat sans étiquette.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Candidatures à l'élection présidentielle française de 2027",
-            "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Solution Démocratique",
-            "titre": "Benoît Mathieu 2027 : démocratie directe et analyse du programme",
-            "url": "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
-            "date": "2026-04-27"
-          }
-        ]
-      }
-    ],
-    "autres": [
-      {
-        "texte": "Âgé de 27 ans en 2026, originaire de Chauffailles (Saône-et-Loire).",
-        "sources": [
-          {
-            "media": "France 3 Bourgogne-Franche-Comté (franceinfo)",
-            "titre": "« Je vais continuer jusqu'au bout » : candidat à la présidentielle 2027, il parcourt 10 000 kilomètres à vélo pour récolter les parrainages",
-            "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/je-vais-continuer-jusqu-au-bout-candidat-a-la-presidentielle-2027-il-parcourt-10-000-kilometres-a-velo-pour-recolter-les-parrainages-3338204.html",
-            "date": "2026-04-23"
-          }
-        ]
-      },
-      {
-        "texte": "Déclare sa candidature le 30 mars 2026 et parcourt la France à vélo (environ 10 000 km prévus sur un an) pour rencontrer des maires et réunir les 500 parrainages.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Candidatures à l'élection présidentielle française de 2027",
-            "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "France 3 Bourgogne-Franche-Comté (franceinfo)",
-            "titre": "« Je vais continuer jusqu'au bout » : candidat à la présidentielle 2027, il parcourt 10 000 kilomètres à vélo pour récolter les parrainages",
-            "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/je-vais-continuer-jusqu-au-bout-candidat-a-la-presidentielle-2027-il-parcourt-10-000-kilometres-a-velo-pour-recolter-les-parrainages-3338204.html",
-            "date": "2026-04-23"
-          }
-        ]
-      },
-      {
-        "texte": "En août 2026, indique avoir rencontré environ 150 maires et obtenu 30 promesses de parrainage.",
-        "sources": [
-          {
-            "media": "France 3 Nouvelle-Aquitaine (franceinfo)",
-            "titre": "\"Le défi le plus fou de toute ma vie\" : cet ingénieur sillonne la France à vélo pour devenir président de la République",
-            "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/correze/brive/le-defi-le-plus-fou-de-toute-ma-vie-cet-ingenieur-sillonne-la-france-a-velo-pour-devenir-president-de-la-republique-3396664.html",
-            "date": "2026-08-04"
-          }
-        ]
-      }
-    ]
-  },
-  "programme": {
-    "institutions": {
-      "resume": "Propose le référendum d'initiative citoyenne (RIC), y compris constituant, des conventions citoyennes tirées au sort et une assemblée citoyenne de 500 personnes tirées au sort pour réécrire la Constitution.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Propose d'instaurer le référendum d'initiative citoyenne (RIC), y compris constituant.",
-          "sources": [
-            {
-              "media": "France 3 Nouvelle-Aquitaine (franceinfo)",
-              "titre": "\"Le défi le plus fou de toute ma vie\" : cet ingénieur sillonne la France à vélo pour devenir président de la République",
-              "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/correze/brive/le-defi-le-plus-fou-de-toute-ma-vie-cet-ingenieur-sillonne-la-france-a-velo-pour-devenir-president-de-la-republique-3396664.html",
-              "date": "2026-08-04"
-            },
-            {
-              "media": "Solution Démocratique",
-              "titre": "Benoît Mathieu 2027 : démocratie directe et analyse du programme",
-              "url": "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
-              "date": "2026-04-27"
-            },
-            {
-              "media": "Site officiel du candidat",
-              "titre": "Programme — Cap 500 signatures",
-              "url": "https://benoitmathieu2027.fr/index.php/Programme",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "Propose une nouvelle Constitution rédigée par une assemblée de citoyens tirés au sort (500 personnes selon son site).",
-          "sources": [
-            {
-              "media": "France 3 Nouvelle-Aquitaine (franceinfo)",
-              "titre": "\"Le défi le plus fou de toute ma vie\" : cet ingénieur sillonne la France à vélo pour devenir président de la République",
-              "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/correze/brive/le-defi-le-plus-fou-de-toute-ma-vie-cet-ingenieur-sillonne-la-france-a-velo-pour-devenir-president-de-la-republique-3396664.html",
-              "date": "2026-08-04"
-            },
-            {
-              "media": "Site officiel du candidat",
-              "titre": "Programme — Cap 500 signatures",
-              "url": "https://benoitmathieu2027.fr/index.php/Programme",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "Propose des conventions citoyennes tirées au sort, et une « méta-convention » pour en définir les règles.",
-          "sources": [
-            {
-              "media": "Solution Démocratique",
-              "titre": "Benoît Mathieu 2027 : démocratie directe et analyse du programme",
-              "url": "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
-              "date": "2026-04-27"
-            }
-          ]
-        },
-        {
-          "texte": "Indique ne pas avoir de programme sur l'économie, le social, la santé ou la sécurité.",
-          "sources": [
-            {
-              "media": "Site officiel du candidat",
-              "titre": "Programme — Cap 500 signatures",
-              "url": "https://benoitmathieu2027.fr/index.php/Programme",
-              "date": "2026-09-25"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "affaires": [],
-  "financement": [
-    {
-      "texte": "Aucune information publique sur le financement de sa campagne trouvée.",
-      "sources": [
-        {
-          "media": "France 3 Bourgogne-Franche-Comté (franceinfo)",
-          "titre": "« Je vais continuer jusqu'au bout » : candidat à la présidentielle 2027, il parcourt 10 000 kilomètres à vélo pour récolter les parrainages",
-          "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/je-vais-continuer-jusqu-au-bout-candidat-a-la-presidentielle-2027-il-parcourt-10-000-kilometres-a-velo-pour-recolter-les-parrainages-3338204.html",
-          "date": "2026-04-23"
-        }
-      ]
-    }
+ "id": "benoit-mathieu",
+ "nom": "Benoît Mathieu",
+ "naissance": null,
+ "lieu_naissance": null,
+ "parti": "Sans étiquette",
+ "parti_sigle": "DIV",
+ "famille": "non_classe",
+ "position": 0,
+ "position_justif": {
+  "texte": "Non classé par les sources : aucune source consultée ne situe ce candidat sur l'axe gauche-droite (valeur par défaut centre / 0, sans signification politique).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Candidatures à l'élection présidentielle française de 2027",
+    "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+    "date": "2026-09-25"
+   }
   ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": null,
+  "source_url": null,
+  "auteur": null,
+  "licence": null
+ },
+ "logo_parti": {
+  "fichier": null,
+  "source_url": null,
+  "licence": null
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Ingénieur de formation (ingénieur agroalimentaire selon Solution Démocratique).",
+    "sources": [
+     {
+      "media": "France 3 Nouvelle-Aquitaine (franceinfo)",
+      "titre": "\"Le défi le plus fou de toute ma vie\" : cet ingénieur sillonne la France à vélo pour devenir président de la République",
+      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/correze/brive/le-defi-le-plus-fou-de-toute-ma-vie-cet-ingenieur-sillonne-la-france-a-velo-pour-devenir-president-de-la-republique-3396664.html",
+      "date": "2026-08-04"
+     },
+     {
+      "media": "Solution Démocratique",
+      "titre": "Benoît Mathieu 2027 : démocratie directe et analyse du programme",
+      "url": "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
+      "date": "2026-04-27"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Ancien professeur de mathématiques.",
+    "sources": [
+     {
+      "media": "France 3 Bourgogne-Franche-Comté (franceinfo)",
+      "titre": "« Je vais continuer jusqu'au bout » : candidat à la présidentielle 2027, il parcourt 10 000 kilomètres à vélo pour récolter les parrainages",
+      "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/je-vais-continuer-jusqu-au-bout-candidat-a-la-presidentielle-2027-il-parcourt-10-000-kilometres-a-velo-pour-recolter-les-parrainages-3338204.html",
+      "date": "2026-04-23"
+     },
+     {
+      "media": "Solution Démocratique",
+      "titre": "Benoît Mathieu 2027 : démocratie directe et analyse du programme",
+      "url": "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
+      "date": "2026-04-27"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Aucun mandat ni parcours dans un parti politique ; se présente comme candidat sans étiquette.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Solution Démocratique",
+      "titre": "Benoît Mathieu 2027 : démocratie directe et analyse du programme",
+      "url": "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
+      "date": "2026-04-27"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Âgé de 27 ans en 2026, originaire de Chauffailles (Saône-et-Loire).",
+    "sources": [
+     {
+      "media": "France 3 Bourgogne-Franche-Comté (franceinfo)",
+      "titre": "« Je vais continuer jusqu'au bout » : candidat à la présidentielle 2027, il parcourt 10 000 kilomètres à vélo pour récolter les parrainages",
+      "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/je-vais-continuer-jusqu-au-bout-candidat-a-la-presidentielle-2027-il-parcourt-10-000-kilometres-a-velo-pour-recolter-les-parrainages-3338204.html",
+      "date": "2026-04-23"
+     }
+    ]
+   },
+   {
+    "texte": "Déclare sa candidature le 30 mars 2026 et parcourt la France à vélo (environ 10 000 km prévus sur un an) pour rencontrer des maires et réunir les 500 parrainages.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "France 3 Bourgogne-Franche-Comté (franceinfo)",
+      "titre": "« Je vais continuer jusqu'au bout » : candidat à la présidentielle 2027, il parcourt 10 000 kilomètres à vélo pour récolter les parrainages",
+      "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/je-vais-continuer-jusqu-au-bout-candidat-a-la-presidentielle-2027-il-parcourt-10-000-kilometres-a-velo-pour-recolter-les-parrainages-3338204.html",
+      "date": "2026-04-23"
+     }
+    ]
+   },
+   {
+    "texte": "En août 2026, indique avoir rencontré environ 150 maires et obtenu 30 promesses de parrainage.",
+    "sources": [
+     {
+      "media": "France 3 Nouvelle-Aquitaine (franceinfo)",
+      "titre": "\"Le défi le plus fou de toute ma vie\" : cet ingénieur sillonne la France à vélo pour devenir président de la République",
+      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/correze/brive/le-defi-le-plus-fou-de-toute-ma-vie-cet-ingenieur-sillonne-la-france-a-velo-pour-devenir-president-de-la-republique-3396664.html",
+      "date": "2026-08-04"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "institutions": {
+   "resume": "Propose le référendum d'initiative citoyenne (RIC), y compris constituant, des conventions citoyennes tirées au sort et une assemblée citoyenne de 500 personnes tirées au sort pour réécrire la Constitution.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose d'instaurer le référendum d'initiative citoyenne (RIC), y compris constituant.",
+     "sources": [
+      {
+       "media": "France 3 Nouvelle-Aquitaine (franceinfo)",
+       "titre": "\"Le défi le plus fou de toute ma vie\" : cet ingénieur sillonne la France à vélo pour devenir président de la République",
+       "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/correze/brive/le-defi-le-plus-fou-de-toute-ma-vie-cet-ingenieur-sillonne-la-france-a-velo-pour-devenir-president-de-la-republique-3396664.html",
+       "date": "2026-08-04"
+      },
+      {
+       "media": "Solution Démocratique",
+       "titre": "Benoît Mathieu 2027 : démocratie directe et analyse du programme",
+       "url": "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
+       "date": "2026-04-27"
+      },
+      {
+       "media": "Site officiel du candidat",
+       "titre": "Programme — Cap 500 signatures",
+       "url": "https://benoitmathieu2027.fr/index.php/Programme",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose une nouvelle Constitution rédigée par une assemblée de citoyens tirés au sort (500 personnes selon son site).",
+     "sources": [
+      {
+       "media": "France 3 Nouvelle-Aquitaine (franceinfo)",
+       "titre": "\"Le défi le plus fou de toute ma vie\" : cet ingénieur sillonne la France à vélo pour devenir président de la République",
+       "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/correze/brive/le-defi-le-plus-fou-de-toute-ma-vie-cet-ingenieur-sillonne-la-france-a-velo-pour-devenir-president-de-la-republique-3396664.html",
+       "date": "2026-08-04"
+      },
+      {
+       "media": "Site officiel du candidat",
+       "titre": "Programme — Cap 500 signatures",
+       "url": "https://benoitmathieu2027.fr/index.php/Programme",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose des conventions citoyennes tirées au sort, et une « méta-convention » pour en définir les règles.",
+     "sources": [
+      {
+       "media": "Solution Démocratique",
+       "titre": "Benoît Mathieu 2027 : démocratie directe et analyse du programme",
+       "url": "https://solutiondemocratique.fr/benoit-mathieu-programme-2027/",
+       "date": "2026-04-27"
+      }
+     ]
+    },
+    {
+     "texte": "Indique ne pas avoir de programme sur l'économie, le social, la santé ou la sécurité.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat",
+       "titre": "Programme — Cap 500 signatures",
+       "url": "https://benoitmathieu2027.fr/index.php/Programme",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [
+  {
+   "texte": "Aucune information publique sur le financement de sa campagne trouvée.",
+   "sources": [
+    {
+     "media": "France 3 Bourgogne-Franche-Comté (franceinfo)",
+     "titre": "« Je vais continuer jusqu'au bout » : candidat à la présidentielle 2027, il parcourt 10 000 kilomètres à vélo pour récolter les parrainages",
+     "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/je-vais-continuer-jusqu-au-bout-candidat-a-la-presidentielle-2027-il-parcourt-10-000-kilometres-a-velo-pour-recolter-les-parrainages-3338204.html",
+     "date": "2026-04-23"
+    }
+   ]
+  }
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Sans étiquette, il parcourt la France à vélo depuis le 30 mars 2026 (fin prévue début mars 2027) pour convaincre 500 maires. Début mai 2026, il avait rencontré une cinquantaine de maires et ne recueillait que des « intentions de signature », sans nombre de promesses publié.",
+  "sources": [
+   {
+    "media": "France 3 Bourgogne-Franche-Comté",
+    "titre": "« Soit je deviens aigri, soit je fais quelque chose » : à vélo, il veut convaincre 500 maires de le parrainer pour la présidentielle 2027",
+    "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/je-vais-continuer-jusqu-au-bout-candidat-a-la-presidentielle-2027-il-parcourt-10-000-kilometres-a-velo-pour-recolter-les-parrainages-3338204.html",
+    "date": "2026-04-23"
+   },
+   {
+    "media": "Sud Radio",
+    "titre": "Présidentielle 2027 : un professeur sillonne la France à vélo en quête des 500 parrainages",
+    "url": "https://www.sudradio.fr/sud-radio/presidentielle-2027-un-professeur-sillonne-la-france-a-velo-en-quete-des-500-parrainages",
+    "date": "2026-05-06"
+   },
+   {
+    "media": "ICI (France Bleu)",
+    "titre": "Il fait 10 000 km à vélo pour obtenir ses parrainages à la présidentielle, « je vais continuer jusqu'au bout »",
+    "url": "https://www.ici.fr/bourgogne-franche-comte/cote-d-or-21/pouilly-en-auxois/video-il-fait-10-000-km-a-velo-pour-obtenir-ses-parrainages-a-la-presidentielle-je-vais-continuer-jusqu-au-bout-5162070",
+    "date": "2026-05-11"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Première candidature, sans parti : pas de compte de campagne antérieur. Aucune information publique sur le financement de sa campagne (ni cagnotte, ni association de financement, ni prêt) ; la presse décrit une tournée en autonomie, en bivouac. Aucune alerte.",
+  "sources": [
+   {
+    "media": "France 3 Bourgogne-Franche-Comté",
+    "titre": "« Soit je deviens aigri, soit je fais quelque chose » : à vélo, il veut convaincre 500 maires de le parrainer pour la présidentielle 2027",
+    "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/saone-et-loire/je-vais-continuer-jusqu-au-bout-candidat-a-la-presidentielle-2027-il-parcourt-10-000-kilometres-a-velo-pour-recolter-les-parrainages-3338204.html",
+    "date": "2026-04-23"
+   },
+   {
+    "media": "ICI (France Bleu)",
+    "titre": "Il fait 10 000 km à vélo pour obtenir ses parrainages à la présidentielle, « je vais continuer jusqu'au bout »",
+    "url": "https://www.ici.fr/bourgogne-franche-comte/cote-d-or-21/pouilly-en-auxois/video-il-fait-10-000-km-a-velo-pour-obtenir-ses-parrainages-a-la-presidentielle-je-vais-continuer-jusqu-au-bout-5162070",
+    "date": "2026-05-11"
+   }
+  ]
+ }
 }

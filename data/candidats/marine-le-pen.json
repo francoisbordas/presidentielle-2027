@@ -991,69 +991,6 @@
    ]
   },
   {
-   "texte": "Pour la campagne 2022, Marine Le Pen a contracté un prêt personnel d'environ 10,7 M€ (10 691 775 €) auprès de la banque hongroise MKB, dont les principaux actionnaires sont proches de Viktor Orbán ; il figure dans sa déclaration de patrimoine de candidate.",
-   "sources": [
-    {
-     "media": "Euronews (Reuters)",
-     "titre": "France's Le Pen got loan from Hungarian bank close to Orban - filing",
-     "url": "https://www.euronews.com/2022/03/11/uk-france-election-le-pen",
-     "date": "2022-03-11"
-    },
-    {
-     "media": "Le Courrier d'Europe centrale",
-     "titre": "Une banque hongroise a prêté 10,6 millions d'euros au Rassemblement national",
-     "url": "https://courrierdeuropecentrale.fr/breve/une-banque-hongroise-a-prete-106-millions-deuros-au-rassemblement-national/",
-     "date": "2022-02-02"
-    }
-   ]
-  },
-  {
-   "texte": "Prêt russe : en septembre 2014, le FN a emprunté 9,4 M€ à la First Czech Russian Bank (FCRB), avec l'intermédiation du député russe Alexandre Babakov ; après la faillite de la banque, la créance a été cédée à Conti puis à Aviazapchast (2019), qui a assigné le parti en 2019-2020 avant un accord. Le RN a annoncé en septembre 2023 l'avoir intégralement remboursé par anticipation (6 088 784 €, capital et intérêts), avant l'échéance de 2028.",
-   "sources": [
-    {
-     "media": "Mediapart",
-     "titre": "Le Front national décroche les millions russes",
-     "url": "https://www.mediapart.fr/journal/france/221114/le-front-national-decroche-les-millions-russes",
-     "date": "2014-11-22"
-    },
-    {
-     "media": "Al Jazeera",
-     "titre": "Russian firm, French far-right party settle $10m debt dispute",
-     "url": "https://www.aljazeera.com/news/2020/6/3/russian-firm-french-far-right-party-settle-10m-debt-dispute",
-     "date": "2020-06-03"
-    },
-    {
-     "media": "franceinfo",
-     "titre": "Le Rassemblement national a intégralement remboursé son « prêt russe »",
-     "url": "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-a-integralement-rembourse-son-pret-russe_6071424.html",
-     "date": "2023-09-19"
-    },
-    {
-     "media": "Europe 1",
-     "titre": "Prêt russe : le Rassemblement national affirme avoir « remboursé par anticipation »",
-     "url": "https://www.europe1.fr/politique/pret-russe-le-rassemblement-national-affirme-avoir-rembourse-par-anticipation-4204493",
-     "date": "2023-09-19"
-    },
-    {
-     "media": "Rassemblement national (communiqué)",
-     "titre": "Le Rassemblement National a remboursé par anticipation son emprunt à la société russe Aviazapchast",
-     "url": "https://rassemblementnational.fr/communiques/le-rassemblement-national-a-rembourse-par-anticipation-son-emprunt-a-la-societe-russe-aviazapchast",
-     "date": "2023-09"
-    }
-   ]
-  },
-  {
-   "texte": "Présidentielle 2017 : selon Mediapart, le déficit de la campagne a été couvert par un prêt de 8 M€ obtenu via l'homme d'affaires Laurent Foucher auprès d'une banque des Émirats arabes unis ; le parquet national financier a été saisi fin 2019.",
-   "sources": [
-    {
-     "media": "Mediapart",
-     "titre": "Un prêt émirati de 8 millions d'euros a sauvé le Rassemblement national",
-     "url": "https://www.mediapart.fr/journal/france/041019/un-pret-emirati-de-8-millions-d-euros-sauve-le-rassemblement-national",
-     "date": "2019-10-04"
-    }
-   ]
-  },
-  {
    "texte": "Financement de la campagne 2027 : pas d'information publique trouvée sur les prêts ou l'association de financement à la date du 25 septembre 2026. Les prêts de particuliers au RN pour les campagnes de 2022 et 2024 font l'objet d'une information judiciaire (voir affaires).",
    "sources": [
     {
@@ -1070,5 +1007,299 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "appareil_suffisant",
+  "revendique": null,
+  "officiel_2022": 622,
+  "texte": "Candidate du RN : elle a confirmé sa candidature le 7 juillet 2026, après sa condamnation en appel dans l'affaire des assistants (pourvoi en cassation). Le parti, qui compte de très nombreux parlementaires et élus locaux, se dit « pratiquement sûr » d'obtenir les 500 signatures (Jordan Bardella, LCP, juillet 2026), après une collecte difficile en 2022. En 2022, le Conseil constitutionnel avait validé 622 parrainages à son nom.",
+  "sources": [
+   {
+    "media": "LCP",
+    "titre": "Présidentielle 2027 : la course aux 500 signatures…",
+    "url": "https://lcp.fr/actualites/presidentielle-2027-la-course-aux-500-signatures-d-elus-necessaires-pour-se-presenter-a",
+    "date": "2026-07-05"
+   },
+   {
+    "media": "Touteleurope.eu",
+    "titre": "Procès des assistants du RN : Marine Le Pen condamnée en appel, mais éligible à l'élection présidentielle 2027",
+    "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/proces-des-assistants-du-rn-marine-le-pen-condamnee-en-appel-mais-eligible-a-l-election-presidentielle-2027/",
+    "date": "2026-07-09"
+   },
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Les parrainages validés par candidat – présidentielle 2022",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Liste des parrainages validés – présidentielle 2022 (fichier CSV)",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/telechargement/parrainagestotal.csv",
+    "date": "2022-03-07"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "prets_bancaires_ue",
+   "pret_etranger_hors_ue",
+   "apport_personnel",
+   "dons",
+   "parti",
+   "public"
+  ],
+  "alerte": "enquete",
+  "alerte_etranger": true,
+  "texte": "En 2022, la campagne est financée par un apport personnel de 11 248 882 €, adossé à un prêt de la banque hongroise MKB (UE) utilisé à hauteur de 10 491 774 €, par 76 638 € de dons et 36 551 € de contributions de partis. Le remboursement de l'État est fixé à 10 220 842 €, réduit de 316 182 € de flocage de cars jugé irrégulier ; son recours a pris fin par un désistement (Conseil constitutionnel, 23 février 2023). Côté parti, le FN a emprunté en 2014 à la First Czech Russian Bank (9 M€ selon Mediapart, 9,4 M€ selon le rapport parlementaire de 2023), une dette soldée par anticipation en septembre 2023. Selon Mediapart, un prêt de 8 M€ de l'homme d'affaires Laurent Foucher, transité par les Émirats arabes unis, a renfloué le parti en 2017 ; la justice en serait saisie, sans suite publique connue. Le rapport parlementaire sur les ingérences étrangères (1er juin 2023) s'interroge sur les motivations de ces prêts russes au regard des positions pro-Kremlin du parti, ce que le RN conteste. Une information judiciaire est ouverte depuis le 2 juillet 2024 sur le financement des campagnes de 2022 et 2024 (prêts de particuliers, surfacturations possibles), sans mise en examen publique connue au 26 septembre 2026 ; les personnes visées sont présumées innocentes. Pour 2027, le RN cherche un prêt d'environ 10,7 M€ et dit n'avoir obtenu aucune réponse favorable des banques françaises (29 août 2026).",
+  "sources": [
+   {
+    "media": "Journal officiel / CNCCFP",
+    "titre": "Décisions relatives aux comptes de campagne – présidentielle 2022 (JO du 24 février 2023)",
+    "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+    "date": "2023-02-24"
+   },
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Décision n° 2023-199 PDR du 23 février 2023",
+    "url": "https://www.conseil-constitutionnel.fr/decision/2023/2023199PDR.htm",
+    "date": "2023-02-23"
+   },
+   {
+    "media": "Euronews (Reuters)",
+    "titre": "France's Le Pen got loan from Hungarian bank close to Orban - filing",
+    "url": "https://www.euronews.com/2022/03/11/uk-france-election-le-pen",
+    "date": "2022-03-11"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Le Rassemblement national a intégralement remboursé son « prêt russe »",
+    "url": "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-a-integralement-rembourse-son-pret-russe_6071424.html",
+    "date": "2023-09-19"
+   },
+   {
+    "media": "Assemblée nationale",
+    "titre": "Rapport n° 1311 de la commission d'enquête relative aux ingérences politiques, économiques et financières de puissances étrangères",
+    "url": "https://www.assemblee-nationale.fr/dyn/16/rapports/ceingeren/l16b1311-t1_rapport-enquete.pdf",
+    "date": "2023-06-01"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Commission d'enquête sur les ingérences étrangères : ce que reproche le rapport parlementaire au Rassemblement national",
+    "url": "https://www.franceinfo.fr/politique/front-national/commission-d-enquete-sur-les-ingerences-etrangeres-ce-que-reproche-le-rapport-parlementaire-au-rassemblement-national_5861219.html",
+    "date": "2023-06-01"
+   },
+   {
+    "media": "Mediapart",
+    "titre": "La justice saisie de l'affaire du prêt émirati de 8 millions d'euros au RN",
+    "url": "https://www.mediapart.fr/journal/france/110121/la-justice-saisie-de-l-affaire-du-pret-emirati-de-8-millions-d-euros-au-rn",
+    "date": "2021-01-11"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Une information judiciaire ouverte pour le financement de la campagne de Marine Le Pen en 2022",
+    "url": "https://www.franceinfo.fr/politique/marine-le-pen/une-information-judiciaire-ouverte-pour-la-financement-de-la-campagne-de-marine-le-pen-en-2022_6655830.html",
+    "date": "2024-07-09"
+   },
+   {
+    "media": "Juriguide",
+    "titre": "RN : enquête ouverte pour soupçons de prêts irréguliers de particuliers",
+    "url": "https://www.juriguide.com/2025/05/15/rn-enquete-soupcons-prets-particulier/",
+    "date": "2025-05-15"
+   },
+   {
+    "media": "Le Parisien (AFP)",
+    "titre": "Enquête sur les campagnes électorales RN : d'importantes saisies d'argent effectuées chez des imprimeurs proches du parti",
+    "url": "https://www.leparisien.fr/politique/enquete-sur-les-campagnes-electorales-rn-dimportantes-saisies-dargent-effectuees-chez-des-imprimeurs-proches-du-parti-07-10-2025-C35ZVIOVEZELRAISZMCJ3RE5BM.php",
+    "date": "2025-10-07"
+   },
+   {
+    "media": "LCP",
+    "titre": "« On fait quoi ? » : le RN dénonce les refus de prêts bancaires pour financer sa campagne de 2027",
+    "url": "https://lcp.fr/actualites/on-fait-quoi-le-rn-denonce-les-refus-de-prets-bancaires-pour-financer-sa-campagne-de",
+    "date": "2026-04-29"
+   },
+   {
+    "media": "Boursorama (Reuters)",
+    "titre": "Le RN cherche toujours un prêt pour financer sa campagne – Bardella",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/le-rn-cherche-toujours-un-pret-pour-financer-sa-campagne-bardella-39849c23a57efc27e09b6bd9f55c1c29",
+    "date": "2026-08-29"
+   }
+  ],
+  "detail": [
+   {
+    "intitule": "Prêt de la First Czech Russian Bank (FCRB), 2014",
+    "statut_judiciaire": "aucune procédure pénale connue sur le prêt lui-même ; litige civil réglé par un accord amiable homologué à Moscou le 3 juin 2020 ; dette soldée par anticipation le 19 septembre 2023 (annonce du RN). Enquête préliminaire du PNF ouverte en février 2016 sur les commissions de l'intermédiaire Jean-Luc Schaffhauser (selon Anticor et Mediapart), sans suite publique connue.",
+    "texte": "En septembre 2014, le FN emprunte à la First Czech Russian Bank (Moscou) : 9 M€ selon Mediapart (2014), 9,4 M€ selon le rapport parlementaire n° 1311 et franceinfo. Le taux est de 6 % et l'échéance fixée en 2019. La créance est cédée à la société russe Konti (2015), cession jugée ensuite frauduleuse, puis à Aviazapchast le 14 novembre 2016 ; la banque fait faillite en 2016. Aviazapchast poursuit le RN devant le tribunal d'arbitrage de Moscou, qui homologue un accord amiable le 3 juin 2020, avec un remboursement étalé jusqu'en 2028. Une note de la CNCCFP (17 mai 2021), citée par le rapport, y voit un « avantage certain et conséquent » pour le RN, sans le requalifier en nouveau prêt. Le RN annonce le 19 septembre 2023 avoir remboursé le solde par anticipation (6 088 784 €, capital et intérêts), notamment grâce à l'aide publique (10,1 M€) issue des législatives de 2022. À distinguer : un prêt de 2 M€ consenti en 2014 à Cotelec, micro-parti de Jean-Marie Le Pen, par la société chypriote Vernonsia Holdings, remboursé selon le président de la CNCCFP.",
+    "sources": [
+     {
+      "media": "Mediapart",
+      "titre": "Le Front national décroche les millions russes",
+      "url": "https://www.mediapart.fr/journal/france/221114/le-front-national-decroche-les-millions-russes",
+      "date": "2014-11-22"
+     },
+     {
+      "media": "Al Jazeera",
+      "titre": "Russian firm, French far-right party settle $10m debt dispute",
+      "url": "https://www.aljazeera.com/news/2020/6/3/russian-firm-french-far-right-party-settle-10m-debt-dispute",
+      "date": "2020-06-03"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Le Rassemblement national a intégralement remboursé son « prêt russe »",
+      "url": "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-a-integralement-rembourse-son-pret-russe_6071424.html",
+      "date": "2023-09-19"
+     },
+     {
+      "media": "Assemblée nationale",
+      "titre": "Rapport n° 1311 de la commission d'enquête relative aux ingérences politiques, économiques et financières de puissances étrangères",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/rapports/ceingeren/l16b1311-t1_rapport-enquete.pdf",
+      "date": "2023-06-01"
+     },
+     {
+      "media": "Anticor",
+      "titre": "Les financements russes du Rassemblement National",
+      "url": "https://www.anticor.org/2023/12/04/les-financements-russes-du-rassemblement-national/",
+      "date": "2023-12-04"
+     }
+    ]
+   },
+   {
+    "intitule": "Prêt de la banque hongroise MKB, campagne présidentielle 2022",
+    "statut_judiciaire": "aucune procédure connue ; prêt admis au compte par la CNCCFP (décision du 14 décembre 2022, JO du 24 février 2023)",
+    "texte": "Prêt d'environ 10,7 M€ inscrit dans la déclaration de situation patrimoniale de candidate de Marine Le Pen, publiée en mars 2022 (Reuters). Il a été contracté auprès de MKB Bank, dont les principaux actionnaires sont des hommes d'affaires proches de Viktor Orbán. RTL et Le Monde avaient révélé début février 2022 un prêt de 10,6 M€ d'une banque hongroise, que le RN refusait alors de nommer. La CNCCFP constate un tirage de 10 491 774 € (la décision écrit « banque MBK ») et retire du compte 86 510 € d'intérêts courus au-delà du 28 février 2023 et 23 000 € d'assurance emprunteur. Banque d'un État membre de l'UE : prêt autorisé par le code électoral.",
+    "sources": [
+     {
+      "media": "Journal officiel / CNCCFP",
+      "titre": "Décisions relatives aux comptes de campagne – présidentielle 2022 (JO du 24 février 2023)",
+      "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+      "date": "2023-02-24"
+     },
+     {
+      "media": "Euronews (Reuters)",
+      "titre": "France's Le Pen got loan from Hungarian bank close to Orban - filing",
+      "url": "https://www.euronews.com/2022/03/11/uk-france-election-le-pen",
+      "date": "2022-03-11"
+     },
+     {
+      "media": "Le Courrier d'Europe centrale",
+      "titre": "Une banque hongroise a prêté 10,6 millions d'euros au Rassemblement national",
+      "url": "https://courrierdeuropecentrale.fr/breve/une-banque-hongroise-a-prete-106-millions-deuros-au-rassemblement-national/",
+      "date": "2022-02-02"
+     }
+    ]
+   },
+   {
+    "intitule": "Prêt « émirati » de 8 M€, 2017",
+    "statut_judiciaire": "enquête préliminaire du PNF (ouverte en février 2016 sur les commissions de J.-L. Schaffhauser, élargie à ce prêt selon Mediapart du 11 janvier 2021 et Anticor) après un signalement de Tracfin en décembre 2019 ; le rapport parlementaire de juin 2023 indique que « la justice est saisie » ; aucune mise en examen ni décision publique connue au 26 septembre 2026",
+    "texte": "Selon Mediapart (4 octobre 2019), un prêt de 8 M€ de l'homme d'affaires Laurent Foucher, fondé sur un contrat signé à Bangui et versé via la société financière émiratie Noor Capital, aurait renfloué le RN en 2017, une semaine avant le dépôt du compte de campagne présidentielle. Le rapport parlementaire n° 1311 confirme que la CNCCFP a identifié en 2017 un emprunt auprès d'une personne physique « financé à partir d'une banque basée aux Émirats arabes unis », depuis remboursé grâce à l'aide publique ; il juge l'origine des fonds « mystérieuse ». Le RN affirme avoir obtenu ce prêt dans des conditions « claires et légales », et Marine Le Pen dit n'avoir « aucune connaissance des faits » évoqués. Selon Mediapart (11 janvier 2021), la justice examine les conditions d'obtention du prêt après un signalement de Tracfin au PNF en décembre 2019. Ces faits ne sont pas établis judiciairement.",
+    "sources": [
+     {
+      "media": "Mediapart",
+      "titre": "Un prêt émirati de 8 millions d'euros a sauvé le Rassemblement national",
+      "url": "https://www.mediapart.fr/journal/france/041019/un-pret-emirati-de-8-millions-d-euros-sauve-le-rassemblement-national",
+      "date": "2019-10-04"
+     },
+     {
+      "media": "Mediapart",
+      "titre": "La justice saisie de l'affaire du prêt émirati de 8 millions d'euros au RN",
+      "url": "https://www.mediapart.fr/journal/france/110121/la-justice-saisie-de-l-affaire-du-pret-emirati-de-8-millions-d-euros-au-rn",
+      "date": "2021-01-11"
+     },
+     {
+      "media": "Assemblée nationale",
+      "titre": "Rapport n° 1311 de la commission d'enquête relative aux ingérences politiques, économiques et financières de puissances étrangères",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/rapports/ceingeren/l16b1311-t1_rapport-enquete.pdf",
+      "date": "2023-06-01"
+     },
+     {
+      "media": "Anticor",
+      "titre": "Les financements russes du Rassemblement National",
+      "url": "https://www.anticor.org/2023/12/04/les-financements-russes-du-rassemblement-national/",
+      "date": "2023-12-04"
+     },
+     {
+      "media": "Middle East Monitor (d'après Mediapart)",
+      "titre": "France: judiciary investigates loan paid to far-right party via UAE",
+      "url": "https://www.middleeastmonitor.com/20210113-france-judiciary-investigates-loan-paid-to-far-right-party-via-uae/",
+      "date": "2021-01-13"
+     }
+    ]
+   },
+   {
+    "intitule": "Prêts de particuliers au RN (campagnes 2022 et 2024)",
+    "statut_judiciaire": "information judiciaire ouverte le 2 juillet 2024 par le parquet de la JIRS de Paris, élargie en mai 2025 ; perquisitions le 9 juillet 2025 ; saisies pénales chez des imprimeurs le 11 juillet 2025 ; « personne n'est mis en examen pour l'heure » (AFP, 7 octobre 2025) ; aucune mise en examen publique trouvée depuis, au 26 septembre 2026",
+    "texte": "Après un signalement de la CNCCFP (2023), le parquet de la JIRS de Paris ouvre le 2 juillet 2024 une information judiciaire pour prêt d'une personne morale à un candidat et acceptation d'un tel prêt, détournement de fonds par personne exerçant une fonction publique, escroquerie au préjudice d'une personne publique, faux et usage de faux (présidentielle et législatives 2022, européennes 2024). Sont en cause des prêts de 23 particuliers pour plus de 2,3 M€ (2020-2023) et d'éventuelles prestations surfacturées ou fictives intégrées aux demandes de remboursement de l'État. L'enquête est élargie (révélé en mai 2025) aux prêts consentis « à titre habituel » par des personnes physiques et aux dons annuels de plus de 7 500 €. Le siège du RN et des domiciles sont perquisitionnés le 9 juillet 2025. Le 11 juillet 2025, des saisies pénales visent des imprimeurs liés au parti (dont environ 1 M€ chez Roto Presse du Centre), qui les contestent. Jordan Bardella dénonce une « opération de harcèlement » et juge ces prêts « parfaitement légaux ». Tous les protagonistes sont présumés innocents.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Une information judiciaire ouverte pour le financement de la campagne de Marine Le Pen en 2022",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/une-information-judiciaire-ouverte-pour-la-financement-de-la-campagne-de-marine-le-pen-en-2022_6655830.html",
+      "date": "2024-07-09"
+     },
+     {
+      "media": "Al Jazeera",
+      "titre": "French prosecutors launch investigation into Le Pen's campaign finances",
+      "url": "https://www.aljazeera.com/news/2024/7/9/french-prosecutors-launch-investigation-into-le-pens-campaign-finances",
+      "date": "2024-07-09"
+     },
+     {
+      "media": "Juriguide",
+      "titre": "RN : enquête ouverte pour soupçons de prêts irréguliers de particuliers",
+      "url": "https://www.juriguide.com/2025/05/15/rn-enquete-soupcons-prets-particulier/",
+      "date": "2025-05-15"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Enquête sur des prêts accordés au RN : Jordan Bardella dénonce une « opération de harcèlement »",
+      "url": "https://www.franceinfo.fr/politique/front-national/enquete-sur-des-prets-accordes-au-rn-jordan-bardella-denonce-une-operation-de-harcelement_7250817.html",
+      "date": "2025-05-15"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Soupçons sur le financement des campagnes de 2022 et 2024, siège et domiciles visés... Ce que l'on sait des perquisitions qui visent le Rassemblement national",
+      "url": "https://www.franceinfo.fr/politique/front-national/soupcons-sur-le-financement-des-campagnes-de-2022-et-2024-siege-et-domicile-vises-ce-que-l-on-sait-des-perquisitions-qui-visent-le-rassemblement-national_7366941.html",
+      "date": "2025-07-09"
+     },
+     {
+      "media": "Le Parisien (AFP)",
+      "titre": "Enquête sur les campagnes électorales RN : d'importantes saisies d'argent effectuées chez des imprimeurs proches du parti",
+      "url": "https://www.leparisien.fr/politique/enquete-sur-les-campagnes-electorales-rn-dimportantes-saisies-dargent-effectuees-chez-des-imprimeurs-proches-du-parti-07-10-2025-C35ZVIOVEZELRAISZMCJ3RE5BM.php",
+      "date": "2025-10-07"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Les juges saisissent de l'argent chez des imprimeurs proches du RN",
+      "url": "https://www.20minutes.fr/justice/4177807-20251007-rassemblement-national-juges-saisissent-argent-chez-imprimeurs-proches-parti",
+      "date": "2025-10-07"
+     }
+    ]
+   },
+   {
+    "intitule": "Rapport de la commission d'enquête sur les ingérences étrangères (Assemblée nationale, 2023)",
+    "statut_judiciaire": "rapport parlementaire, sans valeur judiciaire",
+    "texte": "Rapport n° 1311 (rapporteure Constance Le Grip, Renaissance ; président Jean-Philippe Tanguy, RN), enregistré le 1er juin 2023 et adopté par 11 voix contre 5 et 2 abstentions. Il décrit le relais par le RN du discours officiel russe (notamment sur la Crimée) comme une « courroie de transmission ». Il analyse les prêts russes de 2014 (9,4 M€ de la FCRB, 2 M€ à Cotelec via une société chypriote) et le prêt de 8 M€ transité par les Émirats (2017), et « s'interroge sur les motivations » de ces prêts au regard des marques de soutien du parti au pouvoir russe. Il n'apporte pas la preuve d'une contrepartie. Marine Le Pen a dénoncé un rapport « malhonnête », un « procès politique », et le RN a publié ses propres conclusions.",
+    "sources": [
+     {
+      "media": "Assemblée nationale",
+      "titre": "Rapport n° 1311 de la commission d'enquête relative aux ingérences politiques, économiques et financières de puissances étrangères",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/rapports/ceingeren/l16b1311-t1_rapport-enquete.pdf",
+      "date": "2023-06-01"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Commission d'enquête sur les ingérences étrangères : ce que reproche le rapport parlementaire au Rassemblement national",
+      "url": "https://www.franceinfo.fr/politique/front-national/commission-d-enquete-sur-les-ingerences-etrangeres-ce-que-reproche-le-rapport-parlementaire-au-rassemblement-national_5861219.html",
+      "date": "2023-06-01"
+     },
+     {
+      "media": "France 24",
+      "titre": "Les liens entre le RN et la Russie pointés du doigt dans un rapport parlementaire",
+      "url": "https://www.france24.com/fr/france/20230601-les-liens-entre-le-rn-et-la-russie-point%C3%A9s-par-un-rapport-parlementaire",
+      "date": "2023-06-01"
+     }
+    ]
+   }
+  ]
+ }
 }

@@ -21,7 +21,7 @@ def non_libre(logo):
 def check(c):
     """Return a list of warnings for one candidate."""
     w = []
-    for k in ("nom", "parti", "famille", "position", "photo", "bio", "programme"):
+    for k in ("nom", "parti", "famille", "position", "photo", "bio", "programme", "parrainages", "fonds"):
         if not c.get(k) and c.get(k) != 0:
             w.append(f"champ manquant: {k}")
     if c.get("photo", {}).get("fichier") and not (ROOT / c["photo"]["fichier"]).exists():
@@ -37,6 +37,9 @@ def check(c):
               *c.get("affaires", [])]:
         if len(f.get("sources", [])) < 2:
             uniq += 1
+    f = c.get("fonds") or {}
+    if (f.get("alerte", "aucune") != "aucune" or f.get("alerte_etranger")) and len(f.get("sources", [])) < 2:
+        w.append("alerte financement avec moins de 2 sources")
     if uniq:
         w.append(f"{uniq} fait(s) à source unique")
     return w

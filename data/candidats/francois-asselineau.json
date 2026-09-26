@@ -908,5 +908,68 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "difficulte",
+  "revendique": null,
+  "officiel_2022": 293,
+  "texte": "En 2022, François Asselineau n'a obtenu que 293 parrainages validés par le Conseil constitutionnel, en dessous du seuil de 500, et n'a pas pu se présenter. Candidat déclaré pour 2027 (annonce du 21 mars 2026), il affirmait en juillet 2026 se donner les moyens de réunir les 500 parrainages, sans publier de nombre de promesses.",
+  "sources": [
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Parrainages validés par candidat – présidentielle 2022",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Candidatures à l'élection présidentielle française de 2022 (tableau des parrainages)",
+    "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+    "date": "2026-09-26"
+   },
+   {
+    "media": "UPR (site officiel)",
+    "titre": "François Asselineau invité de L.-A. Michelet sur TV Finance – 07/07/2026",
+    "url": "https://upr.fr/actualites/francois-asselineau-en-2027-je-serai-le-seul-candidat-a-la-presidence-de-la-republique-francaise",
+    "date": "2026-07-07"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "François Asselineau",
+    "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+    "date": "2026-09-26"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "apport_personnel",
+   "dons",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Il n'a pas de compte de campagne pour 2022, faute d'avoir été candidat. Son dernier compte présidentiel (2017) a été approuvé après réformation par la CNCCFP : 1 237 609 € de dépenses, dont 389 413 € payés directement par l'UPR ; 1 272 714 € de recettes, dont 790 244 € d'apport personnel (dont une avance de 153 000 €) et 4 600 € de dons ; remboursement de l'État de 755 139 €. L'UPR, non éligible à l'aide publique, se finance par les cotisations et les dons de ses adhérents ; ses comptes 2024 ont été déposés conformément aux règles. Aucune procédure ni aucun financement étranger n'a été trouvé.",
+  "sources": [
+   {
+    "media": "CNCCFP (JORF)",
+    "titre": "Décisions relatives aux comptes de campagne de l'élection présidentielle 2017",
+    "url": "https://cnccfp.fr/wp-content/uploads/2022/04/De%CC%81cisions_pre%CC%81sidentielle_2017.pdf",
+    "date": "2018-02-13"
+   },
+   {
+    "media": "CNCCFP (JORF)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Union populaire républicaine (2007)",
+    "url": "https://fr.wikipedia.org/wiki/Union_populaire_r%C3%A9publicaine_(2007)",
+    "date": "2026-09-26"
+   }
+  ]
+ }
 }

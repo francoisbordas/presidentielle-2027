@@ -565,5 +565,48 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "inconnu",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Candidat depuis le 4 septembre 2026 à la primaire organisée par le PS, Place publique et la GRS (1er tour les 9 et 10 octobre 2026, 2d tour les 16 et 17 octobre). Sa candidature a été validée le 16 septembre 2026. Les parrainages de la primaire sont internes (par exemple 15 membres titulaires du Conseil national du PS ou 10 parlementaires) et ne valent pas parrainages présidentiels. Aucune collecte présidentielle propre n'est annoncée ; s'il gagnait la primaire, il bénéficierait de l'appareil du PS.",
+  "sources": [
+   {
+    "media": "franceinfo",
+    "titre": "Le député Emmanuel Maurel annonce sa candidature à la primaire socialiste pour l'élection présidentielle",
+    "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/le-depute-emmanuel-maurel-annonce-sa-candidature-a-la-primaire-socialiste-pour-l-election-presidentielle_8176532.html",
+    "date": "2026-09-04"
+   },
+   {
+    "media": "Touteleurope.eu",
+    "titre": "Présidentielle 2027 : qui sont les candidats à la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste ?",
+    "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/",
+    "date": "2026-09-16"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Aucune candidature présidentielle antérieure, donc aucun compte de campagne. Son parti, la GRS, déclare pour 2024 240 424 € de produits, dont 180 494 € d'aide publique, et 49 793 € de dettes. Aucun budget de campagne 2027 n'est publié. Aucune alerte.",
+  "sources": [
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (JO du 10 février 2026)",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Emmanuel Maurel",
+    "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel",
+    "date": "2026-09-25"
+   }
+  ]
+ }
 }

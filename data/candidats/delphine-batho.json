@@ -453,5 +453,55 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Candidate déclarée depuis le 25 novembre 2025 (Génération écologie, formation disposant de peu d'élus). Mi-septembre 2026, la maire de Fontaine-lès-Dijon (Côte-d'Or) indique avoir reçu son courrier de demande de parrainage ; elle-même dit qu'« il faut aussi arriver à convaincre les maires pour obtenir les fameux 500 parrainages » (ICI Poitou, 14 septembre 2026). Aucun chiffre de promesses n'a été publié.",
+  "sources": [
+   {
+    "media": "ICI Bourgogne",
+    "titre": "Élection présidentielle : les demandes de parrainage affluent déjà dans les mairies de Côte-d'Or",
+    "url": "https://www.ici.fr/emissions/l-info-d-ici-ici-bourgogne/election-presidentielle-les-demandes-de-parrainage-affluent-deja-dans-les-mairies-de-cote-d-or-8725219",
+    "date": "2026-09-16"
+   },
+   {
+    "media": "ICI Poitou",
+    "titre": "Présidentielle : \"Les Français aspirent à des idées et à des forces nouvelles\", estime Delphine Batho, candidate",
+    "url": "https://www.ici.fr/emissions/l-invite-de-ici-poitou/delphine-batho-candidate-en-2027-les-francaises-aspirent-a-des-idees-nouvelles-et-a-des-forces-nouvelles-6628651",
+    "date": "2026-09-14"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "L'ex-ministre Delphine Batho candidate à la présidentielle \"pour reconstruire une écologie capable de gouverner\"",
+    "url": "https://www.franceinfo.fr/politique/eelv/l-ex-ministre-delphine-batho-candidate-a-la-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner_7639496.html",
+    "date": "2025-11-25"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "dons",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Aucun compte de campagne présidentielle antérieur. Les dons « pour porter haut la candidature de Delphine Batho » sont collectés par l'Association de financement de Génération écologie (agréée le 12 décembre 1990). En 2024, Génération écologie a reçu 172 462 € reversés par Les Écologistes sur leur aide publique (5,39 % de celle-ci), selon l'avis de la CNCCFP publié au JO du 10 février 2026. Aucune alerte sur le financement n'a été trouvée.",
+  "sources": [
+   {
+    "media": "Génération écologie (site officiel)",
+    "titre": "Faire un don",
+    "url": "https://www.generationecologie.fr/agir-avec-nous/sengager/faire-un-don/",
+    "date": "2026-09-26"
+   },
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   }
+  ]
+ }
 }

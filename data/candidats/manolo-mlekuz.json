@@ -1,224 +1,273 @@
 {
-  "id": "manolo-mlekuz",
-  "nom": "Manolo Mlekuz",
-  "naissance": null,
-  "lieu_naissance": null,
-  "parti": "Trajectoire",
-  "parti_sigle": "TRJ",
-  "famille": "non_classe",
-  "position": 0,
-  "position_justif": {
-    "texte": "Non classé par les sources : aucune source consultée ne situe ce candidat sur l'axe gauche-droite (valeur par défaut centre / 0, sans signification politique).",
+ "id": "manolo-mlekuz",
+ "nom": "Manolo Mlekuz",
+ "naissance": null,
+ "lieu_naissance": null,
+ "parti": "Trajectoire",
+ "parti_sigle": "TRJ",
+ "famille": "non_classe",
+ "position": 0,
+ "position_justif": {
+  "texte": "Non classé par les sources : aucune source consultée ne situe ce candidat sur l'axe gauche-droite (valeur par défaut centre / 0, sans signification politique).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Candidatures à l'élection présidentielle française de 2027",
+    "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+    "date": "2026-09-25"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": null,
+  "source_url": null,
+  "auteur": null,
+  "licence": null
+ },
+ "logo_parti": {
+  "fichier": null,
+  "source_url": null,
+  "licence": null
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Étudiant en histoire, études mises en pause pour la campagne.",
     "sources": [
-      {
-        "media": "Wikipédia",
-        "titre": "Candidatures à l'élection présidentielle française de 2027",
-        "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-        "date": "2026-09-25"
-      }
+     {
+      "media": "Site officiel Trajectoire",
+      "titre": "Qui sommes-nous - Trajectoire 2027",
+      "url": "https://trajectoire2027.fr/qui-sommes-nous.html",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Journal-Info",
+      "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
+      "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
+      "date": "2026-05-27"
+     }
     ]
-  },
-  "statut": "declare",
-  "photo": {
-    "fichier": null,
-    "source_url": null,
-    "auteur": null,
-    "licence": null
-  },
-  "logo_parti": {
-    "fichier": null,
-    "source_url": null,
-    "licence": null
-  },
-  "bio": {
-    "etudes": [
-      {
-        "texte": "Étudiant en histoire, études mises en pause pour la campagne.",
-        "sources": [
-          {
-            "media": "Site officiel Trajectoire",
-            "titre": "Qui sommes-nous - Trajectoire 2027",
-            "url": "https://trajectoire2027.fr/qui-sommes-nous.html",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Journal-Info",
-            "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
-            "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
-            "date": "2026-05-27"
-          }
-        ]
-      }
-    ],
-    "carriere_hors_politique": [
-      {
-        "texte": "Travaille dans la restauration pour financer sa tournée.",
-        "sources": [
-          {
-            "media": "Journal-Info",
-            "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
-            "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
-            "date": "2026-05-27"
-          },
-          {
-            "media": "CNews",
-            "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
-            "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
-            "date": "2026-05-27"
-          }
-        ]
-      }
-    ],
-    "mandats": [
-      {
-        "texte": "Aucun mandat. Adhère au Parti socialiste à 15 ans, puis milite à La France insoumise (stage) et dans la campagne du Nouveau Front populaire en Seine-Saint-Denis, avant de s'en éloigner.",
-        "sources": [
-          {
-            "media": "Site officiel Trajectoire",
-            "titre": "Qui sommes-nous - Trajectoire 2027",
-            "url": "https://trajectoire2027.fr/qui-sommes-nous.html",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "CNews",
-            "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
-            "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
-            "date": "2026-05-27"
-          },
-          {
-            "media": "Journal-Info",
-            "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
-            "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
-            "date": "2026-05-27"
-          }
-        ]
-      }
-    ],
-    "autres": [
-      {
-        "texte": "Âgé de 20 ans, plus jeune candidat déclaré ; originaire de Montreuil (Seine-Saint-Denis).",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Candidatures à l'élection présidentielle française de 2027",
-            "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Journal-Info",
-            "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
-            "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
-            "date": "2026-05-27"
-          }
-        ]
-      },
-      {
-        "texte": "Fonde le mouvement Trajectoire (équipe de 7 personnes, porte-parole Gaspard Geniteau) et sillonne la France en camion aménagé pour recueillir les parrainages.",
-        "sources": [
-          {
-            "media": "Site officiel Trajectoire",
-            "titre": "Qui sommes-nous - Trajectoire 2027",
-            "url": "https://trajectoire2027.fr/qui-sommes-nous.html",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Wikipédia",
-            "titre": "Candidatures à l'élection présidentielle française de 2027",
-            "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
-            "date": "2026-09-25"
-          }
-        ]
-      },
-      {
-        "texte": "Fin mai 2026 : 3 parrainages certains, 13 à 15 probables, 42 maires rencontrés.",
-        "sources": [
-          {
-            "media": "CNews",
-            "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
-            "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
-            "date": "2026-05-27"
-          },
-          {
-            "media": "Journal-Info",
-            "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
-            "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
-            "date": "2026-05-27"
-          }
-        ]
-      }
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Travaille dans la restauration pour financer sa tournée.",
+    "sources": [
+     {
+      "media": "Journal-Info",
+      "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
+      "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
+      "date": "2026-05-27"
+     },
+     {
+      "media": "CNews",
+      "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
+      "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
+      "date": "2026-05-27"
+     }
     ]
-  },
-  "programme": {
-    "institutions": {
-      "resume": "Promet de convoquer une assemblée constituante chargée de rédiger une nouvelle Constitution soumise à référendum, en quatre étapes (collège de constitutionnalistes, référendum article 11 sur les modalités, assemblée constituante, référendum final).",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Propose de convoquer une assemblée constituante représentative pour rédiger une nouvelle Constitution soumise à référendum ; c'est sa seule promesse déclarée.",
-          "sources": [
-            {
-              "media": "CNews",
-              "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
-              "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
-              "date": "2026-05-27"
-            },
-            {
-              "media": "Journal-Info",
-              "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
-              "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
-              "date": "2026-05-27"
-            },
-            {
-              "media": "Site officiel Trajectoire",
-              "titre": "Programme - Trajectoire 2027",
-              "url": "https://trajectoire2027.fr/programme.html",
-              "date": "2026-09-25"
-            }
-          ]
-        },
-        {
-          "texte": "Processus en 4 étapes : collège de constitutionnalistes, référendum (article 11) sur les modalités, assemblée constituante, référendum final.",
-          "sources": [
-            {
-              "media": "Site officiel Trajectoire",
-              "titre": "Programme - Trajectoire 2027",
-              "url": "https://trajectoire2027.fr/programme.html",
-              "date": "2026-09-25"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "affaires": [],
-  "financement": [
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Aucun mandat. Adhère au Parti socialiste à 15 ans, puis milite à La France insoumise (stage) et dans la campagne du Nouveau Front populaire en Seine-Saint-Denis, avant de s'en éloigner.",
+    "sources": [
+     {
+      "media": "Site officiel Trajectoire",
+      "titre": "Qui sommes-nous - Trajectoire 2027",
+      "url": "https://trajectoire2027.fr/qui-sommes-nous.html",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "CNews",
+      "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
+      "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
+      "date": "2026-05-27"
+     },
+     {
+      "media": "Journal-Info",
+      "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
+      "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
+      "date": "2026-05-27"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Âgé de 20 ans, plus jeune candidat déclaré ; originaire de Montreuil (Seine-Saint-Denis).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Journal-Info",
+      "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
+      "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
+      "date": "2026-05-27"
+     }
+    ]
+   },
+   {
+    "texte": "Fonde le mouvement Trajectoire (équipe de 7 personnes, porte-parole Gaspard Geniteau) et sillonne la France en camion aménagé pour recueillir les parrainages.",
+    "sources": [
+     {
+      "media": "Site officiel Trajectoire",
+      "titre": "Qui sommes-nous - Trajectoire 2027",
+      "url": "https://trajectoire2027.fr/qui-sommes-nous.html",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Fin mai 2026 : 3 parrainages certains, 13 à 15 probables, 42 maires rencontrés.",
+    "sources": [
+     {
+      "media": "CNews",
+      "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
+      "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
+      "date": "2026-05-27"
+     },
+     {
+      "media": "Journal-Info",
+      "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
+      "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
+      "date": "2026-05-27"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "institutions": {
+   "resume": "Promet de convoquer une assemblée constituante chargée de rédiger une nouvelle Constitution soumise à référendum, en quatre étapes (collège de constitutionnalistes, référendum article 11 sur les modalités, assemblée constituante, référendum final).",
+   "origine": "déclarations 2025-2026",
+   "details": [
     {
-      "texte": "Le mouvement Trajectoire déclare disposer de 12 000 € de fonds et d'un salarié à plein temps.",
-      "sources": [
-        {
-          "media": "Site officiel Trajectoire",
-          "titre": "Qui sommes-nous - Trajectoire 2027",
-          "url": "https://trajectoire2027.fr/qui-sommes-nous.html",
-          "date": "2026-09-25"
-        }
-      ]
+     "texte": "Propose de convoquer une assemblée constituante représentative pour rédiger une nouvelle Constitution soumise à référendum ; c'est sa seule promesse déclarée.",
+     "sources": [
+      {
+       "media": "CNews",
+       "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
+       "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
+       "date": "2026-05-27"
+      },
+      {
+       "media": "Journal-Info",
+       "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
+       "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
+       "date": "2026-05-27"
+      },
+      {
+       "media": "Site officiel Trajectoire",
+       "titre": "Programme - Trajectoire 2027",
+       "url": "https://trajectoire2027.fr/programme.html",
+       "date": "2026-09-25"
+      }
+     ]
     },
     {
-      "texte": "Le candidat finance sa tournée en travaillant dans la restauration.",
-      "sources": [
-        {
-          "media": "Journal-Info",
-          "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
-          "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
-          "date": "2026-05-27"
-        },
-        {
-          "media": "CNews",
-          "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
-          "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
-          "date": "2026-05-27"
-        }
-      ]
+     "texte": "Processus en 4 étapes : collège de constitutionnalistes, référendum (article 11) sur les modalités, assemblée constituante, référendum final.",
+     "sources": [
+      {
+       "media": "Site officiel Trajectoire",
+       "titre": "Programme - Trajectoire 2027",
+       "url": "https://trajectoire2027.fr/programme.html",
+       "date": "2026-09-25"
+      }
+     ]
     }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [
+  {
+   "texte": "Le mouvement Trajectoire déclare disposer de 12 000 € de fonds et d'un salarié à plein temps.",
+   "sources": [
+    {
+     "media": "Site officiel Trajectoire",
+     "titre": "Qui sommes-nous - Trajectoire 2027",
+     "url": "https://trajectoire2027.fr/qui-sommes-nous.html",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Le candidat finance sa tournée en travaillant dans la restauration.",
+   "sources": [
+    {
+     "media": "Journal-Info",
+     "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
+     "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
+     "date": "2026-05-27"
+    },
+    {
+     "media": "CNews",
+     "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
+     "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
+     "date": "2026-05-27"
+    }
+   ]
+  }
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": 3,
+  "officiel_2022": null,
+  "texte": "Selon CNews et Journal-Info (27 mai 2026), le candidat de 20 ans (mouvement Trajectoire) disait avoir rencontré 42 maires et disposer de « trois signatures sûres » et de 13 à 15 autres « estimées » avec une forte probabilité, sur les 500 requises. Aucun chiffre plus récent n'a été publié.",
+  "sources": [
+   {
+    "media": "Journal-Info",
+    "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
+    "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
+    "date": "2026-05-27"
+   },
+   {
+    "media": "CNews",
+    "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
+    "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
+    "date": "2026-05-27"
+   }
   ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "apport_personnel"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Il n'a aucun compte de campagne antérieur. Le site de son mouvement Trajectoire affiche « 12 000 € de fonds disponibles », sans en préciser l'origine, et le candidat dit faire « des services en restauration pour financer le tour de France » (CNews, 27 mai 2026). Aucune alerte sur son financement n'a été trouvée.",
+  "sources": [
+   {
+    "media": "Site officiel Trajectoire",
+    "titre": "Qui sommes-nous - Trajectoire 2027",
+    "url": "https://trajectoire2027.fr/qui-sommes-nous.html",
+    "date": "2026-09-26"
+   },
+   {
+    "media": "Journal-Info",
+    "titre": "À 20 ans, Manolo Mlekuz veut battre le record de Emmanuel Macron",
+    "url": "https://journal-info.fr/2026/05/27/a-20-ans-manolo-mlekuz-veut-battre-le-record-de-emmanuel-macron/",
+    "date": "2026-05-27"
+   },
+   {
+    "media": "CNews",
+    "titre": "Présidentielle 2027 : qui est Manolo Mlekuz, ce candidat âgé de 20 ans parti sillonner la France pour faire campagne ?",
+    "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-manolo-mlekuz-ce-candidat-age-de-20-ans-parti",
+    "date": "2026-05-27"
+   }
+  ]
+ }
 }

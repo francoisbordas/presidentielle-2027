@@ -513,5 +513,51 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Le maire PS de Saint-Ouen s'est déclaré candidat le 9 juin 2026 sur France Inter, puis a confirmé le 26 août 2026 sur TF1 qu'il ne participerait pas à la primaire du PS et de Place publique tout en restant candidat. Selon Africa Radio, il compte sur les élus locaux pour réunir les 500 parrainages, sans avoir donné de nombre de promesses.",
+  "sources": [
+   {
+    "media": "LCP",
+    "titre": "Présidentielle 2027: qui est Karim Bouamrane, le maire socialiste de Saint-Ouen et nouveau candidat à l'élection?",
+    "url": "https://lcp.fr/actualites/presidentielle-2027-qui-est-karim-bouamrane-le-maire-socialiste-de-saint-ouen-et-nouveau",
+    "date": "2026-06-09"
+   },
+   {
+    "media": "Africa Radio",
+    "titre": "Election présidentielle 2027 : Karim Bouamrane, candidat et maire de Saint-Ouen, veut \"une France humaine et forte\"",
+    "url": "https://www.africaradio.com/actualite-116076-election-presidentielle-2027-karim-bouamrane-candidat-et-maire-de-saint-ouen-veut-une-france-humaine-et-forte",
+    "date": "2026-08-24"
+   },
+   {
+    "media": "CNews",
+    "titre": "Présidentielle 2027 : Karim Bouamrane ne participera pas à la primaire socialiste",
+    "url": "https://www.cnews.fr/france/2026-08-26/presidentielle-2027-karim-bouamrane-ne-participera-pas-la-primaire-socialiste",
+    "date": "2026-08-26"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Il n'a aucun compte de campagne présidentielle antérieur, et aucune structure de financement de sa campagne 2027 n'a été rendue publique. Selon CNews (26 août 2026), il espère malgré tout être désigné candidat du PS et « compte sur son organisation pour financer sa campagne » ; nous n'avons trouvé ni confirmation du PS ni seconde source sur ce point. Aucune procédure ni question sur son financement n'a été trouvée.",
+  "sources": [
+   {
+    "media": "CNews",
+    "titre": "Présidentielle 2027 : Karim Bouamrane ne participera pas à la primaire socialiste",
+    "url": "https://www.cnews.fr/france/2026-08-26/presidentielle-2027-karim-bouamrane-ne-participera-pas-la-primaire-socialiste",
+    "date": "2026-08-26"
+   },
+   {
+    "media": "Parlons Politique",
+    "titre": "Comment la candidature de Karim Bouamrane bouscule déjà la gauche socialiste et relance la bataille pour 2027",
+    "url": "https://www.parlons-politique.fr/elections/comment-la-candidature-de-karim-bouamrane-bouscule-deja-la-gauche-socialiste-et-relance-la-bataille-pour-2027_20885/",
+    "date": "2026-06"
+   }
+  ]
+ }
 }

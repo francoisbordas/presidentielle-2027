@@ -1,403 +1,437 @@
 {
-  "id": "jean-michel-fauvergue",
-  "nom": "Jean-Michel Fauvergue",
-  "naissance": "1957-01-31",
-  "lieu_naissance": "Bages (Pyrénées-Orientales)",
-  "parti": "Sans étiquette",
-  "parti_sigle": "DIV",
-  "famille": "centre_droit",
-  "position": 2.5,
-  "position_justif": {
-    "texte": "Ancien député LREM (2017-2022) ayant voté avec son groupe dans 98 % des scrutins, le plus proche du MoDem (94 %) ; candidat indépendant en 2027 axé sur le rétablissement de « l'État, l'autorité, la nation ». Placé au centre droit par estimation (entre Renaissance 0,5 et LR 5), aucune classification experte trouvée.",
+ "id": "jean-michel-fauvergue",
+ "nom": "Jean-Michel Fauvergue",
+ "naissance": "1957-01-31",
+ "lieu_naissance": "Bages (Pyrénées-Orientales)",
+ "parti": "Sans étiquette",
+ "parti_sigle": "DIV",
+ "famille": "centre_droit",
+ "position": 2.5,
+ "position_justif": {
+  "texte": "Ancien député LREM (2017-2022) ayant voté avec son groupe dans 98 % des scrutins, le plus proche du MoDem (94 %) ; candidat indépendant en 2027 axé sur le rétablissement de « l'État, l'autorité, la nation ». Placé au centre droit par estimation (entre Renaissance 0,5 et LR 5), aucune classification experte trouvée.",
+  "sources": [
+   {
+    "media": "Datan",
+    "titre": "Jean-Michel Fauvergue - Activité parlementaire",
+    "url": "https://datan.fr/deputes/seine-et-marne-77/depute_jeanmichel-fauvergue",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Mesinfos",
+    "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
+    "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
+    "date": "2025-12-09"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/jean-michel-fauvergue.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Jean-Michel_Fauvergue_(cropped).jpg",
+  "auteur": "Domenjod",
+  "licence": "CC BY-SA 4.0"
+ },
+ "logo_parti": {
+  "fichier": null,
+  "source_url": null,
+  "licence": null
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Entré dans la police comme officier de paix en 1978 (école de Nice), puis diplômé de l'École nationale supérieure de la police (Saint-Cyr-au-Mont-d'Or) et commissaire en 1986.",
     "sources": [
-      {
-        "media": "Datan",
-        "titre": "Jean-Michel Fauvergue - Activité parlementaire",
-        "url": "https://datan.fr/deputes/seine-et-marne-77/depute_jeanmichel-fauvergue",
-        "date": "2026-09-25"
-      },
-      {
-        "media": "Mesinfos",
-        "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
-        "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
-        "date": "2025-12-09"
-      }
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Michel Fauvergue",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
+      "date": "2026-09-25"
+     }
     ]
-  },
-  "statut": "declare",
-  "photo": {
-    "fichier": "img/candidats/jean-michel-fauvergue.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Jean-Michel_Fauvergue_(cropped).jpg",
-    "auteur": "Domenjod",
-    "licence": "CC BY-SA 4.0"
-  },
-  "logo_parti": {
-    "fichier": null,
-    "source_url": null,
-    "licence": null
-  },
-  "bio": {
-    "etudes": [
-      {
-        "texte": "Entré dans la police comme officier de paix en 1978 (école de Nice), puis diplômé de l'École nationale supérieure de la police (Saint-Cyr-au-Mont-d'Or) et commissaire en 1986.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Jean-Michel Fauvergue",
-            "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
-            "date": "2026-09-25"
-          }
-        ]
-      }
-    ],
-    "carriere_hors_politique": [
-      {
-        "texte": "Haut fonctionnaire de la Police nationale : postes en Nouvelle-Calédonie (dont chef du GIPN de Nouméa, 1991-1994), en Guyane (directeur départemental de la sécurité publique, 1997), attaché de sécurité intérieure au Mali (2001) et au Gabon (2004-2007), chef de l'OCRIEST (2007).",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Jean-Michel Fauvergue",
-            "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
-            "date": "2026-09-25"
-          }
-        ]
-      },
-      {
-        "texte": "Chef du RAID d'avril 2013 à fin mars 2017.",
-        "sources": [
-          {
-            "media": "Wikipédia",
-            "titre": "Jean-Michel Fauvergue",
-            "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "franceinfo",
-            "titre": "Jean-Michel Fauvergue, ancien patron du Raid, rejoint Emmanuel Macron, et sera candidat aux législatives",
-            "url": "https://www.franceinfo.fr/politique/emmanuel-macron/jean-michel-fauvergue-ancien-patron-du-raid-rejoint-macron_2133361.html",
-            "date": "2017-04-06"
-          }
-        ]
-      },
-      {
-        "texte": "À la tête du RAID, il a dirigé l'assaut de l'Hyper Cacher (9 janvier 2015) et l'assaut de Saint-Denis visant Abdelhamid Abaaoud (18 novembre 2015).",
-        "sources": [
-          {
-            "media": "franceinfo",
-            "titre": "Jean-Michel Fauvergue, ancien patron du Raid, rejoint Emmanuel Macron, et sera candidat aux législatives",
-            "url": "https://www.franceinfo.fr/politique/emmanuel-macron/jean-michel-fauvergue-ancien-patron-du-raid-rejoint-macron_2133361.html",
-            "date": "2017-04-06"
-          },
-          {
-            "media": "Wikipédia",
-            "titre": "Jean-Michel Fauvergue",
-            "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
-            "date": "2026-09-25"
-          }
-        ]
-      },
-      {
-        "texte": "Auteur de « Ni capitulation ni résignation. Osons le courage ! » (Fayard, octobre 2025), présenté comme un diagnostic de l'état de la France.",
-        "sources": [
-          {
-            "media": "Éditions Fayard",
-            "titre": "Jean-Michel Fauvergue",
-            "url": "https://www.fayard.fr/auteur/jean-michel-fauvergue/",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Mesinfos",
-            "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
-            "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
-            "date": "2025-12-09"
-          },
-          {
-            "media": "A-News Sécurité",
-            "titre": "« Ni capitulation ni résignation – Osons le courage ! » - Jean-Michel Fauvergue - Security Book",
-            "url": "https://www.anews-securite.fr/articles/d0e09245-bdef-f011-8195-000d3a2226fe/-ni-capitulation-ni-resignation-osons-le-courage--jean-michel-fauvergue-security-book",
-            "date": "2025-11-17"
-          }
-        ]
-      }
-    ],
-    "mandats": [
-      {
-        "texte": "Investi par En Marche ! pour les législatives de 2017, sa candidature étant annoncée par Emmanuel Macron sur France 2 en avril 2017.",
-        "sources": [
-          {
-            "media": "franceinfo",
-            "titre": "Jean-Michel Fauvergue, ancien patron du Raid, rejoint Emmanuel Macron, et sera candidat aux législatives",
-            "url": "https://www.franceinfo.fr/politique/emmanuel-macron/jean-michel-fauvergue-ancien-patron-du-raid-rejoint-macron_2133361.html",
-            "date": "2017-04-06"
-          }
-        ]
-      },
-      {
-        "texte": "Député de la 8e circonscription de Seine-et-Marne du 21 juin 2017 au 21 juin 2022 (groupe LREM), élu avec 67,2 % des voix face à Chantal Brunel.",
-        "sources": [
-          {
-            "media": "Assemblée nationale",
-            "titre": "M. Jean-Michel Fauvergue - Mandat clos - Seine-et-Marne (8e circonscription)",
-            "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA721702",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Datan",
-            "titre": "Jean-Michel Fauvergue - Activité parlementaire",
-            "url": "https://datan.fr/deputes/seine-et-marne-77/depute_jeanmichel-fauvergue",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "Wikipédia",
-            "titre": "Jean-Michel Fauvergue",
-            "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
-            "date": "2026-09-25"
-          }
-        ]
-      },
-      {
-        "texte": "Ne s'est pas représenté aux législatives de 2022 ; Hadrien Ghomi lui a succédé.",
-        "sources": [
-          {
-            "media": "Wikipédia (en)",
-            "titre": "Jean-Michel Fauvergue",
-            "url": "https://en.wikipedia.org/wiki/Jean-Michel_Fauvergue",
-            "date": "2026-09-25"
-          }
-        ]
-      },
-      {
-        "texte": "Candidat non élu aux élections régionales de 2021 en Île-de-France.",
-        "sources": [
-          {
-            "media": "Datan",
-            "titre": "Jean-Michel Fauvergue - Activité parlementaire",
-            "url": "https://datan.fr/deputes/seine-et-marne-77/depute_jeanmichel-fauvergue",
-            "date": "2026-09-25"
-          }
-        ]
-      }
-    ],
-    "autres": [
-      {
-        "texte": "Co-auteur avec Alice Thourot de la proposition de loi relative à la sécurité globale (déposée le 14 janvier 2020, adoptée à l'Assemblée le 24 novembre 2020), dont il a été co-rapporteur.",
-        "sources": [
-          {
-            "media": "Sénat",
-            "titre": "Proposition de loi relative à la sécurité globale - rapport de commission mixte paritaire",
-            "url": "https://www.senat.fr/rap/l20-494/l20-494.html",
-            "date": "2021-03-29"
-          },
-          {
-            "media": "Wikipédia",
-            "titre": "Loi pour une sécurité globale préservant les libertés",
-            "url": "https://fr.wikipedia.org/wiki/Proposition_de_loi_relative_%C3%A0_la_s%C3%A9curit%C3%A9_globale",
-            "date": "2026-09-25"
-          },
-          {
-            "media": "LCP",
-            "titre": "Censure de l'ex-article 24 de la loi de sécurité globale : « Nous ne lâcherons rien », promet Jean-Michel Fauvergue",
-            "url": "https://lcp.fr/actualites/censure-de-l-ex-article-24-de-la-loi-de-securite-globale-nous-ne-lacherons-rien-promet",
-            "date": "2021-05-20"
-          }
-        ]
-      },
-      {
-        "texte": "Le Conseil constitutionnel a censuré le 20 mai 2021 plusieurs dispositions de la loi, dont l'article 52 (ex-article 24) sur la « provocation à l'identification » des forces de l'ordre ; J.-M. Fauvergue a déclaré « Nous ne lâcherons rien ».",
-        "sources": [
-          {
-            "media": "Conseil constitutionnel",
-            "titre": "Décision n° 2021-817 DC du 20 mai 2021 - Loi pour une sécurité globale préservant les libertés",
-            "url": "https://www.conseil-constitutionnel.fr/decision/2021/2021817DC.htm",
-            "date": "2021-05-20"
-          },
-          {
-            "media": "LCP",
-            "titre": "Censure de l'ex-article 24 de la loi de sécurité globale : « Nous ne lâcherons rien », promet Jean-Michel Fauvergue",
-            "url": "https://lcp.fr/actualites/censure-de-l-ex-article-24-de-la-loi-de-securite-globale-nous-ne-lacherons-rien-promet",
-            "date": "2021-05-20"
-          }
-        ]
-      },
-      {
-        "texte": "Le 30 avril 2019 sur France 5 (C à vous), il a déclaré « il faut oublier cette affaire Malik Oussekine » à propos du maintien de l'ordre, propos critiqués notamment par Olivier Faure, Alexis Corbière et SOS Racisme.",
-        "sources": [
-          {
-            "media": "franceinfo",
-            "titre": "VIDEO. « Il faut oublier l'affaire Malik Oussekine » : la phrase de ce député LREM fait réagir sur les réseaux sociaux",
-            "url": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/video-il-faut-oublier-laffaire-malik-oussekine-la-phrase-de-ce-depute-lrem-fait-reagir-sur-les-reseaux-sociaux_3423247.html",
-            "date": "2019-05-01"
-          },
-          {
-            "media": "Europe 1",
-            "titre": "En appelant à « oublier l'affaire Malik Oussekine », Jean-Michel Fauvergue fait polémique",
-            "url": "https://www.europe1.fr/politique/en-appelant-a-oublier-laffaire-malik-oussekine-jean-michel-fauvergue-fait-polemique-3896140",
-            "date": "2019-05"
-          },
-          {
-            "media": "Wikipédia",
-            "titre": "Jean-Michel Fauvergue",
-            "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
-            "date": "2026-09-25"
-          }
-        ]
-      },
-      {
-        "texte": "A déclaré en 2019 ne pas aimer l'expression « violences policières », distinguant violences « légitimes » et « illégitimes ».",
-        "sources": [
-          {
-            "media": "Europe 1",
-            "titre": "Jean-Michel Fauvergue, député LREM : « Je n'aime pas l'expression 'violences policières' »",
-            "url": "https://www.europe1.fr/politique/jean-michel-fauvergue-je-naime-pas-lexpression-violences-policieres-3896510",
-            "date": "2019-05"
-          },
-          {
-            "media": "Wikipédia",
-            "titre": "Jean-Michel Fauvergue",
-            "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
-            "date": "2026-09-25"
-          }
-        ]
-      },
-      {
-        "texte": "S'est déclaré candidat à l'élection présidentielle de 2027 fin 2025 (« Récemment, je me suis déclaré candidat à la présidentielle », décembre 2025) ; classé candidat indépendant.",
-        "sources": [
-          {
-            "media": "Mesinfos",
-            "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
-            "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
-            "date": "2025-12-09"
-          },
-          {
-            "media": "Europe 1",
-            "titre": "« La plus grande lâcheté de ces dix dernières années, c'est d'avoir laissé tomber la justice » se révolte Jean-Michel Fauvergue, ancien chef du RAID et candidat à la présidentielle 2027",
-            "url": "https://www.europe1.fr/emissions/L-invite-de/la-plus-grande-lachete-de-ces-dix-dernieres-annees-cest-davoir-laisse-tomber-la-justice-se-revolte-jean-michel-fauvergue-ancien-chef-du-raid-et-candidat-a-la-presidentielle-2027-868793",
-            "date": "2026"
-          },
-          {
-            "media": "Wikipédia (en)",
-            "titre": "2027 French presidential election",
-            "url": "https://en.wikipedia.org/wiki/2027_French_presidential_election",
-            "date": "2026-09-25"
-          }
-        ]
-      }
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Haut fonctionnaire de la Police nationale : postes en Nouvelle-Calédonie (dont chef du GIPN de Nouméa, 1991-1994), en Guyane (directeur départemental de la sécurité publique, 1997), attaché de sécurité intérieure au Mali (2001) et au Gabon (2004-2007), chef de l'OCRIEST (2007).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Michel Fauvergue",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
+      "date": "2026-09-25"
+     }
     ]
-  },
-  "programme": {
-    "securite_justice": {
-      "resume": "Propose des courtes peines dès le premier délit, des peines minimales, un traitement de la multirécidive, l'application réelle du sursis, la diversification du recrutement des magistrats et la suppression du juge de l'application des peines ; contre le narcotrafic, une « stratégie de sécurité globale » partagée par toutes les forces politiques.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Propose « courtes peines au premier délit, traitement de la multirécidive, peines minimales », « application réelle du sursis, diversification du recrutement des magistrats » et la « suppression du juge de l'application des peines ».",
-          "sources": [
-            {
-              "media": "Mesinfos",
-              "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
-              "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
-              "date": "2025-12-09"
-            }
-          ]
-        },
-        {
-          "texte": "Juge que « la plus grande lâcheté de ces dix dernières années, c'est d'avoir laissé tomber la justice ».",
-          "sources": [
-            {
-              "media": "Europe 1",
-              "titre": "« La plus grande lâcheté de ces dix dernières années, c'est d'avoir laissé tomber la justice » se révolte Jean-Michel Fauvergue, ancien chef du RAID et candidat à la présidentielle 2027",
-              "url": "https://www.europe1.fr/emissions/L-invite-de/la-plus-grande-lachete-de-ces-dix-dernieres-annees-cest-davoir-laisse-tomber-la-justice-se-revolte-jean-michel-fauvergue-ancien-chef-du-raid-et-candidat-a-la-presidentielle-2027-868793",
-              "date": "2026"
-            }
-          ]
-        },
-        {
-          "texte": "Contre le trafic de drogue, appelle à une « stratégie de sécurité globale acceptée par toutes les forces vives de la nation ».",
-          "sources": [
-            {
-              "media": "Mesinfos",
-              "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
-              "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
-              "date": "2025-12-09"
-            }
-          ]
-        }
-      ]
+   },
+   {
+    "texte": "Chef du RAID d'avril 2013 à fin mars 2017.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Michel Fauvergue",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Jean-Michel Fauvergue, ancien patron du Raid, rejoint Emmanuel Macron, et sera candidat aux législatives",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/jean-michel-fauvergue-ancien-patron-du-raid-rejoint-macron_2133361.html",
+      "date": "2017-04-06"
+     }
+    ]
+   },
+   {
+    "texte": "À la tête du RAID, il a dirigé l'assaut de l'Hyper Cacher (9 janvier 2015) et l'assaut de Saint-Denis visant Abdelhamid Abaaoud (18 novembre 2015).",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Jean-Michel Fauvergue, ancien patron du Raid, rejoint Emmanuel Macron, et sera candidat aux législatives",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/jean-michel-fauvergue-ancien-patron-du-raid-rejoint-macron_2133361.html",
+      "date": "2017-04-06"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Michel Fauvergue",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Auteur de « Ni capitulation ni résignation. Osons le courage ! » (Fayard, octobre 2025), présenté comme un diagnostic de l'état de la France.",
+    "sources": [
+     {
+      "media": "Éditions Fayard",
+      "titre": "Jean-Michel Fauvergue",
+      "url": "https://www.fayard.fr/auteur/jean-michel-fauvergue/",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Mesinfos",
+      "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
+      "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
+      "date": "2025-12-09"
+     },
+     {
+      "media": "A-News Sécurité",
+      "titre": "« Ni capitulation ni résignation – Osons le courage ! » - Jean-Michel Fauvergue - Security Book",
+      "url": "https://www.anews-securite.fr/articles/d0e09245-bdef-f011-8195-000d3a2226fe/-ni-capitulation-ni-resignation-osons-le-courage--jean-michel-fauvergue-security-book",
+      "date": "2025-11-17"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Investi par En Marche ! pour les législatives de 2017, sa candidature étant annoncée par Emmanuel Macron sur France 2 en avril 2017.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Jean-Michel Fauvergue, ancien patron du Raid, rejoint Emmanuel Macron, et sera candidat aux législatives",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/jean-michel-fauvergue-ancien-patron-du-raid-rejoint-macron_2133361.html",
+      "date": "2017-04-06"
+     }
+    ]
+   },
+   {
+    "texte": "Député de la 8e circonscription de Seine-et-Marne du 21 juin 2017 au 21 juin 2022 (groupe LREM), élu avec 67,2 % des voix face à Chantal Brunel.",
+    "sources": [
+     {
+      "media": "Assemblée nationale",
+      "titre": "M. Jean-Michel Fauvergue - Mandat clos - Seine-et-Marne (8e circonscription)",
+      "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA721702",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Datan",
+      "titre": "Jean-Michel Fauvergue - Activité parlementaire",
+      "url": "https://datan.fr/deputes/seine-et-marne-77/depute_jeanmichel-fauvergue",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Michel Fauvergue",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Ne s'est pas représenté aux législatives de 2022 ; Hadrien Ghomi lui a succédé.",
+    "sources": [
+     {
+      "media": "Wikipédia (en)",
+      "titre": "Jean-Michel Fauvergue",
+      "url": "https://en.wikipedia.org/wiki/Jean-Michel_Fauvergue",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Candidat non élu aux élections régionales de 2021 en Île-de-France.",
+    "sources": [
+     {
+      "media": "Datan",
+      "titre": "Jean-Michel Fauvergue - Activité parlementaire",
+      "url": "https://datan.fr/deputes/seine-et-marne-77/depute_jeanmichel-fauvergue",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Co-auteur avec Alice Thourot de la proposition de loi relative à la sécurité globale (déposée le 14 janvier 2020, adoptée à l'Assemblée le 24 novembre 2020), dont il a été co-rapporteur.",
+    "sources": [
+     {
+      "media": "Sénat",
+      "titre": "Proposition de loi relative à la sécurité globale - rapport de commission mixte paritaire",
+      "url": "https://www.senat.fr/rap/l20-494/l20-494.html",
+      "date": "2021-03-29"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Loi pour une sécurité globale préservant les libertés",
+      "url": "https://fr.wikipedia.org/wiki/Proposition_de_loi_relative_%C3%A0_la_s%C3%A9curit%C3%A9_globale",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "LCP",
+      "titre": "Censure de l'ex-article 24 de la loi de sécurité globale : « Nous ne lâcherons rien », promet Jean-Michel Fauvergue",
+      "url": "https://lcp.fr/actualites/censure-de-l-ex-article-24-de-la-loi-de-securite-globale-nous-ne-lacherons-rien-promet",
+      "date": "2021-05-20"
+     }
+    ]
+   },
+   {
+    "texte": "Le Conseil constitutionnel a censuré le 20 mai 2021 plusieurs dispositions de la loi, dont l'article 52 (ex-article 24) sur la « provocation à l'identification » des forces de l'ordre ; J.-M. Fauvergue a déclaré « Nous ne lâcherons rien ».",
+    "sources": [
+     {
+      "media": "Conseil constitutionnel",
+      "titre": "Décision n° 2021-817 DC du 20 mai 2021 - Loi pour une sécurité globale préservant les libertés",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2021/2021817DC.htm",
+      "date": "2021-05-20"
+     },
+     {
+      "media": "LCP",
+      "titre": "Censure de l'ex-article 24 de la loi de sécurité globale : « Nous ne lâcherons rien », promet Jean-Michel Fauvergue",
+      "url": "https://lcp.fr/actualites/censure-de-l-ex-article-24-de-la-loi-de-securite-globale-nous-ne-lacherons-rien-promet",
+      "date": "2021-05-20"
+     }
+    ]
+   },
+   {
+    "texte": "Le 30 avril 2019 sur France 5 (C à vous), il a déclaré « il faut oublier cette affaire Malik Oussekine » à propos du maintien de l'ordre, propos critiqués notamment par Olivier Faure, Alexis Corbière et SOS Racisme.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "VIDEO. « Il faut oublier l'affaire Malik Oussekine » : la phrase de ce député LREM fait réagir sur les réseaux sociaux",
+      "url": "https://www.franceinfo.fr/economie/transports/gilets-jaunes/video-il-faut-oublier-laffaire-malik-oussekine-la-phrase-de-ce-depute-lrem-fait-reagir-sur-les-reseaux-sociaux_3423247.html",
+      "date": "2019-05-01"
+     },
+     {
+      "media": "Europe 1",
+      "titre": "En appelant à « oublier l'affaire Malik Oussekine », Jean-Michel Fauvergue fait polémique",
+      "url": "https://www.europe1.fr/politique/en-appelant-a-oublier-laffaire-malik-oussekine-jean-michel-fauvergue-fait-polemique-3896140",
+      "date": "2019-05"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Michel Fauvergue",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "A déclaré en 2019 ne pas aimer l'expression « violences policières », distinguant violences « légitimes » et « illégitimes ».",
+    "sources": [
+     {
+      "media": "Europe 1",
+      "titre": "Jean-Michel Fauvergue, député LREM : « Je n'aime pas l'expression 'violences policières' »",
+      "url": "https://www.europe1.fr/politique/jean-michel-fauvergue-je-naime-pas-lexpression-violences-policieres-3896510",
+      "date": "2019-05"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Michel Fauvergue",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Michel_Fauvergue",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "S'est déclaré candidat à l'élection présidentielle de 2027 fin 2025 (« Récemment, je me suis déclaré candidat à la présidentielle », décembre 2025) ; classé candidat indépendant.",
+    "sources": [
+     {
+      "media": "Mesinfos",
+      "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
+      "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
+      "date": "2025-12-09"
+     },
+     {
+      "media": "Europe 1",
+      "titre": "« La plus grande lâcheté de ces dix dernières années, c'est d'avoir laissé tomber la justice » se révolte Jean-Michel Fauvergue, ancien chef du RAID et candidat à la présidentielle 2027",
+      "url": "https://www.europe1.fr/emissions/L-invite-de/la-plus-grande-lachete-de-ces-dix-dernieres-annees-cest-davoir-laisse-tomber-la-justice-se-revolte-jean-michel-fauvergue-ancien-chef-du-raid-et-candidat-a-la-presidentielle-2027-868793",
+      "date": "2026"
+     },
+     {
+      "media": "Wikipédia (en)",
+      "titre": "2027 French presidential election",
+      "url": "https://en.wikipedia.org/wiki/2027_French_presidential_election",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "securite_justice": {
+   "resume": "Propose des courtes peines dès le premier délit, des peines minimales, un traitement de la multirécidive, l'application réelle du sursis, la diversification du recrutement des magistrats et la suppression du juge de l'application des peines ; contre le narcotrafic, une « stratégie de sécurité globale » partagée par toutes les forces politiques.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose « courtes peines au premier délit, traitement de la multirécidive, peines minimales », « application réelle du sursis, diversification du recrutement des magistrats » et la « suppression du juge de l'application des peines ».",
+     "sources": [
+      {
+       "media": "Mesinfos",
+       "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
+       "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
+       "date": "2025-12-09"
+      }
+     ]
     },
-    "immigration": {
-      "resume": "Propose de distinguer trois catégories : refuser les délinquants et terroristes, réduire les arrivées irrégulières, accueillir travailleurs qualifiés et talents.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Distingue le rejet des criminels et terroristes, la réduction des arrivées illégales et l'accueil des travailleurs qualifiés et talents.",
-          "sources": [
-            {
-              "media": "Le Diplomate",
-              "titre": "Le Grand Entretien du Diplomate avec Jean-Michel Fauvergue : Ni capitulation ni résignation, osons le courage !",
-              "url": "https://lediplomate.media/exclusif-grand-entretien-diplomate-jean-michel-fauvergue-capitulation-resignation-oson-courage/",
-              "date": "2025-10-26"
-            }
-          ]
-        }
-      ]
+    {
+     "texte": "Juge que « la plus grande lâcheté de ces dix dernières années, c'est d'avoir laissé tomber la justice ».",
+     "sources": [
+      {
+       "media": "Europe 1",
+       "titre": "« La plus grande lâcheté de ces dix dernières années, c'est d'avoir laissé tomber la justice » se révolte Jean-Michel Fauvergue, ancien chef du RAID et candidat à la présidentielle 2027",
+       "url": "https://www.europe1.fr/emissions/L-invite-de/la-plus-grande-lachete-de-ces-dix-dernieres-annees-cest-davoir-laisse-tomber-la-justice-se-revolte-jean-michel-fauvergue-ancien-chef-du-raid-et-candidat-a-la-presidentielle-2027-868793",
+       "date": "2026"
+      }
+     ]
     },
-    "defense_international": {
-      "resume": "Soutient l'aide à l'Ukraine et la pérennisation de l'effort de guerre avec les voisins européens ; prône une coopération renforcée via Frontex, Europol et Interpol contre le terrorisme.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "« Soutenir l'Ukraine et pérenniser avec nos voisins l'effort de guerre est une attitude responsable. »",
-          "sources": [
-            {
-              "media": "Mesinfos",
-              "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
-              "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
-              "date": "2025-12-09"
-            }
-          ]
-        },
-        {
-          "texte": "Plaide pour une coopération antiterroriste renforcée via Frontex, Europol et Interpol.",
-          "sources": [
-            {
-              "media": "Le Diplomate",
-              "titre": "Le Grand Entretien du Diplomate avec Jean-Michel Fauvergue : Ni capitulation ni résignation, osons le courage !",
-              "url": "https://lediplomate.media/exclusif-grand-entretien-diplomate-jean-michel-fauvergue-capitulation-resignation-oson-courage/",
-              "date": "2025-10-26"
-            }
-          ]
-        }
-      ]
-    },
-    "institutions": {
-      "resume": "Veut « rétablir l'État, l'autorité, la nation » et renforcer l'autorité des institutions.",
-      "origine": "déclarations 2025-2026",
-      "details": [
-        {
-          "texte": "Présente son livre comme nourri par la volonté de « rétablir l'État, l'autorité, la nation ».",
-          "sources": [
-            {
-              "media": "Mesinfos",
-              "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
-              "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
-              "date": "2025-12-09"
-            }
-          ]
-        },
-        {
-          "texte": "Appelle à « plus de clarté dans nos politiques et de rigueur dans l'application » et à abandonner « l'individualisme forcené » au profit de l'intérêt collectif.",
-          "sources": [
-            {
-              "media": "Le Diplomate",
-              "titre": "Le Grand Entretien du Diplomate avec Jean-Michel Fauvergue : Ni capitulation ni résignation, osons le courage !",
-              "url": "https://lediplomate.media/exclusif-grand-entretien-diplomate-jean-michel-fauvergue-capitulation-resignation-oson-courage/",
-              "date": "2025-10-26"
-            }
-          ]
-        }
-      ]
+    {
+     "texte": "Contre le trafic de drogue, appelle à une « stratégie de sécurité globale acceptée par toutes les forces vives de la nation ».",
+     "sources": [
+      {
+       "media": "Mesinfos",
+       "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
+       "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
+       "date": "2025-12-09"
+      }
+     ]
     }
+   ]
   },
-  "affaires": [],
-  "financement": []
+  "immigration": {
+   "resume": "Propose de distinguer trois catégories : refuser les délinquants et terroristes, réduire les arrivées irrégulières, accueillir travailleurs qualifiés et talents.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Distingue le rejet des criminels et terroristes, la réduction des arrivées illégales et l'accueil des travailleurs qualifiés et talents.",
+     "sources": [
+      {
+       "media": "Le Diplomate",
+       "titre": "Le Grand Entretien du Diplomate avec Jean-Michel Fauvergue : Ni capitulation ni résignation, osons le courage !",
+       "url": "https://lediplomate.media/exclusif-grand-entretien-diplomate-jean-michel-fauvergue-capitulation-resignation-oson-courage/",
+       "date": "2025-10-26"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Soutient l'aide à l'Ukraine et la pérennisation de l'effort de guerre avec les voisins européens ; prône une coopération renforcée via Frontex, Europol et Interpol contre le terrorisme.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "« Soutenir l'Ukraine et pérenniser avec nos voisins l'effort de guerre est une attitude responsable. »",
+     "sources": [
+      {
+       "media": "Mesinfos",
+       "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
+       "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
+       "date": "2025-12-09"
+      }
+     ]
+    },
+    {
+     "texte": "Plaide pour une coopération antiterroriste renforcée via Frontex, Europol et Interpol.",
+     "sources": [
+      {
+       "media": "Le Diplomate",
+       "titre": "Le Grand Entretien du Diplomate avec Jean-Michel Fauvergue : Ni capitulation ni résignation, osons le courage !",
+       "url": "https://lediplomate.media/exclusif-grand-entretien-diplomate-jean-michel-fauvergue-capitulation-resignation-oson-courage/",
+       "date": "2025-10-26"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Veut « rétablir l'État, l'autorité, la nation » et renforcer l'autorité des institutions.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Présente son livre comme nourri par la volonté de « rétablir l'État, l'autorité, la nation ».",
+     "sources": [
+      {
+       "media": "Mesinfos",
+       "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
+       "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
+       "date": "2025-12-09"
+      }
+     ]
+    },
+    {
+     "texte": "Appelle à « plus de clarté dans nos politiques et de rigueur dans l'application » et à abandonner « l'individualisme forcené » au profit de l'intérêt collectif.",
+     "sources": [
+      {
+       "media": "Le Diplomate",
+       "titre": "Le Grand Entretien du Diplomate avec Jean-Michel Fauvergue : Ni capitulation ni résignation, osons le courage !",
+       "url": "https://lediplomate.media/exclusif-grand-entretien-diplomate-jean-michel-fauvergue-capitulation-resignation-oson-courage/",
+       "date": "2025-10-26"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [],
+ "parrainages": {
+  "statut": "inconnu",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Candidat indépendant présenté comme tel depuis l'automne 2025 (Europe 1, octobre 2025), l'ancien chef du RAID reconnaît qu'« il faut une structure, un parti » pour une campagne ; aucune source consultée ne fait état d'une collecte de parrainages ni d'un chiffre de promesses (septembre 2026).",
+  "sources": [
+   {
+    "media": "Mesinfos",
+    "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
+    "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
+    "date": "2025-12-09"
+   },
+   {
+    "media": "Europe 1",
+    "titre": "« La plus grande lâcheté de ces dix dernières années, c'est d'avoir laissé tomber la justice » se révolte Jean-Michel Fauvergue, ancien chef du RAID et candidat à la présidentielle 2027",
+    "url": "https://www.europe1.fr/emissions/L-invite-de/la-plus-grande-lachete-de-ces-dix-dernieres-annees-cest-davoir-laisse-tomber-la-justice-se-revolte-jean-michel-fauvergue-ancien-chef-du-raid-et-candidat-a-la-presidentielle-2027-868793",
+    "date": "2025-10-25"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Aucun compte de campagne présidentielle antérieur (jamais candidat). Aucune information publique trouvée sur le financement de sa campagne 2027 (parti, association de financement, prêts ou dons). Aucune alerte sur le financement relevée.",
+  "sources": [
+   {
+    "media": "Mesinfos",
+    "titre": "Jean-Michel Fauvergue, ancien patron du Raid : « Il est temps d'être courageux »",
+    "url": "https://mesinfos.fr/jean-michel-fauvergue-ancien-patron-du-raid-il-est-temps-d-etre-courageux-235565.html",
+    "date": "2025-12-09"
+   }
+  ]
+ }
 }

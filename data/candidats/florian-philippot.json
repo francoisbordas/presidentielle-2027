@@ -599,5 +599,61 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "difficulte",
+  "revendique": null,
+  "officiel_2022": 1,
+  "texte": "En 2022, il a renoncé le 18 février faute de parrainages, avec un seul parrainage validé par le Conseil constitutionnel (celui de la maire d'Yville-sur-Seine, selon la presse). En se déclarant candidat le 9 mai 2026, il a dit s'y prendre « de manière très professionnelle » pour les 500 parrainages, sans revendiquer de chiffre.",
+  "sources": [
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Parrainages validés par candidat – présidentielle 2022",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle : Florian Philippot, figure des antipass, renonce à sa candidature faute de parrainages",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-florian-philippot-figure-des-antipass-renonce-a-sa-candidature-faute-de-parrainages_4968939.html",
+    "date": "2022-02-18"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2027 : le souverainiste Florian Philippot annonce sa candidature à l'Élysée",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+    "date": "2026-05-09"
+   },
+   {
+    "media": "ICI (France Bleu)",
+    "titre": "Présidentielle 2022 : Florian Philippot renonce à se présenter",
+    "url": "https://www.ici.fr/infos/politique/presidentielle-florian-philippot-renonce-a-se-presenter-1645201013",
+    "date": "2022-02-18"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "dons",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Pas de compte de campagne présidentielle en 2022 (il n'a pas été candidat officiel). La campagne s'appuierait sur Les Patriotes, dont les produits 2024 s'élèvent à 2,56 M€ : 1,04 M€ de cotisations, 0,997 M€ de dons de particuliers et 198 497 € d'aide publique (au titre des législatives 2022 ; le parti n'est plus éligible au titre de 2024). Le parti n'a aucun emprunt et une situation nette de 2,98 M€ (CNCCFP). Aucun financement propre à la campagne 2027 n'a été rendu public, aucune alerte.",
+  "sources": [
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   },
+   {
+    "media": "Les Patriotes (site du parti)",
+    "titre": "Faire un don aux Patriotes",
+    "url": "https://soutien.les-patriotes.fr/don",
+    "date": "2026-09-26"
+   }
+  ]
+ }
 }

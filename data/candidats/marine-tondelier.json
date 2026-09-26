@@ -749,5 +749,60 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "appareil_suffisant",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Désignée officiellement candidate des Écologistes lors d'un conseil fédéral extraordinaire (franceinfo, 23 septembre 2026) ; un vote des adhérents du 10 au 13 décembre 2026 doit trancher entre maintien de sa candidature et retrait au profit d'un autre candidat de gauche. Le parti dispose de nombreux élus : parrainages très probables, mais aucun chiffre revendiqué. Elle n'était pas candidate en 2022 ; le candidat écologiste d'alors, Yannick Jadot, avait obtenu 712 parrainages validés.",
+  "sources": [
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Parrainages validés par candidat – présidentielle 2022",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Marine Tondelier, candidate des Ecologistes à la présidentielle 2027, a accouché d'un garçon",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/la-candidate-des-ecologistes-a-la-presidentielle-2027-marine-tondelier-a-accouche-d-un-garcon-prenomme-leon_8205839.html",
+    "date": "2026-09-23"
+   },
+   {
+    "media": "Reporterre",
+    "titre": "Marine Tondelier officiellement candidate à la présidentielle",
+    "url": "https://reporterre.net/Presidentielle-2027-Marine-Tondelier-candidate-a-une-primaire-de-la-gauche",
+    "date": "2025-10-22"
+   },
+   {
+    "media": "Reporterre",
+    "titre": "Qui pour porter la voix de l'écologie à la présidentielle ? Tondelier sommée d'anticiper l'abandon de la primaire",
+    "url": "https://reporterre.net/Qui-pour-porter-la-voix-de-l-ecologie-a-la-presidentielle-Tondelier-sommee-d-anticiper-l",
+    "date": "2026-06-05"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Pas de candidature présidentielle antérieure, donc pas de compte de campagne à son nom. La campagne s'appuierait sur Les Écologistes : en 2024, 8,79 M€ de produits, dont 3,20 M€ d'aide publique, et une situation nette positive de 10,56 M€ (CNCCFP) ; LCP évalue leurs moyens à 10,5 M€. Aucun budget ni prêt n'a été annoncé pour 2027. Aucune alerte sur le financement trouvée.",
+  "sources": [
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   },
+   {
+    "media": "LCP",
+    "titre": "Dons, banques, argent public… D'où vient l'argent des campagnes présidentielles ?",
+    "url": "https://lcp.fr/actualites/dons-banques-argent-public-d-ou-vient-l-argent-des-campagnes-presidentielles-434695",
+    "date": "2026-04-04"
+   }
+  ]
+ }
 }

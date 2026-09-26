@@ -566,5 +566,51 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "inconnu",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Elle a annoncé le 6 septembre 2026 avoir obtenu les parrainages internes au PS (élus ou cadres du parti) pour se présenter à la primaire sociale-démocrate organisée par le PS, Place publique et la GRS (votes les 9-10 et 16-17 octobre 2026), où sa candidature figure parmi les cinq retenues. Ce ne sont pas des parrainages d'élus pour la présidentielle : aucun chiffre n'est revendiqué à ce titre. Elle n'était pas candidate en 2022.",
+  "sources": [
+   {
+    "media": "franceinfo",
+    "titre": "Ségolène Royal annonce qu'elle a obtenu les parrainages nécessaires pour participer à la primaire socialiste",
+    "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/segolene-royal-annonce-qu-elle-a-obtenu-les-parrainages-necessaires-pour-participer-a-la-primaire-socialiste_8180078.html",
+    "date": "2026-09-06"
+   },
+   {
+    "media": "Entrevue",
+    "titre": "Primaire socialiste : Ségolène Royal annonce avoir obtenu les parrainages nécessaires",
+    "url": "https://entrevue.fr/presidentielle-2027/primaire-socialiste-segolene-royal-annonce-avoir-obtenu-les-parrainages-necessaires/",
+    "date": "2026-09-06"
+   },
+   {
+    "media": "France 24",
+    "titre": "Glucksmann, Royal, Faure : ce qu'il faut savoir sur la primaire de la gauche sociale-démocrate",
+    "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal",
+    "date": "2026-09-16"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Pas de compte de campagne en 2022. Son dernier compte présidentiel, celui de 2007, a été approuvé après réformation par la CNCCFP (décision du 26 novembre 2007) : 20 615 776 € de dépenses, 20 815 003 € de recettes et 10 797 000 € de remboursement forfaitaire de l'État. Aucune information publique sur le financement de sa candidature pour 2027. Aucune alerte sur le financement de campagne trouvée.",
+  "sources": [
+   {
+    "media": "Légifrance (JORF n°0008 du 10 janvier 2008)",
+    "titre": "Décision de la CNCCFP du 26 novembre 2007 relative au compte de campagne de Mme Ségolène Royal",
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000017847538",
+    "date": "2008-01-10"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Modèle:Élection présidentielle française de 2007 : comptes",
+    "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le:%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007_:_comptes",
+    "date": "2026-09-26"
+   }
+  ]
+ }
 }

@@ -856,5 +856,57 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "inconnu",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Bruno Le Maire n'est pas candidat déclaré : le 23 juin 2026, il a annoncé qu'il dirait « en octobre » s'il se présente. Aucune collecte de parrainages ni aucun chiffre de promesses n'est connu, et aucun parti ne l'a investi.",
+  "sources": [
+   {
+    "media": "LCP",
+    "titre": "Présidentielle 2027 : Bruno Le Maire dira \"en octobre\" s'il est candidat",
+    "url": "https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967",
+    "date": "2026-06-23"
+   },
+   {
+    "media": "Parlons Politique",
+    "titre": "Bruno Le Maire entretient le doute sur 2027, mais devra dire s'il peut vraiment incarner l'alternative du bloc central",
+    "url": "https://www.parlons-politique.fr/elections/bruno-le-maire-entretient-le-doute-sur-2027-mais-devra-dire-sil-peut-vraiment-incarner-lalternative-du-bloc-central_21961/",
+    "date": "2026-06-23"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Il n'a aucun compte de campagne présidentielle : il avait été éliminé à la primaire de la droite en 2016, et aucune structure de financement pour 2027 n'est connue. Son micro-parti « Avec BLM » a déposé ses comptes 2024 conformément aux règles, selon la CNCCFP. En juin 2023, le parquet de Paris avait ouvert une enquête, après un signalement de la CNCCFP, sur des soupçons de dons illégaux liés à des dettes de la campagne de la primaire de 2016 abandonnées par des prestataires. Elle a été classée sans suite « pour absence d'infraction » (annonce du parquet du 11 décembre 2023), les abandons de créances n'étant pas jugés frauduleux.",
+  "sources": [
+   {
+    "media": "Public Sénat",
+    "titre": "Financement de campagne : une enquête ouverte contre le micro parti de Bruno Le Maire",
+    "url": "https://www.publicsenat.fr/actualites/politique/financement-de-campagne-une-enquete-ouverte-contre-le-micro-parti-de-bruno-le-maire",
+    "date": "2023-06-12"
+   },
+   {
+    "media": "Europe 1",
+    "titre": "Financement de campagne : l'enquête sur le microparti de Bruno Le Maire classée sans suite",
+    "url": "https://www.europe1.fr/Police-Justice/financement-de-campagne-lenquete-sur-le-microparti-de-bruno-le-maire-classee-sans-suite-4219391",
+    "date": "2023-12-11"
+   },
+   {
+    "media": "Mediapart",
+    "titre": "L'enquête contre le parti de Bruno Le Maire classée sans suite",
+    "url": "https://www.mediapart.fr/journal/france/111223/l-enquete-contre-le-parti-de-bruno-le-maire-classee-sans-suite",
+    "date": "2023-12-11"
+   },
+   {
+    "media": "CNCCFP (JORF)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   }
+  ]
+ }
 }

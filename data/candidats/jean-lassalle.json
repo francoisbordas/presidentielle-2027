@@ -537,7 +537,7 @@
    ]
   },
   {
-   "texte": "Présidentielle 2022 : compte retenu par la CNCCFP (décision du 14 décembre 2022) avec 770 991 € de dépenses, intégralement remboursées (plafond de remboursement 800 423 €).",
+   "texte": "Présidentielle 2022 : compte retenu par la CNCCFP (décision du 14 décembre 2022) avec 812 595 € de dépenses retenues et un remboursement de 770 991 € (plafond de remboursement 800 423 € ; flocage de bus irrégulier et billets de rugby retirés).",
    "sources": [
     {
      "media": "Wikipédia",
@@ -610,5 +610,85 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": 250,
+  "officiel_2022": 642,
+  "texte": "Mi-juillet 2026, Jean Lassalle affirmait avoir déjà « 250 » promesses de parrainage sur les 500 nécessaires, « alors que je n'ai rien demandé à personne » (ICI Béarn Bigorre le 10 juillet, franceinfo le 15 juillet) ; chiffre déclaratif, non vérifiable. En 2022, le Conseil constitutionnel avait validé 642 parrainages à son nom.",
+  "sources": [
+   {
+    "media": "ICI Béarn Bigorre",
+    "titre": "Jean Lassalle lance une cagnotte pour être candidat à la présidentielle de 2027",
+    "url": "https://www.ici.fr/emissions/l-invite-de-la-redaction-de-ici-bearn-bigorre/jean-lassalle-lance-une-cagnotte-pour-etre-candidat-a-la-presidentielle-de-2027-2094458",
+    "date": "2026-07-10"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour pouvoir être de nouveau candidat à l'élection",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html",
+    "date": "2026-07-15"
+   },
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Les parrainages validés par candidat (présidentielle 2022)",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "data.gouv.fr (données du Conseil constitutionnel)",
+    "titre": "Parrainages des candidats à l'élection présidentielle française de 2022 (liste au 7 mars 2022)",
+    "url": "https://www.data.gouv.fr/datasets/parrainages-des-candidats-a-lelection-presidentielle-francaise-de-2022",
+    "date": "2022-03-07"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "apport_personnel",
+   "dons",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Présidentielle 2022 : compte approuvé après réformation par la CNCCFP (décision du 14 décembre 2022). Dépenses retenues : 812 595 € ; recettes financées quasi entièrement par son apport personnel (786 502 € retenus), sans dons de personnes physiques déclarés. L'État lui a remboursé 770 991 € : le plafond de 800 423 € était limité par l'apport personnel net (785 991 €), et 15 000 € de flocage de bus jugés irréguliers ont été déduits ; 465 € de billets de rugby ont par ailleurs été retirés du compte. Pour 2027, il a lancé en juillet 2026 une cagnotte en ligne, estimant à 100 000 € le minimum nécessaire. Son parti Résistons ! a reçu en 2024 83 019 € de Régions et peuples solidaires, part de l'aide publique (CNCCFP). Aucune alerte sur le financement.",
+  "sources": [
+   {
+    "media": "CNCCFP (Légifrance, JORF)",
+    "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Jean LASSALLE",
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047062368",
+    "date": "2022-12-14"
+   },
+   {
+    "media": "Journal officiel / CNCCFP",
+    "titre": "Décisions de la CNCCFP sur les comptes de campagne de la présidentielle 2022",
+    "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+    "date": "2023-01-27"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2022 : huit choses à retenir des comptes de campagne des candidats",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-huit-choses-a-retenir-des-comptes-de-campagne-des-candidats_5624543.html",
+    "date": "2023-01-27"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour pouvoir être de nouveau candidat à l'élection",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html",
+    "date": "2026-07-15"
+   },
+   {
+    "media": "ICI Béarn Bigorre",
+    "titre": "Jean Lassalle lance une cagnotte pour être candidat à la présidentielle de 2027",
+    "url": "https://www.ici.fr/emissions/l-invite-de-la-redaction-de-ici-bearn-bigorre/jean-lassalle-lance-une-cagnotte-pour-etre-candidat-a-la-presidentielle-de-2027-2094458",
+    "date": "2026-07-10"
+   },
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   }
+  ]
+ }
 }

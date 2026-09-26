@@ -942,5 +942,56 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "inconnu",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Pas candidat déclaré. Le 28 août 2026, il refuse la primaire PS/Place publique/GRS et renvoie à « un moment de vérité en décembre » ; il n'annonce aucune collecte de parrainages. Il n'a pas été candidat en 2022.",
+  "sources": [
+   {
+    "media": "France 24 (AFP)",
+    "titre": "Hollande continue de décliner la primaire et table sur « un moment de vérité en décembre »",
+    "url": "https://www.france24.com/fr/info-en-continu/20260828-hollande-continue-de-d%C3%A9cliner-la-primaire-et-table-sur-un-moment-de-v%C3%A9rit%C3%A9-en-d%C3%A9cembre",
+    "date": "2026-08-28"
+   },
+   {
+    "media": "Touteleurope.eu",
+    "titre": "Présidentielle 2027 : qui sont les candidats à la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste ?",
+    "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/",
+    "date": "2026-09-16"
+   },
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Liste des parrainages validés – présidentielle 2022 (fichier CSV)",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/telechargement/parrainagestotal.csv",
+    "date": "2022-03-07"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "apport_personnel",
+   "parti",
+   "dons",
+   "public"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Pas de structure de financement 2027 annoncée. Son dernier compte présidentiel (2012) a été approuvé après réformation : 21 719 956 € de dépenses. Les recettes (21 843 728 €) comprenaient 11 055 026 € d'apport personnel, 1 235 369 € de dons, 1 298 813 € de versements de partis au mandataire, 7 186 341 € de dépenses payées directement par des partis et 1 039 780 € de concours en nature de partis ; remboursement de l'État de 10 691 775 € (47,5 % du plafond). Aucune alerte sur le financement.",
+  "sources": [
+   {
+    "media": "Légifrance (JORF)",
+    "titre": "Décision du 19 décembre 2012 relative au compte de campagne de M. François HOLLANDE",
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027004715",
+    "date": "2012-12-19"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Modèle:Élection présidentielle française de 2012 - comptes",
+    "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le:%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012_-_comptes",
+    "date": "2026-09-25"
+   }
+  ]
+ }
 }

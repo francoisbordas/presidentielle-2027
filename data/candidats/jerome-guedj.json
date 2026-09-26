@@ -558,5 +558,59 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Jérôme Guedj a annoncé le 15 septembre 2026 avoir recueilli les parrainages internes nécessaires à la primaire socialiste ; sa candidature a été validée le 16 septembre 2026 parmi cinq candidats (vote les 9-10 et 16-17 octobre 2026). Pour la présidentielle, il a écrit aux maires dès juillet 2026 pour solliciter leur parrainage (Entrevue) et son site propose aux élus de faire une « promesse de parrainage », sans chiffre public. S'il remportait la primaire, il bénéficierait de l'appareil du PS (parrainages quasi assurés).",
+  "sources": [
+   {
+    "media": "franceinfo",
+    "titre": "Après Olivier Faure et Ségolène Royal, les députés Jérôme Guedj et Philippe Brun affirment pouvoir participer à la primaire socialiste",
+    "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/apres-olivier-faure-et-segolene-royal-les-deputes-jerome-guedj-et-philippe-brun-affirment-pouvoir-participer-a-la-primaire-socialiste_8194187.html",
+    "date": "2026-09-15"
+   },
+   {
+    "media": "LCP",
+    "titre": "Présidentielle: dates, candidats, prix… Tout ce qu'il faut savoir sur la primaire sociale-démocrate",
+    "url": "https://lcp.fr/actualites/presidentielle-dates-candidats-prix-tout-ce-qu-il-faut-savoir-sur-la-primaire-sociale",
+    "date": "2026-09-16"
+   },
+   {
+    "media": "Entrevue",
+    "titre": "Présidentielle 2027 : où en sont les candidats dans la course aux 500 parrainages ?",
+    "url": "https://entrevue.fr/presidentielle-2027/presidentielle-2027-ou-en-sont-les-candidats-dans-la-course-aux-500-parrainages/",
+    "date": "2026-09-03"
+   },
+   {
+    "media": "Jérôme Guedj 2027 (site de campagne)",
+    "titre": "Jérôme Guedj 2027 — Candidat à l'élection présidentielle",
+    "url": "https://www.jeromeguedj2027.fr/",
+    "date": "2026-09-26"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "dons"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Aucun compte de campagne présidentielle antérieur (première candidature). Son site de campagne indique que les dons (plafond 4 600 € par personne physique) sont recueillis par l'« Association de financement de l'action politique de Jérôme Guedj ». Aucun budget ni apport du PS annoncé à ce stade (primaire en cours). Aucune alerte sur le financement relevée.",
+  "sources": [
+   {
+    "media": "Jérôme Guedj 2027 (site de campagne)",
+    "titre": "Jérôme Guedj 2027 — Candidat à l'élection présidentielle",
+    "url": "https://www.jeromeguedj2027.fr/",
+    "date": "2026-09-26"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Jérôme Guedj",
+    "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+    "date": "2026-09-25"
+   }
+  ]
+ }
 }

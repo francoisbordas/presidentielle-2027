@@ -1464,5 +1464,54 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "revendique_500",
+  "revendique": 500,
+  "officiel_2022": null,
+  "texte": "Le 2 septembre 2026, à la Foire de Châlons-en-Champagne, il affirme avoir reçu 500 formulaires de promesses de parrainage (« on est tranquille »). Ce sont des promesses, qu'il faudra confirmer lors de la collecte officielle ouverte après le décret de convocation (février 2027). Maire de Cannes, il n'était pas candidat en 2022.",
+  "sources": [
+   {
+    "media": "Entrevue (AFP)",
+    "titre": "Présidentielle 2027 : David Lisnard assure avoir déjà ses 500 promesses de parrainages",
+    "url": "https://entrevue.fr/presidentielle-2027/presidentielle-2027-david-lisnard-assure-avoir-deja-ses-500-promesses-de-parrainages/",
+    "date": "2026-09-02"
+   },
+   {
+    "media": "20 Minutes (AFP)",
+    "titre": "Présidentielle 2027 : David Lisnard assure avoir déjà recueilli 500 promesses de parrainages",
+    "url": "https://www.20minutes.fr/politique/4242301-20260902-presidentielle-david-lisnard-assure-avoir-deja-recueilli-500-promesses-de-parrainages",
+    "date": "2026-09-02"
+   },
+   {
+    "media": "Nouvelle Énergie (site officiel)",
+    "titre": "David Lisnard franchit le cap des 500 promesses de parrainage pour 2027",
+    "url": "https://www.unenouvelleenergie.fr/david-lisnard-franchit-le-cap-des-500-promesses-de-parrainage-pour-2027/",
+    "date": "2026-09-04"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "dons"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Pas de compte de campagne présidentielle antérieur. La campagne s'appuie sur son parti, Nouvelle Énergie : celui-ci respecte ses obligations comptables pour 2024 selon la CNCCFP et revendique près de 30 000 adhérents en septembre 2026. Aucun budget ni prêt 2027 n'est publié. Aucune alerte sur le financement (l'enquête sur le port de Cannes ne concerne pas le financement politique).",
+  "sources": [
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (JO du 10 février 2026)",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   },
+   {
+    "media": "Nouvelle Énergie (site officiel)",
+    "titre": "Combien d'adhérents compte Nouvelle Énergie, le parti de David Lisnard ?",
+    "url": "https://www.unenouvelleenergie.fr/questions/combien-d-adherents-compte-nouvelle-energie/",
+    "date": "2026-09-16"
+   }
+  ]
+ }
 }

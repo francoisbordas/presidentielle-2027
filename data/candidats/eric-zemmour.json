@@ -1142,5 +1142,110 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": 350,
+  "officiel_2022": 741,
+  "texte": "Le 13 septembre 2026, lors de l'université d'été de Reconquête à Port-Marly, l'équipe d'Éric Zemmour revendiquait 350 promesses de parrainage sur les 500 nécessaires (Europe 1, Le Figaro) ; chiffre déclaratif. Il a annoncé être candidat le 17 septembre sur BFMTV, la déclaration formelle étant attendue en octobre. En 2022, le Conseil constitutionnel lui avait validé 741 parrainages, après une collecte difficile.",
+  "sources": [
+   {
+    "media": "Europe 1",
+    "titre": "Présidentielle 2027 : Éric Zemmour appelle à un «vote du sursaut» lors de son discours de rentrée",
+    "url": "https://www.europe1.fr/politique/presidentielle-2027-eric-zemmour-appelle-a-un-vote-du-sursaut-lors-de-son-discours-de-rentree-1075178",
+    "date": "2026-09-13"
+   },
+   {
+    "media": "Le Figaro (repris par QuebecNouvelles)",
+    "titre": "Présidentielle 2027 : bientôt candidat, Éric Zemmour veut croire au vote de la « résurrection »",
+    "url": "https://www.quebecnouvelles.com/presidentielle-2027-bientot-candidat-eric-zemmour-veut-croire-au-vote-de-la-resurrection-1457119.html",
+    "date": "2026-09-13"
+   },
+   {
+    "media": "Public Sénat",
+    "titre": "Éric Zemmour annonce sa candidature à la présidentielle 2027",
+    "url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027",
+    "date": "2026-09-18"
+   },
+   {
+    "media": "Conseil constitutionnel",
+    "titre": "Les parrainages validés par candidat (présidentielle 2022)",
+    "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+    "date": "2022-03-07"
+   },
+   {
+    "media": "AFP (Arab News en français)",
+    "titre": "Pour Eric Zemmour, la délicate quête des 500 parrainages",
+    "url": "https://www.arabnews.fr/france/pour-eric-zemmour-la-delicate-quete-des-500-parrainages-189411",
+    "date": "2022-01-07"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "apport_personnel",
+   "parti",
+   "dons",
+   "public"
+  ],
+  "alerte": "question",
+  "alerte_etranger": false,
+  "texte": "Présidentielle 2022 : compte approuvé après réformation (CNCCFP, 14 décembre 2022). Sur 11 063 135 € de recettes, 10 085 302 € d'apport personnel, 501 103 € d'apport de partis et 37 215 € de dons ; 10 826 804 € de dépenses retenues. Le remboursement de l'État, de 7 804 225 €, a été réduit de 200 000 € pour irrégularités, dont un concours en nature d'une personne morale (sa promotion dans l'émission « Face à l'info » de CNews) et une campagne d'affichage hors emplacements autorisés. Reconquête vit surtout des cotisations, des dons et de l'aide publique (1 559 321 € en 2024), et déclarait fin 2024 544 431 € d'emprunts et dettes auprès de particuliers (CNCCFP). Selon le magazine Challenges, relayé par TRT Français, une information judiciaire aurait été ouverte en janvier 2025, après un signalement de la CNCCFP, sur environ 250 000 € versés à Reconquête par deux particuliers entre 2021 et 2023 (prêts « à titre habituel », dons au-delà de 7 500 €) ; cette information n'a pas pu être confirmée par une seconde source et son issue est inconnue. L'avocat du parti affirme que Reconquête a « parfaitement respecté » ses obligations ; toute personne est présumée innocente. Aucun financement étranger n'est documenté.",
+  "sources": [
+   {
+    "media": "CNCCFP (Légifrance, JORF)",
+    "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Eric Zemmour",
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047062391",
+    "date": "2022-12-14"
+   },
+   {
+    "media": "CNCCFP (Journal officiel du 27 janvier 2023)",
+    "titre": "Décisions de la CNCCFP sur les comptes de campagne de la présidentielle 2022",
+    "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+    "date": "2023-01-27"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2022 : huit choses à retenir des comptes de campagne des candidats",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-huit-choses-a-retenir-des-comptes-de-campagne-des-candidats_5624543.html",
+    "date": "2023-01-27"
+   },
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   },
+   {
+    "media": "TRT Français (d'après Challenges)",
+    "titre": "France: des juges enquêtent sur des prêts consentis au parti Reconquête d'Éric Zemmour (d'après Challenges)",
+    "url": "https://www.trtfrancais.com/article/56cfe221a18d",
+    "date": "2025-01"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Enquête pour \"prêts illégaux\" contre le RN : les dons et prêts de particuliers à un parti politique, un dispositif encadré",
+    "url": "https://www.franceinfo.fr/politique/front-national/enquete-pour-prets-illegaux-contre-le-rn-les-dons-et-prets-de-particuliers-a-un-parti-politique-un-dispositif-encadre_7369276.html",
+    "date": "2025-07-10"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2022 : presque candidat, Eric Zemmour a perdu un soutien financier de poids",
+    "url": "https://www.franceinfo.fr/politique/eric-zemmour/presidentielle-2022-presque-candidat-eric-zemmour-a-perdu-un-soutien-financier-de-poids_4859005.html",
+    "date": "2021-11-25"
+   },
+   {
+    "media": "Yahoo Actualités",
+    "titre": "Qui est Charles Gave, le millionnaire qui a soutenu Éric Zemmour avant de se retirer ?",
+    "url": "https://fr.news.yahoo.com/presidentielle-2022-qui-est-charles-gave-millionnaire-qui-soutient-eric-zemmour-142543060.html",
+    "date": "2021-11"
+   },
+   {
+    "media": "Assemblée nationale",
+    "titre": "Rapport n° 1311 de la commission d'enquête sur les ingérences étrangères (tome 1)",
+    "url": "https://www.assemblee-nationale.fr/dyn/16/rapports/ceingeren/l16b1311-t1_rapport-enquete.pdf",
+    "date": "2023-06-01"
+   }
+  ]
+ }
 }

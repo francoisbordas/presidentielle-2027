@@ -438,5 +438,59 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Candidat déclaré le 24 septembre 2026, sans le soutien d'un parti, Olivier Becht ne revendique aucun chiffre de promesses ; il affirme que « tous ceux qui vous disent “je les ai” sont des menteurs, ce ne sont encore que des promesses de parrainage », tout en se disant peu inquiet sur ce point. Il n'était pas candidat en 2022.",
+  "sources": [
+   {
+    "media": "BFMTV (via Yahoo Actualités)",
+    "titre": "Présidentielle 2027 : l'ancien ministre et député Olivier Becht se déclare officiellement candidat",
+    "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-lancien-ministre-d%C3%A9put%C3%A9-081912682.html",
+    "date": "2026-09-24"
+   },
+   {
+    "media": "L'Indépendant",
+    "titre": "Présidentielle 2027 : « Quand on n'a aucune chance, il faut la saisir »... Olivier Becht, ancien ministre d'Élisabeth Borne, se lance dans la course",
+    "url": "https://www.lindependant.fr/2026/09/24/presidentielle-2027-quand-on-na-aucune-chance-il-faut-la-saisir-olivier-becht-ancien-ministre-delisabeth-borne-se-lance-dans-la-course-13567072.php",
+    "date": "2026-09-24"
+   },
+   {
+    "media": "Le JDD",
+    "titre": "Présidentielle 2027 : l'ancien ministre Olivier Becht annonce sa candidature",
+    "url": "https://www.lejdd.fr/politique/quand-on-na-aucune-chance-il-faut-la-saisir-lancien-ministre-olivier-becht-annonce-sa-candidature-a-la-presidentielle-184281",
+    "date": "2026-09-24"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "dons"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Aucun compte de campagne présidentielle antérieur. Il dit avoir déjà collecté « quelques centaines de milliers d'euros » pour financer sa campagne (L'Indépendant, 24 septembre 2026) et disposer de donateurs, « pas assez pour la campagne » (BFMTV) ; en juin 2026, il estimait ses besoins à un million à un million et demi d'euros (ICI Alsace). Aucun prêt ni apport de parti annoncé. Aucune alerte sur le financement relevée.",
+  "sources": [
+   {
+    "media": "L'Indépendant",
+    "titre": "Présidentielle 2027 : « Quand on n'a aucune chance, il faut la saisir »... Olivier Becht, ancien ministre d'Élisabeth Borne, se lance dans la course",
+    "url": "https://www.lindependant.fr/2026/09/24/presidentielle-2027-quand-on-na-aucune-chance-il-faut-la-saisir-olivier-becht-ancien-ministre-delisabeth-borne-se-lance-dans-la-course-13567072.php",
+    "date": "2026-09-24"
+   },
+   {
+    "media": "BFMTV (via Yahoo Actualités)",
+    "titre": "Présidentielle 2027 : l'ancien ministre et député Olivier Becht se déclare officiellement candidat",
+    "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-lancien-ministre-d%C3%A9put%C3%A9-081912682.html",
+    "date": "2026-09-24"
+   },
+   {
+    "media": "ICI (France Bleu) Alsace",
+    "titre": "Le député alsacien Olivier Becht envisage une candidature à l'élection présidentielle",
+    "url": "https://www.ici.fr/grand-est/alsace-cea/rixheim/le-depute-alsacien-olivier-becht-envisage-une-candidature-a-l-election-presidentielle-8226837",
+    "date": "2026-06-15"
+   }
+  ]
+ }
 }

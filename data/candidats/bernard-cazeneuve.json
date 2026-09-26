@@ -786,5 +786,54 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "en_collecte",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Sans être officiellement candidat (il a dit en mai 2026 sa « volonté pleine et entière » de l'être), Bernard Cazeneuve a écrit aux maires de France mi-juin 2026 pour solliciter leur parrainage (La Presse de la Manche / actu.fr, 17 septembre 2026). Son site bc2027.fr invite les élus habilités à écrire à une adresse dédiée. Aucun chiffre de promesses n'a été publié.",
+  "sources": [
+   {
+    "media": "actu.fr (La Presse de la Manche)",
+    "titre": "Pas encore candidat, Bernard Cazeneuve est déjà en quête de parrainages pour la présidentielle",
+    "url": "https://actu.fr/politique/pas-encore-candidat-bernard-cazeneuve-est-deja-en-quete-de-parrainages-pour-la-presidentielle_64798639.html",
+    "date": "2026-09-17"
+   },
+   {
+    "media": "Site de campagne",
+    "titre": "Bernard Cazeneuve, La France, ensemble. Présidentielle 2027",
+    "url": "https://bc2027.fr/",
+    "date": "2026-09-26"
+   },
+   {
+    "media": "LCP",
+    "titre": "Présidentielle 2027 : Bernard Cazeneuve fait part de sa « volonté pleine et entière » d'être candidat",
+    "url": "https://lcp.fr/actualites/presidentielle-2027-bernard-cazeneuve-fait-part-de-sa-volonte-pleine-et-entiere-d-etre",
+    "date": "2026-05-19"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "parti",
+   "dons"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Aucun compte de campagne présidentielle antérieur. Son mouvement La Convention se finance par les cotisations (15 €) et les dons collectés par l'Association de financement de la Convention (AFC), agréée le 17 janvier 2022. Aucune information publique n'a été trouvée sur une association de financement propre à la campagne 2027, un mandataire ou un prêt. Aucune alerte sur le financement.",
+  "sources": [
+   {
+    "media": "La Convention (site officiel)",
+    "titre": "Formulaire d'adhésion à la Convention",
+    "url": "https://assets.nationbuilder.com/laconvention/pages/14/attachments/original/1776890170/FORMULAIRE_D%E2%80%99ADH%C3%89SION_-_LA_CONVENTION.pdf?1776890170=",
+    "date": "2026-04-22"
+   },
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   }
+  ]
+ }
 }

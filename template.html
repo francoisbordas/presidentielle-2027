@@ -35,6 +35,10 @@ a.kpi{text-decoration:none;color:inherit}a.kpi:hover{border-color:var(--accent)}
 .fichenav{display:flex;justify-content:space-between;gap:8px;margin:10px 0;font-size:.88rem}
 .cols{display:grid;grid-template-columns:1fr 1fr;gap:18px}
 @media (max-width:860px){.cols{grid-template-columns:1fr}}
+.bdgs{display:flex;gap:3px;justify-content:center;margin:2px 0}
+.bdg{display:inline-flex;align-items:center;gap:2px;font-size:.66rem;font-weight:700;line-height:1;padding:3px 5px;border-radius:9px;color:#fff;background:var(--bc);white-space:nowrap;cursor:help}
+.chip{display:inline-block;font-size:.72rem;padding:1px 7px;border-radius:10px;border:1px solid var(--line);margin:1px 2px}
+.chip.on{background:var(--accent);color:var(--card);border-color:var(--accent)}
 .progsum{font-size:.85rem}.progsum td,.progsum th{padding:4px 6px}
 .muted{color:var(--muted)}
 .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px}
@@ -122,6 +126,7 @@ ol.sources li.hl{background:#fff3c4;color:#000}
   <section class="page" id="p-echiquier"><h2>L'échiquier politique</h2>
     <p class="muted">Chaque candidat est placé selon les idées de son parti, sur un axe qui va de l'extrême gauche à l'extrême droite. Survole un portrait pour voir la justification, clique pour ouvrir la fiche.</p>
     <div class="frise"><div class="frise-inner"><div class="bands" id="bands"></div><div class="track" id="track"></div></div></div>
+    <p class="muted" style="font-size:.8rem"><b>Pastilles :</b> <span class="bdg" style="--bc:#2e7d32">🖊500</span> revendique 500 promesses de parrainage · <span class="bdg" style="--bc:#1565c0">🖊✓</span> parti avec assez d'élus · <span class="bdg" style="--bc:#ef6c00">🖊?</span> collecte en cours ou difficile · <span class="bdg" style="--bc:#6d6d6d">🖊?</span> inconnu — <span class="bdg" style="--bc:#6d6d6d">€</span> pas d'alerte sur le financement · <span class="bdg" style="--bc:#b58900">€!</span> questions dans la presse · <span class="bdg" style="--bc:#d84315">€!</span> enquête · <span class="bdg" style="--bc:#b3261e">€!</span> décision de justice (condamnation, inéligibilité…) · 🌍 fonds étrangers documentés. Survole une pastille pour le détail. La collecte officielle des parrainages ne s'ouvre qu'en 2027.</p>
     <p class="muted" id="retires" style="font-size:.85rem"></p>
   </section>
 
@@ -137,7 +142,7 @@ ol.sources li.hl{background:#fff3c4;color:#000}
   </section>
 
   <section class="page" id="p-candidats"><h2>Les candidats</h2>
-    <div class="filters"><label>Rechercher : <input type="search" id="q" placeholder="nom ou parti"></label><label>Famille : <select id="f-fam"><option value="">Toutes</option></select></label><span class="muted" style="font-size:.8rem">Classés de la gauche vers la droite. Clique pour ouvrir la fiche.</span></div>
+    <div class="filters"><label>Rechercher : <input type="search" id="q" placeholder="nom ou parti"></label><label>Famille : <select id="f-fam"><option value="">Toutes</option></select></label><label>Parrainages : <select id="f-parr"><option value="">Tous</option></select></label><label>Financement : <select id="f-alerte"><option value="">Tous</option><option value="alerte">Avec alerte</option><option value="etranger">Alerte fonds étrangers 🌍</option></select></label><span class="muted" style="font-size:.8rem">Classés de la gauche vers la droite. Clique pour ouvrir la fiche.</span></div>
     <div class="vgrid" id="vgrid"></div>
   </section>
 
@@ -156,6 +161,7 @@ ol.sources li.hl{background:#fff3c4;color:#000}
     <p class="muted">Le statut exact compte : une <b>mise en examen</b> ou une <b>enquête</b> ne vaut pas culpabilité ; une condamnation n'est <b>définitive</b> qu'une fois les recours épuisés.</p>
     <div style="overflow:auto" id="affsum"></div><h3 style="margin-top:18px">Détail des affaires</h3><div id="legend-aff"></div>
     <div class="tablewrap" style="max-height:none"><table id="afftable"></table></div>
+    <h3 style="margin-top:24px">Origine des fonds et alertes sur le financement</h3><div id="fonds"></div>
     <h3 style="margin-top:24px">Règles de financement des campagnes</h3><div class="card" id="finregles"></div>
     <h3 style="margin-top:18px">Comptes de campagne 2022 des candidats qui se représentent</h3><div style="overflow:auto" id="comptes22"></div>
   </section>
@@ -178,6 +184,16 @@ const THEMES = {economie_fiscalite:"Économie & fiscalité",budget_dette:"Budget
   europe:"Europe",energie_climat:"Énergie & climat",ia_numerique:"IA & numérique",logement:"Logement",agriculture:"Agriculture",institutions:"Institutions"};
 const AFF = {condamnation_definitive:"Condamnation définitive",condamnation_non_definitive:"Condamnation (non définitive)",proces_en_cours:"Procès en cours",
   mis_en_examen:"Mis(e) en examen",enquete:"Enquête",accusation:"Accusation / plainte",classe_sans_suite:"Classé sans suite",relaxe_ou_non_lieu:"Relaxe / non-lieu",sanction_disciplinaire:"Sanction disciplinaire (non pénale)"};
+const PARR = {revendique_500:["500 revendiqués","#2e7d32"],appareil_suffisant:["Appareil suffisant","#1565c0"],en_collecte:["En collecte","#ef6c00"],difficulte:["Difficulté","#ef6c00"],inconnu:["Inconnu","#6d6d6d"]};
+const ALERTE = {aucune:["Pas d'alerte connue","#6d6d6d"],question:["Questions soulevées","#b58900"],enquete:["Enquête en cours","#d84315"],condamnation:["Décision de justice","#b3261e"]};
+const ORIG = {parti:"Parti",prets_bancaires_ue:"Prêt bancaire UE",pret_etranger_hors_ue:"Prêt hors UE",apport_personnel:"Apport perso",dons:"Dons",public:"Argent public"};
+const parrOf = c => c.parrainages||{statut:"inconnu"}, fondsOf = c => c.fonds||{alerte:"aucune",origines:[]};
+function badges(c){
+  const p = parrOf(c), f = fondsOf(c), pp = PARR[p.statut]||PARR.inconnu, aa = ALERTE[f.alerte]||ALERTE.aucune;
+  const tp = `Parrainages : ${pp[0]}${p.revendique?` (${p.revendique} promesses revendiquées)`:""}${p.officiel_2022!=null?` · 2022 : ${p.officiel_2022} parrainages validés`:""}. ${p.texte||""}`;
+  const tf = `Financement : ${aa[0]}${f.alerte_etranger?" · fonds étrangers documentés":""}. ${f.texte||""}`;
+  return `<span class="bdgs"><span class="bdg" style="--bc:${pp[1]}" title="${esc(tp)}">🖊${p.statut==="revendique_500"?"500":p.statut==="appareil_suffisant"?"✓":"?"}</span><span class="bdg" style="--bc:${aa[1]}" title="${esc(tf)}">€${f.alerte_etranger?"🌍":""}${f.alerte&&f.alerte!=="aucune"?"!":""}</span></span>`;
+}
 const STATUT = {declare:"Déclaré(e)",investi:"Investi(e)",primaire:"En primaire",pressenti:"Pressenti(e)",retire:"Retiré(e)"};
 
 const esc = s => String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -214,6 +230,8 @@ $("kpis").innerHTML = [
   [C.filter(c=>["declare","investi"].includes(c.statut)).length,"déclarés ou investis","echiquier"],
   [Object.keys(THEMES).length,"thèmes de programme comparés","programmes"],
   [C.reduce((n,c)=>n+(c.affaires||[]).filter(a=>a.statut==="condamnation_definitive").length,0),"condamnations définitives recensées","affaires"],
+  [C.filter(c=>parrOf(c).statut==="revendique_500").length,"revendiquent déjà 500 promesses de parrainage","candidats"],
+  [C.filter(c=>fondsOf(c).alerte_etranger).length,"candidats avec des fonds étrangers documentés","affaires"],
   [DATA.sondages.premier_tour.length,"sondages de 1er tour retenus","sondages"]
 ].map(([v,l,h])=>`<a class="kpi" href="#${h}"><b>${v}</b>${l} →</a>`).join("");
 
@@ -228,10 +246,10 @@ $("bands").innerHTML = FAM.map(f=>`<div style="background:var(${f[2]})">${f[1]}<
     let r=0; while((rows[r]||[]).some(px=>Math.abs(px-x)<7.2)) r++;
     (rows[r]=rows[r]||[]).push(x);
     const tip = `${c.nom} (${c.parti}) — position ${c.position} : ${c.position_justif?.texte||""}`;
-    return `<a class="pin" href="#candidat/${c.id}" style="left:${x}%;top:${6+r*118}px;--fam:${famColor(c.famille)}" title="${esc(tip)}">
-      ${img(c.logo_parti,"logo",c.parti)}<div class="stem"></div>${img(c.photo,"face",c.nom)}<b>${esc(c.nom)}</b><br><span class="muted">${esc(c.parti_sigle||c.parti)}</span></a>`;
+    return `<a class="pin" href="#candidat/${c.id}" style="left:${x}%;top:${6+r*134}px;--fam:${famColor(c.famille)}" title="${esc(tip)}">
+      ${img(c.logo_parti,"logo",c.parti)}<div class="stem"></div>${img(c.photo,"face",c.nom)}${badges(c)}<b>${esc(c.nom)}</b><br><span class="muted">${esc(c.parti_sigle||c.parti)}</span></a>`;
   }).join("");
-  $("track").style.minHeight = (rows.length*118+40)+"px";
+  $("track").style.minHeight = (rows.length*134+40)+"px";
   const nc = C.filter(c=>c.famille==="non_classe");
   if(nc.length) $("retires").insertAdjacentHTML("beforebegin", `<p class="muted" style="font-size:.85rem"><b>Non classés par les sources (hors frise) :</b> ${nc.map(c=>`<a href="#candidat/${c.id}">${esc(c.nom)}</a>`).join(", ")}</p>`);
 })();
@@ -297,15 +315,17 @@ $("cards").innerHTML = C.map(c=>{
     <div class="head">${img(c.photo,"face",c.nom)}<div><h3>${esc(c.nom)}</h3>
       <div>${esc(c.parti)} · <span style="color:${famColor(c.famille)};font-weight:600">${famName(c.famille)}</span></div>
       <div class="muted">${a!=null?a+" ans":""}${c.naissance?" (né(e) le "+esc(c.naissance)+(c.lieu_naissance?" à "+esc(c.lieu_naissance):"")+")":""}</div>
-      <span class="badge b-statut">${STATUT[c.statut]||esc(c.statut)}</span> ${aff.length?`<span class="badge b-${aff[0].statut}">${aff.length} affaire(s)</span>`:""}</div>
+      <span class="badge b-statut">${STATUT[c.statut]||esc(c.statut)}</span> ${aff.length?`<span class="badge b-${aff[0].statut}">${aff.length} affaire(s)</span>`:""}<div style="display:inline-block;vertical-align:middle">${badges(c)}</div></div>
       ${img(c.logo_parti,"logo",c.parti)}</div>
     <div class="credit">${c.photo?.auteur?`Photo : ${esc(c.photo.auteur)}, ${esc(c.photo.licence||"")} — <a href="${esc(c.photo.source_url)}">source</a>`:""}</div>
     <div class="cols"><div>
     <details open><summary>Parcours</summary><b class="lbl">Études</b>${facts(c.bio?.etudes)}<b class="lbl">Carrière hors politique</b>${facts(c.bio?.carriere_hors_politique)}<b class="lbl">Mandats et fonctions</b>${facts(c.bio?.mandats)}${(c.bio?.autres||[]).length?`<b class="lbl">Autres faits notables</b>${facts(c.bio.autres)}`:""}</details>
     </div><div>
+    <details open><summary>Parrainages (500 signatures d'élus)</summary>${(()=>{const p=parrOf(c); return `<b>${(PARR[p.statut]||PARR.inconnu)[0]}</b>${p.revendique?` · ${p.revendique} promesses revendiquées`:""}${p.officiel_2022!=null?` · 2022 : <b>${p.officiel_2022}</b> parrainages validés par le Conseil constitutionnel`:""}<br>${p.texte?fact(p):'<span class="nd">Non renseigné</span>'}<div class="muted" style="font-size:.75rem">La collecte officielle s'ouvre en 2027 : avant cela, il ne peut s'agir que de promesses.</div>`})()}</details>
     <details open><summary>Position sur l'échiquier (${c.position}) · <a href="#echiquier">voir l'échiquier</a></summary>${fact(c.position_justif)}</details>
     <details open><summary>Affaires judiciaires (${aff.length}) · <a href="#affaires">toutes les affaires</a></summary>${aff.length?`<ul>${aff.map(x=>`<li><span class="badge b-${x.statut}">${AFF[x.statut]||esc(x.statut)}</span> <b>${esc(x.intitule)}</b> ${x.date?"("+esc(x.date)+")":""} : ${esc(x.description)}${ref(x.sources)}${(x.sources||[]).length<2?' <span class="badge b-unique">⚠ source unique</span>':""}</li>`).join("")}</ul>`:`<span class="nd">Aucune affaire trouvée dans les sources consultées.</span>`}</details>
-    <details open><summary>Financement</summary>${facts(c.financement)}</details>
+    <details open><summary>Financement</summary>${(()=>{const f=fondsOf(c), a=ALERTE[f.alerte]||ALERTE.aucune; return `<div>${Object.entries(ORIG).map(([k,v])=>`<span class="chip${(f.origines||[]).includes(k)?" on":""}">${v}</span>`).join("")}</div>
+      <div style="margin:4px 0"><span class="badge" style="background:${a[1]}">${a[0]}</span>${f.alerte_etranger?' <span class="badge" style="background:#b3261e">🌍 fonds étrangers documentés</span>':""}</div>${f.texte?fact(f):""}${(f.detail||[]).length?`<b class="lbl">Détail des prêts et procédures</b><ul>${f.detail.map(d=>`<li><b>${esc(d.intitule)}</b>${d.statut_judiciaire?` <span class="muted">(${esc(d.statut_judiciaire)})</span>`:""} : ${esc(d.texte)}${ref(d.sources)}${(d.sources||[]).length<2?' <span class="badge b-unique">⚠ source unique</span>':""}</li>`).join("")}</ul>`:""}<b class="lbl">Autres faits sur le financement</b>`})()}${facts(c.financement)}</details>
     </div></div>
     <details open><summary>Programme en bref · <a href="#programmes/${c.id}">comparer avec les autres candidats</a></summary>
       <table class="progsum">${Object.entries(THEMES).map(([k,v])=>{const p=c.programme?.[k]; return `<tr><th>${v}</th>${p&&p.resume?`<td>${esc(p.resume)} <span class="orig muted" style="font-size:.7rem">(${esc(p.origine||"")})</span></td>`:`<td class="nd">Pas de position connue</td>`}</tr>`}).join("")}</table></details>
@@ -315,11 +335,12 @@ $("cards").innerHTML = C.map(c=>{
 // Vignettes
 $("f-fam").innerHTML += FAM.map(f=>`<option value="${f[0]}">${f[1]}</option>`).join("");
 $("vgrid").innerHTML = C.map(c=>{ const a=age(c.naissance), n=(c.affaires||[]).length;
-  return `<a class="card vign" href="#candidat/${c.id}" data-fam="${c.famille}" data-q="${esc((c.nom+" "+c.parti+" "+(c.parti_sigle||"")).toLowerCase())}" style="--fam:${famColor(c.famille)}">${img(c.photo,"face",c.nom)}
-    <div><b>${esc(c.nom)}</b><br>${esc(c.parti_sigle||c.parti)} · <span style="color:${famColor(c.famille)}">${famName(c.famille)}</span><br><span class="muted">${a!=null?a+" ans · ":""}${STATUT[c.statut]||esc(c.statut)}</span>${n?` <span class="badge b-${c.affaires[0].statut}">${n} affaire${n>1?"s":""}</span>`:""}</div></a>`;}).join("");
-const filtV = ()=>{ const q=$("q").value.toLowerCase().trim(), f=$("f-fam").value;
-  document.querySelectorAll(".vign").forEach(v=>v.style.display = (!f||v.dataset.fam===f) && (!q||v.dataset.q.includes(q)) ? "" : "none"); };
-$("q").oninput = filtV; $("f-fam").onchange = filtV;
+  return `<a class="card vign" href="#candidat/${c.id}" data-fam="${c.famille}" data-parr="${parrOf(c).statut}" data-al="${fondsOf(c).alerte!=="aucune"?1:0}${fondsOf(c).alerte_etranger?1:0}" data-q="${esc((c.nom+" "+c.parti+" "+(c.parti_sigle||"")).toLowerCase())}" style="--fam:${famColor(c.famille)}">${img(c.photo,"face",c.nom)}
+    <div><b>${esc(c.nom)}</b><br>${esc(c.parti_sigle||c.parti)} · <span style="color:${famColor(c.famille)}">${famName(c.famille)}</span><br><span class="muted">${a!=null?a+" ans · ":""}${STATUT[c.statut]||esc(c.statut)}</span>${n?` <span class="badge b-${c.affaires[0].statut}">${n} affaire${n>1?"s":""}</span>`:""}<div style="text-align:left">${badges(c).replace("justify-content:center","")}</div></div></a>`;}).join("");
+$("f-parr").innerHTML += Object.entries(PARR).map(([k,v])=>`<option value="${k}">${v[0]}</option>`).join("");
+const filtV = ()=>{ const q=$("q").value.toLowerCase().trim(), f=$("f-fam").value, pr=$("f-parr").value, al=$("f-alerte").value;
+  document.querySelectorAll(".vign").forEach(v=>v.style.display = (!f||v.dataset.fam===f) && (!pr||v.dataset.parr===pr) && (!al||(al==="alerte"?v.dataset.al[0]==="1":v.dataset.al[1]==="1")) && (!q||v.dataset.q.includes(q)) ? "" : "none"); };
+$("q").oninput = filtV; ["f-fam","f-parr","f-alerte"].forEach(id=>$(id).onchange = filtV);
 
 // Comparatif
 const selTheme = $("f-theme");
@@ -347,6 +368,10 @@ $("affsum").innerHTML = `<table style="font-size:.8rem"><tr><th>Candidat</th>${O
 $("afftable").innerHTML = `<tr><th>Candidat</th><th>Statut</th><th>Affaire</th><th>Date</th><th>Détail</th></tr>`+
   C.flatMap(c=>(c.affaires||[]).map(a=>`<tr><td><a href="#candidat/${c.id}"><b>${esc(c.nom)}</b></a></td><td><span class="badge b-${a.statut}">${AFF[a.statut]||esc(a.statut)}</span></td><td>${esc(a.intitule)}</td><td>${esc(a.date||"")}</td><td>${esc(a.description)}${ref(a.sources)}${(a.sources||[]).length<2?' <span class="badge b-unique">⚠ source unique</span>':""}</td></tr>`)).join("")
   + C.filter(c=>!(c.affaires||[]).length).map(c=>`<tr><td><a href="#candidat/${c.id}"><b>${esc(c.nom)}</b></a></td><td colspan="4" class="nd">Aucune affaire trouvée dans les sources consultées.</td></tr>`).join("");
+const RANK = {condamnation:0,enquete:1,question:2,aucune:3};
+$("fonds").innerHTML = `<p class="muted" style="font-size:.8rem">Origines d'après le compte de campagne 2022 validé par la CNCCFP quand il existe, sinon d'après les annonces pour 2027. Rappel : une campagne ne peut emprunter qu'à une banque de l'UE ou de l'EEE ou à un parti, et les dons d'entreprises ou d'États, français ou étrangers, sont interdits. Une <b>enquête</b> ne vaut pas culpabilité.</p><div style="overflow:auto"><table style="font-size:.8rem"><tr><th>Candidat</th>${Object.values(ORIG).map(v=>`<th>${v}</th>`).join("")}<th>Alerte</th><th>Détail</th></tr>`+
+  C.slice().sort((x,y)=>(RANK[fondsOf(x).alerte]??3)-(RANK[fondsOf(y).alerte]??3) || !!fondsOf(y).alerte_etranger-!!fondsOf(x).alerte_etranger).map(c=>{const f=fondsOf(c), a=ALERTE[f.alerte]||ALERTE.aucune;
+    return `<tr><td><a href="#candidat/${c.id}">${esc(c.nom)}</a></td>${Object.keys(ORIG).map(k=>`<td style="text-align:center">${(f.origines||[]).includes(k)?"●":""}</td>`).join("")}<td><span class="badge" style="background:${a[1]}">${a[0]}</span>${f.alerte_etranger?' <span class="badge" style="background:#b3261e">🌍 étranger</span>':""}</td><td style="min-width:320px">${f.texte?fact(f):'<span class="nd">Non renseigné</span>'}</td></tr>`}).join("")+"</table></div>";
 const F = S.financement||{};
 $("finregles").innerHTML = `<ul>${[["Plafond des dépenses au 1er tour",F.plafond_depenses_1er_tour],["Plafond pour les deux candidats du 2nd tour",F.plafond_2nd_tour],["Remboursement par l'État",F.remboursement],["Dons et prêts",F.regles_dons]].filter(x=>x[1]).map(([k,v])=>`<li><b>${k} :</b> ${esc(v)}</li>`).join("")}</ul>${ref(F.sources)}`;
 $("comptes22").innerHTML = (F.comptes_2022||[]).length ? `<table style="font-size:.82rem"><tr><th>Candidat</th><th>Dépenses</th><th>Apport du parti</th><th>Prêts</th><th>Dons</th><th>Remboursement</th><th>Décision de la CNCCFP</th><th>Src</th></tr>`+

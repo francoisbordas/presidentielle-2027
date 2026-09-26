@@ -1200,5 +1200,65 @@
     }
    ]
   }
- ]
+ ],
+ "parrainages": {
+  "statut": "inconnu",
+  "revendique": null,
+  "officiel_2022": null,
+  "texte": "Candidat déclaré le 23 août 2026 à la primaire « Choisir 2027 » organisée par le PS, Place publique et la Gauche républicaine et socialiste (9-10 et 16-17 octobre 2026), dont le vainqueur doit porter la candidature commune. Selon le JDD (13 juin 2026), seule une trentaine des quelque 450 élus de Place publique peuvent parrainer, ce qui rend l'accès aux 500 signatures dépendant du soutien socialiste. Aucun chiffre revendiqué.",
+  "sources": [
+   {
+    "media": "Le JDD",
+    "titre": "Argent, réseaux d'élus, logistique : les fragilités du candidat Glucksmann",
+    "url": "https://www.lejdd.fr/politique/argent-reseaux-delus-logistique-les-fragilites-du-candidat-glucksmann-176295",
+    "date": "2026-06-13"
+   },
+   {
+    "media": "France 24",
+    "titre": "Glucksmann, Royal, Faure : ce qu'il faut savoir sur la primaire de la gauche sociale-démocrate",
+    "url": "https://www.france24.com/fr/france/20260916-france-primaire-socialiste-2027-dates-debats-television-candidats-raphael-glucksmann-olivier-faure-segolene-royal",
+    "date": "2026-09-16"
+   },
+   {
+    "media": "LCP",
+    "titre": "Présidentielle 2027: la liste des candidats déjà en lice et des prétendants",
+    "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+    "date": "2026-09-24"
+   },
+   {
+    "media": "Politis",
+    "titre": "Raphaël Glucksmann et Place publique : beaucoup de bruit pour (très) peu d'élus",
+    "url": "https://www.politis.fr/articles/2026/03/politique-raphael-glucksmann-et-place-publique-beaucoup-de-bruit-pour-tres-peu-delus/",
+    "date": "2026-03-20"
+   }
+  ]
+ },
+ "fonds": {
+  "origines": [
+   "dons"
+  ],
+  "alerte": "aucune",
+  "alerte_etranger": false,
+  "texte": "Pas de compte de campagne présidentielle antérieur. Selon LCP (4 avril 2026), il a commencé à lever des dons lors de dîners avec « des acteurs économiques influents » ; le JDD (13 juin 2026) évoque deux à trois dîners de levée de fonds par mois. Aucun prêt bancaire n'est connu. Place publique n'est pas éligible directement à l'aide publique : elle a reçu en 2024 7 499 € reversés par Régions et peuples solidaires (CNCCFP). Aucune alerte sur le financement trouvée.",
+  "sources": [
+   {
+    "media": "LCP",
+    "titre": "Dons, banques, argent public… D'où vient l'argent des campagnes présidentielles?",
+    "url": "https://lcp.fr/actualites/dons-banques-argent-public-d-ou-vient-l-argent-des-campagnes-presidentielles-434695",
+    "date": "2026-04-04"
+   },
+   {
+    "media": "Le JDD",
+    "titre": "Argent, réseaux d'élus, logistique : les fragilités du candidat Glucksmann",
+    "url": "https://www.lejdd.fr/politique/argent-reseaux-delus-logistique-les-fragilites-du-candidat-glucksmann-176295",
+    "date": "2026-06-13"
+   },
+   {
+    "media": "CNCCFP (Journal officiel)",
+    "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+    "date": "2026-02-10"
+   }
+  ]
+ }
 }
