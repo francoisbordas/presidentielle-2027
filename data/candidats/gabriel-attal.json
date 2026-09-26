@@ -1,0 +1,947 @@
+{
+ "id": "gabriel-attal",
+ "nom": "Gabriel Attal",
+ "naissance": "1989-03-16",
+ "lieu_naissance": "Clamart (Hauts-de-Seine)",
+ "parti": "Renaissance",
+ "parti_sigle": "RE",
+ "famille": "centre",
+ "position": 1,
+ "position_justif": {
+  "texte": "Secrétaire général de Renaissance (barème indicatif 0,5). Ses propositions de 2026 (quotas limitatifs d'immigration, suppression de 100 000 postes de fonctionnaires, installations des gens du voyage) sont décrites comme plus marquées à droite par franceinfo et Libération ; Le Monde parle d'un macronisme « entre libéralisme et régalien ». Placé à 1, légèrement à droite de Renaissance.",
+  "sources": [
+   {
+    "media": "franceinfo",
+    "titre": "« Quotas limitatifs » pour l'immigration, présence dans les médias de la sphère Bolloré… Gabriel Attal profite-t-il de l'été pour ancrer sa campagne présidentielle à droite ?",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/quotas-limitatifs-pour-l-immigration-presence-dans-les-medias-de-la-sphere-bollore-gabriel-attal-profite-t-il-de-l-ete-pour-ancrer-sa-campagne-presidentielle-a-droite_8137157.html",
+    "date": "2026-08-07"
+   },
+   {
+    "media": "Libération",
+    "titre": "Gabriel Attal assume être devenu de droite pour survivre",
+    "url": "https://www.liberation.fr/politique/gabriel-attal-assume-etre-devenu-de-droite-pour-survivre-20260422_IB3JFWPSAVCOFESBZLOO7KF7CA/",
+    "date": "2026-04-22"
+   },
+   {
+    "media": "Le Monde",
+    "titre": "Présidentielle 2027 : Gabriel Attal tente de réinventer le macronisme, entre libéralisme et régalien",
+    "url": "https://www.lemonde.fr/politique/article/2026/06/11/presidentielle-2027-gabriel-attal-tente-de-reinventer-le-macronisme-entre-liberalisme-et-regalien_6700667_823448.html",
+    "date": "2026-06-11"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/gabriel-attal.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg",
+  "auteur": "Ismail Aissoub",
+  "licence": "CC BY 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/re.svg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Renaissance-logotype-officiel.svg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "École alsacienne (Paris) ; Sciences Po Paris (admis en 2007, master 2 d'affaires publiques en 2013) ; trois années de droit à Paris II Panthéon-Assas sans obtenir la licence.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Gabriel Attal",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "A pratiqué le théâtre pendant dix ans et fait de la figuration dans « La Belle Personne » (2008) ; conseiller au cabinet de la ministre de la Santé Marisol Touraine (2012-2017).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Gabriel Attal",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseiller municipal de Vanves depuis 2014.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Gabriel Attal",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "HATVP",
+      "titre": "Déclarations de Gabriel Attal, député des Hauts-de-Seine",
+      "url": "https://www.hatvp.fr/fiche-nominative/?declarant=attal-gabriel",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Député de la 10e circonscription des Hauts-de-Seine (élu en 2017, 2022 et 2024) ; président du groupe Ensemble pour la République depuis le 13 juillet 2024.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Gabriel Attal",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : Gabriel Attal officialise sa candidature",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
+      "date": "2026-05-22"
+     }
+    ]
+   },
+   {
+    "texte": "Secrétaire d'État à l'Éducation nationale (2018-2020), porte-parole du gouvernement (2020-2022), ministre délégué aux Comptes publics (2022-2023), ministre de l'Éducation nationale (2023-2024).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Gabriel Attal",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "HATVP",
+      "titre": "Déclarations de Gabriel Attal, député des Hauts-de-Seine",
+      "url": "https://www.hatvp.fr/fiche-nominative/?declarant=attal-gabriel",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Premier ministre du 9 janvier au 5 septembre 2024, plus jeune chef de gouvernement de la Ve République (34 ans).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Gabriel Attal",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "HATVP",
+      "titre": "Déclarations de Gabriel Attal, député des Hauts-de-Seine",
+      "url": "https://www.hatvp.fr/fiche-nominative/?declarant=attal-gabriel",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Secrétaire général de Renaissance depuis le 8 décembre 2024 (94,9 % des voix, seul candidat) ; président du parti Ensemble depuis février 2025.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Gabriel Attal",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "HATVP",
+      "titre": "Déclarations de Gabriel Attal, député des Hauts-de-Seine",
+      "url": "https://www.hatvp.fr/fiche-nominative/?declarant=attal-gabriel",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Membre du Parti socialiste de 2006 à 2016, puis d'En marche/Renaissance.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Gabriel Attal",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "A officialisé sa candidature à la présidentielle le 22 mai 2026 à Mur-de-Barrez (Aveyron).",
+    "sources": [
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : Gabriel Attal officialise sa candidature",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721",
+      "date": "2026-05-22"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Présidentielle 2027 : en Aveyron, Gabriel Attal officialise sa candidature",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-gabriel-attal-officialise-sa-candidature-en-aveyron",
+      "date": "2026-05-22"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : Gabriel Attal officialise sa candidature",
+      "url": "https://www.20minutes.fr/politique/4224924-20260522-presidentielle-2027-gabriel-attal-officialise-candidature",
+      "date": "2026-05-22"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Gabriel Attal : « J'ai décidé d'être candidat à la présidence de la République »",
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/gabriel-attal-j-ai-decide-d-etre-candidat-a-la-presidence-de-la-republique_8021045.html",
+      "date": "2026-05-22"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Présidentielle 2027 : Gabriel Attal officialise sa candidature en Aveyron, en espérant s'éloigner de l'héritage d'Emmanuel Macron",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/22/presidentielle-2027-gabriel-attal-officialise-sa-candidature-en-aveyron-en-esperant-s-eloigner-de-l-heritage-d-emmanuel-macron_6692277_823448.html",
+      "date": "2026-05-22"
+     }
+    ]
+   },
+   {
+    "texte": "A publié « En homme libre » (avril 2026).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Gabriel Attal",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Libération",
+      "titre": "On a lu « En homme libre », le livre où Gabriel Attal se raconte et refait le portrait d'Emmanuel Macron",
+      "url": "https://www.liberation.fr/politique/on-a-lu-en-homme-libre-le-livre-ou-gabriel-attal-se-raconte-et-refait-le-portrait-demmanuel-macron-20260422_NRAUIZHJAFA6REY4JFA7QGOUBY/",
+      "date": "2026-04-22"
+     }
+    ]
+   },
+   {
+    "texte": "Équipe de campagne présentée le 3 septembre 2026 : Céline Géraud à la communication, triumvirat Maxime Cordier, Fanny Anor et Franck Riester.",
+    "sources": [
+     {
+      "media": "LCP",
+      "titre": "Présidentielle : Gabriel Attal présente son équipe de campagne et promet de ne pas faire une « saison 3 du macronisme »",
+      "url": "https://lcp.fr/actualites/presidentielle-gabriel-attal-presente-son-equipe-de-campagne-et-promet-de-ne-pas-faire",
+      "date": "2026-09-03"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Présidentielle 2027 : Gabriel Attal présente son équipe de campagne, avec Céline Géraud comme responsable de la communication",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/03/presidentielle-2027-gabriel-attal-presente-son-equipe-de-campagne-avec-celine-geraud-comme-responsable-de-la-communication_6765142_823448.html",
+      "date": "2026-09-03"
+     }
+    ]
+   },
+   {
+    "texte": "A porté plainte le 7 août 2026 pour ingérence étrangère après des opérations de désinformation attribuées à des réseaux russes (deepfakes le présentant notamment comme atteint de Parkinson) ; le parquet de Paris s'est saisi le 18 août.",
+    "sources": [
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : le parquet de Paris enquête sur des soupçons d'ingérence russe ciblant Édouard Philippe et Gabriel Attal",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-le-parquet-de-paris-enquete-sur-des-soupcons-d-ingerence-russe",
+      "date": "2026-08-18"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : Gabriel Attal porte plainte pour « ingérence étrangère » venant de Russie",
+      "url": "https://www.20minutes.fr/politique/4238300-20260808-presidentielle-2027-gabriel-attal-porte-plainte-ingerence-etrangere-venant-russie",
+      "date": "2026-08-08"
+     },
+     {
+      "media": "Les Échos",
+      "titre": "« Deepfakes, faux reportages vidéo » : Gabriel Attal porte plainte et dénonce une ingérence russe en vue de la présidentielle 2027",
+      "url": "https://www.lesechos.fr/politique-societe/politique/deepfakes-faux-reportages-video-gabriel-attal-porte-plainte-et-denonce-une-ingerence-russe-en-vue-de-la-presidentielle-2027-2246419",
+      "date": "2026-08-08"
+     }
+    ]
+   },
+   {
+    "texte": "Le tribunal judiciaire de Paris a débouté le 30 juillet 2026 Renaissance, qui voulait interdire à Marine Le Pen l'usage du mot « renaissance » sur son affiche ; le parti a annoncé faire appel.",
+    "sources": [
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : Gabriel Attal débouté sur l'utilisation du slogan de campagne « renaissance » par Marine Le Pen",
+      "url": "https://www.20minutes.fr/politique/4237108-20260730-presidentielle-2027-gabriel-attal-deboute-utilisation-slogan-campagne-renaissance-marine-pen",
+      "date": "2026-07-30"
+     },
+     {
+      "media": "Libération",
+      "titre": "Présidentielle : la justice déboute Attal sur l'utilisation du mot « renaissance » par Marine Le Pen pour sa campagne",
+      "url": "https://www.liberation.fr/politique/elections/presidentielle-la-justice-deboute-attal-sur-lutilisation-du-mot-renaissance-par-marine-le-pen-pour-sa-campagne-20260730_EPAG7JFFAFAJXPC36V36BJNLRE/",
+      "date": "2026-07-30"
+     }
+    ]
+   },
+   {
+    "texte": "En couple avec Stéphane Séjourné, commissaire européen ; premier chef de gouvernement ouvertement homosexuel.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Gabriel Attal",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "education": {
+   "resume": "Propose une loi de programmation pour l'école dès 2027 : rétablissement du certificat d'études à l'entrée en 6e, brevet obligatoire pour entrer au lycée, groupes de niveau, moins de 20 élèves par classe en primaire, +200 € net par mois pour tous les enseignants (jusqu'à +500 € en milieu de carrière), IA dans les programmes dès le collège, ministre en poste cinq ans.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de rétablir le certificat d'études à l'entrée en sixième et de rendre le brevet obligatoire pour passer au lycée.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
+       "url": "https://lcp.fr/actualites/presidentielle-retour-du-certificat-d-etudes-revalorisation-des-salaires-ce-que-propose",
+       "date": "2026-08-25"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "Gabriel Attal veut un ministre de l'Éducation « qui restera en poste cinq ans » et souhaite le rétablissement du certificat d'études",
+       "url": "https://www.franceinfo.fr/societe/education/gabriel-attal-veut-un-ministre-de-l-education-qui-restera-en-poste-cinq-ans-et-plaide-pour-le-retablissement-du-certificat-d-etudes_8160608.html",
+       "date": "2026-08-25"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : Gabriel Attal annonce les quatre « chantiers capitaux » de son programme",
+       "url": "https://www.20minutes.fr/politique/4225143-20260524-presidentielle-2027-gabriel-attal-annonce-quatre-chantiers-capitaux-programme",
+       "date": "2026-05-24"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'augmenter la rémunération des enseignants de 200 € net par mois, jusqu'à 500 € net en milieu de carrière.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
+       "url": "https://lcp.fr/actualites/presidentielle-retour-du-certificat-d-etudes-revalorisation-des-salaires-ce-que-propose",
+       "date": "2026-08-25"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "Gabriel Attal veut un ministre de l'Éducation « qui restera en poste cinq ans » et souhaite le rétablissement du certificat d'études",
+       "url": "https://www.franceinfo.fr/societe/education/gabriel-attal-veut-un-ministre-de-l-education-qui-restera-en-poste-cinq-ans-et-plaide-pour-le-retablissement-du-certificat-d-etudes_8160608.html",
+       "date": "2026-08-25"
+      }
+     ]
+    },
+    {
+     "texte": "Veut une loi de programmation pour l'école et un ministre de l'Éducation qui reste en poste cinq ans.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
+       "url": "https://lcp.fr/actualites/presidentielle-retour-du-certificat-d-etudes-revalorisation-des-salaires-ce-que-propose",
+       "date": "2026-08-25"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "Gabriel Attal veut un ministre de l'Éducation « qui restera en poste cinq ans » et souhaite le rétablissement du certificat d'études",
+       "url": "https://www.franceinfo.fr/societe/education/gabriel-attal-veut-un-ministre-de-l-education-qui-restera-en-poste-cinq-ans-et-plaide-pour-le-retablissement-du-certificat-d-etudes_8160608.html",
+       "date": "2026-08-25"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Gabriel Attal : « Je souhaite une loi de programmation pour l'école et un ministre de l'éducation qui restera en poste cinq ans »",
+       "url": "https://www.lemonde.fr/societe/article/2026/08/25/gabriel-attal-je-souhaite-une-loi-de-programmation-pour-l-ecole-et-un-ministre-de-l-education-qui-restera-en-poste-cinq-ans_6756157_3224.html",
+       "date": "2026-08-25"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : Gabriel Attal propose que le ministre de l'Éducation nationale « reste en poste cinq ans »",
+       "url": "https://www.20minutes.fr/politique/4240797-20260825-presidentielle-2027-gabriel-attal-propose-ministre-education-nationale-reste-poste-cinq-ans",
+       "date": "2026-08-25"
+      }
+     ]
+    },
+    {
+     "texte": "Vise moins de 20 élèves par classe en primaire et la fermeture des 100 collèges les plus ségrégués, avec redistribution des élèves.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : retour du certificat d'études, revalorisation des salaires… Ce que propose Gabriel Attal pour l'école",
+       "url": "https://lcp.fr/actualites/presidentielle-retour-du-certificat-d-etudes-revalorisation-des-salaires-ce-que-propose",
+       "date": "2026-08-25"
+      }
+     ]
+    },
+    {
+     "texte": "Veut intégrer l'IA à tous les programmes scolaires dès le collège.",
+     "sources": [
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : Gabriel Attal annonce les quatre « chantiers capitaux » de son programme",
+       "url": "https://www.20minutes.fr/politique/4225143-20260524-presidentielle-2027-gabriel-attal-annonce-quatre-chantiers-capitaux-programme",
+       "date": "2026-05-24"
+      },
+      {
+       "media": "AFP (via Orange Actualités)",
+       "titre": "Présidentielle 2027 : Gabriel Attal révèle les premières lignes de son programme",
+       "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html",
+       "date": "2026-05-24"
+      }
+     ]
+    },
+    {
+     "texte": "Assume de financer la hausse des salaires enseignants par des économies dans la sphère sociale.",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "Présidentielle 2027 : Attal assume de vouloir augmenter le salaire des enseignants via des économies dans la sphère sociale",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-attal-assume-de-vouloir-augmenter-le-salaire-des-enseignants-via-des-economies-dans-la-sphere-sociale-20260901",
+       "date": "2026-09-01"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Veut « aller droit au brut » : réduire l'écart entre salaire brut et net grâce à des économies sur les dépenses sociales et une nouvelle réforme de l'assurance chômage.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de réduire l'écart entre salaire brut et net (« droit au brut ») via des économies sur les dépenses sociales et une réforme de l'assurance chômage.",
+     "sources": [
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : Gabriel Attal annonce les quatre « chantiers capitaux » de son programme",
+       "url": "https://www.20minutes.fr/politique/4225143-20260524-presidentielle-2027-gabriel-attal-annonce-quatre-chantiers-capitaux-programme",
+       "date": "2026-05-24"
+      },
+      {
+       "media": "AFP (via Orange Actualités)",
+       "titre": "Présidentielle 2027 : Gabriel Attal révèle les premières lignes de son programme",
+       "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html",
+       "date": "2026-05-24"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose de supprimer l'âge légal de départ pour ne garder que la durée de cotisation (« vous partez tôt, vous avez moins ; plus tard, vous avez plus ») et d'introduire une part de capitalisation.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de supprimer l'âge légal de départ à la retraite et de centrer le système sur la durée de cotisation.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?",
+       "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864",
+       "date": "2026-06-19"
+      },
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : que proposent les candidats à l'Élysée sur les retraites ?",
+       "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "LCP",
+       "titre": "À Arras, Gabriel Attal prône « une nouvelle République » en vue de la présidentielle de 2027",
+       "url": "https://lcp.fr/actualites/a-arras-gabriel-attal-prone-une-nouvelle-republique-en-vue-de-l-election-presidentielle",
+       "date": "2025-09-21"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'introduire une dose de retraite par capitalisation, avec 50 % de l'intéressement et de la participation fléchés vers des plans d'épargne retraite.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : que proposent les candidats à l'Élysée sur les retraites ?",
+       "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Intelligence artificielle : Gabriel Attal mise sur 200 milliards pour propulser la France en tête de l'Europe",
+       "url": "https://www.20minutes.fr/politique/4229714-20260617-intelligence-artificielle-gabriel-attal-mise-200-milliards-propulser-france-tete-europe",
+       "date": "2026-06-17"
+      },
+      {
+       "media": "Libération",
+       "titre": "Présidentielle : 350 députés, retraite par capitalisation, quotas limitatifs pour l'immigration… les propositions au pas de charge de Gabriel Attal",
+       "url": "https://www.liberation.fr/politique/elections/presidentielle-350-deputes-retraite-par-capitalisation-quotas-limitatifs-pour-limmigration-les-propositions-au-pas-de-charge-de-gabriel-attal-20260802_UT5RRQABIVERTE2UD5B64JRPQU/",
+       "date": "2026-08-02"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Vise « zéro déficit en 2037 » et un déficit sous 3 % avant 2032 : année blanche (gel des prestations sauf petites retraites), suppression de 100 000 postes de fonctionnaires par départs volontaires, 120 à 150 Md€ d'économies, démission du gouvernement si la trajectoire n'est pas tenue trois ans.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose une « année blanche » (gel des prestations sociales, en épargnant les petites retraites) et un plan de départs volontaires supprimant 100 000 postes de fonctionnaires (hors Éducation, Armées, Justice, Intérieur).",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "« Zéro déficit en 2037 » : Gabriel Attal dévoile une série de mesures pour rétablir les finances publiques en vue de la présidentielle",
+       "url": "https://www.franceinfo.fr/politique/gabriel-attal/zero-deficit-en-2037-gabriel-attal-devoile-une-serie-de-mesures-pour-retablir-les-finances-publiques-en-vue-de-la-presidentielle_8091860.html",
+       "date": "2026-07-03"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : le candidat Attal veut supprimer 100.000 postes de fonctionnaires, via des départs volontaires",
+       "url": "https://www.20minutes.fr/politique/4232554-20260702-presidentielle-2027-candidat-attal-veut-supprimer-100-000-postes-fonctionnaires-via-departs-volontaires",
+       "date": "2026-07-02"
+      }
+     ]
+    },
+    {
+     "texte": "Chiffre l'effort à 120-150 milliards d'euros d'économies, avec un objectif de zéro déficit en 2037.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "« Zéro déficit en 2037 » : Gabriel Attal dévoile une série de mesures pour rétablir les finances publiques en vue de la présidentielle",
+       "url": "https://www.franceinfo.fr/politique/gabriel-attal/zero-deficit-en-2037-gabriel-attal-devoile-une-serie-de-mesures-pour-retablir-les-finances-publiques-en-vue-de-la-presidentielle_8091860.html",
+       "date": "2026-07-03"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : le candidat Attal veut supprimer 100.000 postes de fonctionnaires, via des départs volontaires",
+       "url": "https://www.20minutes.fr/politique/4232554-20260702-presidentielle-2027-candidat-attal-veut-supprimer-100-000-postes-fonctionnaires-via-departs-volontaires",
+       "date": "2026-07-02"
+      }
+     ]
+    },
+    {
+     "texte": "Propose que ministres et directeurs d'administration qui ne tiennent pas leur budget quittent leurs fonctions, et que le gouvernement démissionne si la trajectoire n'est pas respectée trois ans de suite.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "« Zéro déficit en 2037 » : Gabriel Attal dévoile une série de mesures pour rétablir les finances publiques en vue de la présidentielle",
+       "url": "https://www.franceinfo.fr/politique/gabriel-attal/zero-deficit-en-2037-gabriel-attal-devoile-une-serie-de-mesures-pour-retablir-les-finances-publiques-en-vue-de-la-presidentielle_8091860.html",
+       "date": "2026-07-03"
+      }
+     ]
+    }
+   ]
+  },
+  "economie_fiscalite": {
+   "resume": "Propose de défiscaliser les pensions alimentaires pour le parent qui les perçoit (coût estimé à environ 1 Md€), une « carte famille monoparentale » et un « droit au répit » pour les parents isolés.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose que les pensions alimentaires ne soient plus imposables pour le parent qui les reçoit (coût « autour d'un milliard d'euros »).",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle 2027 : comment Gabriel Attal veut soutenir les familles monoparentales s'il est élu",
+       "url": "https://lcp.fr/actualites/presidentielle-2027-comment-gabriel-attal-veut-soutenir-les-familles-monoparentales-s-il",
+       "date": "2026-08-28"
+      }
+     ]
+    },
+    {
+     "texte": "Propose une carte famille monoparentale et un droit au répit (garde en soirée, week-end, urgence) avec les CAF.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle 2027 : comment Gabriel Attal veut soutenir les familles monoparentales s'il est élu",
+       "url": "https://lcp.fr/actualites/presidentielle-2027-comment-gabriel-attal-veut-soutenir-les-familles-monoparentales-s-il",
+       "date": "2026-08-28"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Propose une « préférence travail » : quotas limitatifs votés par le Parlement (par métier, secteur et origine) sur la base des besoins définis par les partenaires sociaux, un permis à points, et un durcissement du regroupement familial (« accueillir moins pour accueillir mieux »).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Veut « accueillir moins pour accueillir mieux » et faire de l'immigration de travail le premier motif d'admission plutôt que le regroupement familial ; juge un moratoire de trois ans « ni possible ni souhaitable ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Immigration : « Il faut que la France accueille moins pour accueillir mieux », affirme Gabriel Attal, candidat à la présidentielle",
+       "url": "https://www.franceinfo.fr/societe/immigration/immigration-il-faut-que-la-france-accueille-moins-pour-accueillir-mieux-affirme-gabriel-attal-candidat-a-la-presidentielle_8028605.html",
+       "date": "2026-05-26"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : Attal veut que la France accueille moins d'immigrés",
+       "url": "https://www.20minutes.fr/politique/4225409-20260526-presidentielle-2027-attal-veut-france-accueille-moins-immigres",
+       "date": "2026-05-26"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'allonger la durée de résidence requise pour le regroupement familial.",
+     "sources": [
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : Attal veut que la France accueille moins d'immigrés",
+       "url": "https://www.20minutes.fr/politique/4225409-20260526-presidentielle-2027-attal-veut-france-accueille-moins-immigres",
+       "date": "2026-05-26"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Immigration : moratoire, durcissement des conditions de regroupement familial… Darmanin et Attal avancent des mesures peu réalistes",
+       "url": "https://www.lemonde.fr/societe/article/2026/05/27/immigration-moratoire-durcissement-des-conditions-de-regroupement-familial-darmanin-et-attal-avancent-des-mesures-peu-realistes_6694195_3224.html",
+       "date": "2026-05-27"
+      }
+     ]
+    },
+    {
+     "texte": "Propose des « quotas limitatifs » d'immigration votés par le Parlement.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "« Quotas limitatifs » pour l'immigration, présence dans les médias de la sphère Bolloré… Gabriel Attal profite-t-il de l'été pour ancrer sa campagne présidentielle à droite ?",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/quotas-limitatifs-pour-l-immigration-presence-dans-les-medias-de-la-sphere-bollore-gabriel-attal-profite-t-il-de-l-ete-pour-ancrer-sa-campagne-presidentielle-a-droite_8137157.html",
+       "date": "2026-08-07"
+      },
+      {
+       "media": "Libération",
+       "titre": "Présidentielle : 350 députés, retraite par capitalisation, quotas limitatifs pour l'immigration… les propositions au pas de charge de Gabriel Attal",
+       "url": "https://www.liberation.fr/politique/elections/presidentielle-350-deputes-retraite-par-capitalisation-quotas-limitatifs-pour-limmigration-les-propositions-au-pas-de-charge-de-gabriel-attal-20260802_UT5RRQABIVERTE2UD5B64JRPQU/",
+       "date": "2026-08-02"
+      }
+     ]
+    },
+    {
+     "texte": "Défend un permis à points pour l'immigration.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "À Arras, Gabriel Attal prône « une nouvelle République » en vue de la présidentielle de 2027",
+       "url": "https://lcp.fr/actualites/a-arras-gabriel-attal-prone-une-nouvelle-republique-en-vue-de-l-election-presidentielle",
+       "date": "2025-09-21"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose de durcir le régime des gens du voyage (déclaration préalable détaillée, registre national dès 20 caravanes, facturation « au prix d'un camping », « tu dégrades, tu paies ») ; Renaissance sous sa direction a proposé d'interdire le voile dans l'espace public aux moins de 15 ans.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose une déclaration préalable renforcée pour les convois de gens du voyage, un registre national obligatoire dès 20 caravanes, la facturation des emplacements au minimum au prix d'un camping et un responsable pénal et civil par convoi.",
+     "sources": [
+      {
+       "media": "franceinfo (avec AFP)",
+       "titre": "Le candidat à la présidentielle Gabriel Attal veut s'attaquer aux installations illégales des gens du voyage",
+       "url": "https://www.franceinfo.fr/politique/gabriel-attal/le-candidat-a-la-presidentielle-gabriel-attal-veut-s-attaquer-aux-installations-illegales-des-gens-du-voyage_8133644.html",
+       "date": "2026-08-03"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "Gabriel Attal s'élève contre les installations illicites de gens du voyage : « Tu dégrades, tu paies »",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/gabriel-attal-s-eleve-contre-les-installations-illicites-de-gens-du-voyage-tu-degrades-tu-paies-20260803",
+       "date": "2026-08-03"
+      }
+     ]
+    },
+    {
+     "texte": "Renaissance, qu'il dirige, a proposé en mai 2025 d'interdire le port du voile dans l'espace public pour les moins de 15 ans et de créer un « délit de communautarisme ».",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Gabriel Attal propose d'interdire le voile pour les moins de 15 ans et souhaite une nouvelle loi séparatisme",
+       "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-propose-dinterdire-le-voile-pour-les-moins-de-15-ans-et-souhaite-une-nouvelle-loi-separatisme",
+       "date": "2025-05-21"
+      },
+      {
+       "media": "LCP",
+       "titre": "Elisabeth Borne claque la porte de la direction de Renaissance et critique la ligne Attal",
+       "url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne",
+       "date": "2026-05-06"
+      },
+      {
+       "media": "LCP",
+       "titre": "À Arras, Gabriel Attal prône « une nouvelle République » en vue de la présidentielle de 2027",
+       "url": "https://lcp.fr/actualites/a-arras-gabriel-attal-prone-une-nouvelle-republique-en-vue-de-l-election-presidentielle",
+       "date": "2025-09-21"
+      }
+     ]
+    },
+    {
+     "texte": "S'est dit favorable à un état d'urgence contre le narcotrafic.",
+     "sources": [
+      {
+       "media": "AFP (via Orange Actualités)",
+       "titre": "Présidentielle 2027 : Gabriel Attal révèle les premières lignes de son programme",
+       "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html",
+       "date": "2026-05-24"
+      }
+     ]
+    }
+   ]
+  },
+  "ia_numerique": {
+   "resume": "Propose un « plan France 2040 pour l'IA et l'innovation » de 200 Md€ (moitié public, moitié privé), la formation de 20 millions de salariés en cinq ans, et un référendum sur l'interdiction des réseaux sociaux aux moins de 15 ans.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose un plan « France 2040 pour l'IA et l'innovation » mobilisant 200 milliards d'euros à parité public-privé.",
+     "sources": [
+      {
+       "media": "20 Minutes",
+       "titre": "Intelligence artificielle : Gabriel Attal mise sur 200 milliards pour propulser la France en tête de l'Europe",
+       "url": "https://www.20minutes.fr/politique/4229714-20260617-intelligence-artificielle-gabriel-attal-mise-200-milliards-propulser-france-tete-europe",
+       "date": "2026-06-17"
+      },
+      {
+       "media": "Les Échos",
+       "titre": "Gabriel Attal : « Il faut l'équivalent de la politique agricole commune pour l'IA »",
+       "url": "https://www.lesechos.fr/elections/presidentielle/gabriel-attal-il-faut-lequivalent-de-la-politique-agricole-commune-pour-lia-2237679",
+       "date": "2026-06-17"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de former vingt millions de salariés à l'IA en cinq ans.",
+     "sources": [
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : Gabriel Attal annonce les quatre « chantiers capitaux » de son programme",
+       "url": "https://www.20minutes.fr/politique/4225143-20260524-presidentielle-2027-gabriel-attal-annonce-quatre-chantiers-capitaux-programme",
+       "date": "2026-05-24"
+      },
+      {
+       "media": "AFP (via Orange Actualités)",
+       "titre": "Présidentielle 2027 : Gabriel Attal révèle les premières lignes de son programme",
+       "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html",
+       "date": "2026-05-24"
+      }
+     ]
+    },
+    {
+     "texte": "Appelle à soumettre à référendum l'interdiction des réseaux sociaux aux moins de 15 ans, après la censure de la loi par le Conseil constitutionnel (août 2026).",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "« Une course contre la montre a démarré » : Gabriel Attal appelle à un référendum sur l'interdiction des réseaux aux moins de 15 ans",
+       "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/une-course-contre-la-montre-a-demarre-gabriel-attal-appelle-a-un-referendum-sur-l-interdiction-des-reseaux-aux-moins-de-15-ans_8149565.html",
+       "date": "2026-08-16"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Réseaux sociaux interdits aux moins de 15 ans : Gabriel Attal appelle l'exécutif à un référendum",
+       "url": "https://www.20minutes.fr/politique/4239355-20260816-reseaux-sociaux-interdits-moins-15-ans-gabriel-attal-appelle-executif-referendum",
+       "date": "2026-08-16"
+      },
+      {
+       "media": "Libération",
+       "titre": "Gabriel Attal appelle à un référendum sur l'interdiction des réseaux sociaux aux moins de 15 ans",
+       "url": "https://www.liberation.fr/politique/gabriel-attal-appelle-a-un-referendum-sur-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-20260816_7ROBUUANWNC7BKUPZILRBWR6VY/",
+       "date": "2026-08-16"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Propose des « États-Unis d'Europe » : fusion économique et écologique d'un noyau dur de pays (alignement fiscal et du droit du travail), par un « premier référendum européen » simultané ; le régalien resterait national.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de bâtir des « États-Unis d'Europe » avec un noyau dur de pays, validés par un référendum européen simultané ; les compétences régaliennes resteraient aux États.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Gabriel Attal juge que l'Europe des 27 a « atteint ses limites » et plaide pour des « États-Unis d'Europe »",
+       "url": "https://www.franceinfo.fr/monde/europe/gabriel-attal-juge-que-l-europe-des-27-a-atteint-ses-limites-et-plaide-pour-des-etats-unis-d-europe_8197754.html",
+       "date": "2026-09-17"
+      },
+      {
+       "media": "Public Sénat",
+       "titre": "Gabriel Attal veut construire « les États-Unis d'Europe », proposition choc pour « relancer l'idéal européen »",
+       "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-veut-construire-les-etats-unis-deurope-proposition-choc-pour-relancer-lideal-europeen",
+       "date": "2026-09-17"
+      },
+      {
+       "media": "Libération",
+       "titre": "À Reims, Attal plaide pour des « États-Unis d'Europe », « le projet d'une génération »",
+       "url": "https://www.liberation.fr/politique/a-reims-attal-plaide-pour-des-etats-unis-deurope-le-projet-dune-generation-20260917_T7NSBZQWTBDFDF7RXIDS236PA4/",
+       "date": "2026-09-17"
+      }
+     ]
+    },
+    {
+     "texte": "Ce « saut fédéral » passerait par l'alignement des taux d'imposition et du droit du travail et des grands projets technologiques communs.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Gabriel Attal veut construire « les États-Unis d'Europe », proposition choc pour « relancer l'idéal européen »",
+       "url": "https://www.publicsenat.fr/actualites/politique/gabriel-attal-veut-construire-les-etats-unis-deurope-proposition-choc-pour-relancer-lideal-europeen",
+       "date": "2026-09-17"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose un plan « massif » sur l'eau : chasse aux fuites (récupérer 1 000 milliards de litres d'ici 2035), réutilisation facilitée des eaux usées, bouclier tarifaire sur les premiers litres.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Vise à récupérer 1 000 milliards de litres d'eau d'ici 2035 en réparant les réseaux les moins performants (plan de financement clé en main pour 500 réseaux).",
+     "sources": [
+      {
+       "media": "franceinfo (avec AFP)",
+       "titre": "En campagne, Gabriel Attal promet un plan « massif » sur l'eau s'il est élu président",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/en-campagne-gabriel-attal-promet-un-plan-massif-sur-l-eau-s-il-est-elu-president_8140991.html",
+       "date": "2026-08-09"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Sécheresse et canicule : chasse au gaspillage, bouclier tarifaire… Le plan eau de Gabriel Attal s'il est élu",
+       "url": "https://www.20minutes.fr/politique/4238380-20260809-secheresse-canicule-chasse-gaspillage-bouclier-tarifaire-plan-eau-gabriel-attal-elu",
+       "date": "2026-08-09"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un tarif bas et fixe pour les premiers litres essentiels selon la taille du foyer et une autorisation automatique de réutilisation des eaux usées.",
+     "sources": [
+      {
+       "media": "franceinfo (avec AFP)",
+       "titre": "En campagne, Gabriel Attal promet un plan « massif » sur l'eau s'il est élu président",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/en-campagne-gabriel-attal-promet-un-plan-massif-sur-l-eau-s-il-est-elu-president_8140991.html",
+       "date": "2026-08-09"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Sécheresse et canicule : chasse au gaspillage, bouclier tarifaire… Le plan eau de Gabriel Attal s'il est élu",
+       "url": "https://www.20minutes.fr/politique/4238380-20260809-secheresse-canicule-chasse-gaspillage-bouclier-tarifaire-plan-eau-gabriel-attal-elu",
+       "date": "2026-08-09"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose « la plus grande réforme institutionnelle depuis 1958 » : moins de parlementaires (350 députés selon Libération), suppression d'un échelon local, recours aux référendums, meilleur partage du pouvoir avec les collectivités et un « spoil system » à la française.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Prône une « Ve République du XXIe siècle » : baisse du nombre de parlementaires et d'élus, suppression d'un échelon de collectivités, recours aux référendums.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "À Arras, Gabriel Attal prône « une nouvelle République » en vue de la présidentielle de 2027",
+       "url": "https://lcp.fr/actualites/a-arras-gabriel-attal-prone-une-nouvelle-republique-en-vue-de-l-election-presidentielle",
+       "date": "2025-09-21"
+      },
+      {
+       "media": "Libération",
+       "titre": "Présidentielle : 350 députés, retraite par capitalisation, quotas limitatifs pour l'immigration… les propositions au pas de charge de Gabriel Attal",
+       "url": "https://www.liberation.fr/politique/elections/presidentielle-350-deputes-retraite-par-capitalisation-quotas-limitatifs-pour-limmigration-les-propositions-au-pas-de-charge-de-gabriel-attal-20260802_UT5RRQABIVERTE2UD5B64JRPQU/",
+       "date": "2026-08-02"
+      }
+     ]
+    },
+    {
+     "texte": "Défend une « réforme constitutionnelle profonde, pour mieux partager le pouvoir », notamment avec les collectivités.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Présidentielle 2027 : « Il faut une réforme constitutionnelle profonde, pour mieux partager le pouvoir », défend Gabriel Attal au « 20 Heures » de France 2",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-il-faut-une-reforme-constitutionnelle-profonde-pour-mieux-partager-le-pouvoir-defend-gabriel-attal-au-20-heures-de-france-2_8172656.html",
+       "date": "2026-09-01"
+      }
+     ]
+    },
+    {
+     "texte": "Souhaite un « spoil system » à la française pour les nominations dans la haute administration.",
+     "sources": [
+      {
+       "media": "Libération",
+       "titre": "Attal souhaite un « spoil system » à la française, Mélenchon dénonce un « système de nomination copinage généralisé »",
+       "url": "https://www.liberation.fr/politique/attal-souhaite-un-spoil-system-a-la-francaise-melenchon-denonce-un-systeme-de-nomination-copinage-generalise-20260803_7C7QXQ774FCBZBZCVB7WDZOMTA/",
+       "date": "2026-08-03"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Plainte devant la Cour de justice de la République (émeutes de 2024 en Nouvelle-Calédonie)",
+   "statut": "accusation",
+   "date": "2026-09-09",
+   "description": "Des militants indépendantistes kanak ont déposé une plainte devant la Cour de justice de la République visant Gabriel Attal, Premier ministre lors des émeutes de mai 2024 en Nouvelle-Calédonie, et plusieurs ministres de son gouvernement, pour leur gestion de ces émeutes. Au 25 septembre 2026, aucune décision de la commission des requêtes de la CJR n'a été trouvée. Gabriel Attal est présumé innocent.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Émeutes en Nouvelle-Calédonie : Gabriel Attal et plusieurs ministres de son gouvernement visés par une plainte devant la Cour de justice de la République",
+     "url": "https://www.lemonde.fr/societe/article/2026/09/09/emeutes-en-nouvelle-caledonie-gabriel-attal-et-plusieurs-ministres-de-son-gouvernement-vises-par-une-plainte-devant-la-cour-de-justice-de-la-republique_6768938_3224.html",
+     "date": "2026-09-09"
+    }
+   ]
+  },
+  {
+   "intitule": "Réutilisation des comptes de soutien à Emmanuel Macron sur les réseaux sociaux",
+   "statut": "accusation",
+   "date": "2026-05-25",
+   "description": "La Tribune Dimanche a affirmé que l'équipe de Gabriel Attal avait récupéré, en les renommant « Attal président », des comptes de réseaux sociaux créés en 2021 pour la campagne de réélection d'Emmanuel Macron. Son entourage répond qu'il s'agit de comptes du parti Renaissance, réutilisés à chaque élection. Aucune procédure judiciaire.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Gabriel Attal accusé de réutiliser les comptes de soutien à Emmanuel Macron, le candidat à la présidentielle affirme qu'ils appartiennent au parti",
+     "url": "https://www.franceinfo.fr/politique/gabriel-attal/gabriel-attal-accuse-de-reutiliser-les-comptes-de-soutien-a-emmanuel-macron-le-candidat-a-la-presidentielle-affirme-qu-ils-appartiennent-au-parti_8027219.html",
+     "date": "2026-05-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Première candidature présidentielle : aucun compte de campagne présidentielle antérieur. La période de financement de la campagne 2027 a débuté le 1er avril 2026.",
+   "sources": [
+    {
+     "media": "LCP",
+     "titre": "Tournée des « 1000 bistrots » de Gabriel Attal : quelles règles régissent les frais de repas durant la campagne présidentielle ?",
+     "url": "https://lcp.fr/actualites/tournee-des-1000-bistrots-de-gabriel-attal-quelles-regles-regissent-les-frais-de-repas",
+     "date": "2026-09-10"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Gabriel Attal",
+     "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Renaissance a vendu en juillet 2025 son siège de la rue du Rocher (acquis 35 M€ en 2019) pour 31,4 M€, soit près de 20 M€ nets pour le parti, qui s'est installé en location avenue Robert-Schuman.",
+   "sources": [
+    {
+     "media": "20 Minutes",
+     "titre": "Renaissance : Gabriel Attal acte la vente du siège du parti pour 31,4 millions d'euros",
+     "url": "https://www.20minutes.fr/politique/4162688-20250709-renaissance-gabriel-attal-acte-vente-siege-parti-31-4-millions-euros",
+     "date": "2025-07-09"
+    }
+   ]
+  },
+  {
+   "texte": "Déclaration d'intérêts (HATVP, janvier 2025) : participation de 11 % dans une SCI évaluée à 130 000 € ; coprésident de la fondation Faire Face (contre le harcèlement scolaire) ; secrétaire général de Renaissance et président du parti Ensemble. La déclaration de patrimoine n'est consultable qu'en préfecture.",
+   "sources": [
+    {
+     "media": "HATVP",
+     "titre": "Déclarations de Gabriel Attal, député des Hauts-de-Seine",
+     "url": "https://www.hatvp.fr/fiche-nominative/?declarant=attal-gabriel",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ]
+}

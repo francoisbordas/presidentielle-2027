@@ -1,0 +1,215 @@
+{
+  "id": "sylvain-durif",
+  "nom": "Sylvain Durif",
+  "naissance": "1969-08-23",
+  "lieu_naissance": "Nantua (Ain)",
+  "parti": "Elvita",
+  "parti_sigle": "ELV",
+  "famille": "non_classe",
+  "position": 0,
+  "position_justif": {
+    "texte": "Non classé par les sources : aucune source consultée ne situe ce candidat sur l'axe gauche-droite (valeur par défaut centre / 0, sans signification politique).",
+    "sources": [
+      {
+        "media": "Wikipédia",
+        "titre": "Candidatures à l'élection présidentielle française de 2027",
+        "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+        "date": "2026-09-25"
+      }
+    ]
+  },
+  "statut": "declare",
+  "photo": {
+    "fichier": "img/candidats/sylvain-durif.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sylvain_Durif,_sur_une_aire_d%27autoroute,_en_2013.png",
+    "auteur": "chatzefratz",
+    "licence": "CC BY 3.0"
+  },
+  "logo_parti": {
+    "fichier": null,
+    "source_url": null,
+    "licence": null
+  },
+  "bio": {
+    "etudes": [],
+    "carriere_hors_politique": [
+      {
+        "texte": "Se présente comme « médium indépendant » et « guérisseur » avant son entrée en politique.",
+        "sources": [
+          {
+            "media": "Sud Radio",
+            "titre": "Qui est ce Sylvain Durif, candidat à la Présidentielle 2027 ?",
+            "url": "https://www.sudradio.fr/politique/qui-est-ce-sylvain-durif-le-christ-cosmique-candidat-a-la-presidentielle-2027",
+            "date": "2026-09-09"
+          }
+        ]
+      },
+      {
+        "texte": "Crée en 2004 l'entreprise Elvita, déclarée dans l'édition de logiciels applicatifs.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Sylvain Durif",
+            "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif",
+            "date": "2026-09-25"
+          }
+        ]
+      }
+    ],
+    "mandats": [
+      {
+        "texte": "Aucun mandat électif. Candidat aux municipales de 2013 à Arques (Aude) : 7 voix (environ 5 %), non élu.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Sylvain Durif",
+            "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Sud Radio",
+            "titre": "Qui est ce Sylvain Durif, candidat à la Présidentielle 2027 ?",
+            "url": "https://www.sudradio.fr/politique/qui-est-ce-sylvain-durif-le-christ-cosmique-candidat-a-la-presidentielle-2027",
+            "date": "2026-09-09"
+          }
+        ]
+      },
+      {
+        "texte": "Candidature aux élections départementales de 2015 (canton de Couiza) qui n'a pas abouti.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Sylvain Durif",
+            "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Candidat déclaré à la présidentielle 2017, sans obtenir les 500 parrainages requis.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Sylvain Durif",
+            "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Sud Radio",
+            "titre": "Qui est ce Sylvain Durif, candidat à la Présidentielle 2027 ?",
+            "url": "https://www.sudradio.fr/politique/qui-est-ce-sylvain-durif-le-christ-cosmique-candidat-a-la-presidentielle-2027",
+            "date": "2026-09-09"
+          }
+        ]
+      }
+    ],
+    "autres": [
+      {
+        "texte": "Connu depuis décembre 2012 sous le surnom de « Christ cosmique », lors de la médiatisation du village de Bugarach autour de la « fin du monde » annoncée ; évoque des théories sur les Illuminati et les « reptiliens ».",
+        "sources": [
+          {
+            "media": "Sud Radio",
+            "titre": "Qui est ce Sylvain Durif, candidat à la Présidentielle 2027 ?",
+            "url": "https://www.sudradio.fr/politique/qui-est-ce-sylvain-durif-le-christ-cosmique-candidat-a-la-presidentielle-2027",
+            "date": "2026-09-09"
+          },
+          {
+            "media": "candidatspresidentielles2027.fr",
+            "titre": "Sylvain Durif (sans étiquette) | Programme",
+            "url": "https://www.candidatspresidentielles2027.fr/candidats/sylvain-durif",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Réside à Toubab Dialao (Sénégal) depuis 2017.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Sylvain Durif",
+            "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Annonce sa candidature à la présidentielle 2027 le 23 août 2026 par une vidéo sur les réseaux sociaux, en se présentant comme « Grand Monarque, Christ cosmique, Messie et pape Pierre ».",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Candidatures à l'élection présidentielle française de 2027",
+            "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Sud Radio",
+            "titre": "Qui est ce Sylvain Durif, candidat à la Présidentielle 2027 ?",
+            "url": "https://www.sudradio.fr/politique/qui-est-ce-sylvain-durif-le-christ-cosmique-candidat-a-la-presidentielle-2027",
+            "date": "2026-09-09"
+          }
+        ]
+      },
+      {
+        "texte": "Deux sites internet satiriques à son nom ont été lancés en septembre 2026 ; ils ne sont pas attribuables au candidat.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Sylvain Durif",
+            "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "candidatspresidentielles2027.fr",
+            "titre": "Sylvain Durif (sans étiquette) | Programme",
+            "url": "https://www.candidatspresidentielles2027.fr/candidats/sylvain-durif",
+            "date": "2026-09-25"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "institutions": {
+      "resume": "Déclare vouloir « instaurer le paradis » en tant que « dernier roi de France et dernier pape » ; aucune mesure chiffrée ni calendrier identifié.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Déclare vouloir « instaurer le paradis en tant que dernier roi de France et dernier pape » et apporter « la paix sur Terre et dans le cosmos ».",
+          "sources": [
+            {
+              "media": "Wikipédia",
+              "titre": "Sylvain Durif",
+              "url": "https://fr.wikipedia.org/wiki/Sylvain_Durif",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Aucune proposition concrète identifiée : l'annonce de candidature est composée de titres mystiques, sans mesure, chiffrage ni calendrier.",
+          "sources": [
+            {
+              "media": "candidatspresidentielles2027.fr",
+              "titre": "Sylvain Durif (sans étiquette) | Programme",
+              "url": "https://www.candidatspresidentielles2027.fr/candidats/sylvain-durif",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "affaires": [],
+  "financement": [
+    {
+      "texte": "Aucune information sur le financement de la campagne 2027 (association de financement, mandataire) trouvée ; pas de compte de campagne présidentielle antérieur (candidature 2017 non validée).",
+      "sources": [
+        {
+          "media": "candidatspresidentielles2027.fr",
+          "titre": "Sylvain Durif (sans étiquette) | Programme",
+          "url": "https://www.candidatspresidentielles2027.fr/candidats/sylvain-durif",
+          "date": "2026-09-25"
+        }
+      ]
+    }
+  ]
+}

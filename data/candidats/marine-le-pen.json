@@ -1,0 +1,1074 @@
+{
+ "id": "marine-le-pen",
+ "nom": "Marine Le Pen",
+ "naissance": "1968-08-05",
+ "lieu_naissance": "Neuilly-sur-Seine (Hauts-de-Seine)",
+ "parti": "Rassemblement national",
+ "parti_sigle": "RN",
+ "famille": "extreme_droite",
+ "position": 8,
+ "position_justif": {
+  "texte": "Position 8 (barème RN). Le Conseil d'État a jugé le 11 mars 2024 que le rattachement de la nuance RN au bloc « extrême droite » par le ministère de l'Intérieur n'était entaché d'aucune erreur manifeste d'appréciation ; Wikipédia classe le RN à l'extrême droite. Marine Le Pen récuse ce qualificatif.",
+  "sources": [
+   {
+    "media": "Conseil d'État",
+    "titre": "Décision n° 488378 du 11 mars 2024 (nuance politique du RN)",
+    "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2024-03-11/488378",
+    "date": "2024-03-11"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Rassemblement national",
+    "url": "https://fr.wikipedia.org/wiki/Rassemblement_national",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Marine Le Pen",
+    "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+    "date": "2026-09-25"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/marine-le-pen.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg",
+  "auteur": "Vox España",
+  "licence": "CC0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/rn.svg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Logo_Rassemblement_National.svg",
+  "licence": "Domaine public"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Baccalauréat (série B) en 1986, après une scolarité au lycée Florent-Schmitt de Saint-Cloud.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Le Pen",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro Étudiant",
+      "titre": "Les études d'Emmanuel Macron et de Marine Le Pen",
+      "url": "https://etudiant.lefigaro.fr/article/macron-eleve-modele-contre-marine-le-pen-etudiante-mediocre-et-fetarde-_ce2fa766-28c4-11e7-b91d-560b5f714086/",
+      "date": "2017-04-24"
+     }
+    ]
+   },
+   {
+    "texte": "Études de droit à l'université Paris II-Assas : maîtrise de droit (1990) puis DEA de droit pénal (1991) ; CAPA obtenu en 1992 après l'École de formation des barreaux de Paris.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Le Pen",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro Étudiant",
+      "titre": "Les études d'Emmanuel Macron et de Marine Le Pen",
+      "url": "https://etudiant.lefigaro.fr/article/macron-eleve-modele-contre-marine-le-pen-etudiante-mediocre-et-fetarde-_ce2fa766-28c4-11e7-b91d-560b5f714086/",
+      "date": "2017-04-24"
+     },
+     {
+      "media": "L'Express",
+      "titre": "Quand Marine Le Pen exerçait en tant qu'avocate",
+      "url": "https://www.lexpress.fr/actualite/politique/fn/quand-marine-le-pen-etait-avocate_1722920.html",
+      "date": "2015"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Avocate au barreau de Paris de 1992 à 1998, notamment aux permanences de comparution immédiate ; rejoint ensuite le service juridique du Front national (1998).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Le Pen",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "L'Express",
+      "titre": "Quand Marine Le Pen exerçait en tant qu'avocate",
+      "url": "https://www.lexpress.fr/actualite/politique/fn/quand-marine-le-pen-etait-avocate_1722920.html",
+      "date": "2015"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseillère régionale du Nord-Pas-de-Calais (1998-2004), puis des Hauts-de-France (2010-2021) ; conseillère municipale d'Hénin-Beaumont (2008-2015).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Le Pen",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Députée européenne de 2004 à 2017.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Le Pen",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Présidente du Front national, devenu Rassemblement national, de janvier 2011 à septembre 2021.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Le Pen",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Rassemblement national",
+      "url": "https://fr.wikipedia.org/wiki/Rassemblement_national",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Députée de la 11e circonscription du Pas-de-Calais depuis juin 2017, réélue dès le premier tour en 2024 ; présidente du groupe RN à l'Assemblée nationale depuis 2022, reconduite le 10 juillet 2024.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Le Pen",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Législatives 2024. Marine Le Pen élue dans le Pas-de-Calais, pour la première fois dès le 1er tour",
+      "url": "https://www.ouest-france.fr/elections/legislatives/legislatives-2024-marine-le-pen-elue-dans-le-pas-de-calais-pour-la-premiere-fois-des-le-1er-tour-20caf7d8-370d-11ef-beb3-b5dffeb610b0",
+      "date": "2024-06-30"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Après les législatives, Marine Le Pen réélue présidente du groupe RN à l'Assemblée nationale",
+      "url": "https://www.ouest-france.fr/elections/legislatives/les-legislatives-sont-une-victoire-differee-juge-marine-le-pen-devant-lassemblee-nationale-0118a1c2-3e94-11ef-af6f-cc8c20a9107a",
+      "date": "2024-07-10"
+     }
+    ]
+   },
+   {
+    "texte": "Conseillère départementale du Pas-de-Calais (canton d'Hénin-Beaumont-2) de 2021 jusqu'à sa démission d'office, prononcée par arrêté préfectoral le 10 avril 2025 à la suite de l'inéligibilité avec exécution provisoire ; le Conseil d'État a rejeté ses recours (octobre-novembre 2025).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Le Pen",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Procès du RN : l'arrêté de démission d'office visant le mandat de conseillère départementale de Marine Le Pen a été pris",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/info-franceinfo-proces-du-rn-l-arrete-de-demission-d-office-visant-le-mandat-de-conseillere-departementale-de-marine-le-pen-a-ete-pris_7184217.html",
+      "date": "2025-04-11"
+     },
+     {
+      "media": "France 24 (AFP)",
+      "titre": "Le Conseil d'État rejette le recours de Marine Le Pen contre son inéligibilité immédiate",
+      "url": "https://www.france24.com/fr/info-en-continu/20251015-le-conseil-d-%C3%A9tat-rejette-le-recours-de-marine-le-pen-contre-son-in%C3%A9ligibilit%C3%A9-imm%C3%A9diate",
+      "date": "2025-10-15"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Candidate à l'élection présidentielle en 2012 (3e, 17,90 %), 2017 et 2022 (qualifiée pour le second tour, battue par Emmanuel Macron les deux fois).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Le Pen",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Candidature à la présidentielle 2027 annoncée le 7 juillet 2026 au journal de 20 heures de TF1, quelques heures après l'arrêt de la cour d'appel de Paris. Slogan de campagne dévoilé le 8 juillet 2026 : « Pour la France, la Renaissance ».",
+    "sources": [
+     {
+      "media": "Public Sénat",
+      "titre": "« Ce soir, je suis candidate à l'élection présidentielle » : Marine Le Pen est candidate et se pourvoit en cassation",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation",
+      "date": "2026-07-07"
+     },
+     {
+      "media": "TF1 Info",
+      "titre": "Candidate à la présidentielle 2027, Marine Le Pen dévoile son affiche de campagne « Pour la France, la Renaissance »",
+      "url": "https://www.tf1info.fr/politique/candidate-a-la-election-presidentielle-2027-marine-le-pen-rn-devoile-son-affiche-de-campagne-pour-la-france-la-renaissance-2451969.html",
+      "date": "2026-07-08"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Le Pen",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Jordan Bardella, président du RN, fait campagne en binôme avec elle : elle le présente comme « un binôme complémentaire, équilibré et solide » et a annoncé qu'en cas de victoire il serait son Premier ministre. Il n'est donc plus le candidat de substitution envisagé en cas d'inéligibilité. Le lancement commun de la campagne a eu lieu le 8 juillet 2026 à La Flèche (Sarthe).",
+    "sources": [
+     {
+      "media": "Public Sénat",
+      "titre": "« Ce soir, je suis candidate à l'élection présidentielle » : Marine Le Pen est candidate et se pourvoit en cassation",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-marine-le-pen-est-candidate-et-se-pourvoit-en-cassation",
+      "date": "2026-07-07"
+     },
+     {
+      "media": "France 24",
+      "titre": "Présidentielle 2027 : Marine Le Pen et Jordan Bardella main dans la main pour la campagne",
+      "url": "https://www.france24.com/fr/france/20260708-jordan-bardella-se-r%C3%A9jouit-marine-le-pen-pr%C3%A9sidentielle-2027-extreme-droite-rassemblement-national-campagne",
+      "date": "2026-07-08"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Condamnation de Marine Le Pen : la Cour de cassation « pourrait » se prononcer « au plus tard début avril 2027 »",
+      "url": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-marine-le-pen-lance-sa-campagne-avec-jordan-bardella-dans-la-sarthe-ce-mercredi-20260708",
+      "date": "2026-07-08"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jordan Bardella",
+      "url": "https://fr.wikipedia.org/wiki/Jordan_Bardella",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "economie_fiscalite": {
+   "resume": "Propose de baisser la TVA sur l'énergie de 20 % à 5,5 % et de supprimer la TVA sur 100 produits de première nécessité, de supprimer la CFE, la CVAE et la C3S (impôts de production), et de créer un « impôt sur la fortune financière » à la place de l'IFI.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Contre-budget 2026 du groupe RN : baisse de la TVA sur les énergies (coût estimé 10,96 Md€), suppression de la TVA sur 100 produits de première nécessité (3,5 Md€), suppression de la CFE (8,8 Md€), de la CVAE (2,6 Md€) et de la C3S (4,8 Md€), indexation du barème de l'impôt sur le revenu sur l'inflation, part fiscale pleine dès le deuxième enfant.",
+     "sources": [
+      {
+       "media": "Rassemblement national (groupe à l'Assemblée)",
+       "titre": "Contre-budget 2026 (conférence de presse du 23 octobre 2025)",
+       "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+       "date": "2025-10-23"
+      }
+     ]
+    },
+    {
+     "texte": "Contre-budget 2026 : « IFF » (impôt sur la fortune financière) à la place de la taxe sur les holdings et de l'IFI (4 Md€ attendus), taxe sur les rachats d'actions (8,4 Md€), taxe sur les transactions financières intra-journalières (3 Md€), taxe sur les « superdividendes ».",
+     "sources": [
+      {
+       "media": "Rassemblement national (groupe à l'Assemblée)",
+       "titre": "Contre-budget 2026 (conférence de presse du 23 octobre 2025)",
+       "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+       "date": "2025-10-23"
+      }
+     ]
+    },
+    {
+     "texte": "Programme 2022 : baisse de la TVA de 20 % à 5,5 % sur les carburants, le fioul, le gaz et l'électricité ; possibilité pour les entreprises d'augmenter de 10 % les salaires jusqu'à trois SMIC avec exonération de cotisations patronales sur cette hausse.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Selon Les Décodeurs du Monde (analyse de 130 votes sur les budgets 2026), les députés RN se sont opposés au rétablissement de l'ISF, à la taxe Zucman et à la hausse de l'impôt sur les sociétés.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Rassemblement national",
+       "url": "https://fr.wikipedia.org/wiki/Rassemblement_national",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Propose, dans son contre-budget 2026, 88 Md€ d'économies et recettes nouvelles pour 53 Md€ de baisses d'impôts et dépenses nouvelles, soit un solde affiché de 35,6 Md€ de réduction du déficit.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Contre-budget 2026 présenté le 23 octobre 2025 : baisse de la contribution française au budget de l'UE (8,7 Md€), baisse de 20 % des subventions à certaines agences (7,7 Md€), suppression des tarifs de rachat préférentiels de l'électricité renouvelable (7,2 Md€), baisse de la DGF des régions et intercommunalités (5 Md€), lutte contre la fraude (3,5 Md€) ; total affiché : -35,6 Md€ de déficit.",
+     "sources": [
+      {
+       "media": "Rassemblement national (groupe à l'Assemblée)",
+       "titre": "Contre-budget 2026 (conférence de presse du 23 octobre 2025)",
+       "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+       "date": "2025-10-23"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Rassemblement national",
+       "url": "https://fr.wikipedia.org/wiki/Rassemblement_national",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Le RN a voté la motion de censure qui a renversé le gouvernement Barnier le 4 décembre 2024 et contre la confiance au gouvernement Bayrou le 8 septembre 2025.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Le Pen",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Rassemblement national",
+       "url": "https://fr.wikipedia.org/wiki/Rassemblement_national",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose de réindexer les pensions sur l'inflation, un minimum retraite de 1 000 € par mois et un départ à 60 ans pour ceux qui ont commencé à travailler avant 20 ans ; le contre-budget 2026 chiffre le lancement de cette « réforme des retraites MLP » à 1,5 Md€.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Programme 2022 : réindexation des retraites sur l'inflation, minimum retraite de 1 000 € par mois, refus du report de l'âge légal, départ à 60 ans pour ceux qui ont commencé à travailler avant 20 ans.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Le Pen",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Contre-budget 2026 : « lancement de la réforme des retraites MLP » (1,5 Md€) et indexation des retraites avec dégel des prestations (3,61 Md€).",
+     "sources": [
+      {
+       "media": "Rassemblement national (groupe à l'Assemblée)",
+       "titre": "Contre-budget 2026 (conférence de presse du 23 octobre 2025)",
+       "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+       "date": "2025-10-23"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose d'exonérer de cotisations patronales les hausses de salaire de 10 % jusqu'à trois SMIC (programme 2022).",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : permettre aux entreprises d'augmenter de 10 % les salaires jusqu'à trois SMIC, cette hausse étant exonérée de cotisations patronales.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Mediapart juge que cette revalorisation passe par une baisse de cotisations et laisse les entreprises libres de ne pas l'appliquer.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Le Pen",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Propose un plan d'urgence de 20 Md€ pour la santé, l'arrêt des fermetures de lits et la suppression des agences régionales de santé (programme 2022) ; en 2026, remplacement de l'AME par une « aide médicale d'urgence ».",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : plan d'urgence de 20 Md€ pour la santé, arrêt des fermetures de lits, revalorisation des soignants, suppression des ARS.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Contre-budget 2026 : remplacement de l'aide médicale d'État (AME) par une aide médicale d'urgence (AMU), délivrance des médicaments à l'unité, contrôle systématique de l'éligibilité aux ALD.",
+     "sources": [
+      {
+       "media": "Rassemblement national (groupe à l'Assemblée)",
+       "titre": "Contre-budget 2026 (conférence de presse du 23 octobre 2025)",
+       "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+       "date": "2025-10-23"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Propose de recentrer l'école sur le français, les mathématiques et l'histoire, d'instaurer l'uniforme et de revaloriser les enseignants (programme 2022).",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : priorité au français, aux mathématiques et à l'histoire, uniforme à l'école primaire et au collège, revalorisation des salaires des enseignants.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Contre-budget 2026 : hausse des frais de scolarité des étudiants étrangers hors conventions interétatiques (1,1 Md€ attendus).",
+     "sources": [
+      {
+       "media": "Rassemblement national (groupe à l'Assemblée)",
+       "titre": "Contre-budget 2026 (conférence de presse du 23 octobre 2025)",
+       "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+       "date": "2025-10-23"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Propose un référendum sur l'immigration, la fin du regroupement familial et du droit du sol, le traitement des demandes d'asile à l'étranger et la « priorité nationale » pour le logement, l'emploi et les aides ; en 2026, conditionner les prestations de solidarité à 5 ans de travail en France et dénoncer l'accord franco-algérien de 1968.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Programme 2022 : référendum pour « arrêter l'immigration incontrôlée », fin du regroupement familial, demandes d'asile déposées uniquement à l'étranger, aides sociales réservées aux Français, suppression du droit du sol.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Le Pen",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "La « priorité nationale » (priorité des Français pour le logement, l'emploi et les aides sociales) est présentée comme la clé de voûte de ses programmes successifs.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Le Pen",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Contre-budget 2026 : réserver les prestations de solidarité aux étrangers ayant travaillé au moins 5 ans en France (6,1 Md€), fin de l'accord de 1968 avec l'Algérie, suppression du visa pour soins, renvoi des étrangers sans emploi depuis un an ne pouvant subvenir à leurs besoins.",
+     "sources": [
+      {
+       "media": "Rassemblement national (groupe à l'Assemblée)",
+       "titre": "Contre-budget 2026 (conférence de presse du 23 octobre 2025)",
+       "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+       "date": "2025-10-23"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose des peines planchers, la suppression des réductions de peine automatiques, la présomption de légitime défense pour les policiers, le doublement du nombre de magistrats et 85 000 places de prison (programme 2022).",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : rétablissement des peines planchers, fin des remises de peine pour les crimes violents, présomption de légitime défense pour les forces de l'ordre, doublement du nombre de magistrats, 85 000 places de prison d'ici 2027.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Le Pen",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "En avril 2022, elle exclut un référendum sur la peine de mort, jugé anticonstitutionnel.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Le Pen",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Propose de porter le budget de la défense à 55 Md€ en 2027 et de quitter le commandement intégré de l'OTAN tout en restant dans l'Alliance (programme 2022).",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : budget de la défense porté à 55 Md€ d'ici 2027.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Propose que la France quitte le commandement intégré de l'OTAN tout en restant membre de l'Alliance atlantique.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Le Pen",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Après l'invasion de l'Ukraine en février 2022, elle condamne l'offensive russe tout en s'opposant à des sanctions pesant sur l'économie française ; elle a réaffirmé en mai 2023 considérer la Crimée comme russe.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Le Pen",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Ne propose plus la sortie de l'euro ni de l'UE (abandonnée après 2017) mais une renégociation des traités, la primauté du droit national et une baisse unilatérale de la contribution française au budget européen (8,7 Md€ dans le contre-budget 2026).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Abandon de la sortie de l'euro après 2017 (confirmé par le RN en janvier 2019) au profit d'une renégociation des traités et du droit dérivé.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Le Pen",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Rassemblement national",
+       "url": "https://fr.wikipedia.org/wiki/Rassemblement_national",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Contre-budget 2026 : baisse de la contribution de la France à l'UE de 8,7 Md€.",
+     "sources": [
+      {
+       "media": "Rassemblement national (groupe à l'Assemblée)",
+       "titre": "Contre-budget 2026 (conférence de presse du 23 octobre 2025)",
+       "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+       "date": "2025-10-23"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose de sortir du marché européen de l'électricité, d'arrêter l'éolien, de relancer le nucléaire et l'hydroélectricité, et de supprimer les tarifs de rachat préférentiels des renouvelables (7,2 Md€ en 2026).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Programme 2022 : sortie du marché européen de l'électricité, moratoire sur l'éolien et démantèlement progressif, relance du nucléaire et de l'hydroélectricité, investissements dans l'hydrogène.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Contre-budget 2026 : suppression des tarifs préférentiels de rachat de l'électricité des « énergies intermittentes » (7,2 Md€), suppression du fonds vert hors inondations et feux de forêt, remplacement de MaPrimeRénov' par « 100 % Rénov ».",
+     "sources": [
+      {
+       "media": "Rassemblement national (groupe à l'Assemblée)",
+       "titre": "Contre-budget 2026 (conférence de presse du 23 octobre 2025)",
+       "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+       "date": "2025-10-23"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Propose de construire 100 000 logements sociaux par an, dont 20 000 pour étudiants, et d'appliquer la priorité nationale dans le logement social (programme 2022).",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : 100 000 logements sociaux par an dont 20 000 logements étudiants, fonds de garantie locative, réhabilitation du parc ancien.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Propose d'interdire l'importation de produits ne respectant pas les normes françaises et d'imposer 80 % de produits français dans la restauration collective (programme 2022).",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : prix justes pour les agriculteurs, interdiction des importations ne respectant pas les normes de production françaises, 80 % de produits agricoles français dans les cantines, étiquetage de l'origine.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Contre-budget 2026 : annulation de la baisse des crédits de la mission agriculture (0,5 Md€).",
+     "sources": [
+      {
+       "media": "Rassemblement national (groupe à l'Assemblée)",
+       "titre": "Contre-budget 2026 (conférence de presse du 23 octobre 2025)",
+       "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+       "date": "2025-10-23"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose le référendum d'initiative citoyenne (RIC) et la proportionnelle aux élections législatives.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : instauration du référendum d'initiative citoyenne et de la proportionnelle.",
+     "sources": [
+      {
+       "media": "Site de campagne de Marine Le Pen (M la France)",
+       "titre": "Programme présidentiel 2022",
+       "url": "https://mlafrance.fr/programme",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Le Monde relève que son programme 2022 prévoyait d'inscrire la « priorité nationale » dans la Constitution.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Le Pen",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Assistants parlementaires du FN au Parlement européen (détournement de fonds publics)",
+   "statut": "condamnation_non_definitive",
+   "date": "2026-07-07",
+   "description": "Jugement du tribunal correctionnel de Paris du 31 mars 2025 : coupable de détournement de fonds publics (emploi d'assistants payés par le Parlement européen pour le parti, période 2004-2016) ; 4 ans de prison dont 2 ferme sous bracelet électronique, 100 000 € d'amende, 5 ans d'inéligibilité avec exécution provisoire ; 24 personnes, dont le parti, condamnées ; préjudice estimé à 2,9 M€ par le tribunal (4,6 M€ selon le Parlement européen). Procès en appel du 13 janvier au 12 février 2026 (réquisitions : 4 ans dont 1 ferme, 100 000 €, 5 ans d'inéligibilité sans exécution provisoire). Arrêt de la cour d'appel de Paris du 7 juillet 2026 : culpabilité confirmée ; 3 ans de prison dont 1 an ferme sous forme de détention à domicile sous bracelet électronique et 2 ans avec sursis, 100 000 € d'amende, 45 mois d'inéligibilité dont 30 avec sursis, sans exécution provisoire. Les 15 mois d'inéligibilité ferme, exécutés depuis le 31 mars 2025, ont pris fin le 30 juin 2026 : elle est éligible en 2027. Pourvoi en cassation formé (13 pourvois enregistrés du 7 au 17 juillet 2026), suspensif : la condamnation n'est pas définitive et la peine de bracelet n'est pas exécutée. Mémoires à déposer au 1er ou au 15 octobre 2026 selon les avocats ; la Cour de cassation a indiqué vouloir statuer avant la campagne, « au plus tard début avril 2027 » (premier tour le 18 avril 2027). Un rejet du pourvoi rendrait la peine de prison sous bracelet exécutoire.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Marine Le Pen condamnée à deux ans de prison ferme et cinq ans d'inéligibilité avec application immédiate au procès des assistants parlementaires du FN",
+     "url": "https://www.francetvinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-condamnee-a-quatre-ans-de-prison-et-cinq-ans-d-ineligibilite-avec-execution-provisoire-au-proces-des-assistants-parlementaires-du-fn_7157157.html",
+     "date": "2025-03-31"
+    },
+    {
+     "media": "LCP",
+     "titre": "Justice : Marine Le Pen condamnée à cinq ans d'inéligibilité, avec exécution immédiate, pour détournement de fonds publics",
+     "url": "https://lcp.fr/actualites/justice-marine-le-pen-condamnee-a-cinq-ans-d-ineligibilite-avec-execution-immediate-pour",
+     "date": "2025-03-31"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "« L'argent public a été siphonné goutte après goutte » : au procès en appel de Marine Le Pen, cinq ans d'inéligibilité requis mais sans exécution provisoire",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/l-argent-public-a-ete-siphonne-goutte-apres-goutte-au-proces-en-appel-de-marine-le-pen-cinq-ans-d-ineligibilite-requis-mais-sans-execution-provisoire_7781789.html",
+     "date": "2026-02-03"
+    },
+    {
+     "media": "Le Parisien",
+     "titre": "Procès du RN : quatre ans de prison, dont un ferme, et cinq ans d'inéligibilité requis contre Marine Le Pen en appel",
+     "url": "https://www.leparisien.fr/faits-divers/proces-rn-quatre-ans-de-prison-dont-un-ferme-et-cinq-ans-dineligibilite-requis-en-appel-contre-marine-le-pen-03-02-2026-F7WNXPSA45AIZC5TM34AIKTNBE.php",
+     "date": "2026-02-03"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Inéligibilité, peine de prison... Pourquoi la condamnation de Marine Le Pen a été réduite en appel",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/ineligibilite-peine-de-prison-pourquoi-la-condamnation-de-marine-le-pen-a-ete-reduite-en-appel_8098121.html",
+     "date": "2026-07-07"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Marine Le Pen condamnée en appel à trois ans de prison, dont un an sous bracelet électronique, mais éligible en 2027",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-condamnee-en-appel-a-trois-ans-de-prison-dont-un-an-sous-bracelet-electronique-mais-eligible-en-2027_8097896.html",
+     "date": "2026-07-07"
+    },
+    {
+     "media": "Toute l'Europe",
+     "titre": "Procès des assistants du RN : Marine Le Pen condamnée en appel, mais éligible à l'élection présidentielle 2027",
+     "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/proces-des-assistants-du-rn-marine-le-pen-condamnee-en-appel-mais-eligible-a-l-election-presidentielle-2027/",
+     "date": "2026-07-07"
+    },
+    {
+     "media": "Le Club des Juristes",
+     "titre": "Marine Le Pen condamnée en appel : ce qu'il faut retenir de la décision de justice",
+     "url": "https://www.leclubdesjuristes.com/justice/affaire-des-assistants-parlementaires-du-fn-coup-darret-a-la-candidature-de-marine-le-pen-16827/",
+     "date": "2026-07"
+    },
+    {
+     "media": "Public Sénat",
+     "titre": "Marine Le Pen condamnée à 1 an ferme sous bracelet électronique, et à 45 mois d'inéligibilité, dont 30 mois avec sursis : le fil de la journée",
+     "url": "https://www.publicsenat.fr/actualites/politique/direct-suivez-le-delibere-du-proces-en-appel-de-marine-le-pen",
+     "date": "2026-07-07"
+    },
+    {
+     "media": "LCP",
+     "titre": "Pourvoi en cassation de Marine Le Pen : les clés pour comprendre les conséquences de cette décision",
+     "url": "https://lcp.fr/actualites/pourvoi-en-cassation-de-marine-le-pen-les-cles-pour-comprendre-les-consequences-de-cette",
+     "date": "2026-07-08"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Les avocats de Marine Le Pen ont jusqu'au 15 octobre pour justifier le pourvoi dans l'affaire des assistants d'eurodéputés FN",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html",
+     "date": "2026-09-04"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Condamnation de Marine Le Pen : la Cour de cassation « pourrait » se prononcer « au plus tard début avril 2027 »",
+     "url": "https://www.lefigaro.fr/politique/en-direct-presidentielle-2027-marine-le-pen-lance-sa-campagne-avec-jordan-bardella-dans-la-sarthe-ce-mercredi-20260708",
+     "date": "2026-07-08"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Marine Le Pen",
+     "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Financement des campagnes de 2022 (présidentielle, législatives) et des européennes 2024",
+   "statut": "enquete",
+   "date": "2024-07-02",
+   "description": "Information judiciaire ouverte le 2 juillet 2024 par le parquet de Paris après un signalement de la CNCCFP, pour prêt d'une personne morale à un candidat, acceptation d'un tel prêt, détournement de biens par personne exerçant une fonction publique, escroquerie au préjudice d'une personne publique, faux et usage de faux. Les juges s'intéressent aux prêts de particuliers au RN et à de possibles surfacturations ou prestations fictives facturées aux comptes de campagne. Perquisition au siège du RN et à des domiciles le 9 juillet 2025. Aucune mise en examen de Marine Le Pen n'apparaît dans les sources consultées ; instruction en cours.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Campagne de Marine Le Pen en 2022 : le parquet de Paris a ouvert une information judiciaire pour des soupçons de financement illégal",
+     "url": "https://www.franceinfo.fr/politique/marine-le-pen/une-information-judiciaire-ouverte-pour-la-financement-de-la-campagne-de-marine-le-pen-en-2022_6655830.html",
+     "date": "2024-07-09"
+    },
+    {
+     "media": "France 24 (AFP)",
+     "titre": "La campagne de Marine Le Pen en 2022 visée par une enquête pour financement illégal",
+     "url": "https://www.france24.com/fr/info-en-continu/20240709-soup%C3%A7ons-de-financement-ill%C3%A9gal-la-campagne-pr%C3%A9sidentielle-de-marine-le-pen-en-2022-vis%C3%A9e-par-une-enqu%C3%AAte",
+     "date": "2024-07-09"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Soupçons sur le financement des campagnes de 2022 et 2024, siège et domiciles visés... Ce que l'on sait des perquisitions qui visent le Rassemblement national",
+     "url": "https://www.franceinfo.fr/politique/front-national/soupcons-sur-le-financement-des-campagnes-de-2022-et-2024-siege-et-domicile-vises-ce-que-l-on-sait-des-perquisitions-qui-visent-le-rassemblement-national_7366941.html",
+     "date": "2025-07-09"
+    },
+    {
+     "media": "Public Sénat",
+     "titre": "Perquisitions au RN : que dit la loi sur les prêts de personnes privées aux partis politiques ?",
+     "url": "https://www.publicsenat.fr/actualites/politique/perquisitions-au-rn-que-dit-la-loi-sur-les-prets-de-personnes-privees-aux-partis-politiques",
+     "date": "2025-07"
+    }
+   ]
+  },
+  {
+   "intitule": "Affaire Jeanne / kits de campagne (micro-parti de Marine Le Pen)",
+   "statut": "condamnation_definitive",
+   "date": "2024-06-19",
+   "description": "Vente de kits de campagne (16 650 €) aux candidats FN par le micro-parti Jeanne, fournis par la société Riwal de Frédéric Chatillon. Marine Le Pen n'est pas personnellement mise en cause. Jugement du 16 juin 2020 : le FN est condamné pour recel d'abus de biens sociaux (18 750 €), relaxé de l'escroquerie ; plusieurs cadres condamnés, le trésorier de Jeanne relaxé. En appel (mars 2023), le RN est condamné à 250 000 € d'amende et Wallerand de Saint-Just à 2 ans d'inéligibilité. Pourvois rejetés par la Cour de cassation en juin 2024 : condamnations définitives.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "L'ex-Front national condamné pour « recel d'abus de biens sociaux » dans l'affaire des kits de campagne",
+     "url": "https://www.lemonde.fr/politique/article/2020/06/16/affaire-des-kits-de-campagne-le-front-national-condamne-pour-recel-d-abus-de-biens-sociaux-mais-relaxe-de-l-accusation-d-escroquerie_6043032_823448.html",
+     "date": "2020-06-16"
+    },
+    {
+     "media": "Mediapart",
+     "titre": "Financement de campagnes : le RN condamné pour « recel d'abus de biens sociaux »",
+     "url": "https://www.mediapart.fr/journal/france/160620/financement-de-campagnes-le-rn-condamne-pour-recel-d-abus-de-biens-sociaux",
+     "date": "2020-06-16"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "La Cour de cassation valide la condamnation du RN dans l'affaire des kits de campagne",
+     "url": "https://www.franceinfo.fr/faits-divers/justice-proces/la-cour-de-cassation-valide-la-condamnation-du-rn-dans-l-affaire-des-kits-de-campagne_6613695.html",
+     "date": "2024-06-19"
+    },
+    {
+     "media": "Europe 1",
+     "titre": "La Cour de cassation valide la condamnation du RN dans l'affaire des kits de campagne",
+     "url": "https://www.europe1.fr/Police-Justice/la-cour-de-cassation-valide-la-condamnation-du-rn-dans-laffaire-des-kits-de-campagne-4253667",
+     "date": "2024-06-19"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Affaire Jeanne",
+     "url": "https://fr.wikipedia.org/wiki/Affaire_Jeanne",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Diffamation envers la Cimade",
+   "statut": "condamnation_definitive",
+   "date": "2025-12-16",
+   "description": "Poursuivie pour avoir déclaré en 2022 que la Cimade organisait une « filière d'immigration clandestine » depuis les Comores vers Mayotte. Condamnée en octobre 2023 à 500 € d'amende avec sursis, peine confirmée par la cour d'appel de Paris le 11 septembre 2024 ; pourvoi rejeté par la Cour de cassation le 16 décembre 2025.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Marine Le Pen condamnée pour diffamation envers la Cimade",
+     "url": "https://www.lemonde.fr/politique/article/2023/10/13/marine-le-pen-condamnee-pour-diffamation-envers-la-cimade_6194210_823448.html",
+     "date": "2023-10-13"
+    },
+    {
+     "media": "France 24 (AFP)",
+     "titre": "Marine Le Pen définitivement condamnée pour diffamation envers la Cimade",
+     "url": "https://www.france24.com/fr/info-en-continu/20251216-marine-le-pen-d%C3%A9finitivement-condamn%C3%A9e-pour-diffamation-envers-la-cimade",
+     "date": "2025-12-16"
+    },
+    {
+     "media": "La Cimade",
+     "titre": "Diffamation à l'encontre de La Cimade : Marine Le Pen définitivement condamnée",
+     "url": "https://www.lacimade.org/diffamation-a-lencontre-de-la-cimade-marine-le-pen-definitivement-condamnee/",
+     "date": "2025-12-16"
+    }
+   ]
+  },
+  {
+   "intitule": "Diffamation envers Christian Baeckeroot",
+   "statut": "condamnation_definitive",
+   "date": "2011-10-11",
+   "description": "Condamnée avec Louis Aliot par la cour d'appel de Versailles le 27 janvier 2011 à verser 5 000 € de dommages et intérêts à l'ancien membre du FN Christian Baeckeroot ; pourvoi rejeté le 11 octobre 2011.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "titre": "Les Le Pen condamnés pour diffamation",
+     "url": "https://www.lefigaro.fr/flash-actu/2010/06/01/97001-20100601FILWWW00514-les-le-pen-condamnes-pour-diffamation.php",
+     "date": "2010-06-01"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Marine Le Pen",
+     "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Injure publique à caractère racial (tweet de 2019 visant une étudiante)",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2026-01-20",
+   "description": "Jugée le 10 novembre 2025 pour un tweet de la campagne européenne de 2019 associant une lauréate du prix de « jeune Européenne de l'année » à l'« islam radical » ; relaxée en janvier 2026, le tribunal n'ayant pas jugé l'expression injurieuse au sens pénal.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Marine Le Pen au tribunal pour injure raciale contre une étudiante voilée",
+     "url": "https://www.mediapart.fr/journal/france/101125/marine-le-pen-au-tribunal-pour-injure-raciale-contre-une-etudiante-voilee",
+     "date": "2025-11-10"
+    },
+    {
+     "media": "Libération",
+     "titre": "Poursuivie pour injure raciale, Marine Le Pen relaxée",
+     "url": "https://www.liberation.fr/politique/apres-un-tweet-ciblant-une-etudiante-en-2019-marine-le-pen-risque-une-condamnation-pour-injure-raciale-20260120_Y6ZXPFVMSJAINA24OZ3NRC6IHM/",
+     "date": "2026-01-20"
+    }
+   ]
+  },
+  {
+   "intitule": "Diffusion d'images de l'État islamique (2015)",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2021-05-04",
+   "description": "Poursuivie pour la diffusion sur Twitter, en 2015, de photos d'exactions de l'État islamique ; relaxée par le tribunal correctionnel de Nanterre le 4 mai 2021.",
+   "sources": [
+    {
+     "media": "Euronews",
+     "titre": "Marine Le Pen acquitted in trial over posting images of IS atrocities",
+     "url": "https://www.euronews.com/my-europe/2021/05/04/marine-le-pen-acquitted-in-trial-over-posting-images-of-is-atrocities",
+     "date": "2021-05-04"
+    }
+   ]
+  },
+  {
+   "intitule": "Omission de deux SCI dans une déclaration à la HATVP",
+   "statut": "accusation",
+   "date": "2023-02-15",
+   "description": "En 2023, la HATVP relève l'omission de deux sociétés civiles immobilières évaluées à plus de 600 000 € dans sa déclaration d'intérêts de députée ; pas de poursuites signalées.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Marine Le Pen",
+     "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Présidentielle 2022 : compte approuvé après réformation par la CNCCFP le 14 décembre 2022 : 11 383 445 € de recettes, 10 671 587 € de dépenses (plafond 22 509 000 €), apport personnel de 11 248 882 € ; plusieurs dépenses retirées (316 182 € de covering de véhicules, 208 032 € de système informatique non déployé, 86 510 € d'intérêts d'emprunt excessifs…). Remboursement de l'État fixé à 10 220 842 €. Son recours devant le Conseil constitutionnel a été retiré (désistement acté en février 2023).",
+   "sources": [
+    {
+     "media": "Légifrance (CNCCFP)",
+     "titre": "Décision du 14 décembre 2022 relative au compte de campagne de Mme Marine Le Pen",
+     "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047219688",
+     "date": "2022-12-14"
+    },
+    {
+     "media": "Conseil constitutionnel",
+     "titre": "Décision n° 2023-199 PDR du 23 février 2023",
+     "url": "https://www.conseil-constitutionnel.fr/decision/2023/2023199PDR.htm",
+     "date": "2023-02-23"
+    }
+   ]
+  },
+  {
+   "texte": "Pour la campagne 2022, Marine Le Pen a contracté un prêt personnel d'environ 10,7 M€ (10 691 775 €) auprès de la banque hongroise MKB, dont les principaux actionnaires sont proches de Viktor Orbán ; il figure dans sa déclaration de patrimoine de candidate.",
+   "sources": [
+    {
+     "media": "Euronews (Reuters)",
+     "titre": "France's Le Pen got loan from Hungarian bank close to Orban - filing",
+     "url": "https://www.euronews.com/2022/03/11/uk-france-election-le-pen",
+     "date": "2022-03-11"
+    },
+    {
+     "media": "Le Courrier d'Europe centrale",
+     "titre": "Une banque hongroise a prêté 10,6 millions d'euros au Rassemblement national",
+     "url": "https://courrierdeuropecentrale.fr/breve/une-banque-hongroise-a-prete-106-millions-deuros-au-rassemblement-national/",
+     "date": "2022-02-02"
+    }
+   ]
+  },
+  {
+   "texte": "Prêt russe : en septembre 2014, le FN a emprunté 9,4 M€ à la First Czech Russian Bank (FCRB), avec l'intermédiation du député russe Alexandre Babakov ; après la faillite de la banque, la créance a été cédée à Conti puis à Aviazapchast (2019), qui a assigné le parti en 2019-2020 avant un accord. Le RN a annoncé en septembre 2023 l'avoir intégralement remboursé par anticipation (6 088 784 €, capital et intérêts), avant l'échéance de 2028.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Le Front national décroche les millions russes",
+     "url": "https://www.mediapart.fr/journal/france/221114/le-front-national-decroche-les-millions-russes",
+     "date": "2014-11-22"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Russian firm, French far-right party settle $10m debt dispute",
+     "url": "https://www.aljazeera.com/news/2020/6/3/russian-firm-french-far-right-party-settle-10m-debt-dispute",
+     "date": "2020-06-03"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Le Rassemblement national a intégralement remboursé son « prêt russe »",
+     "url": "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-a-integralement-rembourse-son-pret-russe_6071424.html",
+     "date": "2023-09-19"
+    },
+    {
+     "media": "Europe 1",
+     "titre": "Prêt russe : le Rassemblement national affirme avoir « remboursé par anticipation »",
+     "url": "https://www.europe1.fr/politique/pret-russe-le-rassemblement-national-affirme-avoir-rembourse-par-anticipation-4204493",
+     "date": "2023-09-19"
+    },
+    {
+     "media": "Rassemblement national (communiqué)",
+     "titre": "Le Rassemblement National a remboursé par anticipation son emprunt à la société russe Aviazapchast",
+     "url": "https://rassemblementnational.fr/communiques/le-rassemblement-national-a-rembourse-par-anticipation-son-emprunt-a-la-societe-russe-aviazapchast",
+     "date": "2023-09"
+    }
+   ]
+  },
+  {
+   "texte": "Présidentielle 2017 : selon Mediapart, le déficit de la campagne a été couvert par un prêt de 8 M€ obtenu via l'homme d'affaires Laurent Foucher auprès d'une banque des Émirats arabes unis ; le parquet national financier a été saisi fin 2019.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Un prêt émirati de 8 millions d'euros a sauvé le Rassemblement national",
+     "url": "https://www.mediapart.fr/journal/france/041019/un-pret-emirati-de-8-millions-d-euros-sauve-le-rassemblement-national",
+     "date": "2019-10-04"
+    }
+   ]
+  },
+  {
+   "texte": "Financement de la campagne 2027 : pas d'information publique trouvée sur les prêts ou l'association de financement à la date du 25 septembre 2026. Les prêts de particuliers au RN pour les campagnes de 2022 et 2024 font l'objet d'une information judiciaire (voir affaires).",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Soupçons sur le financement des campagnes de 2022 et 2024, siège et domiciles visés... Ce que l'on sait des perquisitions qui visent le Rassemblement national",
+     "url": "https://www.franceinfo.fr/politique/front-national/soupcons-sur-le-financement-des-campagnes-de-2022-et-2024-siege-et-domicile-vises-ce-que-l-on-sait-des-perquisitions-qui-visent-le-rassemblement-national_7366941.html",
+     "date": "2025-07-09"
+    },
+    {
+     "media": "Public Sénat",
+     "titre": "Perquisitions au RN : que dit la loi sur les prêts de personnes privées aux partis politiques ?",
+     "url": "https://www.publicsenat.fr/actualites/politique/perquisitions-au-rn-que-dit-la-loi-sur-les-prets-de-personnes-privees-aux-partis-politiques",
+     "date": "2025-07"
+    }
+   ]
+  }
+ ]
+}

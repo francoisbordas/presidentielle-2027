@@ -1,0 +1,1333 @@
+{
+  "id": "nicolas-dupont-aignan",
+  "nom": "Nicolas Dupont-Aignan",
+  "naissance": "1961-03-07",
+  "lieu_naissance": "Paris (15e arrondissement)",
+  "parti": "Debout la France",
+  "parti_sigle": "DLF",
+  "famille": "droite",
+  "position": 6.5,
+  "position_justif": {
+    "texte": "Debout la France se réclame du gaullisme et du souverainisme ; le parti est classé « à droite voire à l'extrême droite » selon les sources. Le 31 janvier 2020, le Conseil d'État a enjoint au ministère de l'Intérieur de retirer DLF du bloc « extrême droite » de sa grille de nuances, faute d'« indices objectifs ». Nicolas Dupont-Aignan a conclu un accord de gouvernement avec Marine Le Pen dans l'entre-deux-tours de 2017 (elle annonçait le nommer Premier ministre) et a appelé à voter pour elle au second tour de 2022. Position retenue : 6,5 (barème DLF), famille droite.",
+    "sources": [
+      {
+        "media": "Wikipédia",
+        "titre": "Debout la France",
+        "url": "https://fr.wikipedia.org/wiki/Debout_la_France",
+        "date": "2026-09-25"
+      },
+      {
+        "media": "Le Monde",
+        "titre": "Si elle est élue présidente, Marine Le Pen annonce qu'elle nommera Nicolas Dupont-Aignan premier ministre",
+        "url": "https://www.lemonde.fr/election-presidentielle-2017/article/2017/04/29/si-elle-est-elue-presidente-marine-le-pen-annonce-qu-elle-nommera-nicolas-dupont-aignan-premier-ministre_5119973_4854003.html",
+        "date": "2017-04-29"
+      },
+      {
+        "media": "franceinfo",
+        "titre": "Présidentielle 2027 : le souverainiste Nicolas Dupont-Aignan se lance pour la 4e fois dans la course à l'Elysée",
+        "url": "https://www.francetvinfo.fr/politique/nicolas-dupont-aignan/le-souverainiste-nicolas-dupont-aignan-se-lance-pour-la-4e-fois-dans-la-course-a-l-elysee_7118136.html",
+        "date": "2025-03-08"
+      }
+    ]
+  },
+  "statut": "declare",
+  "photo": {
+    "fichier": "img/candidats/nicolas-dupont-aignan.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan,_homme_politique_fran%C3%A7ais.jpg",
+    "auteur": "Debout la France (permission VRTS)",
+    "licence": "CC BY-SA 4.0"
+  },
+  "logo_parti": {
+    "fichier": "img/partis/dlf.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Debout_la_France_logo_(2022).png",
+    "licence": "CC BY-SA 4.0 (droits contestés sur Commons)"
+  },
+  "bio": {
+    "etudes": [
+      {
+        "texte": "Diplômé de l'Institut d'études politiques de Paris (1982, section « service public »), licence de droit (1984), DESS de gestion de l'entreprise et marchés financiers à l'université Paris-Dauphine (1985).",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Ancien élève de l'École nationale d'administration (1987-1989, promotion « Liberté-Égalité-Fraternité »).",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Site officiel de Debout la France",
+            "titre": "Nicolas Dupont-Aignan – Le courage des convictions",
+            "url": "https://www.debout-la-france.fr/nicolas-dupont-aignan/",
+            "date": "2022-04-26"
+          }
+        ]
+      }
+    ],
+    "carriere_hors_politique": [
+      {
+        "texte": "Haut fonctionnaire : administrateur civil, adjoint au chef du bureau des élections au ministère de l'Intérieur (1988-1989), chef de cabinet du préfet de la région Île-de-France avec rang de sous-préfet (1990), puis directeur adjoint de cabinet de ce préfet (1992-1993).",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Site officiel de Debout la France",
+            "titre": "Nicolas Dupont-Aignan – Le courage des convictions",
+            "url": "https://www.debout-la-france.fr/nicolas-dupont-aignan/",
+            "date": "2022-04-26"
+          }
+        ]
+      },
+      {
+        "texte": "Conseiller technique au cabinet de François Bayrou, ministre de l'Éducation nationale (1993-1994), puis de Michel Barnier, ministre de l'Environnement (1994-1995).",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "date": "2026-09-25"
+          }
+        ]
+      }
+    ],
+    "mandats": [
+      {
+        "texte": "Maire d'Yerres (Essonne) de 1995 à 2017 ; il quitte la fonction en 2017 en raison de la loi sur le non-cumul des mandats et reste conseiller municipal.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Site officiel de Debout la France",
+            "titre": "Nicolas Dupont-Aignan – Le courage des convictions",
+            "url": "https://www.debout-la-france.fr/nicolas-dupont-aignan/",
+            "date": "2022-04-26"
+          }
+        ]
+      },
+      {
+        "texte": "Député de la 8e circonscription de l'Essonne de 1997 à 2024 ; battu au second tour des législatives anticipées de 2024 (37,48 %) par Bérenger Cernon (LFI).",
+        "sources": [
+          {
+            "media": "Assemblée nationale",
+            "titre": "M. Nicolas Dupont-Aignan – Mandat clos – Essonne (8e circonscription)",
+            "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA1206",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Libération",
+            "titre": "Résultats des législatives 2024 : Nicolas Dupont-Aignan battu par le cheminot Bérenger Cernon",
+            "url": "https://www.liberation.fr/politique/elections/resultats-des-legislatives-2024-nicolas-dupont-aignan-battu-par-le-cheminot-berenger-cernon-20240707_AFHEYZ7LPRBYNKOKB53FLC3CBM/",
+            "date": "2024-07-07"
+          }
+        ]
+      },
+      {
+        "texte": "De nouveau maire d'Yerres depuis le 22 mars 2026, après les municipales du 15 mars 2026 ; la HATVP le recense comme « maire de Yerres ».",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "HATVP",
+            "titre": "Fiche Nicolas Dupont-Aignan",
+            "url": "https://www.hatvp.fr/fiche-nominative/?declarant=dupont-aignan-nicolas",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "20 Minutes (AFP)",
+            "titre": "Présidentielle 2027 : Dupont-Aignan promet de « décoloniser la France » en sortant de l'Union européenne",
+            "url": "https://www.20minutes.fr/politique/4246946-20260919-presidentielle-2027-dupont-aignan-promet-decoloniser-france-sortant-union-europeenne",
+            "date": "2026-09-19"
+          }
+        ]
+      },
+      {
+        "texte": "Fondateur en 1999 du courant Debout la République au sein du RPR, transformé en parti en novembre 2008 (renommé Debout la France en 2014), qu'il préside depuis.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Debout la France",
+            "url": "https://fr.wikipedia.org/wiki/Debout_la_France",
+            "date": "2026-09-25"
+          }
+        ]
+      }
+    ],
+    "autres": [
+      {
+        "texte": "Candidat à la présidentielle en 2012 (1,79 %), 2017 (4,70 %, 6e) et 2022 (2,06 %). Il n'avait pas obtenu les 500 parrainages en 2007.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Le Parisien",
+            "titre": "Frais de campagne : Nicolas Dupont-Aignan perd sur le fil la course aux 5 %",
+            "url": "https://www.leparisien.fr/elections/presidentielle/frais-de-campagne-nicolas-dupont-aignan-perd-sur-le-fil-la-course-aux-5-23-04-2017-6882213.php",
+            "date": "2017-04-24"
+          }
+        ]
+      },
+      {
+        "texte": "Entre les deux tours de 2017, il soutient Marine Le Pen, qui annonce qu'elle le nommerait Premier ministre si elle était élue.",
+        "sources": [
+          {
+            "media": "Le Monde",
+            "titre": "Si elle est élue présidente, Marine Le Pen annonce qu'elle nommera Nicolas Dupont-Aignan premier ministre",
+            "url": "https://www.lemonde.fr/election-presidentielle-2017/article/2017/04/29/si-elle-est-elue-presidente-marine-le-pen-annonce-qu-elle-nommera-nicolas-dupont-aignan-premier-ministre_5119973_4854003.html",
+            "date": "2017-04-29"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Nicolas Dupont-Aignan",
+            "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Il a annoncé une première fois sa candidature à la présidentielle de 2027 le 8 mars 2025 à Yerres, présentant alors le « Frexit » comme un recours ultime.",
+        "sources": [
+          {
+            "media": "franceinfo",
+            "titre": "Présidentielle 2027 : le souverainiste Nicolas Dupont-Aignan se lance pour la 4e fois dans la course à l'Elysée",
+            "url": "https://www.francetvinfo.fr/politique/nicolas-dupont-aignan/le-souverainiste-nicolas-dupont-aignan-se-lance-pour-la-4e-fois-dans-la-course-a-l-elysee_7118136.html",
+            "date": "2025-03-08"
+          },
+          {
+            "media": "Le Figaro",
+            "titre": "Nicolas Dupont-Aignan se déclare candidat à la prochaine élection présidentielle",
+            "url": "https://www.lefigaro.fr/politique/nicolas-dupont-aignan-se-declare-candidat-a-la-prochaine-election-presidentielle-20250308",
+            "date": "2025-03-08"
+          }
+        ]
+      },
+      {
+        "texte": "Il a lancé sa campagne présidentielle le 19 septembre 2026 à Yerres (« Fête de la Liberté »), sous le slogan « Libérons la France », en se présentant comme le seul candidat proposant la sortie de l'Union européenne.",
+        "sources": [
+          {
+            "media": "franceinfo",
+            "titre": "\"Je serai le seul candidat qui propose de sortir de l'Union européenne\", dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle",
+            "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+            "date": "2026-09-19"
+          },
+          {
+            "media": "Site officiel du candidat",
+            "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+            "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+            "date": "2026-09-19"
+          },
+          {
+            "media": "20 Minutes (AFP)",
+            "titre": "Présidentielle 2027 : Dupont-Aignan promet de « décoloniser la France » en sortant de l'Union européenne",
+            "url": "https://www.20minutes.fr/politique/4246946-20260919-presidentielle-2027-dupont-aignan-promet-decoloniser-france-sortant-union-europeenne",
+            "date": "2026-09-19"
+          }
+        ]
+      },
+      {
+        "texte": "Depuis janvier 2026, DLF compte de nouveau un député, Daniel Grenon (Yonne), élu en 2024 sous l'étiquette RN puis exclu de ce parti.",
+        "sources": [
+          {
+            "media": "franceinfo (France 3 régions)",
+            "titre": "Exclu du RN, il dit « partir par défaut » chez Nicolas Dupont-Aignan : les propos étonnants du député Daniel Grenon",
+            "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/yonne/auxerre/exclu-du-rn-il-dit-partir-par-defaut-chez-nicolas-dupont-aignant-les-propos-etonnants-du-depute-daniel-grenon-3283280.html",
+            "date": "2026-01-16"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Debout la France",
+            "url": "https://fr.wikipedia.org/wiki/Debout_la_France",
+            "date": "2026-09-25"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "economie_fiscalite": {
+      "resume": "Propose de baisser le carburant de 40 centimes par litre (suppression des certificats d'économie d'énergie, de la TVA sur la taxe, plafonnement des marges), un « protectionnisme intelligent » avec droits de douane nationaux et la baisse des impôts de production.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose de baisser le prix du carburant de 40 centimes par litre en réduisant les taxes sur le gazole et l'essence, notamment en supprimant la TVA appliquée aux taxes sur le carburant.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "\"Je serai le seul candidat qui propose de sortir de l'Union européenne\", dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle",
+              "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Nicolas Dupont-Aignan – Candidat à l'élection présidentielle 2027",
+              "url": "https://www.dupontaignan.fr/",
+              "date": "2026-09-24"
+            },
+            {
+              "media": "Capital",
+              "titre": "« On est un des seuls pays qui taxe la taxe », Nicolas Dupont-Aignan veut supprimer la TVA sur les taxes du carburant",
+              "url": "https://www.capital.fr/economie-politique/on-est-un-des-seuls-pays-qui-taxe-la-taxe-nicolas-dupont-aignan-veut-supprimer-la-tva-sur-les-taxes-du-carburant-1530184",
+              "date": "2026-09-16"
+            }
+          ]
+        },
+        {
+          "texte": "Dans son discours du 19 septembre 2026, il évoque une « baisse de 50 centimes des taxes sur le carburant » (chiffre différent des 40 centimes annoncés ailleurs).",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Propose un « protectionnisme intelligent » avec des droits de douane nationaux en cas de concurrence déloyale.",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Le Figaro",
+              "titre": "Nicolas Dupont-Aignan se déclare candidat à la prochaine élection présidentielle",
+              "url": "https://www.lefigaro.fr/politique/nicolas-dupont-aignan-se-declare-candidat-a-la-prochaine-election-presidentielle-20250308",
+              "date": "2025-03-08"
+            },
+            {
+              "media": "20 Minutes (AFP)",
+              "titre": "Présidentielle 2027 : Dupont-Aignan promet de « décoloniser la France » en sortant de l'Union européenne",
+              "url": "https://www.20minutes.fr/politique/4246946-20260919-presidentielle-2027-dupont-aignan-promet-decoloniser-france-sortant-union-europeenne",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Propose de supprimer tout droit de succession sur la résidence principale et de plafonner le cumul des aides sociales en dessous du SMIC.",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "20 Minutes (AFP)",
+              "titre": "Présidentielle 2027 : Dupont-Aignan promet de « décoloniser la France » en sortant de l'Union européenne",
+              "url": "https://www.20minutes.fr/politique/4246946-20260919-presidentielle-2027-dupont-aignan-promet-decoloniser-france-sortant-union-europeenne",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "BFMTV (AFP)",
+              "titre": "Candidat à la présidentielle, Nicolas Dupont-Aignan veut « décoloniser la France » et sortir de l'Union européenne",
+              "url": "https://www.bfmtv.com/politique/elections/presidentielle/candidat-a-la-presidentielle-nicolas-dupont-aignan-veut-decoloniser-la-france-et-sortir-de-l-union-europeenne_AD-202609190342.html",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Propose, pour les entreprises, la baisse du prix de l'énergie et des impôts de production, la réduction des normes et un fonds d'aide à la relocalisation.",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose de réserver 75 % de la commande publique aux produits fabriqués en France (50 % la première année) et de créer un fonds d'aide à la relocalisation de 10 milliards d'euros.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Produire en France",
+              "url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose de rétablir un impôt sur les très grandes fortunes, hors résidence principale et déduction faite des investissements dans des entreprises produisant en France, et de supprimer les droits de succession sur la résidence principale.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Économie et travail",
+              "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "budget_dette": {
+      "resume": "Chiffre à 15 milliards d'euros par an l'économie d'une sortie de l'UE et propose de l'utiliser pour réduire la dette et financer un capital de 10 000 € par nouveau-né.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Évoque une économie de 15 milliards d'euros par an en cas de sortie de l'Union européenne, qu'il propose de redistribuer « en réduisant la dette » et en finançant un capital pour les nouveau-nés.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "\"Je serai le seul candidat qui propose de sortir de l'Union européenne\", dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle",
+              "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Nicolas Dupont-Aignan – Candidat à l'élection présidentielle 2027",
+              "url": "https://www.dupontaignan.fr/",
+              "date": "2026-09-24"
+            }
+          ]
+        },
+        {
+          "texte": "Propose d'assainir les comptes publics en arrêtant l'aide à l'Ukraine et la contribution française à l'UE.",
+          "sources": [
+            {
+              "media": "20 Minutes (AFP)",
+              "titre": "Présidentielle 2027 : Dupont-Aignan promet de « décoloniser la France » en sortant de l'Union européenne",
+              "url": "https://www.20minutes.fr/politique/4246946-20260919-presidentielle-2027-dupont-aignan-promet-decoloniser-france-sortant-union-europeenne",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "BFMTV (AFP)",
+              "titre": "Candidat à la présidentielle, Nicolas Dupont-Aignan veut « décoloniser la France » et sortir de l'Union européenne",
+              "url": "https://www.bfmtv.com/politique/elections/presidentielle/candidat-a-la-presidentielle-nicolas-dupont-aignan-veut-decoloniser-la-france-et-sortir-de-l-union-europeenne_AD-202609190342.html",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Chiffre à 40 milliards d'euros l'engagement financier français envers l'Ukraine.",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF prévoit « un plan de désendettement progressif et en douceur ».",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Économie et travail",
+              "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "retraites": {
+      "resume": "Propose un capital de 10 000 € placé pour chaque nouveau-né français dans un fonds souverain, versé en capital et rente à 60 ans (coût annoncé 6 à 6,5 Md€/an), le maintien de l'indexation des retraites sur l'inflation et, selon l'AFP, un âge de départ porté à 62 ans et neuf mois.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose un capital de 10 000 euros pour chaque nouveau-né français, placé sur un livret d'épargne-retraite.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "\"Je serai le seul candidat qui propose de sortir de l'Union européenne\", dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle",
+              "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Selon son site, ce capital serait investi dans un fonds souverain « à la norvégienne » et donnerait droit à 60 ans à un capital et une rente, en plus de la retraite par répartition ; coût annoncé : 6,5 milliards d'euros par an (6 milliards selon le site de DLF ; RMC l'estime à 6,43 milliards sur la base de 643 000 naissances en 2025).",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Nicolas Dupont-Aignan – Candidat à l'élection présidentielle 2027",
+              "url": "https://www.dupontaignan.fr/",
+              "date": "2026-09-24"
+            },
+            {
+              "media": "RMC",
+              "titre": "Présidentielle : Nicolas Dupont-Aignan veut verser 10.000 euros à chaque nouveau-né pour sa future retraite",
+              "url": "https://rmc.bfmtv.com/actualites/politique/presidentielle-nicolas-dupont-aignan-veut-verser-10-000-euros-a-chaque-nouveau-ne-pour-sa-future-retraite_AV-202609170624.html",
+              "date": "2026-09-17"
+            }
+          ]
+        },
+        {
+          "texte": "Selon l'AFP, il propose de porter l'âge de départ à la retraite à 62 ans et neuf mois et de créer « un minimum retraite par capitalisation ».",
+          "sources": [
+            {
+              "media": "BFMTV (AFP)",
+              "titre": "Candidat à la présidentielle, Nicolas Dupont-Aignan veut « décoloniser la France » et sortir de l'Union européenne",
+              "url": "https://www.bfmtv.com/politique/elections/presidentielle/candidat-a-la-presidentielle-nicolas-dupont-aignan-veut-decoloniser-la-france-et-sortir-de-l-union-europeenne_AD-202609190342.html",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Propose le maintien de l'indexation des retraites sur l'inflation ; le projet de DLF demande aussi le rétablissement complet de la demi-part fiscale des veuves.",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Retraites",
+              "url": "https://www.debout-la-france.fr/projet/retraites/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "travail_salaires": {
+      "resume": "Propose de défiscaliser les heures supplémentaires et de relocaliser 2 millions d'emplois industriels ; le projet de DLF prévoit une hausse de 8 % des salaires jusqu'à 3 SMIC par baisse des cotisations salariales.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose de défiscaliser les heures supplémentaires.",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "20 Minutes (AFP)",
+              "titre": "Présidentielle 2027 : Dupont-Aignan promet de « décoloniser la France » en sortant de l'Union européenne",
+              "url": "https://www.20minutes.fr/politique/4246946-20260919-presidentielle-2027-dupont-aignan-promet-decoloniser-france-sortant-union-europeenne",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "BFMTV (AFP)",
+              "titre": "Candidat à la présidentielle, Nicolas Dupont-Aignan veut « décoloniser la France » et sortir de l'Union européenne",
+              "url": "https://www.bfmtv.com/politique/elections/presidentielle/candidat-a-la-presidentielle-nicolas-dupont-aignan-veut-decoloniser-la-france-et-sortir-de-l-union-europeenne_AD-202609190342.html",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Fixe l'objectif de relocaliser 2 millions d'emplois industriels.",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "BFMTV (AFP)",
+              "titre": "Candidat à la présidentielle, Nicolas Dupont-Aignan veut « décoloniser la France » et sortir de l'Union européenne",
+              "url": "https://www.bfmtv.com/politique/elections/presidentielle/candidat-a-la-presidentielle-nicolas-dupont-aignan-veut-decoloniser-la-france-et-sortir-de-l-union-europeenne_AD-202609190342.html",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF (non encore actualisé pour 2027) fixe l'objectif d'un million d'emplois créés ou relocalisés en cinq ans.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Produire en France",
+              "url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+              "date": "2026-09-25"
+            },
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Économie et travail",
+              "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose d'augmenter de 8 % les salaires jusqu'à 3 SMIC par une réduction des cotisations salariales, et d'imposer aux allocataires du RSA aptes au travail une journée de mission d'intérêt général par semaine.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Économie et travail",
+              "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "sante": {
+      "resume": "Promet un hôpital « libéré de la bureaucratie et du poids des laboratoires » ; le projet de DLF prévoit l'arrêt des fermetures de lits, un établissement rouvert par département et 12 000 médecins formés par an.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Annonce une refondation des services publics, « notamment l'hôpital libéré de la bureaucratie et du poids des laboratoires pharmaceutiques ».",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose d'arrêter les fermetures de lits, de rouvrir un établissement de santé (hôpital, maternité) par département et de porter à 12 000 par an le nombre de médecins formés.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Santé",
+              "url": "https://www.debout-la-france.fr/projet/sante/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose une bourse pour les étudiants en médecine en échange de cinq ans d'installation en zone sous-dotée, et d'imposer la production en France d'au moins 50 % du volume des médicaments dont les remboursements dépassent 20 M€ par an.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Santé",
+              "url": "https://www.debout-la-france.fr/projet/sante/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "education": {
+      "resume": "Propose de « reconstruire l'école publique des savoirs, de l'effort et du mérite » ; le projet de DLF prévoit 15 h de français par semaine en primaire et +20 % de salaire pour les professeurs.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Promet la « reconstruction de l'école publique des savoirs, de l'effort et du mérite ».",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose de passer de 9 à 15 heures hebdomadaires de français en primaire et de supprimer les enseignements internationaux de langues étrangères (EILE).",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Instruction publique",
+              "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose d'augmenter les salaires de tous les professeurs de 20 %, plus 20 % en contrepartie d'heures de soutien scolaire, et de viser un million de contrats d'apprentissage.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Instruction publique",
+              "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "immigration": {
+      "resume": "Propose de sortir de Schengen et de rétablir le contrôle aux frontières nationales avec 10 000 agents supplémentaires, de dénoncer l'accord franco-algérien de 1968 et d'exiger 10 ans de résidence avant naturalisation.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Déclare vouloir « récupérer nos frontières pour contrôler l'immigration » et « bloquer l'immigration ».",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "\"Je serai le seul candidat qui propose de sortir de l'Union européenne\", dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle",
+              "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "En mars 2025, s'engage à dénoncer l'accord de 1968 avec l'Algérie et à supprimer les aides au développement des pays refusant de reprendre leurs ressortissants expulsés.",
+          "sources": [
+            {
+              "media": "Le Figaro",
+              "titre": "Nicolas Dupont-Aignan se déclare candidat à la prochaine élection présidentielle",
+              "url": "https://www.lefigaro.fr/politique/nicolas-dupont-aignan-se-declare-candidat-a-la-prochaine-election-presidentielle-20250308",
+              "date": "2025-03-08"
+            },
+            {
+              "media": "Wikipédia",
+              "titre": "Nicolas Dupont-Aignan",
+              "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose de sortir de Schengen en recrutant 10 000 agents spécialisés, d'exiger 10 ans de résidence pour la naturalisation et de suspendre aides et visas aux pays ne délivrant pas les laissez-passer consulaires.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Immigration et assimilation",
+              "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose de rétablir le délit de séjour irrégulier, supprimé en 2012.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Justice",
+              "url": "https://www.debout-la-france.fr/projet/justice/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "securite_justice": {
+      "resume": "Promet de « vaincre le crime organisé » ; le projet de DLF prévoit 40 000 places de prison, 10 000 policiers et gendarmes de plus, la présomption de légitime défense et l'abrogation de la loi de 2019 sur les courtes peines.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Propose de réorienter vers la lutte contre le crime organisé les moyens consacrés selon lui à l'Ukraine.",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose 10 000 policiers et gendarmes supplémentaires nets en cinq ans, 40 000 places de prison nouvelles, une prison isolée de 600 places pour les têtes de réseau et une présomption de légitime défense pour les policiers.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Sécurité",
+              "url": "https://www.debout-la-france.fr/projet/securite/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose d'abroger la loi du 23 mars 2019 sur l'exécution des peines de moins d'un an, une peine minimale de 10 ans pour détention d'armes de guerre liée au terrorisme ou au trafic, et de porter le budget de la justice de 10,1 à 15 milliards d'euros.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Justice",
+              "url": "https://www.debout-la-france.fr/projet/justice/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "En juin 2026, propose un référendum sur le rétablissement de la peine de mort pour les crimes contre les enfants.",
+          "sources": [
+            {
+              "media": "Le JDD",
+              "titre": "Crimes contre les enfants : Dupont-Aignan propose un référendum sur la peine de mort",
+              "url": "https://www.lejdd.fr/politique/crimes-contre-les-enfants-dupont-aignan-propose-un-referendum-sur-la-peine-de-mort-176025",
+              "date": "2026-06-10"
+            }
+          ]
+        }
+      ]
+    },
+    "defense_international": {
+      "resume": "Propose d'arrêter les subventions à l'Ukraine, un plan de paix (neutralité de l'Ukraine, référendum au Donbass) et la sortie du commandement intégré de l'OTAN.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose de « supprimer l'aide à l'Ukraine ».",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "\"Je serai le seul candidat qui propose de sortir de l'Union européenne\", dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle",
+              "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Nicolas Dupont-Aignan – Candidat à l'élection présidentielle 2027",
+              "url": "https://www.dupontaignan.fr/",
+              "date": "2026-09-24"
+            }
+          ]
+        },
+        {
+          "texte": "Propose un plan de paix en Ukraine : « neutralité et démilitarisation de l'Ukraine, référendum au Donbass, forces de l'ONU autour des centrales nucléaires », et une « réconciliation avec la Russie ».",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Propose de sortir du commandement intégré de l'OTAN.",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Défense",
+              "url": "https://www.debout-la-france.fr/projet/defense/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose une garde nationale de 100 000 réservistes et un service national civique obligatoire de trois mois.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Défense",
+              "url": "https://www.debout-la-france.fr/projet/defense/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "resume": "Propose de sortir de l'Union européenne pour une « Europe des nations » à coopérations à la carte, avec primauté du droit national ; en 2025, il présentait encore le Frexit comme un dernier recours.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose de sortir de l'Union européenne, qu'il qualifie de « prison », et se présente comme le seul candidat à le proposer.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "\"Je serai le seul candidat qui propose de sortir de l'Union européenne\", dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle",
+              "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "En mars 2025, il présentait la sortie de l'UE comme « un escalier de secours » à utiliser en dernier recours, faute de convaincre les partenaires de revenir à une « Europe des nations ».",
+          "sources": [
+            {
+              "media": "Le Figaro",
+              "titre": "Nicolas Dupont-Aignan se déclare candidat à la prochaine élection présidentielle",
+              "url": "https://www.lefigaro.fr/politique/nicolas-dupont-aignan-se-declare-candidat-a-la-prochaine-election-presidentielle-20250308",
+              "date": "2025-03-08"
+            },
+            {
+              "media": "franceinfo",
+              "titre": "Présidentielle 2027 : le souverainiste Nicolas Dupont-Aignan se lance pour la 4e fois dans la course à l'Elysée",
+              "url": "https://www.francetvinfo.fr/politique/nicolas-dupont-aignan/le-souverainiste-nicolas-dupont-aignan-se-lance-pour-la-4e-fois-dans-la-course-a-l-elysee_7118136.html",
+              "date": "2025-03-08"
+            }
+          ]
+        },
+        {
+          "texte": "Propose une coopération européenne « à la carte, projet par projet » et la primauté du droit national sur la jurisprudence de la CJUE.",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Affaires européennes",
+              "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF chiffre la contribution nette de la France au budget de l'UE à environ 10 milliards d'euros par an et propose de la supprimer.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Affaires européennes",
+              "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "energie_climat": {
+      "resume": "Propose de sortir du marché européen de l'électricité pour « diviser par deux » son prix en s'appuyant sur le nucléaire ; le projet de DLF prévoit de garder EDF public et de supprimer l'interdiction des voitures thermiques en 2035.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose de sortir du marché européen de l'électricité pour en baisser le prix ; dans son discours, il annonce une division par deux de ce prix.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "\"Je serai le seul candidat qui propose de sortir de l'Union européenne\", dit Nicolas Dupont-Aignan, qui se lance dans sa quatrième campagne présidentielle",
+              "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Propose de s'appuyer sur les centrales nucléaires, qui selon lui « produisent moitié moins cher ».",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose de maintenir l'actionnariat public d'EDF, d'annuler la privatisation de 150 barrages et de mettre fin à la hausse de la CSPE.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Environnement et énergie",
+              "url": "https://www.debout-la-france.fr/projet/environnement-energie/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose de supprimer l'interdiction des véhicules thermiques en 2035 et de revenir aux 90 km/h sur les routes départementales.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Transport et automobilistes",
+              "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "ia_numerique": {
+      "resume": "Le projet de DLF propose un fonds souverain IA de plusieurs milliards d'euros, un label « IA Made in France », une agence de sécurité des IA et l'abandon du Digital Services Act.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Le projet de DLF propose un fonds souverain IA doté de plusieurs milliards d'euros, un label « IA Made in France », un visa « IA et Tech » et une Agence nationale de l'éthique et de la sécurité des IA.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Intelligence artificielle",
+              "url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Propose de supprimer le « Digital Services Act » européen, qu'il accuse de généraliser la censure, et s'oppose à l'euro numérique et à l'identité numérique.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Affaires européennes",
+              "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+              "date": "2026-09-25"
+            },
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            }
+          ]
+        }
+      ]
+    },
+    "logement": {
+      "resume": "Le projet de DLF vise 400 000 logements mis en chantier par an et propose de doubler les abattements sur les donations, avec un délai réduit de 15 à 10 ans.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Le projet de DLF fixe l'objectif de relancer la construction pour passer de 281 100 mises en chantier en 2023 à au moins 400 000 par an.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Logement",
+              "url": "https://www.debout-la-france.fr/projet/logement/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose de doubler les abattements sur les donations et de réduire de 15 à 10 ans le délai entre deux donations.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Retraites",
+              "url": "https://www.debout-la-france.fr/projet/retraites/",
+              "date": "2026-09-25"
+            },
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Logement",
+              "url": "https://www.debout-la-france.fr/projet/logement/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "agriculture": {
+      "resume": "Propose de sortir de la PAC pour une politique agricole nationale (9 Md€ distribués par le ministère), de refuser le Mercosur et de supprimer les droits de succession sur les 100 premiers hectares transmis.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "S'oppose aux accords de libre-échange de l'UE, notamment avec le Mercosur, qu'il accuse d'« assassiner nos éleveurs ».",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "Public Sénat",
+              "titre": "Colère des agriculteurs : la politique européenne « est un suicide », fustige Nicolas Dupont-Aignan",
+              "url": "https://www.publicsenat.fr/actualites/politique/colere-des-agriculteurs-la-politique-europeenne-est-un-suicide-fustige-nicolas-dupont-aignan",
+              "date": "2024-01-23"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose de remplacer la PAC par une politique agricole nationale, les 9 milliards d'euros de la PAC étant distribués par le ministère de l'Agriculture.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Agriculture",
+              "url": "https://www.debout-la-france.fr/projet/agriculture/",
+              "date": "2026-09-25"
+            },
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Affaires européennes",
+              "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose de supprimer les droits de succession sur les 100 premiers hectares transmis, de faire garantir par l'État 50 % des prêts d'installation et de réserver aux producteurs français 50 % puis 80 % des commandes publiques.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Agriculture",
+              "url": "https://www.debout-la-france.fr/projet/agriculture/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "institutions": {
+      "resume": "Propose une démocratie directe « inspirée du modèle suisse » : RIC dès un million de signatures, RIC constituant, reconnaissance du vote blanc ; le projet de DLF prévoit le retour au septennat et 25 % de baisse des indemnités parlementaires.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose un référendum d'initiative citoyenne (RIC) à partir d'un million de signatures, un RIC constituant, la reconnaissance du vote blanc et le recours au référendum de l'article 11 « dans tous les domaines ».",
+          "sources": [
+            {
+              "media": "Site officiel du candidat",
+              "titre": "Libérons la France ! · Discours de rentrée de Nicolas Dupont-Aignan (Yerres, 19 septembre 2026)",
+              "url": "https://www.dupontaignan.fr/actualite/liberons-la-france-%c2%b7-discours-de-rentree-de-nicolas-dupont-aignan/",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "20 Minutes (AFP)",
+              "titre": "Présidentielle 2027 : Dupont-Aignan promet de « décoloniser la France » en sortant de l'Union européenne",
+              "url": "https://www.20minutes.fr/politique/4246946-20260919-presidentielle-2027-dupont-aignan-promet-decoloniser-france-sortant-union-europeenne",
+              "date": "2026-09-19"
+            },
+            {
+              "media": "BFMTV (AFP)",
+              "titre": "Candidat à la présidentielle, Nicolas Dupont-Aignan veut « décoloniser la France » et sortir de l'Union européenne",
+              "url": "https://www.bfmtv.com/politique/elections/presidentielle/candidat-a-la-presidentielle-nicolas-dupont-aignan-veut-decoloniser-la-france-et-sortir-de-l-union-europeenne_AD-202609190342.html",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "texte": "Le projet de DLF propose de revenir au septennat avec un référendum révocatoire à mi-mandat, d'exiger un casier judiciaire vierge pour tous les élus, de réduire le nombre de parlementaires et leurs indemnités de 25 %, de supprimer le CESE et d'abroger la loi NOTRe.",
+          "sources": [
+            {
+              "media": "Site officiel de Debout la France",
+              "titre": "Projet – Refonder et moraliser notre démocratie",
+              "url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "affaires": [
+    {
+      "intitule": "Procès pour provocation à la haine (tweet sur l'« invasion migratoire »)",
+      "statut": "relaxe_ou_non_lieu",
+      "date": "2018-06-06",
+      "description": "Poursuivi, après une plainte de la Licra, pour provocation à la haine ou à la discrimination en raison d'un tweet du 17 janvier 2017 (« En 2016, les socialistes compensent la baisse de natalité par l'invasion migratoire »), il a été relaxé par le tribunal correctionnel de Paris le 6 juin 2018. Le parquet avait requis 5 000 euros d'amende avec sursis. Aucune information d'appel n'a été trouvée.",
+      "sources": [
+        {
+          "media": "Public Sénat",
+          "titre": "Dupont-Aignan relaxé pour ses propos sur l'« invasion migratoire » en France",
+          "url": "https://www.publicsenat.fr/actualites/politique/dupont-aignan-relaxe-pour-ses-propos-sur-l-invasion-migratoire-en-france-86680",
+          "date": "2018-06-06"
+        },
+        {
+          "media": "France 24 (AFP)",
+          "titre": "Dupont-Aignan relaxé pour ses propos sur l'« invasion migratoire » en France",
+          "url": "https://www.france24.com/fr/20180606-dupont-aignan-relaxe-propos-linvasion-migratoire-france",
+          "date": "2018-06-06"
+        }
+      ]
+    },
+    {
+      "intitule": "Sanction de l'Assemblée nationale pour vote avec le boîtier d'un autre député",
+      "statut": "sanction_disciplinaire",
+      "date": "2021-10-13",
+      "description": "Sanction disciplinaire parlementaire (non pénale) : le Bureau de l'Assemblée nationale lui a infligé un rappel à l'ordre avec privation d'un quart de son indemnité parlementaire pendant un mois pour avoir voté, en juillet 2021, avec le boîtier de José Évrard (DLF) sans délégation complète. Il a récusé le terme de « fraude » et parlé d'un « quiproquo administratif ». José Évrard a reçu la même sanction.",
+      "sources": [
+        {
+          "media": "franceinfo",
+          "titre": "Nicolas Dupont-Aignan sanctionné pour fraude au scrutin à l'Assemblée nationale",
+          "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/nicolas-dupont-aignan-sanctionne-pour-fraude-au-scrutin-a-l-assemblee-nationale_4806343.html",
+          "date": "2021-10-13"
+        },
+        {
+          "media": "LCP",
+          "titre": "Nicolas Dupont-Aignan sanctionné par l'Assemblée : le député récuse la « fraude » et concède une « erreur »",
+          "url": "https://lcp.fr/actualites/nicolas-dupont-aignan-sanctionne-par-l-assemblee-le-depute-recuse-la-fraude-et-concede",
+          "date": "2021-10-14"
+        }
+      ]
+    },
+    {
+      "intitule": "Plainte annoncée pour diffamation envers les médecins (Covid-19)",
+      "statut": "accusation",
+      "date": "2021-08-22",
+      "description": "Le médecin Jérôme Marty, président du syndicat UFML, a annoncé porter plainte pour diffamation après un tweet dans lequel Nicolas Dupont-Aignan affirmait que d'autres que Didier Raoult avaient « des milliers de morts sur la conscience ». Aucune suite judiciaire n'a été trouvée.",
+      "sources": [
+        {
+          "media": "franceinfo",
+          "titre": "Covid-19 : le médecin Jérôme Marty annonce porter plainte contre Nicolas Dupont-Aignan pour propos diffamatoires",
+          "url": "https://www.franceinfo.fr/sante/maladie/coronavirus/covid-19-le-medecin-jerome-marty-annonce-porter-plainte-contre-nicolas-dupont-aignan-pour-propos-diffamatoires_4745197.html",
+          "date": "2021-08-22"
+        }
+      ]
+    },
+    {
+      "intitule": "Embauche de son épouse par la mairie d'Yerres (soupçon de favoritisme)",
+      "statut": "accusation",
+      "date": "2018-07-17",
+      "description": "Son épouse, Valérie Vecchierini, était son assistante parlementaire depuis 1997. Après l'interdiction des emplois familiaux au Parlement, la mairie d'Yerres l'a recrutée le 1er juin 2018 comme directrice de la propriété Caillebotte. L'association Anticor a demandé au préfet de l'Essonne d'examiner ce recrutement. Le préfet a répondu le 17 juillet 2018 et, selon Wikipédia, a rejeté le soupçon de favoritisme. Aucune procédure judiciaire n'a été trouvée. Nicolas Dupont-Aignan n'était alors plus maire.",
+      "sources": [
+        {
+          "media": "Capital",
+          "titre": "Nicolas Dupont-Aignan soupçonné d'avoir recasé sa femme à la mairie d'Yerres",
+          "url": "https://www.capital.fr/economie-politique/nicolas-dupont-aignan-soupconne-davoir-recase-sa-femme-a-la-mairie-dyerres-1297449",
+          "date": "2018-07-11"
+        },
+        {
+          "media": "Anticor",
+          "titre": "Embauche de Valérie Dupont-Aignan : le Préfet de l'Essonne répond à Anticor",
+          "url": "http://www.anticor.org/2018/07/18/embauche-de-valerie-dupont-aignan-le-prefet-de-lessonne-repond-a-anticor/",
+          "date": "2018-07-18"
+        },
+        {
+          "media": "Wikipédia",
+          "titre": "Nicolas Dupont-Aignan",
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+          "date": "2026-09-25"
+        }
+      ]
+    }
+  ],
+  "financement": [
+    {
+      "texte": "Présidentielle 2012 : compte de campagne approuvé par la CNCCFP (décision du 19 décembre 2012) ; dépenses de 1 104 597 €, remboursement de l'État de 776 408 €.",
+      "sources": [
+        {
+          "media": "Wikipédia",
+          "titre": "Modèle:Élection présidentielle française de 2012 - comptes (d'après la décision CNCCFP du 19 décembre 2012, JORF, NOR CCCX1302556S)",
+          "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le:%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012_-_comptes",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "texte": "Présidentielle 2017 : compte de campagne approuvé par la CNCCFP (décision du 21 décembre 2017) ; dépenses de 1 806 590 €, remboursement de 800 423 €, soit le plafond applicable sous 5 % des voix. Avec 4,70 %, il a manqué de peu le seuil de 5 % qui aurait permis un remboursement allant jusqu'à 8 millions d'euros.",
+      "sources": [
+        {
+          "media": "Wikipédia",
+          "titre": "Modèle:Élection présidentielle française de 2017 : comptes (d'après la décision CNCCFP du 21 décembre 2017, JORF, NOR CCCJ1803316S)",
+          "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le:%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017_:_comptes",
+          "date": "2026-09-25"
+        },
+        {
+          "media": "Le Parisien",
+          "titre": "Frais de campagne : Nicolas Dupont-Aignan perd sur le fil la course aux 5 %",
+          "url": "https://www.leparisien.fr/elections/presidentielle/frais-de-campagne-nicolas-dupont-aignan-perd-sur-le-fil-la-course-aux-5-23-04-2017-6882213.php",
+          "date": "2017-04-24"
+        }
+      ]
+    },
+    {
+      "texte": "Présidentielle 2022 : décision de la CNCCFP du 14 décembre 2022 ; dépenses de 857 428 €, remboursement de 728 884 € (plafond de 800 423 €). Le détail de la décision (réformation éventuelle, prêts) n'a pas pu être consulté.",
+      "sources": [
+        {
+          "media": "Wikipédia",
+          "titre": "Modèle:Élection présidentielle française de 2022 : comptes (d'après la décision CNCCFP du 14 décembre 2022, JORF, NOR CCCJ2300809S)",
+          "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le:%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022_:_comptes",
+          "date": "2026-09-25"
+        },
+        {
+          "media": "CNCCFP",
+          "titre": "Élection présidentielle 2022",
+          "url": "https://www.cnccfp.fr/election-presidentielle-2022/",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "texte": "Situation du parti : selon Le Monde (décembre 2020), DLF devait 250 000 € à ses fournisseurs et 750 000 € à son imprimeur, payables par tranches jusqu'en 2023 ; les cotisations prévues pour 2020 étaient de 75 000 € (contre 195 000 € en 2018) et les dons de 245 000 € (contre 617 000 € en 2017).",
+      "sources": [
+        {
+          "media": "Le Monde",
+          "titre": "Debout la France, le parti de Nicolas Dupont-Aignan, au bord du naufrage",
+          "url": "https://www.lemonde.fr/politique/article/2020/12/14/debout-la-france-le-parti-de-nicolas-dupont-aignan-au-bord-du-naufrage_6063267_823448.html",
+          "date": "2020-12-14"
+        },
+        {
+          "media": "Wikipédia",
+          "titre": "Debout la France",
+          "url": "https://fr.wikipedia.org/wiki/Debout_la_France",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "texte": "Campagne 2027 : les dons passent par la plateforme en ligne du candidat (« cagnotte présidentielle ») et par l'association de financement de DLF ; aucune information publique sur un prêt bancaire n'a été trouvée.",
+      "sources": [
+        {
+          "media": "Site officiel du candidat",
+          "titre": "Nicolas Dupont-Aignan – Candidat à l'élection présidentielle 2027",
+          "url": "https://www.dupontaignan.fr/",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "texte": "Patrimoine : en 2017, il déclare plus de 2 millions d'euros de patrimoine, composé de sept biens immobiliers en nue-propriété acquis avant 2013 ; il avait fait l'objet d'un contrôle de la HATVP en tant que député.",
+      "sources": [
+        {
+          "media": "Le Monde",
+          "titre": "La déclaration de patrimoine de Nicolas Dupont-Aignan",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2017/03/23/presidentielle-la-declaration-de-patrimoine-de-nicolas-dupont-aignan_5099672_4355770.html",
+          "date": "2017-03-23"
+        },
+        {
+          "media": "Wikipédia",
+          "titre": "Nicolas Dupont-Aignan",
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan",
+          "date": "2026-09-25"
+        },
+        {
+          "media": "Public Sénat",
+          "titre": "Présidentielle : les patrimoines des candidats dévoilés",
+          "url": "https://www.publicsenat.fr/actualites/non-classe/presidentielle-les-patrimoines-des-candidats-devoiles-57624",
+          "date": "2017-03-22"
+        }
+      ]
+    },
+    {
+      "texte": "HATVP : sa déclaration de patrimoine et d'intérêts de maire d'Yerres (2026) est déposée, mais elle n'est pas publiée, conformément aux règles applicables aux maires.",
+      "sources": [
+        {
+          "media": "HATVP",
+          "titre": "Fiche Nicolas Dupont-Aignan",
+          "url": "https://www.hatvp.fr/fiche-nominative/?declarant=dupont-aignan-nicolas",
+          "date": "2026-09-25"
+        }
+      ]
+    }
+  ]
+}

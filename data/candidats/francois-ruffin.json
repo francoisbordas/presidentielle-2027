@@ -1,0 +1,703 @@
+{
+ "id": "francois-ruffin",
+ "nom": "François Ruffin",
+ "naissance": "1975-10-18",
+ "lieu_naissance": "Calais (Pas-de-Calais)",
+ "parti": "Debout !",
+ "parti_sigle": "Debout",
+ "famille": "gauche",
+ "position": -6.0,
+ "position_justif": {
+  "texte": "Ancien député du groupe LFI (2017-2024) ayant rompu avec La France insoumise en 2024 ; son parti Debout ! est classé par Wikipédia de la gauche à la gauche radicale (populisme de gauche, protectionnisme). Position retenue entre LFI (−7) et Les Écologistes (−5,5) du barème.",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Debout (parti politique)",
+    "url": "https://fr.wikipedia.org/wiki/Debout_(parti_politique)",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "L'Express",
+    "titre": "François Ruffin, \"l'Après\" et la guerre avec Mélenchon : les coulisses de sa nouvelle vie",
+    "url": "https://www.lexpress.fr/politique/francois-ruffin-lapres-et-la-guerre-avec-melenchon-les-coulisses-de-sa-nouvelle-vie-EABPYRB3XZHL3CPUG22VCNHT2I/",
+    "date": "2024"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/francois-ruffin.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg",
+  "auteur": "Thinkerview",
+  "licence": "CC BY-SA 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/debout.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Logo-Debout!-rouge.png",
+  "licence": "CC BY 3.0"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Maîtrise de lettres modernes à l'université de Picardie.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Nuit Debout. Qui est François Ruffin le fer de lance du mouvement?",
+      "url": "https://www.ouest-france.fr/politique/nuit-debout-qui-est-francois-ruffin-le-fer-de-lance-du-mouvement-4179645",
+      "date": "2016-08-11"
+     }
+    ]
+   },
+   {
+    "texte": "Diplômé du Centre de formation des journalistes (CFJ, promotion 2002).",
+    "sources": [
+     {
+      "media": "Centre de formation des journalistes (annuaire alumni)",
+      "titre": "François RUFFIN (CFJ55 - 2002)",
+      "url": "https://alumni.cfjparis.com/profil/francois.ruffin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Nord Littoral",
+      "titre": "Élection de François Ruffin né à Calais, journaliste engagé, réalisateur césarisé",
+      "url": "http://www.nordlittoral.fr/34484/article/2017-06-18/election-de-francois-ruffin-ne-calais-journaliste-engage-realisateur-cesarise",
+      "date": "2017-06-18"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Fonde en 1999 à Amiens le journal Fakir, dont il est rédacteur en chef.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Journalisme engagé, critique des médias et France périphérique : qui est François Ruffin, l'inspirateur de Nuit debout ?",
+      "url": "https://www.francetvinfo.fr/societe/nuit-debout/journalisme-engage-critique-des-medias-et-france-peripherique-qui-est-francois-ruffin-l-inspirateur-de-nuit-debout_1413979.html",
+      "date": "2016-04-28"
+     }
+    ]
+   },
+   {
+    "texte": "Reporter pour l'émission « Là-bas si j'y suis » (France Inter) et collaborateur du Monde diplomatique entre 2005 et 2012.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Journalisme engagé, critique des médias et France périphérique : qui est François Ruffin, l'inspirateur de Nuit debout ?",
+      "url": "https://www.francetvinfo.fr/societe/nuit-debout/journalisme-engage-critique-des-medias-et-france-peripherique-qui-est-francois-ruffin-l-inspirateur-de-nuit-debout_1413979.html",
+      "date": "2016-04-28"
+     }
+    ]
+   },
+   {
+    "texte": "Réalise le documentaire « Merci patron ! » (2016), consacré à Bernard Arnault et LVMH, récompensé par le César du meilleur documentaire en 2017 ; puis coréalise avec Gilles Perret « J'veux du soleil » (2019), « Debout les femmes ! » (2021) et « Au boulot ! » (2024).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "\"Merci patron !\" : la rencontre de Michael Moore et de Luc Moullet en terre picarde",
+      "url": "https://www.lemonde.fr/cinema/article/2016/02/22/merci-patron-bernard-arnault-pris-au-piege-picard_4869354_3476.html",
+      "date": "2016-02-22"
+     }
+    ]
+   },
+   {
+    "texte": "Figure du lancement du mouvement Nuit debout en 2016.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Journalisme engagé, critique des médias et France périphérique : qui est François Ruffin, l'inspirateur de Nuit debout ?",
+      "url": "https://www.francetvinfo.fr/societe/nuit-debout/journalisme-engage-critique-des-medias-et-france-peripherique-qui-est-francois-ruffin-l-inspirateur-de-nuit-debout_1413979.html",
+      "date": "2016-04-28"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Nuit Debout. Qui est François Ruffin le fer de lance du mouvement?",
+      "url": "https://www.ouest-france.fr/politique/nuit-debout-qui-est-francois-ruffin-le-fer-de-lance-du-mouvement-4179645",
+      "date": "2016-08-11"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Député de la 1re circonscription de la Somme depuis juin 2017 (élu en 2017, réélu en 2022 et en 2024).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Libération",
+      "titre": "François Ruffin, bête de somme",
+      "url": "https://www.liberation.fr/politiques/2017/06/15/francois-ruffin-bete-de-somme_1577129/",
+      "date": "2017-06-15"
+     }
+    ]
+   },
+   {
+    "texte": "En juillet 2024, réélu au second tour (52,96 %) face à la candidate RN après le désistement de la candidate Renaissance.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "L'avertissement de François Ruffin, réélu député dans la Somme : « Les électeurs nous laissent une dernière chance »",
+      "url": "https://www.lemonde.fr/politique/article/2024/07/08/l-avertissement-de-francois-ruffin-reelu-depute-dans-la-somme-a-l-issue-d-une-semaine-d-angoisse-les-electeurs-nous-laissent-une-derniere-chance_6247719_823448.html",
+      "date": "2024-07-08"
+     },
+     {
+      "media": "Mediapart",
+      "titre": "À Amiens, François Ruffin lutte pour sa survie politique",
+      "url": "https://www.mediapart.fr/journal/politique/040724/amiens-francois-ruffin-lutte-pour-sa-survie-politique",
+      "date": "2024-07-04"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Résultats des législatives 2024 – 1re circonscription de la Somme",
+      "url": "https://www.resultats-elections.interieur.gouv.fr/legislatives2024/ensemble_geographique/32/80/8001/index.html",
+      "date": "2024-07-07"
+     }
+    ]
+   },
+   {
+    "texte": "Fondateur en 2019 du micro-parti Picardie debout !, renommé Debout ! le 28 juin 2025 ; il en devient président.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "François Ruffin lance « Debout ! » et avance ses pions à gauche pour l'élection présidentielle 2027",
+      "url": "https://www.lemonde.fr/politique/article/2025/06/26/francois-ruffin-lance-debout-et-avance-ses-pions-a-gauche-pour-l-election-presidentielle-2027_6616059_823448.html",
+      "date": "2025-06-26"
+     },
+     {
+      "media": "RFI (avec AFP)",
+      "titre": "France : Ruffin lance son nouveau mouvement «Debout !», avec la présidentielle 2027 en ligne de mire",
+      "url": "https://www.rfi.fr/fr/france/20250628-france-ruffin-lance-son-nouveau-mouvement-debout-avec-la-pr%C3%A9sidentielle-2027-en-ligne-de-mire",
+      "date": "2025-06-28"
+     }
+    ]
+   },
+   {
+    "texte": "Rompt avec La France insoumise en 2024 et siège ensuite avec le groupe Écologiste à l'Assemblée.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "L'Express",
+      "titre": "François Ruffin, \"l'Après\" et la guerre avec Mélenchon : les coulisses de sa nouvelle vie",
+      "url": "https://www.lexpress.fr/politique/francois-ruffin-lapres-et-la-guerre-avec-melenchon-les-coulisses-de-sa-nouvelle-vie-EABPYRB3XZHL3CPUG22VCNHT2I/",
+      "date": "2024"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Le 1er avril 2025, meeting « Notre France ! » à Montreuil : propose un « projet commun » de la gauche pour 2027.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "François Ruffin propose d'incarner une union de la gauche pour la présidentielle de 2027",
+      "url": "https://www.lemonde.fr/politique/article/2025/04/02/francois-ruffin-propose-d-incarner-une-union-de-la-gauche-pour-la-presidentielle-de-2027_6589773_823448.html",
+      "date": "2025-04-02"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce le 26 janvier 2026 sa candidature à la primaire de la gauche unitaire.",
+    "sources": [
+     {
+      "media": "Libération",
+      "titre": "François Ruffin candidat à la primaire de la gauche : «Pas de fatalité, nous pouvons l'emporter»",
+      "url": "https://www.liberation.fr/politique/francois-ruffin-candidat-a-la-primaire-de-la-gauche-pas-de-fatalite-nous-pouvons-lemporter-20260126_KP3LFJ3IAJE3TJDBKLN3K23LFQ/",
+      "date": "2026-01-26"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "En avril-mai 2026, déclare qu'il sera candidat « primaire ou pas » et revendique 100 000 signatures de soutien en quinze jours.",
+    "sources": [
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : \"S'il n'y a pas de primaire, moi j'y vais\", annonce François Ruffin",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin",
+      "date": "2026-05-12"
+     },
+     {
+      "media": "L'Humanité",
+      "titre": "Comment le « travailliste » Ruffin cherche à se faire embaucher comme président",
+      "url": "https://www.humanite.fr/politique/francois-ruffin/comment-le-travailliste-ruffin-cherche-a-se-faire-embaucher-comme-president",
+      "date": "2026-04-26"
+     }
+    ]
+   },
+   {
+    "texte": "En septembre 2026, maintient sa candidature après l'abandon de la primaire unitaire.",
+    "sources": [
+     {
+      "media": "Toute l'Europe",
+      "titre": "Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?",
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/",
+      "date": "2026-09-18"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Surveillé avec le journal Fakir par des prestataires de LVMH (2013-2016) ; LVMH a conclu en 2021 une convention judiciaire d'intérêt public (10 M€) et Bernard Squarcini a été condamné en 2025 à quatre ans de prison dont deux ferme. François Ruffin y est victime, non mis en cause.",
+    "sources": [
+     {
+      "media": "Mediapart",
+      "titre": "Comment François Ruffin et le journal «Fakir» ont été espionnés par LVMH",
+      "url": "https://www.mediapart.fr/journal/france/210519/comment-francois-ruffin-et-le-journal-fakir-ont-ete-espionnes-par-lvmh",
+      "date": "2019-05-21"
+     },
+     {
+      "media": "Le HuffPost",
+      "titre": "LVMH aurait espionné François Ruffin avec l'aide de Bernard Squarcini",
+      "url": "https://www.huffingtonpost.fr/entry/lvmh-aurait-espionne-francois-ruffin-et-fakir_fr_5ce3c338e4b08770099413f2",
+      "date": "2019-05-21"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Espionnage de François Ruffin : LVMH paie 10 millions d'euros d'amende et évite des poursuites",
+      "url": "https://www.lemonde.fr/societe/article/2021/12/17/espionnage-de-francois-ruffin-lvmh-paie-10-millions-d-euros-d-amende-et-evite-des-poursuites_6106518_3224.html",
+      "date": "2021-12-17"
+     },
+     {
+      "media": "Le Monde (avec AFP)",
+      "titre": "Bernard Squarcini, ancien patron du renseignement, condamné à quatre ans de prison dont deux ferme pour des activités illicites, notamment au profit de LVMH",
+      "url": "https://www.lemonde.fr/societe/article/2025/03/07/bernard-squarcini-l-ancien-patron-du-renseignement-condamne-a-quatre-ans-de-prison-dont-deux-ferme-pour-des-activites-illicites-notamment-au-profit-de-lvmh_6577002_3224.html",
+      "date": "2025-03-07"
+     }
+    ]
+   },
+   {
+    "texte": "Décembre 2017 : sanctionné par le bureau de l'Assemblée (retenue de 1 378 € sur son indemnité) pour avoir porté un maillot de football dans l'hémicycle.",
+    "sources": [
+     {
+      "media": "La Dépêche du Midi",
+      "titre": "Ruffin en maillot de foot à l'Assemblée : 1378 euros d'amende, Mélenchon veut faire appel",
+      "url": "https://www.ladepeche.fr/article/2017/12/12/2703121-ruffin-maillot-foot-assemblee-1378-euros-amende-melenchon-veut-faire.html",
+      "date": "2017-12-12"
+     },
+     {
+      "media": "Marianne",
+      "titre": "Le député insoumis François Ruffin écope d'une sanction (titre abrégé)",
+      "url": "https://www.marianne.net/politique/le-depute-insoumis-francois-ruffin-ecope-sanction-1378-euros-port-de-maillot-foot-assemblee",
+      "date": "2017-12-07"
+     }
+    ]
+   },
+   {
+    "texte": "Mai 2026 : sa bande dessinée « Picardie Splendor » est critiquée à gauche pour certaines planches jugées paternalistes ; il reconnaît que certaines images « peuvent blesser ».",
+    "sources": [
+     {
+      "media": "Le HuffPost",
+      "titre": "Après les critiques, Ruffin reconnaît que certaines images de sa BD « peuvent blesser »",
+      "url": "https://www.huffingtonpost.fr/politique/article/apres-les-critiques-francois-ruffin-reconnait-que-certaines-images-de-sa-bd-peuvent-blesser_263870.html",
+      "date": "2026-05-19"
+     },
+     {
+      "media": "Mediapart",
+      "titre": "Dans sa BD, François Ruffin confond antiracisme et syndrome du sauveur",
+      "url": "https://www.mediapart.fr/journal/politique/150526/dans-sa-bd-francois-ruffin-confond-antiracisme-et-syndrome-du-sauveur",
+      "date": "2026-05-15"
+     },
+     {
+      "media": "Libération",
+      "titre": "«J'entends que ces images peuvent blesser» : attaqué sur sa BD et ses positions sur l'immigration, François Ruffin veut corriger le tir",
+      "url": "https://www.liberation.fr/politique/jentends-que-ces-images-peuvent-blesser-attaque-sur-sa-bd-et-ses-positions-sur-limmigration-francois-ruffin-veut-corriger-le-tir-20260518_TBUXRQ3245CG3FHPRSD7Z2RZ64/",
+      "date": "2026-05-18"
+     }
+    ]
+   },
+   {
+    "texte": "Rémunération : annonce conserver l'équivalent d'un SMIC de son indemnité parlementaire et reverser le reste à des associations.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Ruffin",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "travail_salaires": {
+   "resume": "Propose un « statut des travailleurs essentiels » (indexation des salaires sur l'inflation, revalorisation des grilles, heures avant 8 h et après 18 h payées double, fin des temps partiels subis).",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose d'indexer les salaires sur l'inflation et de revaloriser les grilles de classification sous le SMIC.",
+     "sources": [
+      {
+       "media": "nouspresident.fr (site de campagne)",
+       "titre": "Pour les travailleurs essentiels",
+       "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "François Ruffin",
+       "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de rémunérer double les heures travaillées avant 8 h et après 18 h et de sanctionner les dérogations à la durée minimale de 24 h hebdomadaires pour les temps partiels.",
+     "sources": [
+      {
+       "media": "nouspresident.fr (site de campagne)",
+       "titre": "Pour les travailleurs essentiels",
+       "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un droit à la reconversion et une sur-cotisation au « 1 % logement » pour les employeurs recourant massivement aux horaires atypiques.",
+     "sources": [
+      {
+       "media": "nouspresident.fr (site de campagne)",
+       "titre": "Pour les travailleurs essentiels",
+       "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose un droit à la retraite anticipée pour les travailleurs exposés à la pénibilité.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de garantir un droit à la retraite anticipée pour compenser la pénibilité des « travailleurs essentiels ».",
+     "sources": [
+      {
+       "media": "nouspresident.fr (site de campagne)",
+       "titre": "Pour les travailleurs essentiels",
+       "url": "https://nouspresident.fr/statut-travailleurs-essentiels/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Se déclare « hostile à l'immigration pour le travail » et refuse le « plan d'importation massive de main-d'œuvre étrangère » qu'il attribue au Medef.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Se dit « hostile à l'immigration pour le travail » et refuse le « plan d'importation massive de main-d'œuvre étrangère » attribué au Medef (mai 2026).",
+     "sources": [
+      {
+       "media": "Le Monde",
+       "titre": "« La sortie de François Ruffin sur l'immigration est bienvenue, car la gauche n'échappera pas à un débat sur le sujet »",
+       "url": "https://www.lemonde.fr/idees/article/2026/05/10/la-sortie-de-francois-ruffin-sur-l-immigration-est-bienvenue-car-la-gauche-n-echappera-pas-a-un-debat-sur-le-sujet_6687678_3232.html",
+       "date": "2026-05-10"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "« Une stratégie d'évitement » : à gauche, l'impossible débat sur l'immigration",
+       "url": "https://www.lefigaro.fr/politique/une-strategie-d-evitement-a-gauche-l-impossible-debat-sur-l-immigration-20260515",
+       "date": "2026-05-15"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose une « loi de séparation de l'argent et de l'État » (Haute Autorité à la probité, interdiction du rétro-pantouflage, fin des avantages des anciens présidents, 20 M€ d'économies sur l'Élysée) et des référendums.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose la fin des avantages des anciens présidents et ministres, 20 M€ d'économies sur le budget de l'Élysée et la fin de l'inviolabilité pénale et civile du président.",
+     "sources": [
+      {
+       "media": "nouspresident.fr (site de campagne)",
+       "titre": "Pour séparer l'argent de l'État",
+       "url": "https://nouspresident.fr/separation-argent-etat/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de créer une Haute Autorité à la probité, d'interdire le rétro-pantouflage et d'interdire le cumul entre fonctions ministérielles et mandats exécutifs locaux.",
+     "sources": [
+      {
+       "media": "nouspresident.fr (site de campagne)",
+       "titre": "Pour séparer l'argent de l'État",
+       "url": "https://nouspresident.fr/separation-argent-etat/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'organiser des référendums pour de « grands débats » nationaux.",
+     "sources": [
+      {
+       "media": "nouspresident.fr (site de campagne)",
+       "titre": "Face au chantier du siècle : pour un travaillisme écologique",
+       "url": "https://nouspresident.fr/travaillisme-ecologique/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose un « travaillisme écologique » : rénovation massive des logements, sortie des carburants fossiles, électricité décarbonée (nucléaire et renouvelables) et sortie progressive du marché européen de l'électricité.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Fait de l'électricité décarbonée issue du nucléaire et des renouvelables le principal levier pour remplacer les énergies fossiles et propose une sortie progressive du marché de l'électricité.",
+     "sources": [
+      {
+       "media": "nouspresident.fr (site de campagne)",
+       "titre": "Face au chantier du siècle : pour un travaillisme écologique",
+       "url": "https://nouspresident.fr/travaillisme-ecologique/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose une rénovation massive des logements et la généralisation des « Territoires zéro chômeur » autour des travaux écologiques.",
+     "sources": [
+      {
+       "media": "nouspresident.fr (site de campagne)",
+       "titre": "Face au chantier du siècle : pour un travaillisme écologique",
+       "url": "https://nouspresident.fr/travaillisme-ecologique/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Propose d'étendre l'encadrement des loyers, 200 000 places pour étudiants et jeunes actifs en 5 ans et une offre de résidences seniors.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose d'encadrer les loyers plus largement et de créer 200 000 places de logement pour étudiants et jeunes actifs sur cinq ans.",
+     "sources": [
+      {
+       "media": "nouspresident.fr (site de campagne)",
+       "titre": "Face à la crise du logement : faire sauter le verrou",
+       "url": "https://nouspresident.fr/face-a-la-crise-du-logement-faire-sauter-le-verrou/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Défend une agriculture assurant un revenu digne aux paysans et une alimentation de qualité.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose une politique agricole associant revenu des paysans, pouvoir d'achat et santé des sols (« Pour une agriculture qui protège et nourrit »).",
+     "sources": [
+      {
+       "media": "nouspresident.fr (site de campagne)",
+       "titre": "Face au chantier du siècle : pour un travaillisme écologique",
+       "url": "https://nouspresident.fr/travaillisme-ecologique/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "economie_fiscalite": {
+   "resume": "Défend le protectionnisme économique.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Soutient le protectionnisme économique (livre « Leur grande trouille », 2011) ; son parti Debout ! est décrit comme protectionniste.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "François Ruffin",
+       "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Debout (parti politique)",
+       "url": "https://fr.wikipedia.org/wiki/Debout_(parti_politique)",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Condamnation pour diffamation (livre « Quartier Nord »)",
+   "statut": "condamnation_definitive",
+   "date": "2008-04-23",
+   "description": "Condamné pour diffamation par le tribunal d'Amiens le 23 avril 2008 à la suite de la plainte d'un habitant des quartiers nord d'Amiens visé dans son livre « Quartier Nord ». Les sources consultées ne font pas état d'un appel ; statut définitif présumé, non vérifié.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Journalisme engagé, critique des médias et France périphérique : qui est François Ruffin, l'inspirateur de Nuit debout ?",
+     "url": "https://www.francetvinfo.fr/societe/nuit-debout/journalisme-engage-critique-des-medias-et-france-peripherique-qui-est-francois-ruffin-l-inspirateur-de-nuit-debout_1413979.html",
+     "date": "2016-04-28"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "François Ruffin, un chevalier sans peur et sans remords face à LVMH",
+     "url": "https://www.lemonde.fr/culture/article/2016/02/22/francois-ruffin-un-chevalier-sans-peur-et-sans-remords-a-l-assaut-de-lvmh_4869314_3246.html",
+     "date": "2016-02-22"
+    }
+   ]
+  },
+  {
+   "intitule": "Emploi de salariés de Fakir comme collaborateurs parlementaires",
+   "statut": "accusation",
+   "date": "2017-10-20",
+   "description": "Interpellé en 2017 sur le fait que quatre de ses cinq collaborateurs parlementaires travaillaient aussi pour le journal Fakir ; il a indiqué qu'ils étaient rémunérés séparément par l'Assemblée et par le journal. Aucune procédure judiciaire n'est mentionnée dans les sources.",
+   "sources": [
+    {
+     "media": "Le HuffPost",
+     "titre": "Interpellé sur l'emploi de salariés de son journal comme assistants parlementaires, Ruffin s'explique",
+     "url": "https://www.huffingtonpost.fr/2017/10/20/interpelle-sur-lemploi-de-salaries-de-son-journal-fakir-comme-assistants-parlementaires-ruffin-sexplique_a_23250227/",
+     "date": "2017-10-20"
+    }
+   ]
+  },
+  {
+   "intitule": "Rappel au code de déontologie de l'Assemblée nationale",
+   "statut": "accusation",
+   "date": "2017-11",
+   "description": "En novembre 2017, le bureau de l'Assemblée lui rappelle le code de déontologie pour avoir fait la promotion du journal Fakir dans une vidéo tournée dans son bureau de député.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "François Ruffin",
+     "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Pas de candidature présidentielle antérieure : aucun compte de campagne présidentielle à son nom auprès de la CNCCFP.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "François Ruffin",
+     "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Le micro-parti Picardie debout ! (devenu Debout !) est enregistré en février 2019 et doté d'une association de financement.",
+   "sources": [
+    {
+     "media": "Libération (CheckNews)",
+     "titre": "François Ruffin vient de créer son micro-parti politique",
+     "url": "https://www.liberation.fr/checknews/2019/02/26/francois-ruffin-vient-de-creer-son-micro-parti-politique_1711349/",
+     "date": "2019-02-26"
+    },
+    {
+     "media": "BFM TV",
+     "titre": "François Ruffin a créé son micro-parti, « Picardie Debout ! »",
+     "url": "https://www.bfmtv.com/politique/francois-ruffin-a-cree-son-micro-parti-picardie-debout-1640466.html",
+     "date": "2019-02"
+    }
+   ]
+  },
+  {
+   "texte": "En 2024, La France insoumise a reversé 70 400 € de son aide publique à Picardie debout ; Debout ! figure parmi les partis ayant déposé des comptes 2024 certifiés.",
+   "sources": [
+    {
+     "media": "CNCCFP (Journal officiel)",
+     "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (JO du 10 février 2026)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+     "date": "2026-02-10"
+    }
+   ]
+  },
+  {
+   "texte": "La campagne « Nous Président ! » collecte des dons via la plateforme de Debout ! (don.debout.fr/ruffin2027).",
+   "sources": [
+    {
+     "media": "nouspresident.fr (site de campagne)",
+     "titre": "François Ruffin 2027 – Nous Président !",
+     "url": "https://nouspresident.fr/",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "En 2023, la HATVP relève une sous-évaluation de 431 973 € de sa société de production audiovisuelle (sans but lucratif) dans sa déclaration ; Le Monde note des erreurs fréquentes chez les députés mais « pas d'infractions substantielles ».",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Déclarations d'intérêts des députés : beaucoup d'erreurs, mais pas d'infractions substantielles",
+     "url": "https://www.lemonde.fr/les-decodeurs/article/2023/02/15/declarations-d-interets-des-deputes-beaucoup-d-erreurs-mais-pas-d-infractions-substantielles_6161968_4355770.html",
+     "date": "2023-02-15"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "François Ruffin",
+     "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ]
+}

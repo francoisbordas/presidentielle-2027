@@ -1,0 +1,392 @@
+{
+  "id": "anasse-kazib",
+  "nom": "Anasse Kazib",
+  "naissance": "1987-01-02",
+  "lieu_naissance": "Sarcelles (Val-d'Oise)",
+  "parti": "Révolution permanente",
+  "parti_sigle": "RP",
+  "famille": "extreme_gauche",
+  "position": -9.5,
+  "position_justif": {
+    "texte": "Porte-parole de Révolution permanente, organisation trotskiste issue d'une scission du NPA, classée à l'extrême gauche ; porte « une candidature ouvrière, communiste et révolutionnaire ». Positionné comme LO (−9,5).",
+    "sources": [
+      {
+        "media": "franceinfo",
+        "titre": "Présidentielle 2027 : le cheminot Anasse Kazib annonce sa candidature",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html",
+        "date": "2026-06-01"
+      },
+      {
+        "media": "Wikipédia",
+        "titre": "Révolution permanente (parti politique)",
+        "url": "https://fr.wikipedia.org/wiki/R%C3%A9volution_permanente_(parti_politique)",
+        "date": "2026-09-25"
+      },
+      {
+        "media": "Wikipédia",
+        "titre": "Anasse Kazib",
+        "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib",
+        "date": "2026-09-25"
+      }
+    ]
+  },
+  "statut": "declare",
+  "photo": {
+    "fichier": "img/candidats/anasse-kazib.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Anasse_Kazib,_d%C3%A9cembre_2021.jpg",
+    "auteur": "PabloMorao27",
+    "licence": "CC BY-SA 4.0"
+  },
+  "logo_parti": {
+    "fichier": "img/partis/rp.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:R%C3%A9volution_Permenente.png",
+    "licence": "CC BY-SA 4.0"
+  },
+  "bio": {
+    "etudes": [],
+    "carriere_hors_politique": [
+      {
+        "texte": "Cheminot : aiguilleur à la SNCF au Bourget depuis 2012 ; délégué syndical SUD-Rail.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Anasse Kazib",
+            "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "franceinfo",
+            "titre": "Présidentielle 2027 : le cheminot Anasse Kazib annonce sa candidature",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html",
+            "date": "2026-06-01"
+          }
+        ]
+      },
+      {
+        "texte": "Chroniqueur dans « Les Grandes Gueules » sur RMC (2018-2020).",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Anasse Kazib",
+            "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "franceinfo",
+            "titre": "Présidentielle 2027 : le cheminot Anasse Kazib annonce sa candidature",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html",
+            "date": "2026-06-01"
+          }
+        ]
+      }
+    ],
+    "mandats": [
+      {
+        "texte": "Aucun mandat électif. Membre du NPA (courant CCR) jusqu'en 2021, puis cofondateur et porte-parole de Révolution permanente, constituée en parti en décembre 2022.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Anasse Kazib",
+            "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Révolution permanente (parti politique)",
+            "url": "https://fr.wikipedia.org/wiki/R%C3%A9volution_permanente_(parti_politique)",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "franceinfo",
+            "titre": "Présidentielle 2027 : le cheminot Anasse Kazib annonce sa candidature",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html",
+            "date": "2026-06-01"
+          }
+        ]
+      }
+    ],
+    "autres": [
+      {
+        "texte": "Tentative de candidature à la présidentielle de 2022 : seulement 160 parrainages validés, insuffisants pour concourir.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Anasse Kazib",
+            "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "franceinfo",
+            "titre": "Présidentielle 2027 : le cheminot Anasse Kazib annonce sa candidature",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html",
+            "date": "2026-06-01"
+          }
+        ]
+      },
+      {
+        "texte": "Candidat aux législatives de 2024 dans la 2e circonscription de la Seine-Saint-Denis : 3,67 % au premier tour.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Anasse Kazib",
+            "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Révolution permanente (parti politique)",
+            "url": "https://fr.wikipedia.org/wiki/R%C3%A9volution_permanente_(parti_politique)",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Annonce le 1er juin 2026 sa candidature à la présidentielle de 2027 ; RP revendique le soutien de « dizaines de maires » pour les parrainages.",
+        "sources": [
+          {
+            "media": "franceinfo",
+            "titre": "Présidentielle 2027 : le cheminot Anasse Kazib annonce sa candidature",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html",
+            "date": "2026-06-01"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Candidatures à l'élection présidentielle française de 2027",
+            "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "En février 2022, convoqué au commissariat pour un rassemblement non déclaré tenu place du Panthéon après l'annulation d'une conférence à la Sorbonne visée par une campagne d'intimidation d'extrême droite.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Anasse Kazib",
+            "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Révolution permanente (parti politique)",
+            "url": "https://fr.wikipedia.org/wiki/R%C3%A9volution_permanente_(parti_politique)",
+            "date": "2026-09-25"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "travail_salaires": {
+      "resume": "Propose un SMIC à 2 000 € net, 500 € d'augmentation pour tous les salaires, la semaine de 28 heures sans perte de salaire et l'interdiction des licenciements.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose le « SMIC à 2000 € net », une « augmentation des salaires de 500 € » et la revalorisation de toutes les allocations.",
+          "sources": [
+            {
+              "media": "Site officiel de campagne",
+              "titre": "Anasse 2027 – Programme",
+              "url": "https://anasse2027.fr/programme",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "texte": "Propose la réduction du temps de travail à 28 heures hebdomadaires sans perte de salaire, l'interdiction des licenciements et la fin de la sous-traitance (CDI pour tous).",
+          "sources": [
+            {
+              "media": "Site officiel de campagne",
+              "titre": "Anasse 2027 – Programme",
+              "url": "https://anasse2027.fr/programme",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "retraites": {
+      "resume": "Propose la retraite à 60 ans, et à 55 ans pour les métiers pénibles, sans condition de durée de cotisation.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose la retraite à 60 ans et à 55 ans pour les métiers pénibles, sans exigence de durée de cotisation.",
+          "sources": [
+            {
+              "media": "Site officiel de campagne",
+              "titre": "Anasse 2027 – Programme",
+              "url": "https://anasse2027.fr/programme",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "economie_fiscalite": {
+      "resume": "Propose l'expropriation des groupes bancaires et la nationalisation sous contrôle des travailleurs de l'énergie, des transports, des banques et de la santé.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose l'expropriation des groupes bancaires (prêts à taux zéro) et la nationalisation sous gestion ouvrière de l'énergie, des transports, des banques et de la santé.",
+          "sources": [
+            {
+              "media": "Site officiel de campagne",
+              "titre": "Anasse 2027 – Programme",
+              "url": "https://anasse2027.fr/programme",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "logement": {
+      "resume": "Propose la réquisition des logements vides et le plafonnement et gel des loyers.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose l'expropriation des logements vacants et le plafonnement et le gel des loyers.",
+          "sources": [
+            {
+              "media": "Site officiel de campagne",
+              "titre": "Anasse 2027 – Programme",
+              "url": "https://anasse2027.fr/programme",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "immigration": {
+      "resume": "Propose la régularisation des sans-papiers et la liberté de circulation et d'installation.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose la régularisation des sans-papiers et la liberté de circulation et d'installation.",
+          "sources": [
+            {
+              "media": "Site officiel de campagne",
+              "titre": "Anasse 2027 – Programme",
+              "url": "https://anasse2027.fr/programme",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "securite_justice": {
+      "resume": "Propose l'abrogation de la loi de 2004 et des lois qualifiées de « sécuritaires, racistes et islamophobes », la dissolution des unités de police spécialisées et une amnistie pour manifestants et syndicalistes.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose l'abrogation de la loi de 2004 et des lois « sécuritaires », la dissolution d'unités de police spécialisées et l'amnistie des manifestants, jeunes et syndicalistes poursuivis.",
+          "sources": [
+            {
+              "media": "Site officiel de campagne",
+              "titre": "Anasse 2027 – Programme",
+              "url": "https://anasse2027.fr/programme",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "defense_international": {
+      "resume": "Refuse tout budget militaire supplémentaire et le service militaire, propose le démantèlement de l'industrie d'armement et soutient la « libération » de la Palestine.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Refuse tout financement supplémentaire de l'armée, propose le démantèlement de l'industrie d'armement française et le refus du service militaire ; soutient l'autodétermination palestinienne.",
+          "sources": [
+            {
+              "media": "Site officiel de campagne",
+              "titre": "Anasse 2027 – Programme",
+              "url": "https://anasse2027.fr/programme",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "institutions": {
+      "resume": "Propose la dissolution de la Ve République, du Sénat et de la fonction présidentielle.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose d'abolir la Ve République, le Sénat et la présidence de la République.",
+          "sources": [
+            {
+              "media": "Site officiel de campagne",
+              "titre": "Anasse 2027 – Programme",
+              "url": "https://anasse2027.fr/programme",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "affaires": [
+    {
+      "intitule": "Poursuites pour apologie du terrorisme (messages du 7 octobre 2023)",
+      "statut": "proces_en_cours",
+      "date": "2026-06-26",
+      "description": "Après une plainte déposée en janvier 2024 par l'association « Jeunesse française juive », Anasse Kazib est poursuivi devant le tribunal correctionnel de Paris pour apologie du terrorisme en raison de trois retweets du 7 octobre 2023 évoquant la « résistance palestinienne » et d'un tweet sur les dirigeants israéliens. Le procès, reporté une première fois le 18 juin 2025, devait se tenir fin juin 2026 (franceinfo évoque le 25 juin, Wikipédia le 26 juin) ; il a de nouveau été renvoyé. Anasse Kazib dénonce une « criminalisation » des soutiens à la cause palestinienne. Il est présumé innocent.",
+      "sources": [
+        {
+          "media": "France 24 (AFP)",
+          "titre": "Conflit israélo-palestinien : le procès du militant Anasse Kazib pour apologie du terrorisme reporté",
+          "url": "https://www.france24.com/fr/info-en-continu/20250618-conflit-isra%C3%A9lo-palestinien-le-proc%C3%A8s-du-militant-anasse-kazib-pour-apologie-du-terrorisme-report%C3%A9",
+          "date": "2025-06-18"
+        },
+        {
+          "media": "franceinfo",
+          "titre": "Présidentielle 2027 : le cheminot Anasse Kazib annonce sa candidature",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html",
+          "date": "2026-06-01"
+        },
+        {
+          "media": "Blast",
+          "titre": "Le procès du militant Anasse Kazib pour apologie du terrorisme renvoyé au 26 juin 2026",
+          "url": "https://www.blast-info.fr/articles/2025/le-proces-du-militant-anasse-kazib-pour-apologie-du-terrorisme-renvoye-au-26-juin-2026-Mu_0IT8URLiZVFSB6tla1Q",
+          "date": "2025-06-18"
+        },
+        {
+          "media": "Wikipédia",
+          "titre": "Anasse Kazib",
+          "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib",
+          "date": "2026-09-25"
+        }
+      ]
+    }
+  ],
+  "financement": [
+    {
+      "texte": "Campagne 2022 : faute de parrainages suffisants, pas de candidature officielle ni de compte de campagne présidentielle.",
+      "sources": [
+        {
+          "media": "Wikipédia",
+          "titre": "Anasse Kazib",
+          "url": "https://fr.wikipedia.org/wiki/Anasse_Kazib",
+          "date": "2026-09-25"
+        },
+        {
+          "media": "franceinfo",
+          "titre": "Présidentielle 2027 : le cheminot Anasse Kazib annonce sa candidature",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-cheminot-anasse-kazib-annonce-sa-candidature_8040020.html",
+          "date": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "texte": "Campagne 2027 : appel aux dons en ligne sur le site de campagne ; aucun prêt ni budget rendu public.",
+      "sources": [
+        {
+          "media": "Site officiel de campagne",
+          "titre": "Anasse 2027",
+          "url": "https://anasse2027.fr/",
+          "date": "2026-09-25"
+        }
+      ]
+    }
+  ]
+}

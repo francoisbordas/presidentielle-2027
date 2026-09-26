@@ -1,0 +1,946 @@
+{
+ "id": "francois-hollande",
+ "nom": "François Hollande",
+ "naissance": "1954-08-12",
+ "lieu_naissance": "Rouen (Seine-Maritime)",
+ "parti": "Parti socialiste",
+ "parti_sigle": "PS",
+ "famille": "centre_gauche",
+ "position": -3,
+ "position_justif": {
+  "texte": "Ancien premier secrétaire du PS (barème −4) dont la présidence a été qualifiée de « virage social-libéral » à partir de 2014 (pacte de responsabilité, loi Macron, loi Travail) ; en 2025-2026 il défend un rassemblement de la « gauche réformiste » (Glucksmann, Cazeneuve, Jadot) sans LFI. Placé légèrement à droite du barème PS.",
+  "sources": [
+   {
+    "media": "BFMTV",
+    "titre": "Hollande a-t-il pris un virage social-libéral?",
+    "url": "https://www.bfmtv.com/politique/elysee/hollande-a-t-il-pris-un-virage-social-liberal_AN-201401080082.html",
+    "date": "2014-01-08"
+   },
+   {
+    "media": "L'Express",
+    "titre": "Le virage social-libéral de François Hollande",
+    "url": "https://www.lexpress.fr/actualite/politique/le-virage-social-liberal-de-francois-hollande_1312212.html",
+    "date": "2014"
+   },
+   {
+    "media": "Le HuffPost",
+    "titre": "François Hollande en lice pour 2027 ? Pourquoi tout le monde soupçonne un retour de l'ancien président",
+    "url": "https://www.huffingtonpost.fr/politique/article/francois-hollande-en-lice-pour-2027-pourquoi-tout-le-monde-soupconne-un-retour-de-l-ancien-president_259745.html",
+    "date": "2026-01"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "François Hollande",
+    "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+    "date": "2026-09-25"
+   }
+  ]
+ },
+ "statut": "pressenti",
+ "photo": {
+  "fichier": "img/candidats/francois-hollande.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg",
+  "auteur": "Christophe Licoppe / European Union, 2024 / EC - Audiovisual Service",
+  "licence": "CC BY 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/ps.svg",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Logo_Parti_Socialiste_-_2024.svg",
+  "licence": "marque déposée"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Licence de droit (1974), diplômé de Sciences Po Paris et d'HEC (1975), puis de l'ENA (promotion Voltaire, 1980, sorti 8e).",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "À HEC, il « exprimait des idées de gauche »",
+      "url": "https://www.lemonde.fr/a-la-une/article/2012/05/22/a-hec-il-exprimait-des-idees-de-gauche_1705402_3208.html",
+      "date": "2012-05-22"
+     },
+     {
+      "media": "Le JDD",
+      "titre": "ENA : découvrez le classement de la promo Voltaire de François Hollande",
+      "url": "http://www.lejdd.fr/Politique/ENA-le-classement-et-le-bal-des-enveloppes-800443",
+      "date": "2016-08-01"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Magistrat à la Cour des comptes à partir de 1980 (conseiller référendaire en 1984) ; chargé de cours d'économie à Sciences Po jusqu'en 1991.",
+    "sources": [
+     {
+      "media": "Le Point",
+      "titre": "Que faisait François Hollande en 1984 ?",
+      "url": "https://www.lepoint.fr/economie/qu-a-donc-appris-le-jeune-hollande-en-1984-19-08-2014-1854792_28.php",
+      "date": "2014-08-19"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Président de la fondation La France s'engage (2017-2024).",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "À la tête de La France s'engage, François Hollande veut revenir dans l'arène publique",
+      "url": "https://www.lemonde.fr/politique/article/2017/09/05/a-la-tete-de-la-france-s-engage-francois-hollande-veut-revenir-dans-l-arene-publique_5181448_823448.html",
+      "date": "2017-09-05"
+     },
+     {
+      "media": "HATVP",
+      "titre": "Fiche François Hollande (déclaration d'intérêts de député, modification du 22 janvier 2025)",
+      "url": "https://www.hatvp.fr/pages_nominatives/hollande-francois-27434",
+      "date": "2025-01-22"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Depuis 2019, gérant de la société Réflexions débats perspectives & analyses, qui facture ses conférences (rémunération nette déclarée : 90 191 € en 2019, 122 822 € en 2020, 52 748 € en 2022, 50 000 € en 2024).",
+    "sources": [
+     {
+      "media": "HATVP",
+      "titre": "Fiche François Hollande (déclaration d'intérêts de député, modification du 22 janvier 2025)",
+      "url": "https://www.hatvp.fr/pages_nominatives/hollande-francois-27434",
+      "date": "2025-01-22"
+     },
+     {
+      "media": "L'Express",
+      "titre": "Hollande crée une société pour ses conférences rémunérées",
+      "url": "https://www.lexpress.fr/actualite/politique/hollande-cree-une-societe-pour-ses-conferences-remunerees_2060200.html",
+      "date": "2019-02-01"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Député de la 1re circonscription de la Corrèze (1988-1993, 1997-2012), réélu le 7 juillet 2024 avec 43,1 % en triangulaire sous l'étiquette du Nouveau Front populaire.",
+    "sources": [
+     {
+      "media": "TF1 Info",
+      "titre": "Résultats législatives 2024 : François Hollande élu dans la 1re circonscription de Corrèze",
+      "url": "https://www.tf1info.fr/elections/resultats-elections-legislatives-2024-francois-hollande-elu-depute-dans-son-fief-de-tulle-premiere-circonscription-de-correze-2306936.html",
+      "date": "2024-07-07"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "François Hollande candidat aux élections législatives en Corrèze sous la bannière du Nouveau Front populaire",
+      "url": "https://www.lemonde.fr/politique/article/2024/06/15/francois-hollande-candidat-aux-elections-legislatives-en-correze-parce-la-situation-est-grave-le-ps-prend-acte-de-son-investiture_6240419_823449.html",
+      "date": "2024-06-15"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Premier secrétaire du Parti socialiste de 1997 à 2008.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Maire de Tulle (2001-2008) et président du conseil général de la Corrèze (2008-2012).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Président de la République du 15 mai 2012 au 14 mai 2017, élu le 6 mai 2012 avec 51,64 % des suffrages exprimés face à Nicolas Sarkozy.",
+    "sources": [
+     {
+      "media": "Conseil constitutionnel",
+      "titre": "Décision n° 2012-154 PDR — proclamation des résultats de l'élection présidentielle",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2012/2012154PDR.htm",
+      "date": "2012-05-10"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Membre de droit du Conseil constitutionnel depuis 2017 en tant qu'ancien président, il avait annoncé ne pas y siéger.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "François Hollande ne siégera pas au Conseil constitutionnel à la fin de son mandat",
+      "url": "https://www.lemonde.fr/politique/article/2014/12/12/francois-hollande-ne-siegera-pas-au-conseil-constitutionnel-a-la-fin-de-son-mandat_4539730_823448.html",
+      "date": "2014-12-12"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "bilan présidentiel (2012-2017) : le mariage et l'adoption pour les couples de même sexe sont légalisés (loi promulguée le 17 mai 2013), en application de son engagement de campagne n° 31.",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "Mariage gay: Hollande promulgue sans attendre",
+      "url": "https://www.lefigaro.fr/politique/2013/05/17/01002-20130517ARTFIG00775-mariage-gay-hollande-promulgue-sans-attendre.php",
+      "date": "2013-05-17"
+     },
+     {
+      "media": "BBC News",
+      "titre": "France's parliament approve gay marriage article",
+      "url": "https://www.bbc.com/news/world-europe-21305150",
+      "date": "2013-02-02"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "bilan présidentiel (2012-2017) : création du crédit d'impôt pour la compétitivité et l'emploi (CICE, 2013) puis annonce en janvier 2014 du « pacte de responsabilité » (allègements de cotisations patronales), présentés comme un tournant social-libéral.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Pacte de responsabilité et démocratie sociale",
+      "url": "https://www.lemonde.fr/idees/article/2014/01/10/pacte-de-responsabilite-et-democratie-sociale_4345985_3232.html",
+      "date": "2014-01-10"
+     },
+     {
+      "media": "BFMTV",
+      "titre": "Hollande a-t-il pris un virage social-libéral?",
+      "url": "https://www.bfmtv.com/politique/elysee/hollande-a-t-il-pris-un-virage-social-liberal_AN-201401080082.html",
+      "date": "2014-01-08"
+     },
+     {
+      "media": "La Tribune",
+      "titre": "Quel est le bilan économique d'Hollande, an III ?",
+      "url": "http://www.latribune.fr/economie/france/quel-est-le-bilan-economique-d-hollande-an-iii-474364.html",
+      "date": "2015"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Présidence de François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "bilan présidentiel (2012-2017) : la taxe à 75 % sur les revenus supérieurs à un million d'euros est censurée par le Conseil constitutionnel fin 2012 puis, sous une forme modifiée, supprimée au 1er février 2015.",
+    "sources": [
+     {
+      "media": "Conseil constitutionnel",
+      "titre": "Décision n° 2012-662 DC — communiqué de presse (loi de finances pour 2013)",
+      "url": "http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2012-662-dc/communique-de-presse.135513.html",
+      "date": "2012-12-29"
+     },
+     {
+      "media": "Le HuffPost",
+      "titre": "La taxe à 75% censurée",
+      "url": "https://www.huffingtonpost.fr/actualites/article/la-taxe-a-75-censuree-par-le-conseil-constitutionnel_20842.html",
+      "date": "2012-12-29"
+     },
+     {
+      "media": "Capital",
+      "titre": "La France dit au revoir à sa taxe à 75%, sans grand regret",
+      "url": "https://www.capital.fr/economie-politique/la-france-dit-au-revoir-a-sa-taxe-a-75-sans-grand-regret-1000677",
+      "date": "2014-12-23"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "bilan présidentiel (2012-2017) : hausses d'impôts en début de mandat : 840 000 foyers deviennent imposables à l'impôt sur le revenu en 2013 ; TVA normale portée de 19,6 % à 20 %.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Les six ratés de François Hollande sur la fiscalité",
+      "url": "https://www.franceinfo.fr/economie/impots/reforme-fiscale/les-six-rates-de-francois-hollande-sur-la-fiscalite_562905.html",
+      "date": "2014-04-01"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "bilan présidentiel (2012-2017) : promesse d'« inverser la courbe du chômage » fin 2013 non tenue ; le nombre de demandeurs d'emploi (catégories A, B, C) augmente d'environ 1,1 million sur le quinquennat, avant une baisse de 68 000 en catégorie A en 2016.",
+    "sources": [
+     {
+      "media": "20 Minutes",
+      "titre": "L'inversion de la courbe du chômage promise par François Hollande a-t-elle vraiment eu lieu?",
+      "url": "https://www.20minutes.fr/economie/2118063-20170817-inversion-courbe-chomage-promise-francois-hollande-vraiment-lieu",
+      "date": "2017-08-17"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Chômage : le pari perdu de François Hollande",
+      "url": "https://www.lefigaro.fr/emploi/2014/01/27/09005-20140127ARTFIG00581-hollande-echoue-a-inverser-la-courbe-du-chomage.php",
+      "date": "2014-01-27"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Inverser la courbe du chômage : histoire d'une promesse phare",
+      "url": "http://www.leparisien.fr/politique/inverser-la-courbe-du-chomage-histoire-d-une-promesse-quasiment-intenable-28-11-2013-3358281.php",
+      "date": "2013-11-28"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "bilan présidentiel (2012-2017) : loi Travail (dite El Khomri) adoptée en 2016 malgré d'importantes manifestations et le recours au 49.3.",
+    "sources": [
+     {
+      "media": "BFMTV",
+      "titre": "La loi El Khomri revue et corrigée par Hollande et Valls",
+      "url": "https://www.bfmtv.com/economie/economie-social/la-loi-el-khomri-revue-et-corrigee-par-hollande-et-valls_AV-201603140153.html",
+      "date": "2016-03-14"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Loi travail : pourquoi François Hollande maintient jusqu'au bout la réforme",
+      "url": "https://www.20minutes.fr/politique/1874303-20160627-loi-travail-pourquoi-francois-hollande-maintient-jusqu-bout-reforme",
+      "date": "2016-06-27"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "bilan présidentiel (2012-2017) : vague d'attentats islamistes (2015-2016) ; état d'urgence décrété le 14 novembre 2015 et prolongé plusieurs fois, dont après l'attentat de Nice du 14 juillet 2016.",
+    "sources": [
+     {
+      "media": "20 Minutes",
+      "titre": "Attentats à Paris : les principales annonces de François Hollande devant le congrès de Versailles",
+      "url": "https://www.20minutes.fr/politique/1731927-20151116-attentats-paris-principales-annonces-francois-hollande-devant-congres-versailles",
+      "date": "2015-11-16"
+     },
+     {
+      "media": "Europe 1",
+      "titre": "Hollande confirme la levée de l'état d'urgence le 26 juillet",
+      "url": "https://www.europe1.fr/politique/hollande-confirme-la-levee-de-letat-durgence-le-26-juillet-2799634",
+      "date": "2016-07-14"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Attentat de Nice : Hollande prolonge l'état d'urgence et veut « renforcer » les « actions » militaires",
+      "url": "https://www.lemonde.fr/societe/article/2016/07/15/nice-francois-hollande-prolonge-l-etat-d-urgence-et-fait-appel-a-la-reserve-operationnelle_4969646_3224.html",
+      "date": "2016-07-15"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "bilan présidentiel (2012-2017) : projet d'extension de la déchéance de nationalité aux binationaux condamnés pour terrorisme, qui entraîne la démission de Christiane Taubira ; il y renonce le 30 mars 2016.",
+    "sources": [
+     {
+      "media": "Marianne",
+      "titre": "Taubira démissionne avant l'examen de la déchéance de nationalité",
+      "url": "https://www.marianne.net/politique/taubira-demissionne-avant-lexamen-de-la-decheance-de-nationalite",
+      "date": "2016-01-27"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "François Hollande renonce à la déchéance de nationalité et au Congrès",
+      "url": "https://www.lemonde.fr/attaques-a-paris/article/2016/03/30/francois-hollande-renonce-a-la-decheance-de-nationalite-et-au-congres_4892426_4809495.html",
+      "date": "2016-03-30"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "bilan présidentiel (2012-2017) : interventions militaires au Mali (opération Serval, janvier 2013), en Centrafrique (Sangaris, décembre 2013) et contre l'État islamique en Irak et en Syrie (Chammal, 2014-2015).",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Intervention française au Mali : union sacrée autour de la décision du président Hollande",
+      "url": "https://www.lemonde.fr/afrique/article/2013/01/11/intervention-francaise-au-mali-union-sacree-autour-de-la-decision-du-president-hollande_1816017_3212.html",
+      "date": "2013-01-11"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "bilan présidentiel (2012-2017) : accueil à Paris de la COP21 et adoption de l'accord de Paris sur le climat (décembre 2015), considéré comme une réussite majeure du mandat.",
+    "sources": [
+     {
+      "media": "Le JDD",
+      "titre": "COP21 : un succès pour Fabius et Hollande",
+      "url": "https://www.lejdd.fr/Politique/COP21-un-succes-pour-Fabius-et-Hollande-763895",
+      "date": "2015-12-12"
+     },
+     {
+      "media": "L'Obs",
+      "titre": "Une réussite, la COP21 ? Mais oui, plutôt",
+      "url": "https://tempsreel.nouvelobs.com/planete/cop21/20151212.OBS1242/une-reussite-la-cop21-mais-oui-plutot.html",
+      "date": "2015-12-12"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Présidence de François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "bilan présidentiel (2012-2017) : la Cour des comptes juge en juin 2017 « insincères » les prévisions budgétaires et estime le déficit 2017 à 3,2 % du PIB contre 2,8 % prévus.",
+    "sources": [
+     {
+      "media": "Les Échos",
+      "titre": "Déficit : l'audit de la Cour des comptes va dresser un état des lieux sévère",
+      "url": "https://www.lesechos.fr/economie-france/budget-fiscalite/030413818269-deficit-laudit-de-la-cour-des-comptes-va-dresser-un-etat-des-lieux-severe-2097910.php",
+      "date": "2017-06-27"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "La Cour des comptes étrille la gestion de François Hollande",
+      "url": "http://www.lefigaro.fr/conjoncture/2017/06/29/20002-20170629ARTFIG00155-la-cour-des-comptes-etrille-la-gestion-de-francois-hollande.php",
+      "date": "2017-06-29"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "bilan présidentiel (2012-2017) : popularité historiquement basse (4 % d'opinions favorables selon Ipsos en octobre 2016) ; le 1er décembre 2016, il renonce à briguer un second mandat, une première sous la Ve République.",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "Popularité : à 4% de bonnes opinions, Hollande touche le fond",
+      "url": "http://www.lefigaro.fr/politique/le-scan/2016/10/25/25001-20161025ARTFIG00143-popularite-a-4-de-bonnes-opinions-hollande-touche-le-fond.php",
+      "date": "2016-10-25"
+     },
+     {
+      "media": "Marianne",
+      "titre": "François Hollande annonce qu'il ne se présente pas en 2017 pour un second mandat",
+      "url": "https://www.marianne.net/politique/francois-hollande-annonce-qu-il-ne-se-presente-pas-en-2017-pour-un-second-mandat",
+      "date": "2016-12-01"
+     },
+     {
+      "media": "L'Express",
+      "titre": "Présidentielle 2017 : François Hollande renonce et livre son testament politique",
+      "url": "http://www.lexpress.fr/actualite/politique/presidentielle-2017-francois-hollande-renonce-a-etre-candidat_1856242.html",
+      "date": "2016-12-01"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Témoigne en novembre 2021 au procès des attentats du 13 novembre 2015 (première déposition d'un ancien président devant une cour d'assises) et en octobre 2022 au procès de l'attentat de Nice.",
+    "sources": [
+     {
+      "media": "Euronews",
+      "titre": "Attentats du 13 Novembre : 8 dates marquantes d'un procès historique",
+      "url": "https://fr.euronews.com/2022/06/28/attentats-du-13-novembre-les-8-dates-marquantes-du-proces",
+      "date": "2022-06-28"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Au procès de l'attentat de Nice, François Hollande affirme qu'il n'y a pas eu de relâchement dans la lutte contre la menace terroriste",
+      "url": "https://www.lemonde.fr/societe/article/2022/10/10/au-proces-de-l-attentat-de-nice-francois-hollande-affirme-qu-il-n-y-a-pas-eu-de-relachement-dans-la-lutte-contre-la-menace-terroriste_6145235_3224.html",
+      "date": "2022-10-10"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Envisage une candidature en 2022 avant d'y renoncer en février 2022 ; refuse en 2022 l'accord NUPES et ne se présente pas aux législatives.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Comment François Hollande s'est préparé, en secret, à être candidat à l'élection présidentielle",
+      "url": "https://www.lemonde.fr/politique/article/2022/03/15/election-presidentielle-2022-comment-francois-hollande-s-est-prepare-en-secret-a-etre-candidat_6117527_823448.html",
+      "date": "2022-03-15"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Législatives : François Hollande ne sera finalement pas candidat",
+      "url": "https://www.francetvinfo.fr/politique/francois-hollande/legislatives-francois-hollande-ne-sera-finalement-pas-candidat_5149114.html",
+      "date": "2022-05-20"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "François Hollande",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Pressenti pour 2027 : refuse la primaire du PS et de Place publique et se pose en « recours » ; déclare à Marianne en avril 2026 « se préparer ». Décision non annoncée au 25 septembre 2026.",
+    "sources": [
+     {
+      "media": "Marianne",
+      "titre": "Présidentielle 2027 : le bilan de François Hollande pèse-t-il face à ses rivaux ?",
+      "url": "https://www.marianne.net/politique/gauche/presidentielle-2027-le-bilan-de-francois-hollande-pese-t-il-face-a-ses-rivaux",
+      "date": "2026-05-15"
+     },
+     {
+      "media": "Libération",
+      "titre": "Présidentielle : en marge de la primaire, François Hollande continue de jouer la carte du recours",
+      "url": "https://www.liberation.fr/politique/presidentielle-en-marge-de-la-primaire-francois-hollande-continue-de-jouer-la-carte-du-recours-20260828_V7CIHEPWP5E5ZA72AI7E5J4V3E/",
+      "date": "2026-08-28"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Olivier Faure, Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html",
+      "date": "2026-09"
+     },
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "date": "2026"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Primaire présidentielle socialiste française de 2026",
+      "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "institutions": {
+   "resume": "Réclame la proportionnelle aux élections législatives ; a qualifié de « faute institutionnelle » le refus de nommer Lucie Castets en 2024.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Cosigne en février 2026 avec 70 élus une tribune réclamant le scrutin proportionnel aux législatives pour « débloquer une mécanique politique manifestement grippée ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Elections législatives : 70 élus dont François Hollande, Elisabeth Borne et Raphaël Glucksmann réclament la proportionnelle",
+       "url": "https://www.franceinfo.fr/elections/legislatives/elections-legislatives-soixante-dix-elus-dont-francois-hollande-elisabeth-borne-et-raphael-glucksmann-reclament-la-proportionnelle_7792037.html",
+       "date": "2026-02-08"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "François Hollande",
+       "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Qualifie de « faute institutionnelle » le refus d'Emmanuel Macron de nommer Lucie Castets à Matignon en 2024.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Refus de nommer Lucie Castets : est-ce une « faute institutionnelle » comme le prétend François Hollande ?",
+       "url": "https://www.publicsenat.fr/actualites/institutions/refus-de-nommer-lucie-castets-est-ce-une-faute-institutionnelle-comme-le-pretend-francois-hollande",
+       "date": "2024-08"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "François Hollande",
+       "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "A voté en juillet 2025 la motion de censure socialiste contre le gouvernement Bayrou, faute de débat sur l'âge légal de 64 ans.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Se prononce en juin-juillet 2025 pour la motion de censure du groupe socialiste après le refus de François Bayrou de rouvrir le débat sur l'âge légal de départ à 64 ans.",
+     "sources": [
+      {
+       "media": "Le Monde",
+       "titre": "François Hollande votera la motion de censure contre le gouvernement Bayrou sur les retraites",
+       "url": "https://www.lemonde.fr/politique/article/2025/06/29/francois-hollande-votera-la-motion-de-censure-contre-le-gouvernement-bayrou-sur-les-retraites_6616367_823448.html",
+       "date": "2025-06-29"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Retraites : surprise, l'Assemblée repousse la motion de censure socialiste contre François Bayrou",
+       "url": "https://www.20minutes.fr/politique/4161428-20250701-retraites-surprise-assemblee-repousse-motion-censure-socialiste-contre-francois-bayrou",
+       "date": "2025-07-01"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "François Hollande",
+       "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Opposé à une censure « automatique », il n'a pas voté les censures sur le budget 2025 mais a voté contre la confiance à François Bayrou en septembre 2025, récusant son plan de 44 milliards d'euros d'économies.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Vote en décembre 2024 la censure du gouvernement Barnier en raison de ses choix budgétaires.",
+     "sources": [
+      {
+       "media": "Les Échos",
+       "titre": "Censure : Hollande votera pour renverser le gouvernement Barnier, les socialistes unanimes",
+       "url": "https://www.lesechos.fr/politique-societe/politique/censure-hollande-votera-pour-renverser-le-gouvernement-barnier-les-socialistes-unanimes-2134513",
+       "date": "2024-12"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "François Hollande",
+       "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Ne vote pas début 2025 les motions de censure contre le budget Bayrou (« Le pays doit être gouverné »).",
+     "sources": [
+      {
+       "media": "BFMTV",
+       "titre": "\"Le pays doit être gouverné\": François Hollande explique pourquoi il n'a pas voté la motion de censure contre Bayrou",
+       "url": "https://www.bfmtv.com/politique/parti-socialiste/le-pays-doit-etre-gouverne-francois-hollande-explique-pourquoi-il-n-a-pas-vote-la-motion-de-censure-contre-bayrou_AV-202502090255.html",
+       "date": "2025-02-09"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "Tourné vers la présidentielle de 2027, François Hollande veut reprendre la main sur la gauche",
+       "url": "https://www.lefigaro.fr/politique/tourne-vers-la-presidentielle-de-2027-francois-hollande-veut-reprendre-la-main-sur-la-gauche-20250121",
+       "date": "2025-01-21"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "François Hollande",
+       "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Vote contre la confiance au gouvernement Bayrou en septembre 2025, disant « récuser la méthode et le contenu du plan » de 44 milliards d'euros d'économies.",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "Vote de confiance : Hollande ne comprend pas comment Macron a pu laisser Bayrou prendre une telle initiative",
+       "url": "https://www.lefigaro.fr/politique/vote-de-confiance-hollande-ne-comprend-pas-comment-macron-a-pu-laisser-bayrou-prendre-une-telle-initiative-20250901",
+       "date": "2025-09-01"
+      },
+      {
+       "media": "Le HuffPost",
+       "titre": "Même Hollande votera contre la confiance à Bayrou, dont il récuse la méthode",
+       "url": "https://www.huffingtonpost.fr/politique/article/meme-hollande-votera-contre-la-confiance-a-bayrou-dont-il-recuse-la-methode_254281.html",
+       "date": "2025-09"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "François Hollande",
+       "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "« Un président ne devrait pas dire ça » : signalement au parquet pour compromission du secret de la défense nationale",
+   "statut": "accusation",
+   "date": "2016-11-04",
+   "description": "Après la parution du livre de Gérard Davet et Fabrice Lhomme (octobre 2016), dans lequel il évoque des opérations d'« homicides ciblés » et des dossiers militaires, le député LR Éric Ciotti saisit le parquet de Paris le 4 novembre 2016 pour « compromission de la défense nationale ». Le président bénéficiait alors de l'immunité prévue par la Constitution pendant son mandat. Aucune suite judiciaire publique (enquête, mise en cause) n'a été trouvée.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Rejet de la proposition des Républicains de destitution de Hollande",
+     "url": "https://www.lemonde.fr/police-justice/article/2016/11/23/rejet-de-la-proposition-des-republicains-de-destitution-de-hollande_5036556_1653578.html",
+     "date": "2016-11-23"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Un président ne devrait pas dire ça…",
+     "url": "https://fr.wikipedia.org/wiki/Un_pr%C3%A9sident_ne_devrait_pas_dire_%C3%A7a%E2%80%A6",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "« Un président ne devrait pas dire ça » : proposition de destitution (article 68)",
+   "statut": "classe_sans_suite",
+   "date": "2016-11-23",
+   "description": "79 parlementaires LR déposent une proposition de résolution visant à engager la procédure de destitution pour violation présumée du secret-défense ; le bureau de l'Assemblée nationale la rejette le 23 novembre 2016 par 13 voix contre 8. Procédure parlementaire, non judiciaire.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Violation du secret-défense : la proposition de destitution de Hollande transmise à l'exécutif",
+     "url": "https://www.lemonde.fr/politique/article/2016/11/11/violation-du-secret-defense-la-proposition-de-destitution-de-hollande-transmise-a-l-executif_5029164_823448.html",
+     "date": "2016-11-11"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Rejet de la proposition des Républicains de destitution de Hollande",
+     "url": "https://www.lemonde.fr/police-justice/article/2016/11/23/rejet-de-la-proposition-des-republicains-de-destitution-de-hollande_5036556_1653578.html",
+     "date": "2016-11-23"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Un président ne devrait pas dire ça…",
+     "url": "https://fr.wikipedia.org/wiki/Un_pr%C3%A9sident_ne_devrait_pas_dire_%C3%A7a%E2%80%A6",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "« Un président ne devrait pas dire ça » : aveux d'homicides ciblés",
+   "statut": "accusation",
+   "date": "2016-10-19",
+   "description": "Dans le livre, il indique avoir ordonné au moins quatre exécutions ciblées de terroristes ; le ministre des Affaires étrangères se désolidarise et Jean-Luc Mélenchon estime que ces faits, s'ils sont avérés, relèvent de la Cour pénale internationale. Aucune procédure connue.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "titre": "Assassinats ciblés : Hollande critiqué jusqu'au sein du gouvernement",
+     "url": "http://www.lefigaro.fr/politique/le-scan/couacs/2016/10/19/25005-20161019ARTFIG00130-assassinats-cibles-de-terroristes-hollande-critique-jusqu-au-sein-du-gouvernement.php",
+     "date": "2016-10-19"
+    },
+    {
+     "media": "Le Parisien",
+     "titre": "VIDEOS. Mélenchon met en garde Hollande contre les assassinats ciblés de djihadistes",
+     "url": "http://www.leparisien.fr/politique/videos-melenchon-met-en-garde-hollande-contre-les-assassinats-cibles-de-djihadistes-18-10-2016-6223053.php",
+     "date": "2016-10-18"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Un président ne devrait pas dire ça…",
+     "url": "https://fr.wikipedia.org/wiki/Un_pr%C3%A9sident_ne_devrait_pas_dire_%C3%A7a%E2%80%A6",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "« Un président ne devrait pas dire ça » : propos sur la « lâcheté » des magistrats",
+   "statut": "accusation",
+   "date": "2016-10-13",
+   "description": "Il qualifie la justice d'« institution de lâcheté » ; le premier président de la Cour de cassation et le procureur général dénoncent un « problème institutionnel », l'USM se dit « consternée ». Il exprime ensuite ses regrets par lettre. Aucune procédure.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Pour les magistrats, les propos de Hollande « posent un problème institutionnel »",
+     "url": "https://www.lemonde.fr/politique/article/2016/10/13/francois-hollande-dilapide-son-credit-aupres-des-magistrats_5012928_823448.html",
+     "date": "2016-10-13"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Hollande/magistrats: l'USM se dit \"consternée\"",
+     "url": "https://www.lefigaro.fr/flash-actu/2016/10/12/97001-20161012FILWWW00196-hollandemagistrats-l-usm-se-dit-consternee.php",
+     "date": "2016-10-12"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Propos sur les magistrats : Hollande « regrette ce qui a été ressenti comme une blessure »",
+     "url": "https://www.lemonde.fr/politique/article/2016/10/14/propos-sur-les-magistrats-francois-hollande-dit-regretter-profondement-ce-qui-a-ete-ressenti-comme-une-blessure_5013779_823448.html",
+     "date": "2016-10-14"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Un président ne devrait pas dire ça…",
+     "url": "https://fr.wikipedia.org/wiki/Un_pr%C3%A9sident_ne_devrait_pas_dire_%C3%A7a%E2%80%A6",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Accusation de « cabinet noir » (2017)",
+   "statut": "classe_sans_suite",
+   "date": "2017-04-06",
+   "description": "François Fillon accuse l'Élysée d'utiliser un « cabinet noir » contre lui ; six responsables LR demandent une enquête, mais le parquet national financier refuse d'en ouvrir une, jugeant les accusations trop imprécises.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "titre": "«Cabinet noir» : les ténors de la droite réclament l'ouverture d'une enquête",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/2017/03/26/35003-20170326ARTFIG00184-cabinet-noir-les-tenors-de-la-droite-reclament-l-ouverture-d-une-enquete.php",
+     "date": "2017-03-26"
+    },
+    {
+     "media": "BFMTV",
+     "titre": "Soupçons d'un \"cabinet noir\": le parquet financier n'ouvrira pas d'enquête",
+     "url": "https://www.bfmtv.com/police-justice/soupcons-d-un-cabinet-noir-le-parquet-financier-n-ouvrira-pas-d-enquete_AN-201704060064.html",
+     "date": "2017-04-06"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "François Hollande",
+     "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Conférences rémunérées après l'Élysée",
+   "statut": "accusation",
+   "date": "2019-02-01",
+   "description": "Il crée en janvier 2019 une société pour facturer ses conférences, alors qu'il avait critiqué cette pratique chez Nicolas Sarkozy et annoncé les faire bénévolement ; la société lui a versé plus de 330 000 € nets entre 2019 et 2024 selon sa déclaration HATVP. Aucune procédure judiciaire.",
+   "sources": [
+    {
+     "media": "L'Express",
+     "titre": "Hollande crée une société pour ses conférences rémunérées",
+     "url": "https://www.lexpress.fr/actualite/politique/hollande-cree-une-societe-pour-ses-conferences-remunerees_2060200.html",
+     "date": "2019-02-01"
+    },
+    {
+     "media": "HATVP",
+     "titre": "Fiche François Hollande (déclaration d'intérêts de député, modification du 22 janvier 2025)",
+     "url": "https://www.hatvp.fr/pages_nominatives/hollande-francois-27434",
+     "date": "2025-01-22"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "François Hollande",
+     "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Présidentielle 2012 : compte de campagne approuvé par la CNCCFP (décision du 19 décembre 2012), dépenses de 21 719 956 € et remboursement forfaitaire de l'État de 10 691 775 €.",
+   "sources": [
+    {
+     "media": "Légifrance (JORF)",
+     "titre": "Décision de la CNCCFP du 19 décembre 2012 relative au compte de campagne de M. François Hollande",
+     "url": "https://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=CCCX1302557S",
+     "date": "2012-12-19"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Modèle:Élection présidentielle française de 2012 - comptes",
+     "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le:%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2012_-_comptes",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Déclaration d'intérêts HATVP (janvier 2025) : droits d'auteur (Stock : 168 331 € en 2019), rémunération de gérant de sa société de conférences, participation évaluée à 169 158 € dans cette société et 25 % d'une SCI évalués à 277 451 €.",
+   "sources": [
+    {
+     "media": "HATVP",
+     "titre": "Fiche François Hollande (déclaration d'intérêts de député, modification du 22 janvier 2025)",
+     "url": "https://www.hatvp.fr/pages_nominatives/hollande-francois-27434",
+     "date": "2025-01-22"
+    }
+   ]
+  },
+  {
+   "texte": "Campagne 2027 : aucune candidature déclarée ni structure de financement annoncée au 25 septembre 2026.",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "Présidentielle : en marge de la primaire, François Hollande continue de jouer la carte du recours",
+     "url": "https://www.liberation.fr/politique/presidentielle-en-marge-de-la-primaire-francois-hollande-continue-de-jouer-la-carte-du-recours-20260828_V7CIHEPWP5E5ZA72AI7E5J4V3E/",
+     "date": "2026-08-28"
+    },
+    {
+     "media": "LCP",
+     "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+     "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+     "date": "2026"
+    }
+   ]
+  }
+ ]
+}

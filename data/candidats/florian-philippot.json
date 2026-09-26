@@ -1,0 +1,603 @@
+{
+ "id": "florian-philippot",
+ "nom": "Florian Philippot",
+ "naissance": "1981-10-24",
+ "lieu_naissance": "Croix (Nord)",
+ "parti": "Les Patriotes",
+ "parti_sigle": "LP",
+ "famille": "extreme_droite",
+ "position": 8,
+ "position_justif": {
+  "texte": "Position 8, proche du RN sur le barème : Wikipédia classe Les Patriotes « de la droite à l'extrême droite » ; le politologue Jean-Yves Camus les place sur le créneau « radical-populiste » ; franceinfo le présente en 2026 comme « souverainiste ». Ligne économique étatiste (monopoles publics, sortie de l'euro) et priorité au Frexit.",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Les Patriotes (parti politique)",
+    "url": "https://fr.wikipedia.org/wiki/Les_Patriotes_(parti_politique)",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Florian Philippot",
+    "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2027 : le souverainiste Florian Philippot annonce sa candidature à l'Elysée",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+    "date": "2026-05-09"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/florian-philippot.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:2022-04-16_16-49-26_MAM-Paris_02.jpg",
+  "auteur": "Thomas Bresson",
+  "licence": "CC BY 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/lp.png",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Les_Patriotes_2018.png",
+  "licence": "Marque déposée (logo non libre, usage informatif)"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Classe préparatoire au lycée Louis-le-Grand, diplômé d'HEC (entré en 2001, diplômé en 2009) ; prépare l'ENA à Paris-Dauphine et intègre la promotion Willy-Brandt (sortie 2009, classé 34e sur 92).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Florian Philippot",
+      "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Légifrance (JORF)",
+      "titre": "Arrêté du 4 mai 2009 portant affectation aux carrières des élèves de la promotion 2007-2009 « Willy Brandt »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000020585214",
+      "date": "2009-05-04"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Stage puis poste à l'institut de sondages TNS Sofres pendant ses études ; inspecteur à l'Inspection générale de l'administration (ministère de l'Intérieur) à partir de 2009, en disponibilité depuis 2011.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Florian Philippot",
+      "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Légifrance (JORF)",
+      "titre": "Arrêté du 4 mai 2009 portant affectation aux carrières des élèves de la promotion 2007-2009 « Willy Brandt »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000020585214",
+      "date": "2009-05-04"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Vice-président du Front national chargé de la stratégie et de la communication du 12 juillet 2012 au 21 septembre 2017 ; quitte le FN le 21 septembre 2017 après le retrait de sa délégation.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Florian Philippot",
+      "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "RÉCIT FRANCEINFO. « C'est un traître qui a organisé son départ » : les coulisses du divorce entre Marine Le Pen et Florian Philippot",
+      "url": "https://www.francetvinfo.fr/politique/marine-le-pen/recit-franceinfo-c-est-un-traitre-qui-a-organise-son-depart-les-coulisses-du-divorce-entre-marine-le-pen-et-florian-philippot_2383060.html",
+      "date": "2017-09-22"
+     }
+    ]
+   },
+   {
+    "texte": "Député européen (circonscription Est) du 1er juillet 2014 au 1er juillet 2019 ; sa liste FN arrive en tête en 2014 (28,98 %). Sa liste Les Patriotes obtient 0,65 % en 2019 (estimation Ipsos le soir du vote : 0,7 %) et il perd son siège.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Florian Philippot",
+      "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Européennes : la liste Les Patriotes de Florian Philippot obtient 0,7 % des voix, selon notre estimation Ipsos/Sopra Steria",
+      "url": "https://www.francetvinfo.fr/elections/europeennes/europeennes-la-liste-les-patriotes-de-florian-philippot-obtient-0-7-des-voix-selon-notre-estimation-ipsos-sopra-steria_3456961.html",
+      "date": "2019-05-26"
+     }
+    ]
+   },
+   {
+    "texte": "Conseiller municipal de Forbach (30 mars 2014 – 4 janvier 2016), puis conseiller régional du Grand Est (4 janvier 2016 – 2 juillet 2021) ; sa liste « Liberté » obtient 6,95 % aux régionales de 2021, ce qui lui fait perdre son dernier mandat.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Florian Philippot",
+      "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Forbach : le frontiste Florian Philippot rate son parachutage",
+      "url": "https://www.lemonde.fr/municipales/article/2014/03/30/forbach-le-frontiste-florian-philippot-rate-son-parachutage_4392321_1828682.html",
+      "date": "2014-03-30"
+     },
+     {
+      "media": "France 3 Grand Est",
+      "titre": "Régionales 2021 dans le Grand Est : quel avenir politique pour Florian Philippot ?",
+      "url": "https://france3-regions.francetvinfo.fr/grand-est/moselle/regionales-2021-dans-le-grand-est-quel-avenir-politique-pour-florian-philippot-2146513.html",
+      "date": "2021-06"
+     }
+    ]
+   },
+   {
+    "texte": "Fonde Les Patriotes (association en mai 2017, parti politique le 29 septembre 2017, congrès fondateur le 18 février 2018) et en est le président.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Florian Philippot",
+      "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Les Patriotes (parti politique)",
+      "url": "https://fr.wikipedia.org/wiki/Les_Patriotes_(parti_politique)",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Florian Philippot transforme son association Les Patriotes en parti politique",
+      "url": "http://www.lefigaro.fr/politique/le-scan/2017/09/29/25001-20170929ARTFIG00103-florian-philippot-transforme-son-association-les-patriotes-en-parti-politique.php",
+      "date": "2017-09-29"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Candidat déclaré à la présidentielle de 2022 (juillet 2021), il se retire le 18 février 2022 avec un seul parrainage validé sur les 500 requis, puis se rallie à Nicolas Dupont-Aignan.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Florian Philippot",
+      "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Conseil constitutionnel",
+      "titre": "Parrainages validés par candidat – présidentielle 2022",
+      "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+      "date": "2022-03"
+     }
+    ]
+   },
+   {
+    "texte": "Pendant la pandémie de Covid-19, organise des manifestations hebdomadaires contre les mesures sanitaires et le passe sanitaire ; plusieurs de ses déclarations sur le sujet ont été jugées trompeuses par des médias de vérification.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Florian Philippot",
+      "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "VRAI OU FAKE. Covid-19 : Florian Philippot a-t-il toujours eu les mêmes positions ?",
+      "url": "https://www.francetvinfo.fr/sante/maladie/coronavirus/chloroquine/vrai-ou-fake-covid-19-florian-philippot-a-t-il-toujours-eu-les-memes-positions_4757567.html",
+      "date": "2021"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce sa candidature à la présidentielle de 2027 le 9 mai 2026 sur France 2, en se disant prêt à se retirer au profit d'une candidature souverainiste « plus rassembleuse » comme celle de Philippe de Villiers.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2027 : le souverainiste Florian Philippot annonce sa candidature à l'Elysée",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+      "date": "2026-05-09"
+     },
+     {
+      "media": "BFMTV",
+      "titre": "Présidentielle 2027 : le président des Patriotes Florian Philippot annonce être candidat à l'Élysée",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-le-president-des-patriotes-florian-philippot-annonce-etre-candidat-a-l-elysee_AN-202605090155.html",
+      "date": "2026-05-09"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Liste commune avec Jean-Frédéric Poisson aux européennes de 2024 : environ 1 % des voix, sans élu.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Florian Philippot",
+      "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Élections européennes : pas de miracle pour Les Patriotes de Florian Philippot",
+      "url": "https://www.leparisien.fr/elections/europeennes/elections-europeennes-pas-de-miracle-pour-les-patriotes-de-florian-philippot-qui-obtiennent-1-des-voix-09-06-2024-LVO7METUVVCENORMQQMRNGSBDI.php",
+      "date": "2024-06-09"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "europe": {
+   "resume": "Propose le Frexit : sortie de l'Union européenne par l'article 50, de l'euro (retour au franc à parité 1 franc = 1 €), de Schengen et de la CEDH.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Candidat « pour sortir le pays de l'UE » ; le Frexit est présenté comme « la clé de voûte » du projet.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Présidentielle 2027 : le souverainiste Florian Philippot annonce sa candidature à l'Elysée",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+       "date": "2026-05-09"
+      },
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "texte": "Livret 2026-2027 : activer l'article 50 du TUE ; nouvelle monnaie nationale sur la base « 1 nouveau franc = 1 € », conversion de la dette selon la lex monetae, contrôle temporaire des capitaux ; quitter Schengen et dénoncer la Convention européenne des droits de l'homme.",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Propose de quitter l'OTAN, de cesser le financement de la guerre en Ukraine et de conserver la dissuasion nucléaire sous contrôle strictement national ; rejette une armée européenne.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Veut sortir la France de l'OTAN.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Présidentielle 2027 : le souverainiste Florian Philippot annonce sa candidature à l'Elysée",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+       "date": "2026-05-09"
+      },
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "texte": "Livret 2026-2027 : « couper les financements de la guerre en Ukraine », « lancer une véritable initiative en faveur de la paix », refus de toute armée européenne et de tout partage de la dissuasion nucléaire.",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Chiffre à 20 Md€ par an l'économie liée au Frexit et vise environ 60 Md€ d'économies et 75 Md€ de recettes supplémentaires par an (droits de douane, lutte contre la fraude, croissance).",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : économie de 20 Md€/an de contribution nette à l'UE ; tableau d'économies (doublons de la fonction publique territoriale, « baisse du coût lié à l'immigration », etc.) totalisant 60 Md€/an et recettes supplémentaires de 74,8 Md€/an (droits de douane, fraude fiscale et sociale, croissance).",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "economie_fiscalite": {
+   "resume": "Propose un « protectionnisme intelligent », 10 % de droits de douane supplémentaires sur la Chine ou le Mercosur, la renationalisation des autoroutes et le rétablissement des monopoles publics dans le rail et l'énergie.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : sortir des accords de libre-échange, droits de douane supplémentaires de 10 % (Chine, Mercosur…), Caisse nationale pour l'équipement et la réindustrialisation financée par la Banque de France, renationalisation des autoroutes, monopoles publics dans le rail et l'énergie, allègements pour indépendants et TPE/PME.",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose de quitter le marché européen de l'électricité, de rétablir le monopole public d'EDF, d'investir massivement dans le nucléaire et l'hydroélectricité, un moratoire sur l'éolien avec démantèlement, et de préserver la voiture thermique après 2035.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : sortie du marché européen de l'électricité (prix annoncé divisé par trois), monopole public national d'EDF, investissement dans le nucléaire, « moratoire total et définitif » sur l'éolien terrestre et en mer et plan de démantèlement, refus de la privatisation des barrages.",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose de baisser l'âge de départ à la retraite, sans âge chiffré, après la sortie de l'UE.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : « Baisser l'âge de départ à la retraite » si les Français le désirent, une fois la France « délivrée de la menace bruxelloise ».",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Propose une « liberté vaccinale », la sortie de l'OMS, la suppression des ARS et du Conseil de l'Ordre des médecins et des centres de santé de proximité.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : liberté vaccinale pour tous (aucun soignant ne doit perdre son emploi), sortie de l'OMS et dénonciation du traité mondial sur les pandémies, suppression des ARS et du Conseil de l'Ordre, centres de santé locaux pour désengorger l'hôpital.",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Propose de mettre fin à l'immigration de travail et à la directive sur les travailleurs détachés, de quitter Schengen, de dissoudre Frontex et de sortir du pacte migratoire européen.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : flux « extrêmement limités », « parfaite assimilation » ou départ, fin de l'immigration de travail et des travailleurs détachés, application des OQTF, dissolution de Frontex, sortie du pacte européen sur la migration.",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose une police de proximité, le rétablissement des peines planchers, la fin de l'excuse automatique de minorité, la construction de places de prison et l'expulsion des détenus étrangers.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : police de proximité, peines planchers et fin des réductions automatiques de peine, excuse de minorité seulement sur motivation spéciale du juge, construction de « dizaines de milliers de places de prison » et expulsion des détenus étrangers ; castration chimique automatique en cas de récidive pédocriminelle.",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose le référendum d'initiative citoyenne (RIC) « sur tout sujet » inscrit dans la Constitution, une révision constitutionnelle uniquement par référendum et l'inéligibilité à vie des élus condamnés pour corruption.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : RIC sur tout sujet inscrit dans la Constitution, suppression de la révision par le Congrès, inéligibilité à vie pour corruption.",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "texte": "Charte des Patriotes (2017) : suppression du Sénat.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Les Patriotes (parti politique)",
+       "url": "https://fr.wikipedia.org/wiki/Les_Patriotes_(parti_politique)",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Le Point",
+       "titre": "Philippot présente la « charte » des Patriotes en réclamant un Frexit",
+       "url": "http://www.lepoint.fr/politique/philippot-presente-la-charte-des-patriotes-en-reclamant-un-frexit-07-11-2017-2170371_20.php",
+       "date": "2017-11-07"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Propose de supprimer la PAC au profit d'une « Politique agricole française », des prix planchers, des quotas ou barrières tarifaires y compris envers les pays européens, et l'interdiction des insectes dans l'alimentation.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : remplacer la PAC par une « PAF » fondée sur les circuits courts et le bio, prix planchers, fin des accords de libre-échange, arrêt des abattages sanitaires massifs de cheptels.",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "ia_numerique": {
+   "resume": "Propose une sortie programmée des GAFAM en 3 ans dans l'État, l'hébergement des données sensibles sur serveurs publics, un Commissariat à la souveraineté numérique et un soutien massif à l'IA française, avec une école « sans IA ».",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : sortie des GAFAM en 3 ans, données stratégiques sur serveurs publics ou contrôlés par l'ANSSI, grande loi et Commissariat à la souveraineté numérique, soutien public à la recherche et aux capacités de calcul en IA, « École sanctuaire sans IA ».",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Propose de consacrer la moitié du temps scolaire en primaire au français, d'en finir avec le collège unique (parcours différenciés dès 14 ans) et d'assouplir l'instruction en famille.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : moitié du temps scolaire du primaire consacrée au français, fin du collège unique avec des parcours différenciés dès 14 ans, revalorisation des enseignants, retour sur les restrictions de l'école à la maison.",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose de mettre fin aux travailleurs détachés et à l'immigration de travail, présentées comme tirant les salaires vers le bas.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Livret 2026-2027 : fin de la directive sur les travailleurs détachés (« 1 million d'emplois perdus » sur 10 ans selon le parti) et de l'immigration de travail.",
+     "sources": [
+      {
+       "media": "Les Patriotes",
+       "titre": "Grandes orientations pour un projet patriote + le Frexit en 10 questions (édition 2026-2027)",
+       "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/projet-pour-la-france-2026.pdf",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Plainte en diffamation du Qatar",
+   "statut": "accusation",
+   "date": "2016-02-02",
+   "description": "Après l'attentat contre Charlie Hebdo (janvier 2015), il laisse entendre que le Qatar finance le terrorisme islamiste ; l'émirat porte plainte pour diffamation. Le Parlement européen refuse le 2 février 2016 de lever son immunité parlementaire, demandée par la cour d'appel de Versailles. Aucune suite judiciaire n'a été trouvée.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "titre": "Le parlement européen refuse de lever l'immunité de Florian Philippot",
+     "url": "http://www.lefigaro.fr/flash-actu/2016/02/02/97001-20160202FILWWW00181-le-parlement-europeen-refuse-de-lever-l-immunite-de-florian-philippot.php",
+     "date": "2016-02-02"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Florian Philippot",
+     "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Comptes 2024 des Patriotes (CNCCFP) : produits 2 558 562 € (cotisations 1 037 180 €, dons de personnes physiques 997 475 €, aide publique 198 497 €), charges 2 108 664 €, excédent de 449 898 € ; dettes limitées à 105 344 € (dettes fournisseurs et fiscales/sociales, aucun emprunt) ; situation nette positive de 2 983 846 €.",
+   "sources": [
+    {
+     "media": "CNCCFP",
+     "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (JORF du 10 février 2026)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+     "date": "2026-02-10"
+    }
+   ]
+  },
+  {
+   "texte": "Présidentielle 2022 : retiré le 18 février 2022 faute de parrainages (un seul validé), il n'a pas été candidat officiel ; aucun compte de campagne présidentiel n'a été trouvé.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Florian Philippot",
+     "url": "https://fr.wikipedia.org/wiki/Florian_Philippot",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Conseil constitutionnel",
+     "titre": "Parrainages validés par candidat – présidentielle 2022",
+     "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+     "date": "2022-03"
+    }
+   ]
+  },
+  {
+   "texte": "Financement de la campagne 2027 : aucune information publique trouvée (association de financement, prêts) à la date du 25 septembre 2026 ; le site du parti appelle aux dons et adhésions.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Présidentielle 2027 : le souverainiste Florian Philippot annonce sa candidature à l'Elysée",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-souverainiste-florian-philippot-annonce-sa-candidature-a-l-elysee_7993346.html",
+     "date": "2026-05-09"
+    },
+    {
+     "media": "Les Patriotes",
+     "titre": "Site officiel",
+     "url": "https://les-patriotes.fr/",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ]
+}

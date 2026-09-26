@@ -1,0 +1,517 @@
+{
+ "id": "karim-bouamrane",
+ "nom": "Karim Bouamrane",
+ "naissance": "1973-02-21",
+ "lieu_naissance": "Clichy (Hauts-de-Seine)",
+ "parti": "Parti socialiste (maire de Saint-Ouen)",
+ "parti_sigle": "PS",
+ "famille": "centre_gauche",
+ "position": -2.5,
+ "position_justif": {
+  "texte": "Maire PS se présentant comme social-démocrate (fondateur du mouvement La France humaine et forte), soutien de Manuel Valls à la primaire de 2017, il prône une « rupture claire, nette, précise » avec LFI et renvoie « dos à dos » LFI et le RN. Placé à droite du barème PS (−4), près de Place publique (−3).",
+  "sources": [
+   {
+    "media": "Le Monde",
+    "titre": "Karim Bouamrane, le maire de Saint-Ouen, veut incarner la social-démocratie",
+    "url": "https://www.lemonde.fr/politique/article/2024/10/04/karim-bouamrane-le-maire-de-saint-ouen-veut-incarner-la-social-democratie_6343102_823448.html",
+    "date": "2024-10-04"
+   },
+   {
+    "media": "Le Figaro",
+    "titre": "Présidentielle 2027 : «Je suis candidat», annonce le maire socialiste de Saint-Ouen Karim Bouamrane",
+    "url": "https://www.lefigaro.fr/politique/presidentielle-2027-je-suis-candidat-annonce-karim-bouamrane-ps-20260609",
+    "date": "2026-06-09"
+   },
+   {
+    "media": "CNews",
+    "titre": "Présidentielle 2027 : Karim Bouamrane ne participera pas à la primaire socialiste",
+    "url": "https://www.cnews.fr/france/2026-08-26/presidentielle-2027-karim-bouamrane-ne-participera-pas-la-primaire-socialiste",
+    "date": "2026-08-26"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Karim Bouamrane",
+    "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+    "date": "2026-09-25"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/karim-bouamrane.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Karim_Bouamrane_en_2026_(cropped).jpg",
+  "auteur": "Oumma",
+  "licence": "CC BY 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/ps.svg",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Logo_Parti_Socialiste_-_2024.svg",
+  "licence": "marque déposée"
+ },
+ "bio": {
+  "etudes": [],
+  "carriere_hors_politique": [
+   {
+    "texte": "Directeur des ventes (1999-2012) chez RSA, Coredo Networks Security et Aruba Networks, puis cadre dirigeant dans la cybersécurité (Xirrus, Guidance Software, Bitglass, dont il devient directeur Europe du Sud en 2018).",
+    "sources": [
+     {
+      "media": "Global Security Mag",
+      "titre": "Bitglass nomme Karim Bouamrane au poste de directeur Europe du Sud",
+      "url": "https://www.globalsecuritymag.fr/Bitglass-nomme-Karim-Bouamrane-au,20180213,76872.html",
+      "date": "2018-02-13"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseiller municipal de Saint-Ouen de 1995 à 2014, d'abord élu communiste (adhésion au PCF en 1995), avant de rejoindre le PS en 2014.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Yabiladi",
+      "titre": "Portrait : Karim Bouamrane, franco-marocain et nouveau porte-parole du Parti socialiste",
+      "url": "https://www.yabiladi.com/articles/details/49489/portrait-karim-bouamrane-franco-marocain-nouveau.html",
+      "date": "2016-12-22"
+     }
+    ]
+   },
+   {
+    "texte": "Maire de Saint-Ouen-sur-Seine depuis juillet 2020 (liste PS arrivée en tête avec 38,1 % en triangulaire), réélu en mars 2026 avec 56,4 % au second tour face à une liste LFI et à la liste UDI.",
+    "sources": [
+     {
+      "media": "Le Parisien",
+      "titre": "Municipales à Saint-Ouen : Bouamrane ramène la ville à gauche",
+      "url": "https://www.leparisien.fr/seine-saint-denis-93/municipales-a-saint-ouen-bouamrane-ramene-la-ville-a-gauche-29-06-2020-8343891.php",
+      "date": "2020-06-29"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Élections municipales 2020 - Saint-Ouen-sur-Seine",
+      "url": "https://elections.interieur.gouv.fr/municipales-2020/093/093070.html",
+      "date": "2020"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "« Ce résultat est une fierté » : à Saint-Ouen, Karim Bouamrane gagne haut la main le second tour des municipales",
+      "url": "https://www.leparisien.fr/elections/municipales/ce-resultat-est-une-fierte-a-saint-ouen-karim-bouamrane-gagne-haut-la-main-le-second-tour-des-municipales-23-03-2026-F6TNMOVR2FEXBIUO6ECIVR36ZA.php",
+      "date": "2026-03-23"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Saint-Ouen-sur-Seine (93070) - Élections municipales 2026",
+      "url": "https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/11/93/93070/",
+      "date": "2026"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Conseiller départemental de la Seine-Saint-Denis et vice-président du département chargé de la culture depuis 2021.",
+    "sources": [
+     {
+      "media": "Le Parisien",
+      "titre": "Départementales en Seine-Saint-Denis : la gauche confirme sa victoire écrasante à Saint-Ouen",
+      "url": "https://www.leparisien.fr/seine-saint-denis-93/departementales-en-seine-saint-denis-la-gauche-confirme-sa-victoire-ecrasante-a-saint-ouen-28-06-2021-PFHTYBHPO5ASZKINYHMJVIS4YY.php",
+      "date": "2021-06-28"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Président du conseil de surveillance de la Société du Grand Paris (devenue Société des grands projets) à partir de novembre 2022.",
+    "sources": [
+     {
+      "media": "Les Échos",
+      "titre": "Karim Bouamrane, le maire de Saint-Ouen élu président du conseil de surveillance de la Société du Grand Paris",
+      "url": "https://www.lesechos.fr/pme-regions/ile-de-france/karim-bouamrane-le-maire-de-saint-ouen-elu-president-du-conseil-de-surveillance-de-la-societe-du-grand-paris-1882569",
+      "date": "2022-11-24"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Le maire de Saint-Ouen Karim Bouamrane (PS) prend la direction de la Société du Grand Paris",
+      "url": "https://www.leparisien.fr/seine-saint-denis-93/le-maire-de-saint-ouen-karim-bouamrane-ps-prend-la-direction-de-la-societe-du-grand-paris-25-11-2022-DB6JE5DZ7JFN5LF5W7C7CQT5YI.php",
+      "date": "2022-11-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Secrétaire national du PS à l'innovation (2016) puis porte-parole du parti sous Jean-Christophe Cambadélis.",
+    "sources": [
+     {
+      "media": "Le Parisien",
+      "titre": "Saint-Ouen : Karim Bouamrane grimpe au PS",
+      "url": "https://www.leparisien.fr/seine-saint-denis-93/saint-ouen-93400/saint-ouen-karim-bouamrane-grimpe-au-ps-15-04-2016-5719101.php",
+      "date": "2016-04-15"
+     },
+     {
+      "media": "Yabiladi",
+      "titre": "Portrait : Karim Bouamrane, franco-marocain et nouveau porte-parole du Parti socialiste",
+      "url": "https://www.yabiladi.com/articles/details/49489/portrait-karim-bouamrane-franco-marocain-nouveau.html",
+      "date": "2016-12-22"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Fils d'un ouvrier du bâtiment marocain, il grandit à Saint-Ouen.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Yabiladi",
+      "titre": "Portrait : Karim Bouamrane, franco-marocain et nouveau porte-parole du Parti socialiste",
+      "url": "https://www.yabiladi.com/articles/details/49489/portrait-karim-bouamrane-franco-marocain-nouveau.html",
+      "date": "2016-12-22"
+     }
+    ]
+   },
+   {
+    "texte": "Sa ville accueille une partie du village olympique des JO 2024 ; son nom est cité en août 2024 pour Matignon.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Karim Bouamrane, la \"hype\" soudaine d'un maire PS que certains voient à Matignon",
+      "url": "https://www.lemonde.fr/politique/article/2024/08/21/choix-du-premier-ministre-la-hype-soudaine-de-karim-bouamrane_6288956_823448.html",
+      "date": "2024-08-21"
+     },
+     {
+      "media": "La Voix du Nord",
+      "titre": "Qui est Karim Bouamrane, nouvelle égérie de la social-démocratie et joker pour Matignon ?",
+      "url": "https://www.lavoixdunord.fr/1494301/article/2024-08-21/qui-est-karim-bouamrane-nouvelle-egerie-de-la-social-democratie-et-joker-pour",
+      "date": "2024-08-21"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Fonde en octobre 2024 le mouvement social-démocrate « La France humaine et forte ».",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Karim Bouamrane, le maire de Saint-Ouen, veut incarner la social-démocratie",
+      "url": "https://www.lemonde.fr/politique/article/2024/10/04/karim-bouamrane-le-maire-de-saint-ouen-veut-incarner-la-social-democratie_6343102_823448.html",
+      "date": "2024-10-04"
+     },
+     {
+      "media": "Politico Europe",
+      "titre": "Macron compte jusqu'à un",
+      "url": "https://www.politico.eu/newsletter/playbook-paris/macron-compte-jusqua-un/",
+      "date": "2024-10-03"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Nommé chevalier de la Légion d'honneur en 2024.",
+    "sources": [
+     {
+      "media": "Actu.fr",
+      "titre": "Le maire de Saint-Ouen Karim Bouamrane distingué de la Légion d'honneur",
+      "url": "https://actu.fr/ile-de-france/saint-ouen-sur-seine_93070/le-maire-de-saint-ouen-karim-bouamrane-distingue-de-la-legion-d-honneur_61333917.html",
+      "date": "2024-07-10"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Après les municipales de 2026, appelle à la démission d'Olivier Faure en reprochant aux alliances PS-LFI d'avoir fait perdre des villes à la gauche.",
+    "sources": [
+     {
+      "media": "France 24 (AFP)",
+      "titre": "Accords PS/LFI: Bouamrane appelle à la démission d'Olivier Faure",
+      "url": "https://www.france24.com/fr/info-en-continu/20260324-accords-ps-lfi-bouamrane-appelle-%C3%A0-la-d%C3%A9mission-d-olivier-faure",
+      "date": "2026-03-24"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Candidat malheureux en avril 2026 à la présidence de l'intercommunalité Plaine Commune face à l'insoumis Bally Bagayoko.",
+    "sources": [
+     {
+      "media": "LCP",
+      "titre": "La bataille à gauche se poursuit en Seine-Saint-Denis: PS et LFI face-à-face pour présider l'intercommunalité Plaine commune",
+      "url": "https://lcp.fr/actualites/la-bataille-a-gauche-se-poursuit-en-seine-saint-denis-ps-et-lfi-face-a-face-pour",
+      "date": "2026-04-20"
+     },
+     {
+      "media": "Libération",
+      "titre": "L'insoumis Bally Bagayoko s'impose à la tête de Plaine commune, la stratégique intercommunalité de Seine-Saint-Denis",
+      "url": "https://www.liberation.fr/politique/linsoumis-bally-bagayoko-simpose-a-la-tete-de-plaine-commune-la-strategique-intercommunalite-de-seine-saint-denis-20260421_I3VSKHWCIRCRLETOV4ULO4JGYY/",
+      "date": "2026-04-21"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Karim Bouamrane",
+      "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Oppose en 2026 l'installation d'un restaurant Master Poulet à Saint-Ouen au nom de la lutte contre la « malbouffe », ce qui l'oppose à LFI.",
+    "sources": [
+     {
+      "media": "Le HuffPost",
+      "titre": "LFI s'invite avec gourmandise dans la bataille entre Karim Bouamrane et Master Poulet",
+      "url": "https://www.huffingtonpost.fr/politique/article/lfi-s-invite-avec-gourmandise-dans-la-bataille-entre-karim-bouamrane-et-master-poulet_263095.html",
+      "date": "2026-04-26"
+     },
+     {
+      "media": "France Culture",
+      "titre": "A Saint-Ouen, le poulet de la discorde",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-billet-politique/a-saint-ouen-le-poulet-de-la-discorde-5371092",
+      "date": "2026-04-30"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Présidentielle 2027 : «Je suis candidat», annonce le maire socialiste de Saint-Ouen Karim Bouamrane",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-je-suis-candidat-annonce-karim-bouamrane-ps-20260609",
+      "date": "2026-06-09"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce sa candidature à la présidentielle le 9 juin 2026 sur France Inter ; refuse le 26 août de participer à la primaire du PS et de Place publique, qu'il juge « fermée », tout en se disant « plus que jamais candidat ».",
+    "sources": [
+     {
+      "media": "France Inter",
+      "titre": "\"Je suis la candidature qui fédère\", annonce Karim Bouamrane maire PS de Saint-Ouen, qui se présente à la présidentielle",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-mardi-09-juin-2026-9244175",
+      "date": "2026-06-09"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Présidentielle 2027 : «Je suis candidat», annonce le maire socialiste de Saint-Ouen Karim Bouamrane",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-je-suis-candidat-annonce-karim-bouamrane-ps-20260609",
+      "date": "2026-06-09"
+     },
+     {
+      "media": "BFMTV",
+      "titre": "\"Se renfermer entre-nous\": Karim Bouamrane confirme sa non-participation à la primaire socialiste pour la présidentielle 2027",
+      "url": "https://www.bfmtv.com/politique/parti-socialiste/se-renfermer-entre-nous-karim-bouamrane-confirme-sa-non-participation-a-la-primaire-socialiste-pour-la-presidentielle-2027_AN-202608260150.html",
+      "date": "2026-08-26"
+     },
+     {
+      "media": "CNews",
+      "titre": "Présidentielle 2027 : Karim Bouamrane ne participera pas à la primaire socialiste",
+      "url": "https://www.cnews.fr/france/2026-08-26/presidentielle-2027-karim-bouamrane-ne-participera-pas-la-primaire-socialiste",
+      "date": "2026-08-26"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "securite_justice": {
+   "resume": "Met en avant son bilan municipal : renfort de la police municipale, couvre-feu à 22 h pour les mineurs non accompagnés, lutte contre le trafic de drogue (« J'ai démantelé le trafic de drogue dans ma commune »).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "À Saint-Ouen, augmente le nombre de policiers municipaux et instaure en 2020 un couvre-feu à 22 h pour les mineurs non accompagnés, dans un plan contre les violences et le trafic de drogue.",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "Renfort de police, couvre-feu, prévention : le plan de Saint-Ouen contre les violences et le trafic de drogue",
+       "url": "https://www.leparisien.fr/seine-saint-denis-93/renfort-de-police-couvre-feu-prevention-le-plan-de-saint-ouen-contre-les-violences-et-le-trafic-de-drogue-13-10-2020-8401794.php",
+       "date": "2020-10-13"
+      },
+      {
+       "media": "Valeurs actuelles",
+       "titre": "Plus de policiers, couvre-feu, arrêté anti-rodéo : le maire de Saint-Ouen en guerre contre l'insécurité",
+       "url": "https://www.valeursactuelles.com/societe/plus-de-policiers-couvre-feu-arrete-anti-rodeo-le-maire-de-saint-ouen-en-guerre-contre-linsecurite-124595",
+       "date": "2020-10-14"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Karim Bouamrane",
+       "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Déclare en juin 2026 : « J'ai démantelé le trafic de drogue dans ma commune » et refuse que les musulmans ou immigrés soient « automatiquement associés à l'insécurité ».",
+     "sources": [
+      {
+       "media": "France Inter",
+       "titre": "\"Je suis la candidature qui fédère\", annonce Karim Bouamrane maire PS de Saint-Ouen, qui se présente à la présidentielle",
+       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-mardi-09-juin-2026-9244175",
+       "date": "2026-06-09"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "Présidentielle 2027 : «Je suis candidat», annonce le maire socialiste de Saint-Ouen Karim Bouamrane",
+       "url": "https://www.lefigaro.fr/politique/presidentielle-2027-je-suis-candidat-annonce-karim-bouamrane-ps-20260609",
+       "date": "2026-06-09"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Revendique la lutte contre le logement insalubre comme priorité municipale.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Déclare lutter « chaque jour contre le logement insalubre ».",
+     "sources": [
+      {
+       "media": "France Inter",
+       "titre": "\"Je suis la candidature qui fédère\", annonce Karim Bouamrane maire PS de Saint-Ouen, qui se présente à la présidentielle",
+       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-mardi-09-juin-2026-9244175",
+       "date": "2026-06-09"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Cite l'augmentation des salaires parmi ses priorités.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Cite parmi ses objectifs « augmenter les salaires », « assurer la rentrée scolaire » et « protéger nos enfants ».",
+     "sources": [
+      {
+       "media": "BFMTV",
+       "titre": "\"Se renfermer entre-nous\": Karim Bouamrane confirme sa non-participation à la primaire socialiste pour la présidentielle 2027",
+       "url": "https://www.bfmtv.com/politique/parti-socialiste/se-renfermer-entre-nous-karim-bouamrane-confirme-sa-non-participation-a-la-primaire-socialiste-pour-la-presidentielle-2027_AN-202608260150.html",
+       "date": "2026-08-26"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Évoque la souveraineté, « que ce soit militaire », et propose de travailler « avec les États africains qui concentrent plus de la moitié de la jeunesse ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Évoque « la souveraineté, que ce soit militaire », « l'investissement au niveau de l'État » et un travail avec les États africains.",
+     "sources": [
+      {
+       "media": "France Inter",
+       "titre": "\"Je suis la candidature qui fédère\", annonce Karim Bouamrane maire PS de Saint-Ouen, qui se présente à la présidentielle",
+       "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-mardi-09-juin-2026-9244175",
+       "date": "2026-06-09"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "A soutenu à Saint-Ouen le projet d'Hôpital Grand Paris Nord de l'AP-HP, contesté par des syndicats hospitaliers qui dénoncent des pertes de lits.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Soutient le projet d'Hôpital Grand Paris Nord, auquel s'opposent des syndicats hospitaliers et l'opposition municipale.",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "Le futur grand hôpital de Saint-Ouen aura 100 lits de plus... mais pas moins d'opposants",
+       "url": "https://www.leparisien.fr/seine-saint-denis-93/le-futur-grand-hopital-de-saint-ouen-aura-100-lits-de-plus-mais-pas-moins-d-opposants-06-11-2020-8407007.php",
+       "date": "2020-11-06"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Karim Bouamrane",
+       "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [
+  {
+   "texte": "Aucun compte de campagne présidentielle antérieur.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Karim Bouamrane",
+     "url": "https://fr.wikipedia.org/wiki/Karim_Bouamrane",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Déclare compter sur le PS pour financer sa campagne présidentielle, bien qu'il ne participe pas à la primaire du parti.",
+   "sources": [
+    {
+     "media": "CNews",
+     "titre": "Présidentielle 2027 : Karim Bouamrane ne participera pas à la primaire socialiste",
+     "url": "https://www.cnews.fr/france/2026-08-26/presidentielle-2027-karim-bouamrane-ne-participera-pas-la-primaire-socialiste",
+     "date": "2026-08-26"
+    }
+   ]
+  }
+ ]
+}

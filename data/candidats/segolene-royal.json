@@ -1,0 +1,570 @@
+{
+ "id": "segolene-royal",
+ "nom": "Ségolène Royal",
+ "naissance": "1953-09-22",
+ "lieu_naissance": "Dakar (Sénégal, alors Afrique-Occidentale française)",
+ "parti": "Parti socialiste",
+ "parti_sigle": "PS",
+ "famille": "centre_gauche",
+ "position": -3.5,
+ "position_justif": {
+  "texte": "Membre du PS (barème −4), candidate socialiste en 2007 sur une ligne d'« ordre juste » qu'elle reprend en 2026 (« La France tranquille et l'Ordre juste ») ; elle a aussi soutenu Jean-Luc Mélenchon puis la NUPES en 2022 et se dit « dans la tradition du mitterrandisme ». Positionnement jugé atypique ; placée légèrement à droite du barème PS.",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Ségolène Royal",
+    "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Primaire présidentielle socialiste française de 2026",
+    "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Retraites : \"Je refuse ce débat tant que la question du retour de l'ISF n'est pas posée\", affirme Ségolène Royal, candidate à la primaire du pôle socialiste",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-populaire-gauche/retraites-je-refuse-ce-debat-tant-que-la-question-du-retour-de-l-isf-n-est-pas-posee-affirme-segolene-royal-candidate-a-la-primaire-du-pole-socialiste_8170295.html",
+    "date": "2026-08-31"
+   },
+   {
+    "media": "France Inter",
+    "titre": "\"Le vote utile à gauche c'est le vote Mélenchon\", estime Ségolène Royal",
+    "url": "https://www.franceinter.fr/politique/le-vote-utile-a-gauche-c-est-le-vote-melenchon-estime-segolene-royal",
+    "date": "2022-02-17"
+   }
+  ]
+ },
+ "statut": "primaire",
+ "photo": {
+  "fichier": "img/candidats/segolene-royal.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Royal_Toulouse_2012.JPG",
+  "auteur": "Jackolan1",
+  "licence": "CC BY-SA 3.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/ps.svg",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Logo_Parti_Socialiste_-_2024.svg",
+  "licence": "marque déposée"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Baccalauréat à Épinal (1971), licence de sciences économiques (université Nancy-II), diplômée de l'Institut d'études politiques de Paris (1975) puis de l'ENA (promotion Voltaire, 1980).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Sciences Po",
+      "titre": "Ils ont étudié à Sciences Po 1945-1985",
+      "url": "http://www.sciencespo.fr/stories/#!/fr/frise/63/ils-ont-etudie-a-sciences-po-1945-1985/",
+      "date": ""
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Conseillère au tribunal administratif de Paris à sa sortie de l'ENA (1980), puis chargée de mission au secrétariat général de la présidence de la République (1982-1988).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Choisir 2027 (site officiel de la primaire)",
+      "titre": "Ségolène Royal",
+      "url": "https://choisir2027.fr/candidat/segolene-royal/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Avocate au barreau de Paris à partir de 1994 (cabinet Mignard, Teitgen, Grisoni & associés).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Chroniqueuse hebdomadaire dans l'émission « Touche pas à mon poste ! » sur C8 (septembre 2023 - mai 2024).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Députée de la 2e circonscription des Deux-Sèvres (1988-1992, 1993-1997, 2002-2007).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Choisir 2027 (site officiel de la primaire)",
+      "titre": "Ségolène Royal",
+      "url": "https://choisir2027.fr/candidat/segolene-royal/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre de l'Environnement (1992-1993), ministre déléguée à l'Enseignement scolaire (1997-2000), à la Famille et à l'Enfance (2000-2002), puis ministre de l'Écologie et de l'Énergie (2014-2017) dans les gouvernements Valls et Cazeneuve.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Choisir 2027 (site officiel de la primaire)",
+      "titre": "Ségolène Royal",
+      "url": "https://choisir2027.fr/candidat/segolene-royal/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Présidente du conseil régional de Poitou-Charentes de 2004 à 2014.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Choisir 2027 (site officiel de la primaire)",
+      "titre": "Ségolène Royal",
+      "url": "https://choisir2027.fr/candidat/segolene-royal/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Ambassadrice chargée des négociations internationales pour les pôles arctique et antarctique (2017-2020), démise de ses fonctions en Conseil des ministres le 24 janvier 2020 après ses critiques de l'exécutif.",
+    "sources": [
+     {
+      "media": "BFMTV",
+      "titre": "Ségolène Royal devient ambassadrice pour les pôles arctique et antarctique",
+      "url": "https://www.bfmtv.com/politique/segolene-royal-devient-ambassadrice-pour-les-poles-arctique-et-antarctique_AN-201706270014.html",
+      "date": "2017-06-27"
+     },
+     {
+      "media": "Le Point",
+      "titre": "Emmanuel Macron débranche Ségolène Royal",
+      "url": "https://www.lepoint.fr/politique/emmanuel-macron-debranche-segolene-royal-24-01-2020-2359424_20.php",
+      "date": "2020-01-24"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Désignée candidate du PS en novembre 2006 (60,65 % à la primaire), elle obtient 25,87 % au premier tour de la présidentielle de 2007 puis 46,94 % au second face à Nicolas Sarkozy.",
+    "sources": [
+     {
+      "media": "INA",
+      "titre": "Présidentielle : Ségolène Royal candidate officielle du PS",
+      "url": "http://www.ina.fr/video/3222079001003",
+      "date": "2006-11-17"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "En tant que ministre, fait voter la loi relative à la transition énergétique pour la croissance verte (2015) et préside la COP21 après François Hollande et Laurent Fabius, selon sa présentation officielle.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Choisir 2027 (site officiel de la primaire)",
+      "titre": "Ségolène Royal",
+      "url": "https://choisir2027.fr/candidat/segolene-royal/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Liste dissidente aux sénatoriales des Français de l'étranger de 2021 : 2,1 % des voix, non élue.",
+    "sources": [
+     {
+      "media": "Public Sénat",
+      "titre": "Sénatoriales des Français de l'étranger : LR perd un siège, défaite cuisante de Ségolène Royal",
+      "url": "https://www.publicsenat.fr/article/parlementaire/senatoriales-des-francais-de-l-etranger-lr-perd-un-siege-defaite-cuisante-de",
+      "date": "2021-09-26"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Appelle en 2022 au « vote utile » pour Jean-Luc Mélenchon à la présidentielle puis à voter pour la NUPES aux législatives.",
+    "sources": [
+     {
+      "media": "France Inter",
+      "titre": "\"Le vote utile à gauche c'est le vote Mélenchon\", estime Ségolène Royal",
+      "url": "https://www.franceinter.fr/politique/le-vote-utile-a-gauche-c-est-le-vote-melenchon-estime-segolene-royal",
+      "date": "2022-02-17"
+     },
+     {
+      "media": "La Dépêche",
+      "titre": "Législatives : Ségolène Royal appelle à voter pour la Nupes",
+      "url": "https://www.ladepeche.fr/2022/06/10/legislatives-segolene-royal-appelle-a-voter-pour-la-nupes-10351329.php",
+      "date": "2022-06-10"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Se porte candidate au poste de Première ministre à plusieurs reprises depuis 2024 (lettre à Emmanuel Macron après la censure du gouvernement Barnier).",
+    "sources": [
+     {
+      "media": "BFMTV",
+      "titre": "\"Je suis disponible\": Royal écrit à Macron pour se dire candidate à Matignon après la censure de Barnier",
+      "url": "https://www.bfmtv.com/politique/je-suis-disponible-royal-ecrit-a-macron-pour-se-dire-candidate-a-matignon-apres-la-censure-de-barnier_AN-202412050169.html",
+      "date": "2024-12-05"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Élue présidente de l'Association France-Algérie en décembre 2025, succédant à Arnaud Montebourg.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Ségolène Royal",
+      "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce le 10 juillet 2026 sa participation à la primaire du PS, de Place publique et de la GRS ; son directeur de campagne est Luc Carvounas, maire d'Alfortville.",
+    "sources": [
+     {
+      "media": "franceinfo (AFP)",
+      "titre": "Ségolène Royal annonce qu'elle participera à la primaire socialiste en vue de l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/segolene-royal-annonce-qu-elle-participera-a-la-primaire-socialiste-en-vue-de-l-election-presidentielle_8102696.html",
+      "date": "2026-07-10"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "« Ce soir, je m'adresse aux Français » : Ségolène Royal peine à faire le plein pour son premier meeting",
+      "url": "https://www.leparisien.fr/elections/presidentielle/ce-soir-je-madresse-aux-francais-segolene-royal-peine-a-faire-le-plein-pour-son-premier-meeting-22-09-2026-Z7UCGC6BWFB2TCGJ37XI7UAGTQ.php",
+      "date": "2026-09-22"
+     }
+    ]
+   },
+   {
+    "texte": "Premier meeting le 22 septembre 2026 à Alfortville, devant environ 200 personnes selon Le Parisien.",
+    "sources": [
+     {
+      "media": "Le Parisien",
+      "titre": "« Ce soir, je m'adresse aux Français » : Ségolène Royal peine à faire le plein pour son premier meeting",
+      "url": "https://www.leparisien.fr/elections/presidentielle/ce-soir-je-madresse-aux-francais-segolene-royal-peine-a-faire-le-plein-pour-son-premier-meeting-22-09-2026-Z7UCGC6BWFB2TCGJ37XI7UAGTQ.php",
+      "date": "2026-09-22"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "economie_fiscalite": {
+   "resume": "Pose comme préalable le retour de l'impôt sur la fortune : « Ceux qui menacent les retraites sont ceux qui ont supprimé l'Impôt sur la fortune financière ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Déclare le 31 août 2026 : « Je refuse ce débat [sur les retraites] tant que la question du retour de l'ISF n'est pas posée ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Retraites : \"Je refuse ce débat tant que la question du retour de l'ISF n'est pas posée\", affirme Ségolène Royal, candidate à la primaire du pôle socialiste",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-populaire-gauche/retraites-je-refuse-ce-debat-tant-que-la-question-du-retour-de-l-isf-n-est-pas-posee-affirme-segolene-royal-candidate-a-la-primaire-du-pole-socialiste_8170295.html",
+       "date": "2026-08-31"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Primaire présidentielle socialiste française de 2026",
+       "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Refuse le débat sur les retraites tant que le retour de l'ISF n'est pas posé.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Associe le financement des retraites au rétablissement de l'ISF et critique la politique « Macron-Édouard Philippe ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Retraites : \"Je refuse ce débat tant que la question du retour de l'ISF n'est pas posée\", affirme Ségolène Royal, candidate à la primaire du pôle socialiste",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-populaire-gauche/retraites-je-refuse-ce-debat-tant-que-la-question-du-retour-de-l-isf-n-est-pas-posee-affirme-segolene-royal-candidate-a-la-primaire-du-pole-socialiste_8170295.html",
+       "date": "2026-08-31"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Dénonce la dégradation et le « sous-paiement » du métier d'enseignant et les recrutements par « speed dating ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Déclare qu'« il y a une telle dégradation du métier d'enseignant, un tel sous-paiement […] que l'Éducation nationale fait maintenant des recrutements par speed dating » et dit savoir « comment répondre à ce sujet-là ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Retraites : \"Je refuse ce débat tant que la question du retour de l'ISF n'est pas posée\", affirme Ségolène Royal, candidate à la primaire du pôle socialiste",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-populaire-gauche/retraites-je-refuse-ce-debat-tant-que-la-question-du-retour-de-l-isf-n-est-pas-posee-affirme-segolene-royal-candidate-a-la-primaire-du-pole-socialiste_8170295.html",
+       "date": "2026-08-31"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Défend une « France tranquille » et « l'ordre juste » ; refuse de critiquer les électeurs du RN ou d'autres partis (« aucune voix n'est pestiférée »).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Présente sa candidature sous le slogan « La France tranquille et l'Ordre juste ».",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Primaire présidentielle socialiste française de 2026",
+       "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "franceinfo (AFP)",
+       "titre": "Ségolène Royal annonce qu'elle participera à la primaire socialiste en vue de l'élection présidentielle",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/segolene-royal-annonce-qu-elle-participera-a-la-primaire-socialiste-en-vue-de-l-election-presidentielle_8102696.html",
+       "date": "2026-07-10"
+      }
+     ]
+    },
+    {
+     "texte": "Déclare : « Je suis l'une des rares responsables politiques à n'avoir jamais critiqué, ni les électeurs du RN, ni les électeurs des autres partis politiques ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Retraites : \"Je refuse ce débat tant que la question du retour de l'ISF n'est pas posée\", affirme Ségolène Royal, candidate à la primaire du pôle socialiste",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/primaire-populaire-gauche/retraites-je-refuse-ce-debat-tant-que-la-question-du-retour-de-l-isf-n-est-pas-posee-affirme-segolene-royal-candidate-a-la-primaire-du-pole-socialiste_8170295.html",
+       "date": "2026-08-31"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Litige avec deux ex-collaboratrices (1997)",
+   "statut": "condamnation_definitive",
+   "date": "2009-04-20",
+   "description": "Deux collaboratrices employées lors des législatives de 1997 saisissent la justice pour salaires impayés. La cour d'appel de Rennes condamne Ségolène Royal le 10 avril 2008 à verser les salaires et retient un licenciement « sans cause réelle et sérieuse » ; la condamnation devient définitive en 2009 avec le rejet de son pourvoi par la chambre sociale de la Cour de cassation (contentieux prud'homal, non pénal).",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Royal condamnée définitivement à indemniser deux ex-collaboratrices",
+     "url": "https://www.lemonde.fr/politique/article/2009/04/20/royal-condamnee-definitivement-a-indemniser-deux-ex-collaboratrices_1183086_823448.html",
+     "date": "2009-04-20"
+    },
+    {
+     "media": "Légifrance (Cour de cassation)",
+     "titre": "Arrêt de la chambre sociale de la Cour de cassation (ex-collaboratrices de Ségolène Royal)",
+     "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000020514841",
+     "date": "2009"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Ségolène Royal",
+     "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Enquête du PNF sur l'usage des moyens d'ambassadrice des pôles",
+   "statut": "classe_sans_suite",
+   "date": "2021-06-28",
+   "description": "Enquête préliminaire ouverte fin 2019 par le Parquet national financier sur l'utilisation éventuelle, à des fins personnelles, des moyens alloués à sa fonction d'ambassadrice des pôles ; classée sans suite en juin 2021.",
+   "sources": [
+    {
+     "media": "France Inter",
+     "titre": "Une enquête ouverte sur les activités de Ségolène Royal comme ambassadrice des pôles",
+     "url": "https://www.franceinter.fr/justice/une-enquete-ouverte-sur-les-activites-de-segolene-royal-comme-ambassadrice-des-poles",
+     "date": "2020-01-15"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Classement sans suite de l'enquête visant Ségolène Royal pour ses frais en tant qu'ambassadrice des pôles",
+     "url": "https://www.lemonde.fr/societe/article/2021/06/28/classement-sans-suite-de-l-enquete-visant-segolene-royal-pour-ses-frais-en-tant-qu-ambassadrice-des-poles_6086090_3224.html",
+     "date": "2021-06-28"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Ségolène Royal",
+     "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Absence aux réunions du Conseil de l'Arctique",
+   "statut": "accusation",
+   "date": "2019",
+   "description": "BFMTV révèle qu'en deux ans de fonction d'ambassadrice des pôles, Ségolène Royal n'a assisté à aucune réunion du Conseil de l'Arctique, contrairement à ses déclarations publiques.",
+   "sources": [
+    {
+     "media": "BFMTV",
+     "titre": "Ambassadrice des pôles, Ségolène Royal ne s'est jamais rendue à une réunion du Conseil de l'Arctique",
+     "url": "https://www.bfmtv.com/politique/ambassadrice-des-poles-segolene-royal-ne-s-est-jamais-rendue-a-une-reunion-du-conseil-de-l-arctique-1770184.html",
+     "date": "2019"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Ségolène Royal",
+     "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Propos sur les crimes de guerre en Ukraine",
+   "statut": "accusation",
+   "date": "2022-09-02",
+   "description": "Le 1er septembre 2022, elle met en doute le massacre de Boutcha et le bombardement de la maternité de Marioupol ; le collectif Stand With Ukraine annonce le lendemain un dépôt de plainte. Aucune suite judiciaire n'a été trouvée.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Ségolène Royal met en doute les crimes de guerre commis en Ukraine, malgré les preuves",
+     "url": "https://www.lemonde.fr/politique/article/2022/09/01/segolene-royal-met-en-doute-les-crimes-de-guerre-commis-en-ukraine-malgre-les-preuves_6139873_823448.html",
+     "date": "2022-09-01"
+    },
+    {
+     "media": "BFMTV",
+     "titre": "Une plainte va être déposée contre Ségolène Royal après ses propos sur la guerre en Ukraine",
+     "url": "https://www.bfmtv.com/international/europe/une-plainte-va-etre-deposee-contre-segolene-royal-apres-ses-propos-sur-la-guerre-en-ukraine_AN-202209020741.html",
+     "date": "2022-09-02"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Ségolène Royal",
+     "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Gestion financière de la région Poitou-Charentes",
+   "statut": "accusation",
+   "date": "2016-04-08",
+   "description": "Un audit du cabinet EY commandé par la région Nouvelle-Aquitaine relève en 2016 une « forte dégradation » des finances de l'ex-région Poitou-Charentes (132 M€ de retards de paiement, dette de 450 M€) ; Ségolène Royal se dit « scandalisée » par cette mise en cause. Aucune procédure judiciaire.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "titre": "Mise en cause dans sa gestion de la région Poitou-Charentes, Royal se dit « scandalisée »",
+     "url": "http://www.lefigaro.fr/politique/2016/04/08/01002-20160408ARTFIG00068-la-region-poitou-charentes-au-bord-de-la-faillite-royal-sommee-de-s-expliquer.php",
+     "date": "2016-04-08"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Ségolène Royal",
+     "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Présidentielle 2007 : compte de campagne approuvé par la CNCCFP (décision du 26 novembre 2007), dépenses de 20 615 776 € et remboursement forfaitaire de l'État de 10 797 000 €.",
+   "sources": [
+    {
+     "media": "Légifrance (JORF)",
+     "titre": "Décision de la CNCCFP du 26 novembre 2007 relative au compte de campagne de Mme Ségolène Royal",
+     "url": "https://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=CCCX0700009S",
+     "date": "2007-11-26"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Modèle:Élection présidentielle française de 2007 : comptes",
+     "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le:%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2007_:_comptes",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "A créé en 2020 l'association « Désirs de France, avenir de la planète » pour préparer une éventuelle candidature en 2022.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Ségolène Royal",
+     "url": "https://fr.wikipedia.org/wiki/S%C3%A9gol%C3%A8ne_Royal",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "RTL",
+     "titre": "Présidentielle 2022 : Ségolène Royal crée une association politique",
+     "url": "https://www.rtl.fr/actu/politique/presidentielle-2022-segolene-royal-cree-une-association-politique-7799918134",
+     "date": "2020"
+    }
+   ]
+  }
+ ]
+}

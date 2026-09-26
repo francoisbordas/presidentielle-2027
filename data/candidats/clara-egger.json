@@ -1,0 +1,296 @@
+{
+ "id": "clara-egger",
+ "nom": "Clara Egger",
+ "naissance": "1988-01-02",
+ "lieu_naissance": "Ardèche (Tournon-sur-Rhône selon Le Dauphiné ; le parti la dit native de Vion)",
+ "parti": "Solution démocratique",
+ "parti_sigle": "SD",
+ "famille": "centre",
+ "position": 0,
+ "position_justif": {
+  "texte": "Candidature « transpartisane et sans étiquette idéologique » à mesure unique (instaurer le référendum d'initiative citoyenne constituant) : aucun positionnement sur l'axe gauche-droite n'est revendiqué ni établi par un classement d'experts. Position 0 et famille « centre » retenues par défaut, faute de classement.",
+  "sources": [
+   {
+    "media": "Solution démocratique (site officiel)",
+    "titre": "Qui est Clara Egger, candidate à l'élection présidentielle 2027",
+    "url": "https://solutiondemocratique.fr/clara-egger/",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Clara Egger",
+    "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+    "date": "2026-09-25"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/clara-egger.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Clara_Egger.jpg",
+  "auteur": "Thomas Binet",
+  "licence": "CC BY-SA 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/sd.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Logo_du_parti_politique_fran%C3%A7ais_Solution_D%C3%A9mocratique.png",
+  "licence": "CC BY 4.0"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Admise à l'Institut d'études politiques de Grenoble en 2005, diplômée en 2010 d'un master « Organisation internationale ».",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Clara Egger",
+      "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Docteure en science politique (université Grenoble-Alpes, 2016), thèse sur le rôle et le financement de l'action humanitaire dans la politique internationale, sous la direction d'Yves Schemeil.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Clara Egger",
+      "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "A travaillé pour des ONG (Handicap International, Voice, Secours catholique-Caritas France), puis comme responsable de la recherche au Centre d'enseignement et de recherche en action humanitaire (CERAH) à Genève.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Clara Egger",
+      "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Enseignante-chercheuse en relations internationales à l'université de Groningue (Pays-Bas) depuis décembre 2018, où elle a dirigé le master Erasmus Mundus en action humanitaire (NOHA).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Clara Egger",
+      "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Solution démocratique (site officiel)",
+      "titre": "Qui est Clara Egger, candidate à l'élection présidentielle 2027",
+      "url": "https://solutiondemocratique.fr/clara-egger/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Depuis 2020, dirige le consortium européen Exceptius sur les politiques de gestion de la pandémie de Covid-19 dans 32 pays européens.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Clara Egger",
+      "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Solution démocratique (site officiel)",
+      "titre": "Qui est Clara Egger, candidate à l'élection présidentielle 2027",
+      "url": "https://solutiondemocratique.fr/clara-egger/",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "N'a exercé aucun mandat électif.",
+    "sources": [
+     {
+      "media": "Poligraph",
+      "titre": "Clara Egger, candidature à la présidentielle 2027",
+      "url": "https://poligraph.fr/elections/presidentielle-2027/candidats/clara-egger",
+      "date": "2026-08-20"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Clara Egger",
+      "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Candidate à la présidentielle de 2022 pour le collectif « Espoir RIC 2022 » ; elle n'a obtenu que 36 parrainages validés sur les 500 requis et n'a pas pu se présenter.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Clara Egger",
+      "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Solution démocratique (site officiel)",
+      "titre": "Qui est Clara Egger, candidate à l'élection présidentielle 2027",
+      "url": "https://solutiondemocratique.fr/clara-egger/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Cofondatrice en 2024 du parti Solution démocratique, issu du collectif Espoir RIC.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Clara Egger",
+      "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "A cosigné avec son époux Raul Magni-Berton plusieurs ouvrages, dont « RIC, le référendum d'initiative citoyenne expliqué à tous » (2019), et une tribune au Monde critiquant la « conception plébiscitaire » du référendum.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Clara Egger",
+      "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Clara Egger, ses dernières publications dans Le Monde (tribune avec Raul Magni-Berton sur la conception plébiscitaire du référendum)",
+      "url": "https://www.lemonde.fr/signataires/clara-egger/",
+      "date": "2023-12-07"
+     }
+    ]
+   },
+   {
+    "texte": "A annoncé sa candidature à la présidentielle 2027 (communiqué du parti du 19 avril 2026 ; annonce publique relayée en mai 2026) ; elle figure parmi les candidats déclarés recensés par LCP et Public Sénat.",
+    "sources": [
+     {
+      "media": "Solution démocratique (site officiel)",
+      "titre": "Présidentielle 2027 : Clara Egger annonce sa candidature",
+      "url": "https://solutiondemocratique.fr/presidentielle2027-annonce-candidature-clara-egger/",
+      "date": "2026-04-19"
+     },
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : qui sont les candidats ?",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Présidentielle 2027 : quel est le dernier décompte des candidats déjà sur la ligne de départ ?",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart",
+      "date": "2026-09-18"
+     },
+     {
+      "media": "Le Dauphiné libéré",
+      "titre": "L'Ardéchoise Clara Egger est candidate à l'élection présidentielle pour « rétablir un équilibre démocratique »",
+      "url": "https://www.ledauphine.com/politique/2026/05/21/l-ardechoise-clara-egger-est-candidate-a-l-election-presidentielle-pour-retablir-un-equilibre-democratique",
+      "date": "2026-05-21"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "institutions": {
+   "resume": "Mesure unique : propose d'instaurer le référendum d'initiative citoyenne constituant (RICC), en modifiant l'article 89 de la Constitution pour rendre le référendum obligatoire pour toute révision constitutionnelle et permettre aux citoyens d'initier une révision (700 000 signatures selon Wikipédia). Propose aussi de renforcer le pouvoir des communes (« subsidiarité ascendante »).",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose une révision de l'article 89 de la Constitution : suppression de la voie du Congrès (référendum obligatoire pour toute révision) et ouverture de l'initiative de révision aux citoyens, sans examen parlementaire.",
+     "sources": [
+      {
+       "media": "Solution démocratique (site officiel)",
+       "titre": "Proposition de révision constitutionnelle pour redonner le contrôle aux citoyens",
+       "url": "https://solutiondemocratique.fr/proposition-de-revision-constitutionnelle-controle-constitution/",
+       "date": "2024-08-15"
+      },
+      {
+       "media": "Solution démocratique (site officiel)",
+       "titre": "Notre solution (et notre stratégie)",
+       "url": "https://solutiondemocratique.fr/notre-solution/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Son programme consiste à permettre à 700 000 signataires de déclencher un référendum de révision constitutionnelle.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Clara Egger",
+       "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Défend une présidence « d'arbitrage » fondée sur l'article 5 de la Constitution, avec un programme « volontairement limité » aux mécanismes institutionnels.",
+     "sources": [
+      {
+       "media": "Solution démocratique (site officiel)",
+       "titre": "Qui est Clara Egger, candidate à l'élection présidentielle 2027",
+       "url": "https://solutiondemocratique.fr/clara-egger/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de modifier le Code général des collectivités territoriales pour redonner des compétences aux communes (« décentraliser par la subsidiarité ascendante »).",
+     "sources": [
+      {
+       "media": "Solution démocratique (site officiel)",
+       "titre": "Notre solution (et notre stratégie)",
+       "url": "https://solutiondemocratique.fr/notre-solution/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [
+  {
+   "texte": "Campagne 2022 : faute des 500 parrainages, pas de candidature officielle ni de compte de campagne présidentielle soumis à la CNCCFP.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Clara Egger",
+     "url": "https://fr.wikipedia.org/wiki/Clara_Egger",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "20 Minutes",
+     "titre": "Présidentielle 2022 : Clara Egger, une candidature pour l'amour du RIC",
+     "url": "https://www.20minutes.fr/elections/presidentielle/3240495-20220223-presidentielle-2022-clara-egger-candidature-amour-ric",
+     "date": "2022-02-23"
+    }
+   ]
+  },
+  {
+   "texte": "Aucune information publique trouvée sur le budget ou les prêts de la campagne 2027 ; le parti fait appel aux dons et aux adhésions sur son site.",
+   "sources": [
+    {
+     "media": "Solution démocratique (site officiel)",
+     "titre": "Présidentielle 2027 : Clara Egger annonce sa candidature",
+     "url": "https://solutiondemocratique.fr/presidentielle2027-annonce-candidature-clara-egger/",
+     "date": "2026-04-19"
+    }
+   ]
+  }
+ ]
+}

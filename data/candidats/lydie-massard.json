@@ -1,0 +1,313 @@
+{
+ "id": "lydie-massard",
+ "nom": "Lydie Massard",
+ "naissance": "1978-08-24",
+ "lieu_naissance": "Saint-Brieuc (Côtes-d'Armor) selon Wikipédia fr ; Loudéac selon Wikipédia en",
+ "parti": "Union démocratique bretonne",
+ "parti_sigle": "UDB",
+ "famille": "gauche",
+ "position": -5.0,
+ "position_justif": {
+  "texte": "Porte-parole de l'Union démocratique bretonne, parti autonomiste classé à gauche par Wikipédia (progressisme, écologie politique, socialisme, fédéralisme européen), membre de Régions et peuples solidaires et allié des écologistes (groupe Verts/ALE au Parlement européen). Position retenue proche des Écologistes (−5,5).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Union démocratique bretonne",
+    "url": "https://fr.wikipedia.org/wiki/Union_d%C3%A9mocratique_bretonne",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "UDB (site officiel)",
+    "titre": "Lydie Massard, porte-parole de l'UDB, est députée européenne !",
+    "url": "https://www.udb.bzh/non-classifiee/communiques/lydie-massard-porte-parole-de-ludb-est-deputee-europeenne/",
+    "date": "2023-09-24"
+   }
+  ]
+ },
+ "statut": "primaire",
+ "photo": {
+  "fichier": "img/candidats/lydie-massard.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Member_of_the_European_Parliament_for_France_Lydie_Massard.jpg",
+  "auteur": "© European Union, 1998 – 2026 (Parlement européen)",
+  "licence": "Attribution (© Union européenne, réutilisation autorisée avec mention)"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/udb.svg",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Logo-udb-vertical.svg",
+  "licence": "Marque déposée (logo non libre, Wikipédia fr)"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Baccalauréat au lycée public de Loudéac (1996), licence à l'université Rennes-II (1999).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Lydie Massard",
+      "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Bibliothécaire (1999-2001) à Changé (Mayenne) et Carentoir, puis cuisinière en restauration collective dans un lycée professionnel de Pontivy depuis 2007.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Lydie Massard",
+      "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "actu.fr (Pontivy Journal)",
+      "titre": "Élection présidentielle 2027 : une élue de Pontivy candidate à la primaire de la gauche",
+      "url": "https://actu.fr/bretagne/pontivy_56178/election-presidentielle-2027-une-elue-de-pontivy-candidate-a-la-primaire-de-la-gauche_64094861.html",
+      "date": "2026-04-02"
+     }
+    ]
+   },
+   {
+    "texte": "Se présente comme « une candidate issue du monde du travail ».",
+    "sources": [
+     {
+      "media": "UDB (site officiel)",
+      "titre": "Lydie MASSARD : candidate aux primaires de la gauche",
+      "url": "https://www.udb.bzh/non-classifiee/communiques/lydie-massard-candidate-aux-primaires-de-la-gauche/",
+      "date": "2026-04"
+     },
+     {
+      "media": "actu.fr (Pontivy Journal)",
+      "titre": "Élection présidentielle 2027 : une élue de Pontivy candidate à la primaire de la gauche",
+      "url": "https://actu.fr/bretagne/pontivy_56178/election-presidentielle-2027-une-elue-de-pontivy-candidate-a-la-primaire-de-la-gauche_64094861.html",
+      "date": "2026-04-02"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Députée européenne du 24 septembre 2023 au 15 juillet 2024, en remplacement de Yannick Jadot élu sénateur (groupe Verts/ALE).",
+    "sources": [
+     {
+      "media": "UDB (site officiel)",
+      "titre": "Lydie Massard, porte-parole de l'UDB, est députée européenne !",
+      "url": "https://www.udb.bzh/non-classifiee/communiques/lydie-massard-porte-parole-de-ludb-est-deputee-europeenne/",
+      "date": "2023-09-24"
+     },
+     {
+      "media": "Parlement européen",
+      "titre": "Lydie MASSARD – MEPs",
+      "url": "https://www.europarl.europa.eu/meps/en/249285/LYDIE_MASSARD/home",
+      "date": "2023"
+     },
+     {
+      "media": "Wikipédia (en)",
+      "titre": "Lydie Massard",
+      "url": "https://en.wikipedia.org/wiki/Lydie_Massard",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Porte-parole de l'UDB (2019-2023, puis à nouveau depuis 2025) et co-porte-parole de Régions et peuples solidaires (2022-2024).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Lydie Massard",
+      "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Conseillère municipale d'opposition de Pontivy depuis les municipales de mars 2026 (liste de Jean-Jacques Merceur).",
+    "sources": [
+     {
+      "media": "actu.fr (Pontivy Journal)",
+      "titre": "Élection présidentielle 2027 : une élue de Pontivy candidate à la primaire de la gauche",
+      "url": "https://actu.fr/bretagne/pontivy_56178/election-presidentielle-2027-une-elue-de-pontivy-candidate-a-la-primaire-de-la-gauche_64094861.html",
+      "date": "2026-04-02"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Municipales 2026 – Pontivy : rappel des candidatures",
+      "url": "https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/53/56/56178/rappel_candidature/2/3.html",
+      "date": "2026-03"
+     }
+    ]
+   },
+   {
+    "texte": "Candidate aux législatives dans la 3e circonscription du Morbihan (suppléante en 2017, titulaire en 2022 : 1,92 %) et aux départementales de 2021 dans le canton de Pontivy (12,54 %).",
+    "sources": [
+     {
+      "media": "Ouest-France",
+      "titre": "Législatives. Lydie Massard est la candidate de l'UDB dans la circonscription de Pontivy-Elven",
+      "url": "https://www.ouest-france.fr/bretagne/pontivy-56300/legislatives-lydie-massard-est-la-candidate-de-l-udb-dans-la-circonscription-de-pontivy-elven-fc25d6b6-c4a7-11ec-9bac-e092504fc1fc",
+      "date": "2022-04-25"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Départementales. Lydie Massard et Gabriel Auffret, pour l'UDB et EELV, veulent \"reconstruire\"",
+      "url": "https://www.ouest-france.fr/elections/departementales/departementales-lydie-massard-et-gabriel-auffret-pour-l-udb-et-eelv-veulent-reconstruire-8cc4b662-b1b5-11eb-ab0b-3db1744bd25b",
+      "date": "2021-05-11"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Lydie Massard",
+      "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Née le 24 août 1978 ; lieu de naissance indiqué à Saint-Brieuc par Wikipédia en français.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Lydie Massard",
+      "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Lieu de naissance indiqué à Loudéac par Wikipédia en anglais.",
+    "sources": [
+     {
+      "media": "Wikipédia (en)",
+      "titre": "Lydie Massard",
+      "url": "https://en.wikipedia.org/wiki/Lydie_Massard",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Se déclare le 2 avril 2026 candidate à la primaire de la gauche unitaire prévue le 11 octobre 2026.",
+    "sources": [
+     {
+      "media": "actu.fr (Pontivy Journal)",
+      "titre": "Élection présidentielle 2027 : une élue de Pontivy candidate à la primaire de la gauche",
+      "url": "https://actu.fr/bretagne/pontivy_56178/election-presidentielle-2027-une-elue-de-pontivy-candidate-a-la-primaire-de-la-gauche_64094861.html",
+      "date": "2026-04-02"
+     },
+     {
+      "media": "UDB (site officiel)",
+      "titre": "Lydie MASSARD : candidate aux primaires de la gauche",
+      "url": "https://www.udb.bzh/non-classifiee/communiques/lydie-massard-candidate-aux-primaires-de-la-gauche/",
+      "date": "2026-04"
+     },
+     {
+      "media": "Wikipédia (en)",
+      "titre": "2026 United Left primary",
+      "url": "https://en.wikipedia.org/wiki/2026_United_Left_primary",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Sa candidature est présentée comme mise en suspens après le retrait du PS et l'abandon probable de la primaire unitaire (mention non sourcée sur Wikipédia).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Lydie Massard",
+      "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "institutions": {
+   "resume": "Propose une nouvelle Constitution instaurant une « République fédérale » où les régions pourraient voter et financer des lois hors domaines régaliens.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de « construire une République fédérale » sur le modèle allemand, donnant aux régions « le pouvoir de voter les lois, le pouvoir de financer ces lois, et le pouvoir de décider des politiques », hors domaines régaliens.",
+     "sources": [
+      {
+       "media": "actu.fr (Pontivy Journal)",
+       "titre": "Élection présidentielle 2027 : une élue de Pontivy candidate à la primaire de la gauche",
+       "url": "https://actu.fr/bretagne/pontivy_56178/election-presidentielle-2027-une-elue-de-pontivy-candidate-a-la-primaire-de-la-gauche_64094861.html",
+       "date": "2026-04-02"
+      },
+      {
+       "media": "UDB (site officiel)",
+       "titre": "Lydie MASSARD : candidate aux primaires de la gauche",
+       "url": "https://www.udb.bzh/non-classifiee/communiques/lydie-massard-candidate-aux-primaires-de-la-gauche/",
+       "date": "2026-04"
+      }
+     ]
+    },
+    {
+     "texte": "L'UDB défend une Bretagne réunifiée incluant la Loire-Atlantique et une « Assemblée de Bretagne » fusionnant conseils départementaux et régional.",
+     "sources": [
+      {
+       "media": "UDB (site officiel)",
+       "titre": "Accueil – Nos valeurs",
+       "url": "https://www.udb.bzh/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Présente le fédéralisme comme levier de la transition écologique ; son parti défend la sortie des énergies fossiles et du nucléaire.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Présente le fédéralisme comme « un levier essentiel pour la transition écologique ».",
+     "sources": [
+      {
+       "media": "UDB (site officiel)",
+       "titre": "Lydie MASSARD : candidate aux primaires de la gauche",
+       "url": "https://www.udb.bzh/non-classifiee/communiques/lydie-massard-candidate-aux-primaires-de-la-gauche/",
+       "date": "2026-04"
+      }
+     ]
+    },
+    {
+     "texte": "L'UDB défend la sortie des énergies fossiles et du nucléaire et le développement des renouvelables.",
+     "sources": [
+      {
+       "media": "UDB (site officiel)",
+       "titre": "Accueil – Nos valeurs",
+       "url": "https://www.udb.bzh/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [
+  {
+   "texte": "Pas de candidature présidentielle antérieure : aucun compte de campagne présidentielle à son nom auprès de la CNCCFP.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Lydie Massard",
+     "url": "https://fr.wikipedia.org/wiki/Lydie_Massard",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "En 2024, Régions et peuples solidaires a reversé 93 288 € de son aide publique à l'Union démocratique bretonne (8,77 % de l'aide perçue).",
+   "sources": [
+    {
+     "media": "CNCCFP (Journal officiel)",
+     "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (JO du 10 février 2026)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+     "date": "2026-02-10"
+    }
+   ]
+  }
+ ]
+}

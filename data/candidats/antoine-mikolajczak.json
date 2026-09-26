@@ -1,0 +1,321 @@
+{
+ "id": "antoine-mikolajczak",
+ "nom": "Antoine Mikolajczak",
+ "naissance": null,
+ "lieu_naissance": "Paillart (Oise), selon Oise Hebdo",
+ "parti": "Équinoxe",
+ "parti_sigle": "EQX",
+ "famille": "centre",
+ "position": -1,
+ "position_justif": {
+  "texte": "Aucun classement d'experts. Équinoxe est présenté comme un parti fondé en 2021 par des jeunes, « à forte sensibilité écologique », qui rejette les « partis politiques traditionnels » ; il défend la relocalisation, la démocratie participative et l'accès aux soins. Placé à −1 (centre, légèrement à gauche en raison de l'orientation écologiste), position indicative.",
+  "sources": [
+   {
+    "media": "La République du Centre",
+    "titre": "Présidentielle 2027 : le parti Equinoxe et Antoine Mikolajczak lancent leur campagne dans un village du Loiret",
+    "url": "https://www.larep.fr/saint-pere-sur-loire-45600/actualites/presidentielle-2027-le-parti-equinoxe-et-antoine-mikolajczak-lancent-leur-campagne-dans-un-village-du-loiret_15011694/",
+    "date": "2026-06-27"
+   },
+   {
+    "media": "Oise Hebdo",
+    "titre": "Antoine Mikolajczak, un candidat de l'Oise à l'élection présidentielle",
+    "url": "https://www.oisehebdo.fr/2026/08/03/antoine-mikolajczak-candidat-oise-election-presidentielle/",
+    "date": "2026-08-03"
+   },
+   {
+    "media": "Équinoxe (site officiel)",
+    "titre": "Présidentielle 2027 - Parti Équinoxe",
+    "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+    "date": "2026-07-31"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": null,
+  "source_url": null,
+  "auteur": null,
+  "licence": null
+ },
+ "logo_parti": {
+  "fichier": "img/partis/eqx.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%C3%89quinoxe_Logo.png",
+  "licence": "CC0"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Ingénieur de formation (école d'ingénieurs) ; a fait ses années de lycée près de Senlis (Oise).",
+    "sources": [
+     {
+      "media": "Oise Hebdo",
+      "titre": "Antoine Mikolajczak, un candidat de l'Oise à l'élection présidentielle",
+      "url": "https://www.oisehebdo.fr/2026/08/03/antoine-mikolajczak-candidat-oise-election-presidentielle/",
+      "date": "2026-08-03"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "« Monsieur Tout-le-Monde » candidat à la présidentielle 2027 ? Antoine Mikolajczak et Équinoxe face au défi des 500 parrainages",
+      "url": "https://www.leparisien.fr/oise-60/monsieur-tout-le-monde-candidat-a-la-presidentielle-2027-antoine-mikolajczak-et-equinoxe-face-au-defi-des-500-parrainages-12-08-2026-CN5YEZHLCJGF7CSTOWAQUMI4PY.php",
+      "date": "2026-08-12"
+     },
+     {
+      "media": "Équinoxe (site officiel)",
+      "titre": "Présidentielle 2027 - Parti Équinoxe",
+      "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+      "date": "2026-07-31"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "A monté pendant cinq ans des projets locaux d'énergies renouvelables avec des collectivités, des agriculteurs et des habitants.",
+    "sources": [
+     {
+      "media": "Équinoxe (site officiel)",
+      "titre": "Présidentielle 2027 - Parti Équinoxe",
+      "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+      "date": "2026-07-31"
+     },
+     {
+      "media": "Oise Hebdo",
+      "titre": "Antoine Mikolajczak, un candidat de l'Oise à l'élection présidentielle",
+      "url": "https://www.oisehebdo.fr/2026/08/03/antoine-mikolajczak-candidat-oise-election-presidentielle/",
+      "date": "2026-08-03"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Aucun mandat électif ; « ni carrière politique ni passage par Sciences Po » selon Le Parisien.",
+    "sources": [
+     {
+      "media": "Le Parisien",
+      "titre": "« Monsieur Tout-le-Monde » candidat à la présidentielle 2027 ? Antoine Mikolajczak et Équinoxe face au défi des 500 parrainages",
+      "url": "https://www.leparisien.fr/oise-60/monsieur-tout-le-monde-candidat-a-la-presidentielle-2027-antoine-mikolajczak-et-equinoxe-face-au-defi-des-500-parrainages-12-08-2026-CN5YEZHLCJGF7CSTOWAQUMI4PY.php",
+      "date": "2026-08-12"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Âgé de 27 ans en août 2026 (28 ans selon la page du parti mise à jour ensuite).",
+    "sources": [
+     {
+      "media": "Le Parisien",
+      "titre": "« Monsieur Tout-le-Monde » candidat à la présidentielle 2027 ? Antoine Mikolajczak et Équinoxe face au défi des 500 parrainages",
+      "url": "https://www.leparisien.fr/oise-60/monsieur-tout-le-monde-candidat-a-la-presidentielle-2027-antoine-mikolajczak-et-equinoxe-face-au-defi-des-500-parrainages-12-08-2026-CN5YEZHLCJGF7CSTOWAQUMI4PY.php",
+      "date": "2026-08-12"
+     },
+     {
+      "media": "Équinoxe (site officiel)",
+      "titre": "Présidentielle 2027 - Parti Équinoxe",
+      "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+      "date": "2026-07-31"
+     }
+    ]
+   },
+   {
+    "texte": "Militant d'Équinoxe depuis la campagne des européennes de 2024, puis responsable de groupes locaux.",
+    "sources": [
+     {
+      "media": "Oise Hebdo",
+      "titre": "Antoine Mikolajczak, un candidat de l'Oise à l'élection présidentielle",
+      "url": "https://www.oisehebdo.fr/2026/08/03/antoine-mikolajczak-candidat-oise-election-presidentielle/",
+      "date": "2026-08-03"
+     },
+     {
+      "media": "Équinoxe (site officiel)",
+      "titre": "Présidentielle 2027 - Parti Équinoxe",
+      "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+      "date": "2026-07-31"
+     }
+    ]
+   },
+   {
+    "texte": "Désigné candidat par les adhérents d'Équinoxe au jugement majoritaire ; lancement de campagne le 27 juin 2026 à Saint-Père-sur-Loire (Loiret).",
+    "sources": [
+     {
+      "media": "Équinoxe (site officiel)",
+      "titre": "Présidentielle 2027 - Parti Équinoxe",
+      "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+      "date": "2026-07-31"
+     },
+     {
+      "media": "La République du Centre",
+      "titre": "Présidentielle 2027 : le parti Equinoxe et Antoine Mikolajczak lancent leur campagne dans un village du Loiret",
+      "url": "https://www.larep.fr/saint-pere-sur-loire-45600/actualites/presidentielle-2027-le-parti-equinoxe-et-antoine-mikolajczak-lancent-leur-campagne-dans-un-village-du-loiret_15011694/",
+      "date": "2026-06-27"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "« Monsieur Tout-le-Monde » candidat à la présidentielle 2027 ? Antoine Mikolajczak et Équinoxe face au défi des 500 parrainages",
+      "url": "https://www.leparisien.fr/oise-60/monsieur-tout-le-monde-candidat-a-la-presidentielle-2027-antoine-mikolajczak-et-equinoxe-face-au-defi-des-500-parrainages-12-08-2026-CN5YEZHLCJGF7CSTOWAQUMI4PY.php",
+      "date": "2026-08-12"
+     }
+    ]
+   },
+   {
+    "texte": "Recensé parmi les candidats déclarés à la présidentielle 2027 par LCP et Public Sénat.",
+    "sources": [
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : qui sont les candidats ?",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Présidentielle 2027 : quel est le dernier décompte des candidats déjà sur la ligne de départ ?",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart",
+      "date": "2026-09-18"
+     }
+    ]
+   },
+   {
+    "texte": "Équinoxe revendique environ 6 000 adhérents et une soixantaine d'élus locaux, dont sept maires, après les municipales de 2026.",
+    "sources": [
+     {
+      "media": "La République du Centre",
+      "titre": "Présidentielle 2027 : le parti Equinoxe et Antoine Mikolajczak lancent leur campagne dans un village du Loiret",
+      "url": "https://www.larep.fr/saint-pere-sur-loire-45600/actualites/presidentielle-2027-le-parti-equinoxe-et-antoine-mikolajczak-lancent-leur-campagne-dans-un-village-du-loiret_15011694/",
+      "date": "2026-06-27"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "institutions": {
+   "resume": "Propose de « rénover la démocratie » : davantage de pouvoirs et de moyens pour les territoires, un droit plus simple (principe de subsidiarité) et de nouveaux espaces de participation citoyenne. Programme complet annoncé mais non publié.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Priorité « Décider collectivement » : plus de pouvoirs et de moyens pour les territoires, un droit plus simple et de nouveaux espaces de participation citoyenne.",
+     "sources": [
+      {
+       "media": "Équinoxe (site officiel)",
+       "titre": "Présidentielle 2027 - Parti Équinoxe",
+       "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+       "date": "2026-07-31"
+      },
+      {
+       "media": "La République du Centre",
+       "titre": "Présidentielle 2027 : le parti Equinoxe et Antoine Mikolajczak lancent leur campagne dans un village du Loiret",
+       "url": "https://www.larep.fr/saint-pere-sur-loire-45600/actualites/presidentielle-2027-le-parti-equinoxe-et-antoine-mikolajczak-lancent-leur-campagne-dans-un-village-du-loiret_15011694/",
+       "date": "2026-06-27"
+      }
+     ]
+    },
+    {
+     "texte": "Dénonce la « démesure » (explosion des normes, complexité administrative) et prône des règles plus simples et la subsidiarité.",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "« Monsieur Tout-le-Monde » candidat à la présidentielle 2027 ? Antoine Mikolajczak et Équinoxe face au défi des 500 parrainages",
+       "url": "https://www.leparisien.fr/oise-60/monsieur-tout-le-monde-candidat-a-la-presidentielle-2027-antoine-mikolajczak-et-equinoxe-face-au-defi-des-500-parrainages-12-08-2026-CN5YEZHLCJGF7CSTOWAQUMI4PY.php",
+       "date": "2026-08-12"
+      }
+     ]
+    }
+   ]
+  },
+  "economie_fiscalite": {
+   "resume": "Propose de relocaliser les productions agricoles et industrielles « dans le respect des limites planétaires ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Priorité « Produire en France » : relocaliser les productions agricoles et industrielles.",
+     "sources": [
+      {
+       "media": "Équinoxe (site officiel)",
+       "titre": "Présidentielle 2027 - Parti Équinoxe",
+       "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+       "date": "2026-07-31"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Propose de garantir l'accès aux soins et à une alimentation de qualité sur tout le territoire, en agissant sur les causes (pollutions, alimentation industrielle) comme sur les déserts médicaux.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Priorité « Vivre en bonne santé » : accès aux soins et à une alimentation de qualité sur l'ensemble du territoire.",
+     "sources": [
+      {
+       "media": "Équinoxe (site officiel)",
+       "titre": "Présidentielle 2027 - Parti Équinoxe",
+       "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+       "date": "2026-07-31"
+      },
+      {
+       "media": "La République du Centre",
+       "titre": "Présidentielle 2027 : le parti Equinoxe et Antoine Mikolajczak lancent leur campagne dans un village du Loiret",
+       "url": "https://www.larep.fr/saint-pere-sur-loire-45600/actualites/presidentielle-2027-le-parti-equinoxe-et-antoine-mikolajczak-lancent-leur-campagne-dans-un-village-du-loiret_15011694/",
+       "date": "2026-06-27"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Propose de relocaliser les filières agricoles et de garantir une alimentation de qualité.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Veut relocaliser les filières agricoles délocalisées « au nom d'une mondialisation » et garantir l'accès à une alimentation de qualité.",
+     "sources": [
+      {
+       "media": "Équinoxe (site officiel)",
+       "titre": "Présidentielle 2027 - Parti Équinoxe",
+       "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+       "date": "2026-07-31"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "La transition écologique est traitée « de manière transversale » dans les trois priorités du parti.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Équinoxe indique que la transition écologique est abordée de manière transversale dans ses priorités.",
+     "sources": [
+      {
+       "media": "Équinoxe (site officiel)",
+       "titre": "Présidentielle 2027 - Parti Équinoxe",
+       "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+       "date": "2026-07-31"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [
+  {
+   "texte": "Aucune information publique trouvée sur le budget de campagne, des prêts ou l'association de financement ; le site du parti appelle aux dons. Principal défi signalé par la presse : réunir les 500 parrainages.",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "titre": "« Monsieur Tout-le-Monde » candidat à la présidentielle 2027 ? Antoine Mikolajczak et Équinoxe face au défi des 500 parrainages",
+     "url": "https://www.leparisien.fr/oise-60/monsieur-tout-le-monde-candidat-a-la-presidentielle-2027-antoine-mikolajczak-et-equinoxe-face-au-defi-des-500-parrainages-12-08-2026-CN5YEZHLCJGF7CSTOWAQUMI4PY.php",
+     "date": "2026-08-12"
+    },
+    {
+     "media": "Équinoxe (site officiel)",
+     "titre": "Présidentielle 2027 - Parti Équinoxe",
+     "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+     "date": "2026-07-31"
+    }
+   ]
+  }
+ ]
+}

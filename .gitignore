@@ -1,0 +1,13 @@
+# logos non libres (marques déposées) : exclus du dépôt public
+img/partis/dlf.png
+img/partis/ge.png
+img/partis/grs.png
+img/partis/lc.png
+img/partis/le.svg
+img/partis/lp.png
+img/partis/lr.svg
+img/partis/pcf.svg
+img/partis/ps.svg
+img/partis/udb.svg
+img/partis/upr.png
+__pycache__/

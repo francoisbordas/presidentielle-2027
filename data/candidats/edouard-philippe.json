@@ -1,0 +1,943 @@
+{
+  "id": "edouard-philippe",
+  "nom": "Édouard Philippe",
+  "naissance": "1970-11-28",
+  "lieu_naissance": "Rouen (Seine-Maritime)",
+  "parti": "Horizons",
+  "parti_sigle": "HOR",
+  "famille": "centre_droit",
+  "position": 2.5,
+  "position_justif": {
+    "texte": "Horizons, fondé par Édouard Philippe le 9 octobre 2021, est classé au centre droit par la presse (Le Monde, Libération) et au « centre » dans les nuances du ministère de l'Intérieur ; en annonçant sa candidature, Édouard Philippe s'est décrit comme un « homme de droite » ne voulant pas être « prisonnier de son étiquette ». Position 2,5 = valeur du barème pour Horizons.",
+    "sources": [
+      {
+        "media": "Wikipédia",
+        "titre": "Horizons (parti politique)",
+        "url": "https://fr.wikipedia.org/wiki/Horizons_(parti_politique)",
+        "date": "2026-09-25"
+      },
+      {
+        "media": "franceinfo",
+        "titre": "L'ancien Premier ministre Édouard Philippe annonce être \"candidat à la prochaine élection présidentielle\"",
+        "url": "https://www.franceinfo.fr/politique/edouard-philippe/l-ancien-premier-ministre-edouard-philippe-annonce-etre-candidat-a-la-prochaine-election-presidentielle_6761212.html",
+        "date": "2024-09-03"
+      }
+    ]
+  },
+  "statut": "declare",
+  "photo": {
+    "fichier": "img/candidats/edouard-philippe.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg",
+    "auteur": "Wasasaq8",
+    "licence": "CC0"
+  },
+  "logo_parti": {
+    "fichier": "img/partis/hor.svg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Logo_Parti_Politique_Horizons_-_2021.svg",
+    "licence": "Domaine public"
+  },
+  "bio": {
+    "etudes": [
+      {
+        "texte": "Diplômé de l'Institut d'études politiques de Paris (1992, section Service public), après une hypokhâgne au lycée Janson-de-Sailly.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Édouard Philippe",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Édouard Philippe",
+            "url": "https://en.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Ancien élève de l'École nationale d'administration (ENA), promotion Marc-Bloch (1995-1997).",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Édouard Philippe",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Édouard Philippe",
+            "url": "https://en.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      }
+    ],
+    "carriere_hors_politique": [
+      {
+        "texte": "Membre du Conseil d'État à partir de 1997 (sortie de l'ENA), spécialisé en droit des marchés publics.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Édouard Philippe",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Édouard Philippe",
+            "url": "https://en.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Avocat au cabinet Debevoise & Plimpton à partir de 2004, puis directeur des affaires publiques d'Areva de 2007 à 2010 ; de nouveau avocat de 2011 à 2012.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Édouard Philippe",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Édouard Philippe",
+            "url": "https://en.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Élu au conseil d'administration de l'entreprise de services numériques Atos lors de l'assemblée générale du 27 octobre 2020, après son départ de Matignon ; la fonction était rémunérée entre 40 000 et 50 000 euros par an selon France Bleu.",
+        "sources": [
+          {
+            "media": "ici (ex-France Bleu)",
+            "titre": "Édouard Philippe élu au conseil d'administration d'Atos ce mardi",
+            "url": "https://www.ici.fr/infos/politique/edouard-philippe-elu-au-conseil-d-administration-d-atos-ce-mardi-1603881859",
+            "date": "2020-10-27"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Édouard Philippe",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      }
+    ],
+    "mandats": [
+      {
+        "texte": "Conseiller régional de Haute-Normandie (2004-2008), conseiller général de Seine-Maritime (2008-2012).",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Édouard Philippe",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Maire du Havre de 2010 à 2017, puis de nouveau depuis le 5 juillet 2020 ; président de la communauté urbaine Le Havre Seine Métropole depuis juillet 2020.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Édouard Philippe",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Édouard Philippe",
+            "url": "https://en.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Député de la 7e circonscription de Seine-Maritime de 2012 à 2017.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Édouard Philippe",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Édouard Philippe",
+            "url": "https://en.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Premier ministre du 15 mai 2017 au 3 juillet 2020, sous la présidence d'Emmanuel Macron.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Édouard Philippe",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Édouard Philippe",
+            "url": "https://en.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Fondateur et président du parti Horizons depuis le 9 octobre 2021.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Horizons (parti politique)",
+            "url": "https://fr.wikipedia.org/wiki/Horizons_(parti_politique)",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Édouard Philippe",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Réélu maire du Havre en mars 2026 (second tour du 22 mars : environ 47,7 % contre 41,2 % pour Jean-Paul Lecoq, PCF, et 11,1 % pour Franck Keller, UDR/RN), installé le 28 mars 2026 avec 44 voix du conseil municipal ; il avait conditionné sa candidature présidentielle à cette réélection.",
+        "sources": [
+          {
+            "media": "LCP",
+            "titre": "Municipales : Édouard Philippe réélu maire du Havre",
+            "url": "https://lcp.fr/actualites/municipales-edouard-philippe-reelu-maire-du-havre-434013",
+            "date": "2026-03-22"
+          },
+          {
+            "media": "Ville du Havre (site officiel)",
+            "titre": "Édouard Philippe élu maire du Havre",
+            "url": "https://lehavre.fr/actualites/toutes-les-actualites/edouard-philippe-elu-maire-du-havre",
+            "date": "2026-03-28"
+          }
+        ]
+      }
+    ],
+    "autres": [
+      {
+        "texte": "Membre du PS (1990-1992), puis du RPR, de l'UMP et de LR ; proche d'Alain Juppé ; sans parti de 2017 à la création d'Horizons en 2021.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Édouard Philippe",
+            "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Édouard Philippe",
+            "url": "https://en.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "A annoncé sa candidature à l'élection présidentielle de 2027 le 3 septembre 2024 dans Le Point (« Ce que je proposerai sera massif »).",
+        "sources": [
+          {
+            "media": "franceinfo",
+            "titre": "L'ancien Premier ministre Édouard Philippe annonce être \"candidat à la prochaine élection présidentielle\"",
+            "url": "https://www.franceinfo.fr/politique/edouard-philippe/l-ancien-premier-ministre-edouard-philippe-annonce-etre-candidat-a-la-prochaine-election-presidentielle_6761212.html",
+            "date": "2024-09-03"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Édouard Philippe",
+            "url": "https://en.wikipedia.org/wiki/%C3%89douard_Philippe",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "A plaidé en octobre 2025 pour un départ anticipé d'Emmanuel Macron de l'Élysée.",
+        "sources": [
+          {
+            "media": "franceinfo",
+            "titre": "\"Ça permet de prendre ses distances\" : pourquoi Édouard Philippe plaide pour un départ anticipé d'Emmanuel Macron",
+            "url": "https://www.franceinfo.fr/politique/edouard-philippe/ca-permet-de-prendre-ses-distances-pourquoi-edouard-philippe-plaide-pour-un-depart-anticipe-d-emmanuel-macron_7564414.html",
+            "date": "2025-10-22"
+          }
+        ]
+      },
+      {
+        "texte": "Premier grand meeting de campagne le 5 juillet 2026 à l'Adidas Arena (Paris) ; Laurent Wauquiez (LR) a annoncé son soutien.",
+        "sources": [
+          {
+            "media": "franceinfo",
+            "titre": "Présidentielle 2027 : Édouard Philippe se lance à la conquête de la droite",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-edouard-philippe-se-lance-a-la-conquete-de-la-droite_8095328.html",
+            "date": "2026-07-05"
+          },
+          {
+            "media": "Horizons (site officiel)",
+            "titre": "Discours d'Édouard Philippe lors de son grand meeting à l'Adidas Arena – 5 juillet 2026",
+            "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/",
+            "date": "2026-07-05"
+          }
+        ]
+      },
+      {
+        "texte": "Gérald Darmanin a apporté son soutien fin août 2026, en posant des conditions : il s'oppose à un départ à la retraite à 67 ans et demande plus de fermeté sur l'immigration.",
+        "sources": [
+          {
+            "media": "franceinfo",
+            "titre": "Retraites, immigration : le ralliement de Gérald Darmanin à Édouard Philippe pour la présidentielle assorti de conditions",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/retraites-immigration-le-ralliement-de-gerald-darmanin-a-edouard-philippe-pour-la-presidentielle-assorti-de-conditions_8169110.html",
+            "date": "2026-08-30"
+          }
+        ]
+      },
+      {
+        "texte": "A invité Gabriel Attal, Bruno Retailleau et François Bayrou à une rencontre en novembre 2026 ; prévoit de quitter la présidence exécutive d'Horizons après le 1er octobre 2026 pour une structure de campagne personnelle.",
+        "sources": [
+          {
+            "media": "franceinfo",
+            "titre": "Édouard Philippe invite Gabriel Attal, Bruno Retailleau et François Bayrou à une rencontre en novembre pour évoquer la présidentielle 2027 et l'après-élection",
+            "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-invite-gabriel-attal-bruno-retailleau-et-francois-bayrou-a-une-rencontre-en-novembre-pour-evoquer-la-presidentielle-2027-et-l-apres-election_8183582.html",
+            "date": "2026-09-08"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "economie_fiscalite": {
+      "resume": "Propose un « deal fiscal » avec les entreprises : 50 Md€ par an de baisse des impôts de production (CVAE, C3S, CFE) compensés par 50 Md€ de suppression d'aides aux entreprises jugées improductives, soit 250 Md€ sur le quinquennat ; refuse d'augmenter les impôts.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Propose 50 Md€ par an de baisse des impôts de production et 50 Md€ par an de suppression d'aides publiques aux entreprises, effectif dès la première loi de finances (annonce du 6 novembre 2025).",
+          "sources": [
+            {
+              "media": "Public Sénat",
+              "titre": "Entreprises : un « deal » à 250 milliards d'euros sur un quinquennat, que représente la proposition d'Édouard Philippe ?",
+              "url": "https://www.publicsenat.fr/actualites/economie/entreprises-un-deal-a-250-milliards-deuros-sur-un-quinquennat-que-represente-la-proposition-dedouard-philippe",
+              "date": "2025-11-06"
+            },
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors du Conseil national à Reims – 10 mai 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-du-conseil-national-a-reims-10-mai-2026/",
+              "date": "2026-05-10"
+            }
+          ]
+        },
+        {
+          "texte": "Propose de réduire les déficits « non pas en augmentant les impôts mais en acceptant collectivement de travailler plus » (débat du Medef, 27 août 2026).",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "De Bruno Retailleau à Jean-Luc Mélenchon, un premier débat et de premières passes d'armes entre sept candidats à la présidentielle face au Medef",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/de-bruno-retailleau-a-jean-luc-melenchon-un-premier-debat-et-de-premieres-passes-d-armes-entre-sept-candidats-a-la-presidentielle-face-au-medef_8165666.html",
+              "date": "2026-08-27"
+            },
+            {
+              "media": "Public Sénat",
+              "titre": "Dette, retraites, fiscalité… que retenir du premier débat des candidats à l'élection présidentielle ?",
+              "url": "https://www.publicsenat.fr/actualites/politique/dette-retraites-fiscalite-que-retenir-du-premier-debat-des-candidats-a-lelection-presidentielle",
+              "date": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "texte": "Propose de supprimer des niches fiscales avant toute hausse d'impôt et de simplifier les relations des entreprises avec l'administration fiscale et l'Urssaf.",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors de son grand meeting à l'Adidas Arena – 5 juillet 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/",
+              "date": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "texte": "Défend le maintien du « pacte Dutreil » sur la transmission des entreprises familiales.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "Édouard Philippe veut faire comme l'Allemagne et limiter à 12 mois l'indemnisation chômage des moins de 50 ans",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-veut-faire-comme-l-allemagne-et-limiter-a-12-mois-l-indemnisation-chomage-des-moins-de-50-ans_8164973.html",
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    "budget_dette": {
+      "resume": "Propose d'inscrire dans la Constitution, par référendum, une « règle d'or » budgétaire contraignant le Parlement à l'équilibre des comptes ; veut réduire la dette par la baisse des dépenses sociales (retraites, chômage) et non par l'impôt.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Propose un référendum pour inscrire une « règle d'or » d'équilibre des finances publiques.",
+          "sources": [
+            {
+              "media": "Public Sénat",
+              "titre": "Présidentielle : pourquoi Édouard Philippe n'est « pas là pour beurrer les tartines »",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-pourquoi-edouard-philippe-nest-pas-la-pour-beurrer-les-tartines",
+              "date": "2025-03-17"
+            },
+            {
+              "media": "Public Sénat",
+              "titre": "Dette, retraites, fiscalité… que retenir du premier débat des candidats à l'élection présidentielle ?",
+              "url": "https://www.publicsenat.fr/actualites/politique/dette-retraites-fiscalite-que-retenir-du-premier-debat-des-candidats-a-lelection-presidentielle",
+              "date": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "texte": "Propose de supprimer des agences de l'État ou de les obliger à justifier leur existence tous les trois ans.",
+          "sources": [
+            {
+              "media": "Public Sénat",
+              "titre": "Dette, retraites, fiscalité… que retenir du premier débat des candidats à l'élection présidentielle ?",
+              "url": "https://www.publicsenat.fr/actualites/politique/dette-retraites-fiscalite-que-retenir-du-premier-debat-des-candidats-a-lelection-presidentielle",
+              "date": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
+    "retraites": {
+      "resume": "Propose d'introduire par référendum une part de capitalisation obligatoire dans le système de retraite et de relever l'âge légal ; l'âge de 67 ans lui est associé depuis 2021, sans paramètres chiffrés publiés au 25/09/2026.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Propose un référendum pour introduire une dose de capitalisation dans les retraites.",
+          "sources": [
+            {
+              "media": "Public Sénat",
+              "titre": "Présidentielle : pourquoi Édouard Philippe n'est « pas là pour beurrer les tartines »",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-pourquoi-edouard-philippe-nest-pas-la-pour-beurrer-les-tartines",
+              "date": "2025-03-17"
+            },
+            {
+              "media": "Public Sénat",
+              "titre": "Dette, retraites, fiscalité… que retenir du premier débat des candidats à l'élection présidentielle ?",
+              "url": "https://www.publicsenat.fr/actualites/politique/dette-retraites-fiscalite-que-retenir-du-premier-debat-des-candidats-a-lelection-presidentielle",
+              "date": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "texte": "Défend un relèvement de l'âge légal de départ ; l'âge de 67 ans lui est associé depuis un entretien à Challenges en 2021 ; au 16 septembre 2026, il n'avait pas publié les paramètres précis de sa réforme.",
+          "sources": [
+            {
+              "media": "LCP",
+              "titre": "Présidentielle : que proposent les candidats à l'Élysée sur les retraites ?",
+              "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+              "date": "2026-09-16"
+            },
+            {
+              "media": "franceinfo",
+              "titre": "Retraites, immigration : le ralliement de Gérald Darmanin à Édouard Philippe pour la présidentielle assorti de conditions",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/retraites-immigration-le-ralliement-de-gerald-darmanin-a-edouard-philippe-pour-la-presidentielle-assorti-de-conditions_8169110.html",
+              "date": "2026-08-30"
+            }
+          ]
+        },
+        {
+          "texte": "Déclare que les retraités devront « contribuer davantage » au financement et que cadres et employés devront travailler plus longtemps.",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors de son grand meeting à l'Adidas Arena – 5 juillet 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/",
+              "date": "2026-07-05"
+            }
+          ]
+        }
+      ]
+    },
+    "travail_salaires": {
+      "resume": "Propose de limiter à 12 mois l'indemnisation chômage des moins de 50 ans (modèle allemand) et de mettre fin à « l'open bar des arrêts de travail ».",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Propose de limiter à 12 mois la durée maximale d'indemnisation chômage pour les moins de 50 ans (18 mois actuellement pour les moins de 55 ans).",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "Édouard Philippe veut faire comme l'Allemagne et limiter à 12 mois l'indemnisation chômage des moins de 50 ans",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-veut-faire-comme-l-allemagne-et-limiter-a-12-mois-l-indemnisation-chomage-des-moins-de-50-ans_8164973.html",
+              "date": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "texte": "A déclaré vouloir « mettre fin à l'open bar des arrêts de travail » et propose un délai « incompressible » de 3 à 6 mois entre arrêt maladie et rupture du contrat.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "Vrai ou faux. Les arrêts de travail courts sont-ils prescrits en \"open bar\" comme l'affirme Édouard Philippe ?",
+              "url": "https://www.franceinfo.fr/sante/les-arrets-de-travail-courts-sont-ils-prescrits-en-open-bar-comme-l-affirme-edouard-philippe_8166740.html",
+              "date": "2026-08-28"
+            },
+            {
+              "media": "franceinfo",
+              "titre": "Édouard Philippe veut faire comme l'Allemagne et limiter à 12 mois l'indemnisation chômage des moins de 50 ans",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-veut-faire-comme-l-allemagne-et-limiter-a-12-mois-l-indemnisation-chomage-des-moins-de-50-ans_8164973.html",
+              "date": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "texte": "Prône l'égalité de salaire et de carrière entre femmes et hommes.",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors de son grand meeting à l'Adidas Arena – 5 juillet 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/",
+              "date": "2026-07-05"
+            }
+          ]
+        }
+      ]
+    },
+    "sante": {
+      "resume": "Annonce un investissement dans l'accès aux médecins (déserts médicaux, formation), la prévention et l'IA en santé, sans chiffrage publié.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Annonce un « investissement massif » dans l'accès aux médecins, la lutte contre les déserts médicaux, la formation des médecins, la prévention et l'intégration de l'IA dans le système de santé.",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors du Conseil national à Reims – 10 mai 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-du-conseil-national-a-reims-10-mai-2026/",
+              "date": "2026-05-10"
+            }
+          ]
+        }
+      ]
+    },
+    "education": {
+      "resume": "Propose une hausse moyenne de 20 % du salaire des enseignants en cinq ans, plus d'autonomie pour les établissements, des « amendes de responsabilité scolaire » pour les parents et la publication des résultats des établissements.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Propose d'augmenter en moyenne de 20 % sur cinq ans le salaire des enseignants, financé en partie par la baisse démographique.",
+          "sources": [
+            {
+              "media": "Public Sénat",
+              "titre": "Présidentielle 2027 : Philippe et Attal font de l'école un nouveau terrain de bataille, au risque d'éreinter le bilan Macron",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-philippe-et-attal-font-de-lecole-un-nouveau-terrain-de-bataille-au-risque-dereinter-le-bilan-macron",
+              "date": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "texte": "Propose davantage de liberté des établissements (horaires, méthodes, équipes, uniformes, discipline), un recentrage sur « lire, écrire, compter » et un « soutien scolaire universel » associant IA et professeurs.",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors de son grand meeting à l'Adidas Arena – 5 juillet 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/",
+              "date": "2026-07-05"
+            },
+            {
+              "media": "Public Sénat",
+              "titre": "Présidentielle 2027 : Philippe et Attal font de l'école un nouveau terrain de bataille, au risque d'éreinter le bilan Macron",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-philippe-et-attal-font-de-lecole-un-nouveau-terrain-de-bataille-au-risque-dereinter-le-bilan-macron",
+              "date": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "texte": "Propose des « amendes de responsabilité scolaire » pour les parents d'élèves perturbateurs ou absentéistes et la publication des résultats des établissements.",
+          "sources": [
+            {
+              "media": "Public Sénat",
+              "titre": "Présidentielle 2027 : Philippe et Attal font de l'école un nouveau terrain de bataille, au risque d'éreinter le bilan Macron",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-philippe-et-attal-font-de-lecole-un-nouveau-terrain-de-bataille-au-risque-dereinter-le-bilan-macron",
+              "date": "2026-08-25"
+            }
+          ]
+        }
+      ]
+    },
+    "immigration": {
+      "resume": "Propose de dénoncer l'accord franco-algérien de 1968, un « verrou Schengen » sur les régularisations massives, la suspension des demandes d'asile et du droit du sol à Mayotte, un vote annuel d'une liste de pays sûrs ; refuse un moratoire général sur l'immigration légale.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Propose de « mettre fin » à l'accord franco-algérien de 1968 et d'utiliser visas, aide au développement et accords commerciaux comme leviers (il proposait sa renégociation dès 2023).",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "Après l'afflux de migrants à Ceuta, Édouard Philippe propose des mesures pour limiter l'immigration et les régularisations de sans-papiers dans l'Union européenne",
+              "url": "https://www.franceinfo.fr/societe/immigration/apres-l-afflux-de-migrants-a-ceuta-edouard-philippe-propose-des-mesures-pour-limiter-l-immigration-et-les-regularisations-de-sans-papiers-dans-l-union-europeenne_8141837.html",
+              "date": "2026-08-10"
+            },
+            {
+              "media": "franceinfo",
+              "titre": "Édouard Philippe se dit contre \"une immigration du fait accompli\" et veut renégocier l'accord conclu avec l'Algérie en 1968",
+              "url": "https://www.franceinfo.fr/societe/immigration/edouard-philippe-se-dit-contre-une-immigration-du-fait-accompli-et-veut-renegocier-l-accord-conclu-avec-l-algerie-en-1968_5870099.html",
+              "date": "2023-06-05"
+            }
+          ]
+        },
+        {
+          "texte": "Propose un « verrou Schengen » interdisant à un État européen de procéder seul à des régularisations massives, un régime d'urgence européen permettant de suspendre les demandes d'asile et un régime de sanctions européennes dédié.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "Après l'afflux de migrants à Ceuta, Édouard Philippe propose des mesures pour limiter l'immigration et les régularisations de sans-papiers dans l'Union européenne",
+              "url": "https://www.franceinfo.fr/societe/immigration/apres-l-afflux-de-migrants-a-ceuta-edouard-philippe-propose-des-mesures-pour-limiter-l-immigration-et-les-regularisations-de-sans-papiers-dans-l-union-europeenne_8141837.html",
+              "date": "2026-08-10"
+            }
+          ]
+        },
+        {
+          "texte": "Propose pour Mayotte la suspension de l'enregistrement des demandes d'asile pendant tout le quinquennat, la suspension totale du droit du sol « pendant plusieurs années », un moratoire sur l'immigration familiale et un « centre de retour » en Afrique de l'Est.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "Édouard Philippe souhaite fermer \"totalement\" les \"vannes de l'immigration\" à Mayotte",
+              "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-souhaite-fermer-totalement-les-vannes-de-l-immigration-a-mayotte_8154611.html",
+              "date": "2026-08-20"
+            },
+            {
+              "media": "LCP",
+              "titre": "Mayotte : pour Édouard Philippe, « l'urgence est de fermer les vannes de l'immigration »",
+              "url": "https://lcp.fr/actualites/mayotte-pour-edouard-philippe-l-urgence-est-de-fermer-les-vannes-de-l-immigration-440519",
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "texte": "Propose de voter chaque année une liste de « pays sûrs » et d'expulser les étrangers délinquants, tout en continuant d'accueillir étudiants, médecins, aides-soignants et ingénieurs étrangers.",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors de son grand meeting à l'Adidas Arena – 5 juillet 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/",
+              "date": "2026-07-05"
+            },
+            {
+              "media": "franceinfo",
+              "titre": "Retraites, immigration : le ralliement de Gérald Darmanin à Édouard Philippe pour la présidentielle assorti de conditions",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/retraites-immigration-le-ralliement-de-gerald-darmanin-a-edouard-philippe-pour-la-presidentielle-assorti-de-conditions_8169110.html",
+              "date": "2026-08-30"
+            }
+          ]
+        }
+      ]
+    },
+    "securite_justice": {
+      "resume": "Propose un « état d'urgence narco » sur le modèle antiterroriste (13 mesures), des peines de prison courtes et systématiques dès les premiers délits, et un pouvoir de sanction pour les maires.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Propose un plan de 13 mesures contre le narcotrafic, dont un « état d'urgence narco » avec perquisitions administratives, l'alignement des peines sur le terrorisme et un « fichier S financier ».",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Le plan d'Édouard Philippe contre le narcotrafic",
+              "url": "https://horizonsleparti.fr/le-plan-dedouard-philippe-contre-le-narcotrafic/",
+              "date": "2025-12-08"
+            },
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors du Conseil national à Reims – 10 mai 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-du-conseil-national-a-reims-10-mai-2026/",
+              "date": "2026-05-10"
+            }
+          ]
+        },
+        {
+          "texte": "Propose des condamnations « très tôt, à des peines de prison très courtes, systématiques », un pouvoir de sanction pénale des maires pour les petites infractions et des instructions individuelles écrites du garde des Sceaux au parquet.",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors de son grand meeting à l'Adidas Arena – 5 juillet 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/",
+              "date": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "texte": "Juge « inconstitutionnelle » et « scandaleuse » la proposition du RN de sanctionner le port du voile dans l'espace public ; défend la neutralité stricte des agents publics.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "Sanctionner le port du voile : Édouard Philippe juge la proposition du RN \"inconstitutionnelle\" et \"scandaleuse\"",
+              "url": "https://www.franceinfo.fr/societe/religion/sanctionner-le-port-du-voile-edouard-philippe-juge-la-proposition-du-rn-inconstitutionnelle-et-scandaleuse_8173319.html",
+              "date": "2026-09-02"
+            }
+          ]
+        }
+      ]
+    },
+    "defense_international": {
+      "resume": "Défend le soutien à l'Ukraine et propose un nouveau porte-avions « France Libre » pour remplacer le Charles-de-Gaulle.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Défend la poursuite de l'aide à l'Ukraine et a qualifié le RN de « voix de la faiblesse » face à la Russie (septembre 2026).",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "\"On coupe le robinet\" : Marine Le Pen et Édouard Philippe s'affrontent par tweets interposés sur l'aide à l'Ukraine",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/on-coupe-le-robinet-marine-le-pen-et-edouard-philippe-s-affrontent-par-tweets-interposes-sur-l-aide-a-l-ukraine_8178434.html",
+              "date": "2026-09-05"
+            },
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors de son grand meeting à l'Adidas Arena – 5 juillet 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/",
+              "date": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "texte": "Propose un porte-avions baptisé « France Libre » pour remplacer le Charles-de-Gaulle.",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors du Conseil national à Reims – 10 mai 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-du-conseil-national-a-reims-10-mai-2026/",
+              "date": "2026-05-10"
+            }
+          ]
+        },
+        {
+          "texte": "Estime en 2025 que « le sujet des prochaines années ne sera pas la Sécurité sociale mais la sécurité » et donne la priorité au réarmement.",
+          "sources": [
+            {
+              "media": "Public Sénat",
+              "titre": "Présidentielle : pourquoi Édouard Philippe n'est « pas là pour beurrer les tartines »",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-pourquoi-edouard-philippe-nest-pas-la-pour-beurrer-les-tartines",
+              "date": "2025-03-17"
+            }
+          ]
+        }
+      ]
+    },
+    "europe": {
+      "resume": "Prône une « souveraineté européenne intégrale » (IA, énergie, défense, marchés financiers) et une France « au cœur de l'Europe ».",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Appelle à une Europe qui « refuse le déclin et la vassalisation » et à une souveraineté européenne en IA, énergie, défense et marchés financiers.",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors de son grand meeting à l'Adidas Arena – 5 juillet 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/",
+              "date": "2026-07-05"
+            },
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors du Conseil national à Reims – 10 mai 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-du-conseil-national-a-reims-10-mai-2026/",
+              "date": "2026-05-10"
+            }
+          ]
+        }
+      ]
+    },
+    "energie_climat": {
+      "resume": "Propose une « politique de sécurité climatique » avec un fonds d'adaptation de 2 Md€ par an, un « Canadair français » et une journée nationale d'alerte ; mise sur le nucléaire et les renouvelables.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Propose un fonds d'adaptation au changement climatique de 2 Md€ par an, le développement d'un « Canadair français », une « journée nationale d'alerte », un plan natation, un plan montagne et un programme d'adaptation des infrastructures (17 septembre 2026).",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "Édouard Philippe souhaite doter la France d'une véritable politique de sécurité climatique",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-souhaite-doter-la-france-d-une-veritable-politique-de-securite-climatique_8197976.html",
+              "date": "2026-09-17"
+            }
+          ]
+        },
+        {
+          "texte": "Défend une énergie décarbonée associant nucléaire et renouvelables, un grand plan de fret ferroviaire et l'exigence des mêmes normes environnementales pour les partenaires commerciaux.",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors de son grand meeting à l'Adidas Arena – 5 juillet 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/",
+              "date": "2026-07-05"
+            }
+          ]
+        }
+      ]
+    },
+    "ia_numerique": {
+      "resume": "Propose de mettre l'IA au service de l'État et de l'école et de réglementer l'exposition des très jeunes enfants aux écrans.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Propose d'utiliser l'IA pour transformer les services publics et de protéger les très jeunes enfants des écrans par la réglementation.",
+          "sources": [
+            {
+              "media": "Horizons (site officiel)",
+              "titre": "Discours d'Édouard Philippe lors de son grand meeting à l'Adidas Arena – 5 juillet 2026",
+              "url": "https://horizonsleparti.fr/discours-dedouard-philippe-lors-de-son-grand-meeting-a-ladidas-arena-5-juillet-2026/",
+              "date": "2026-07-05"
+            }
+          ]
+        }
+      ]
+    },
+    "institutions": {
+      "resume": "Propose de dissoudre l'Assemblée dès son élection et d'organiser trois référendums (capitalisation, règle d'or, législation par ordonnances en santé, éducation et justice) ; propose un parti unique de la droite et du centre après les législatives.",
+      "origine": "déclarations 2025-2026",
+      "details": [
+        {
+          "texte": "Propose de dissoudre l'Assemblée nationale dès son élection et d'organiser trois référendums : capitalisation des retraites, règle d'or budgétaire, habilitation à légiférer par ordonnances en santé, éducation et justice.",
+          "sources": [
+            {
+              "media": "Public Sénat",
+              "titre": "Présidentielle : pourquoi Édouard Philippe n'est « pas là pour beurrer les tartines »",
+              "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-pourquoi-edouard-philippe-nest-pas-la-pour-beurrer-les-tartines",
+              "date": "2025-03-17"
+            }
+          ]
+        },
+        {
+          "texte": "Propose des candidatures uniques de la droite et du centre par circonscription et un parti unique de la droite et du centre après les législatives (rentrée de Tourcoing, fin août 2026).",
+          "sources": [
+            {
+              "media": "La Dépêche du Midi",
+              "titre": "Édouard Philippe propose un parti unique de la droite et du centre : réactions mitigées à gauche et chez Gabriel Attal",
+              "url": "https://www.ladepeche.fr/2026/09/01/edouard-philippe-propose-un-parti-unique-de-la-droite-et-du-centre-reactions-mitigees-a-gauche-et-chez-gabriel-attal-13529973.php",
+              "date": "2026-09-01"
+            },
+            {
+              "media": "franceinfo",
+              "titre": "Édouard Philippe invite Gabriel Attal, Bruno Retailleau et François Bayrou à une rencontre en novembre pour évoquer la présidentielle 2027 et l'après-élection",
+              "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-invite-gabriel-attal-bruno-retailleau-et-francois-bayrou-a-une-rencontre-en-novembre-pour-evoquer-la-presidentielle-2027-et-l-apres-election_8183582.html",
+              "date": "2026-09-08"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "affaires": [
+    {
+      "intitule": "Gestion de la crise du Covid-19 (Cour de justice de la République)",
+      "statut": "relaxe_ou_non_lieu",
+      "date": "2025-07-07",
+      "description": "Information judiciaire ouverte le 7 juillet 2020 devant la CJR pour « abstention volontaire de combattre un sinistre » (art. 223-7 du Code pénal) après des plaintes de médecins, syndicats et particuliers ; perquisition à son domicile le 15 octobre 2020. Placé sous le statut de témoin assisté, jamais mis en examen. Non-lieu requis le 21 mai 2025 par le procureur général Rémy Heitz, prononcé le 7 juillet 2025 pour Édouard Philippe, Agnès Buzyn et Olivier Véran.",
+      "sources": [
+        {
+          "media": "Le Club des juristes",
+          "titre": "Gestion du Covid-19 : la CJR prononce un non-lieu à l'encontre de Édouard Philippe, Agnès Buzyn et Olivier Véran",
+          "url": "https://www.leclubdesjuristes.com/en-bref/gestion-du-covid-19-la-cjr-prononce-un-non-lieu-a-lencontre-de-edouard-philippe-agnes-buzyn-et-olivier-veran-11443/",
+          "date": "2025-07-07"
+        },
+        {
+          "media": "franceinfo (France 3 Normandie)",
+          "titre": "Gestion du Covid-19 : non-lieu pour trois ex-membres du gouvernement, dont Édouard Philippe",
+          "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/gestion-du-covid-19-non-lieu-pour-trois-ex-membres-du-gouvernement-dont-edouard-philippe-3184557.html",
+          "date": "2025-07-07"
+        },
+        {
+          "media": "AEF info",
+          "titre": "Crise Covid : non-lieu de la Cour de Justice de la République pour Agnès Buzyn, Olivier Véran et Édouard Philippe",
+          "url": "https://www.aefinfo.fr/depeche/734519-crise-covid-non-lieu-de-la-cour-de-justice-de-la-republique-pour-agnes-buzyn-olivier-veran-et-edouard-philippe",
+          "date": "2025-07-07"
+        },
+        {
+          "media": "Wikipédia",
+          "titre": "Édouard Philippe",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "intitule": "Cité numérique du Havre (parquet national financier)",
+      "statut": "enquete",
+      "date": "2026-05-19",
+      "description": "Signalement en septembre 2023 d'une ex-directrice générale adjointe de Le Havre Seine Métropole visant la convention de gestion de la Cité numérique signée en juillet 2020 avec l'association LH French Tech (2,154 M€ de compensation), présidée par une adjointe au maire. Enquête préliminaire du PNF (perquisitions à la mairie et à la communauté urbaine le 3 avril 2024), plainte avec constitution de partie civile en juin 2025, réquisitoire introductif du 7 mai 2026 et désignation d'un juge d'instruction le 19 mai 2026 pour détournement de fonds publics, favoritisme, prise illégale d'intérêts et concussion. Au 25/09/2026, Édouard Philippe n'est pas mis en examen ; il conteste les faits et dit vouloir répondre à la justice « en toute sérénité ».",
+      "sources": [
+        {
+          "media": "franceinfo",
+          "titre": "Détournement de fonds publics, favoritisme, prise illégale d'intérêts… Ce que l'on sait de l'enquête visant Édouard Philippe, candidat à la présidentielle 2027",
+          "url": "https://www.franceinfo.fr/politique/edouard-philippe/detournement-de-fonds-publics-favoritisme-prise-illegale-d-interets-ce-que-l-on-sait-de-l-enquete-a-venir-au-havre-visant-edouard-philippe-candidat-a-la-presidentielle-2027_8016002.html",
+          "date": "2026-05-20"
+        },
+        {
+          "media": "franceinfo (France 3 Normandie)",
+          "titre": "Soupçons de détournements de fonds au Havre : pourquoi Édouard Philippe est visé par une enquête du parquet national financier",
+          "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/un-juge-d-instruction-du-parquet-national-financier-va-enqueter-sur-edouard-philippe-candidat-a-la-presidentielle-2027-3353566.html",
+          "date": "2026-05-19"
+        },
+        {
+          "media": "franceinfo",
+          "titre": "Gestion de la Cité numérique du Havre : une lanceuse d'alerte demande la saisine d'un juge d'instruction dans l'enquête qui vise Édouard Philippe",
+          "url": "https://www.franceinfo.fr/france/normandie/seine-maritime/le-havre/gestion-de-la-cite-numerique-du-havre-une-lanceuse-d-alerte-demande-la-saisine-d-un-juge-d-instruction-dans-l-enquete-qui-vise-edouard-philippe_7331874.html",
+          "date": "2025-06-23"
+        },
+        {
+          "media": "Le Figaro",
+          "titre": "Cumul de mandats, salaires « mirobolants », harcèlement moral : sur quoi porte l'enquête visant Édouard Philippe ?",
+          "url": "https://www.lefigaro.fr/faits-divers/cumul-de-mandats-salaires-mirobolants-harcelement-moral-sur-quoi-porte-l-enquete-visant-edouard-philippe-20240404",
+          "date": "2024-04-04"
+        }
+      ]
+    }
+  ],
+  "financement": [
+    {
+      "texte": "En 2014, sa déclaration de patrimoine de député a fait partie des 23 (sur 1 048 parlementaires) assorties d'une « appréciation » de la HATVP, pour avoir notamment écrit « aucune idée » sur la valeur de biens immobiliers et omis ses rémunérations d'avocat et d'Areva ; la déclaration a ensuite été complétée.",
+      "sources": [
+        {
+          "media": "Mediapart",
+          "titre": "Le juppéiste Édouard Philippe, mauvais élève de la transparence",
+          "url": "https://www.mediapart.fr/journal/france/120517/le-juppeiste-edouard-philippe-mauvais-eleve-de-la-transparence",
+          "date": "2017-05-12"
+        },
+        {
+          "media": "RTL",
+          "titre": "Édouard Philippe, épinglé sur le manque de transparence de sa déclaration de patrimoine",
+          "url": "https://www.rtl.fr/actu/politique/edouard-philippe-ses-nebuleuses-declarations-de-patrimoine-et-interets-7788544879",
+          "date": "2017-05-15"
+        }
+      ]
+    },
+    {
+      "texte": "Administrateur d'Atos à partir d'octobre 2020 (jetons de présence estimés entre 40 000 et 50 000 € par an), nomination ayant reçu un avis de la HATVP assorti de réserves.",
+      "sources": [
+        {
+          "media": "ici (ex-France Bleu)",
+          "titre": "Édouard Philippe élu au conseil d'administration d'Atos ce mardi",
+          "url": "https://www.ici.fr/infos/politique/edouard-philippe-elu-au-conseil-d-administration-d-atos-ce-mardi-1603881859",
+          "date": "2020-10-27"
+        },
+        {
+          "media": "Wikipédia",
+          "titre": "Édouard Philippe",
+          "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "texte": "Déclarations d'intérêts de maire du Havre et de président de Le Havre Seine Métropole déposées à la HATVP en 2026, « publication à venir » au 25/09/2026 ; ses déclarations de patrimoine d'élu local ne sont pas publiées en ligne.",
+      "sources": [
+        {
+          "media": "HATVP",
+          "titre": "Fiche nominative : Édouard Philippe",
+          "url": "https://www.hatvp.fr/fiche-nominative/?declarant=philippe-edouard",
+          "date": "2026-09-25"
+        }
+      ]
+    }
+  ]
+}

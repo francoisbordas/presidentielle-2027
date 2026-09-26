@@ -1,0 +1,1204 @@
+{
+ "id": "raphael-glucksmann",
+ "nom": "Raphaël Glucksmann",
+ "naissance": "1979-10-15",
+ "lieu_naissance": "Boulogne-Billancourt (Hauts-de-Seine)",
+ "parti": "Place publique",
+ "parti_sigle": "PP",
+ "famille": "centre_gauche",
+ "position": -3,
+ "position_justif": {
+  "texte": "Place publique, dont Raphaël Glucksmann est coprésident, est classée au centre gauche (social-démocratie, social-écologie, europhile) ; Toute l'Europe le présente comme représentant d'un mouvement de centre gauche. Il refuse toute alliance avec La France insoumise. Position retenue : −3 (barème Place publique).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Place publique (parti politique)",
+    "url": "https://fr.wikipedia.org/wiki/Place_publique_(parti_politique)",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Toute l'Europe",
+    "titre": "Présidentielle 2027 : qui sont les candidats à la primaire organisée par le PS, Place publique et la GRS ?",
+    "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/",
+    "date": "2026-09-16"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Olivier Faure, Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste ?",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html",
+    "date": "2026-09"
+   }
+  ]
+ },
+ "statut": "primaire",
+ "photo": {
+  "fichier": "img/candidats/raphael-glucksmann.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:1720448398743_20240708_GLUCKSMANN_Raphael_FR_006.jpg",
+  "auteur": "European Union 2024 – Source : EP (Parlement européen)",
+  "licence": "European Parliament (réutilisation autorisée avec mention de la source)"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/pp.svg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Logo_Place_publique.svg",
+  "licence": "Domaine public"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Diplômé de l'Institut d'études politiques de Paris (Sciences Po), où il étudie de 1999 à 2003.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Les Inrockuptibles",
+      "titre": "Portrait de Raphaël Glucksmann, un trentenaire en guerre contre les réacs",
+      "url": "https://www.lesinrocks.com/actu/raphael-glucksmann-la-fibre-politique-88312-26-12-2015/",
+      "date": "2015-12-26"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Coréalise en 2004 le documentaire « Tuez-les tous ! » sur le rôle de la France dans le génocide des Tutsi au Rwanda, puis un documentaire sur la révolution orange en Ukraine (2004-2005).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Les Inrockuptibles",
+      "titre": "Portrait de Raphaël Glucksmann, un trentenaire en guerre contre les réacs",
+      "url": "https://www.lesinrocks.com/actu/raphael-glucksmann-la-fibre-politique-88312-26-12-2015/",
+      "date": "2015-12-26"
+     }
+    ]
+   },
+   {
+    "texte": "Conseiller du président géorgien Mikheil Saakachvili de 2009 à 2012 ; il participe à l'écriture de ses discours.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Dans la famille Glucksmann, le fils est conseiller de président",
+      "url": "https://www.lemonde.fr/europe/article/2011/10/05/dans-la-famille-glucksmann-le-fils-est-conseiller-de-president_1582449_3214.html",
+      "date": "2011-10-05"
+     }
+    ]
+   },
+   {
+    "texte": "En 2013-2014, il conseille bénévolement Vitali Klitschko en Ukraine pendant l'Euromaïdan.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "International : au cœur de la nouvelle Ukraine",
+      "url": "https://www.leparisien.fr/week-end/international-au-coeur-de-la-nouvelle-ukraine-03-04-2014-3737445.php",
+      "date": "2014-04-04"
+     }
+    ]
+   },
+   {
+    "texte": "Chroniqueur dans l'émission « Questions politiques » (France Inter/franceinfo) à partir de la rentrée 2017 ; il quitte l'émission fin novembre 2018 pour se consacrer à Place publique.",
+    "sources": [
+     {
+      "media": "Puremédias (Ozap)",
+      "titre": "Raphaël Glucksmann quitte France Inter pour se consacrer à son nouveau parti politique",
+      "url": "https://www.ozap.com/actu/raphael-glucksmann-quitte-france-inter-pour-se-consacrer-a-son-nouveau-parti-politique/571405",
+      "date": "2018-11-29"
+     },
+     {
+      "media": "Vanity Fair",
+      "titre": "Raphaël Glucksmann quitte France Inter pour se consacrer à la politique",
+      "url": "https://www.vanityfair.fr/actualites/articles/raphael-glucksmann-quitte-france-inter-pour-se-consacrer-a-la-politique/70892",
+      "date": "2018-11-29"
+     }
+    ]
+   },
+   {
+    "texte": "Directeur de la rédaction du « Nouveau Magazine littéraire » de décembre 2017 à août 2018 ; l'actionnaire Claude Perdriel met fin à ses fonctions, invoquant les résultats, tandis que Glucksmann l'attribue à ses critiques envers Emmanuel Macron.",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "Nouveau magazine littéraire : Perdriel débarque Glucksmann pour anti-macronisme",
+      "url": "https://www.lefigaro.fr/medias/2018/08/24/20004-20180824ARTFIG00139--nouveau-magazine-litteraire-perdriel-debarque-glucksmann-pour-anti-macronisme.php",
+      "date": "2018-08-24"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Essayiste, publié notamment chez Allary Éditions (dont « Les Enfants du vide », 2018, et « Nous avons encore envie », mai 2026) ; sa déclaration d'intérêts à la HATVP mentionne des droits d'auteur versés par Allary (59 175 € nets en 2023).",
+    "sources": [
+     {
+      "media": "HATVP",
+      "titre": "Déclaration d'intérêts de Raphaël Glucksmann, député européen (déposée le 16/09/2024, publiée le 22/07/2025)",
+      "url": "https://www.hatvp.fr/livraison/dossiers/glucksmann-raphael-di33197-europe.xml",
+      "date": "2025-07-22"
+     },
+     {
+      "media": "LCP",
+      "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme",
+      "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+      "date": "2026-05-26"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Cofondateur de Place publique en octobre 2018, avec notamment Claire Nouvian, Thomas Porcher et Jo Spiegel ; coprésident du parti depuis décembre 2022 (avec Aurore Lalucq).",
+    "sources": [
+     {
+      "media": "Les Inrockuptibles",
+      "titre": "Raphaël Glucksmann dévoile un nouveau mouvement politique « citoyen, écologiste et solidaire »",
+      "url": "https://www.lesinrocks.com/actu/raphael-glucksmann-devoile-un-nouveau-mouvement-politique-citoyen-ecologiste-et-solidaire-187648-31-10-2018/",
+      "date": "2018-10-31"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Député européen depuis juillet 2019 : tête de la liste PS-Place publique-Nouvelle Donne-PRG élue le 26 mai 2019 (6,19 %, 6 sièges), groupe S&D.",
+    "sources": [
+     {
+      "media": "20 Minutes",
+      "titre": "Européennes : Raphaël Glucksmann officiellement candidat pour prendre la tête d'une liste de gauche",
+      "url": "https://www.20minutes.fr/politique/2473083-20190314-europeennes-raphael-glucksmann-va-prendre-tete-liste-gauche-soutenue-ps",
+      "date": "2019-03-14"
+     },
+     {
+      "media": "BFM TV",
+      "titre": "Voici la liste des députés français qui siégeront au Parlement européen",
+      "url": "https://www.bfmtv.com/politique/voici-la-liste-des-74-deputes-francais-qui-siegeront-au-parlement-europeen-1699867.html",
+      "date": "2019-05-27"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Vice-président de la sous-commission des droits de l'homme du Parlement européen (2019-2024) ; membre des commissions des affaires étrangères et du commerce international.",
+    "sources": [
+     {
+      "media": "Parlement européen",
+      "titre": "Élection des président(e)s et vice-président(e)s des commissions du Parlement",
+      "url": "https://www.europarl.europa.eu/news/fr/press-room/20190709IPR56669/election-des-president-e-s-et-vice-president-e-s-des-commissions-du-parlement",
+      "date": "2019-07-10"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Élu le 23 septembre 2020 président de la commission spéciale du Parlement européen sur l'ingérence étrangère et la désinformation.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Parlement européen",
+      "titre": "Raphaël GLUCKSMANN – Députés – Parlement européen",
+      "url": "https://www.europarl.europa.eu/meps/fr/197694/RAPHAEL_GLUCKSMANN/home",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Réélu député européen le 9 juin 2024 comme tête de liste PS-Place publique (13,83 %, 3e place, 13 sièges).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "France 24",
+      "titre": "Raphaël Glucksmann annonce sa candidature à la présidentielle de 2027",
+      "url": "https://www.france24.com/fr/france/20260823-rapha%C3%ABl-glucksmann-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027",
+      "date": "2026-08-23"
+     }
+    ]
+   },
+   {
+    "texte": "Membre titulaire de la sous-commission sécurité et défense (SEDE) et de la délégation UE-Ukraine au Parlement européen (législature 2024-2029).",
+    "sources": [
+     {
+      "media": "Parlement européen",
+      "titre": "Raphaël GLUCKSMANN – Députés – Parlement européen",
+      "url": "https://www.europarl.europa.eu/meps/fr/197694/RAPHAEL_GLUCKSMANN/home",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Candidat déclaré à l'élection présidentielle 2027 le 23 août 2026 au journal de 20 heures de TF1, dans le cadre de la primaire « Choisir 2027 » (PS, Place publique, GRS) dont le 1er tour a lieu les 9-10 octobre et le 2d tour les 16-17 octobre 2026.",
+    "sources": [
+     {
+      "media": "TF1",
+      "titre": "Candidat à l'élection présidentielle, Raphaël Glucksmann invité du 20h de TF1",
+      "url": "https://www.tf1.fr/tf1/jt-20h/videos/candidat-a-lelection-presidentielle-raphael-glucksmann-invite-du-20h-de-tf1-67814081.html",
+      "date": "2026-08-23"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Olivier Faure, Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html",
+      "date": "2026-09"
+     },
+     {
+      "media": "Toute l'Europe",
+      "titre": "Présidentielle 2027 : qui sont les candidats à la primaire organisée par le PS, Place publique et la GRS ?",
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/",
+      "date": "2026-09-16"
+     }
+    ]
+   },
+   {
+    "texte": "Soutiens déclarés à la primaire : Yannick Jadot (24 août 2026), Boris Vallaud (27 août 2026), ainsi que des ex-macronistes (Sacha Houlié, Aurélien Rousseau, Marguerite Cazeneuve, qui coordonne le programme).",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
+      "date": "2026-08-24"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Olivier Faure, Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html",
+      "date": "2026-09"
+     },
+     {
+      "media": "France 24",
+      "titre": "Raphaël Glucksmann annonce sa candidature à la présidentielle de 2027",
+      "url": "https://www.france24.com/fr/france/20260823-rapha%C3%ABl-glucksmann-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027",
+      "date": "2026-08-23"
+     }
+    ]
+   },
+   {
+    "texte": "Près de 300 élus et responsables socialistes appellent à voter pour lui à la primaire dans une tribune publiée en septembre 2026.",
+    "sources": [
+     {
+      "media": "La Tribune Dimanche",
+      "titre": "TRIBUNE. Près de 300 élus et responsables socialistes appellent à voter Raphaël Glucksmann pour la primaire",
+      "url": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/17131657444996/tribune-pres-de-300-elus-et-responsables-socialistes-appellent-a-voter-raphael-glucksmann-pour-la-primaire",
+      "date": "2026-09"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "En mai 2025, il déclarait qu'il ne participerait pas à une primaire de la gauche ; il y participe finalement après sa déclaration d'août 2026.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Plan de Trump pour l'Ukraine, retour du service militaire et désunion de la gauche... Le 8.30 franceinfo de Raphaël Glucksmann",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/plan-de-trump-pour-l-ukraine-retour-du-service-militaire-et-desunion-de-la-gauche-le-8-30-franceinfo-de-raphael-glucksmann_7606847.html",
+      "date": "2025-11-24"
+     }
+    ]
+   },
+   {
+    "texte": "Le 13 juin 2026, meeting aux Docks d'Aubervilliers, avec Carole Delga, Marisol Touraine et Hélène Geoffroy ; il y déclare qu'il n'y aura « pas d'union avec Mélenchon ».",
+    "sources": [
+     {
+      "media": "Public Sénat",
+      "titre": "Présidentielle 2027 : Raphaël Glucksmann, rassembleur de la gauche, pour un meeting qui avait tout d'un lancement de campagne",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-raphael-glucksmann-rassembleur-de-la-gauche-pour-un-meeting-qui-avait-tout-dun-lancement-de-campagne",
+      "date": "2026-06-13"
+     }
+    ]
+   },
+   {
+    "texte": "Sanctionné par la Chine en mars 2021 (interdiction d'entrée) avec d'autres eurodéputés, en raison de son engagement sur la répression des Ouïghours.",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "Ouïgours : Raphaël Glucksmann prend comme une « médaille d'honneur » son interdiction d'entrer en Chine",
+      "url": "https://www.lefigaro.fr/politique/ouigours-raphael-glucksmann-prend-comme-une-medaille-d-honneur-son-interdiction-d-entrer-en-chine-20210323",
+      "date": "2021-03-23"
+     },
+     {
+      "media": "L'Express",
+      "titre": "Ouïghours : qui sont les parlementaires et universitaires européens sanctionnés par la Chine ?",
+      "url": "https://www.lexpress.fr/actualite/monde/asie/ouighours-qui-sont-les-parlementaires-et-universitaires-europeens-sanctionnes-par-la-chine_2147330.html",
+      "date": "2021-03-22"
+     }
+    ]
+   },
+   {
+    "texte": "Le 1er mai 2024 à Saint-Étienne, il doit quitter le cortège après des jets de peinture revendiqués par des militants (Jeunes communistes, insoumis) lui reprochant ses positions sur Gaza.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Qui sont les militants qui ont évincé Raphaël Glucksmann de la manifestation du 1er-Mai à Saint-Étienne ?",
+      "url": "https://www.franceinfo.fr/politique/qui-sont-les-militants-qui-ont-evince-raphael-glucksmann-de-la-manifestation-du-1er-mai-a-saint-etienne_6520889.html",
+      "date": "2024-05-02"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "En mars 2024, il refuse d'employer le terme de « génocide » pour Gaza, dénonçant un « carnage ».",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "Guerre Hamas-Israël : Raphaël Glucksmann refuse le terme de « génocide » et préfère celui de « carnage »",
+      "url": "https://www.lefigaro.fr/politique/guerre-hamas-israel-raphael-glucksmann-refuse-le-terme-de-genocide-et-prefere-celui-de-carnage-20240312",
+      "date": "2024-03-12"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Gaza : Raphaël Glucksmann refuse le terme de génocide mais dénonce un « carnage »",
+      "url": "https://www.leparisien.fr/politique/gaza-raphael-glucksmann-refuse-le-terme-de-genocide-mais-denonce-un-carnage-11-03-2024-GU5CLZNPEBGSPAFIJCPAXIDTBM.php",
+      "date": "2024-03-11"
+     }
+    ]
+   },
+   {
+    "texte": "Aux municipales 2026, une seule des neuf listes Place publique présentes au second tour l'emporte (Éric Pliez, Paris 20e), selon Politis.",
+    "sources": [
+     {
+      "media": "Politis",
+      "titre": "Neuf listes, huit défaites : le vrai bilan de Glucksmann au second tour des municipales",
+      "url": "https://www.politis.fr/articles/2026/03/neuf-listes-huit-defaites-le-vrai-bilan-de-raphael-glucksmann-au-second-tour-des-municipales/",
+      "date": "2026-03-24"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Sa compagne, la journaliste Léa Salamé, se retire de la présentation du 20 heures de France 2 après l'annonce de sa candidature.",
+    "sources": [
+     {
+      "media": "France 24",
+      "titre": "Raphaël Glucksmann annonce sa candidature à la présidentielle de 2027",
+      "url": "https://www.france24.com/fr/france/20260823-rapha%C3%ABl-glucksmann-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027",
+      "date": "2026-08-23"
+     }
+    ]
+   },
+   {
+    "texte": "Fils du philosophe André Glucksmann.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Raphaël Glucksmann",
+      "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Dans la famille Glucksmann, le fils est conseiller de président",
+      "url": "https://www.lemonde.fr/europe/article/2011/10/05/dans-la-famille-glucksmann-le-fils-est-conseiller-de-president_1582449_3214.html",
+      "date": "2011-10-05"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "economie_fiscalite": {
+   "resume": "Propose un « nouveau contrat patriotique » : rééquilibrer la fiscalité entre travail, capital, retraites et héritage, taxer les « méga-héritages » (au-delà de 2 M€) et les superprofits, et relever le SMIC à 1 600 € net en deux ans.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de taxer « les méga-héritages, les 1 % des plus gros héritages » pour transférer environ 15 milliards d'euros « directement sur la fiche de paie » via une baisse des cotisations/prélèvements sur les salaires.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Fiscalité, école, immigration : ce que propose Raphaël Glucksmann",
+       "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+       "date": "2026-08-24"
+      },
+      {
+       "media": "France 24",
+       "titre": "Raphaël Glucksmann annonce sa candidature à la présidentielle de 2027",
+       "url": "https://www.france24.com/fr/france/20260823-rapha%C3%ABl-glucksmann-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027",
+       "date": "2026-08-23"
+      }
+     ]
+    },
+    {
+     "texte": "Propose une taxation des grands héritages supérieurs à 2 millions d'euros pour financer la hausse des salaires nets.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Prix des carburants : « le gouvernement ne veut pas heurter TotalEnergies », selon Raphaël Glucksmann, qui réclame une taxe sur les superprofits",
+       "url": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-ne-veut-pas-heurter-totalenergies-selon-raphael-glucksmann-qui-reclame-une-taxe-sur-les-superprofits_8202563.html",
+       "date": "2026-09-21"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de rééquilibrer la taxation entre travail, capital, retraites et héritage et de mettre fin à la « sécession » fiscale des ultra-riches (livre « Nous avons encore envie », mai 2026).",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme",
+       "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+       "date": "2026-05-26"
+      },
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "Réclame une taxe sur les superprofits des multinationales des énergies fossiles, citant TotalEnergies (septembre 2026) ; le projet de Place publique prévoit un mécanisme automatique de taxation des superprofits.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Prix des carburants : « le gouvernement ne veut pas heurter TotalEnergies », selon Raphaël Glucksmann, qui réclame une taxe sur les superprofits",
+       "url": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-ne-veut-pas-heurter-totalenergies-selon-raphael-glucksmann-qui-reclame-une-taxe-sur-les-superprofits_8202563.html",
+       "date": "2026-09-21"
+      },
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "Le projet de Place publique prévoit un « Buy European Act » réservant la commande publique aux productions européennes et un protectionnisme ciblé (mesures miroirs, barrières douanières face à la concurrence chinoise).",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Raphaël Glucksmann",
+       "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Affiche un objectif de réduction de la dette et des déficits, financé par la suppression de niches fiscales et un effort ciblé sur les très hauts patrimoines et grands groupes.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Le programme en construction prévoit la réduction de la dette et des déficits tout en investissant dans l'école, la défense, la réindustrialisation et la transition écologique.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
+       "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
+       "date": "2026-08-24"
+      }
+     ]
+    },
+    {
+     "texte": "Le projet de Place publique annonce une « trajectoire crédible de désendettement », la suppression de niches fiscales jugées inefficaces et un « effort fiscal nouveau » ciblé sur les très hauts patrimoines et les grands groupes.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose une réforme fondée sur l'espérance de vie en bonne santé : départ anticipé (jusqu'à 60 ans) pour les carrières pénibles ou hachées, départ plus tardif pour d'autres ; le projet de Place publique prévoit d'abroger la réforme de 2023.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose une réforme « juste et ambitieuse » : départ anticipé pour les carrières hachées et métiers difficiles, les personnes « en bonne santé » devant « partir plus tard ».",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Fiscalité, école, immigration : ce que propose Raphaël Glucksmann",
+       "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+       "date": "2026-08-24"
+      },
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme",
+       "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+       "date": "2026-05-26"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
+       "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html",
+       "date": "2026-08-24"
+      }
+     ]
+    },
+    {
+     "texte": "Place publique propose d'abroger la réforme des retraites de 2023 et que certains puissent partir à 60 ans selon la pénibilité et l'espérance de vie.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle : pas candidat pour le moment, Raphaël Glucksmann trace son chemin et défend sa vision pour le pays",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-pas-candidat-pour-le-moment-raphael-glucksmann-trace-son-chemin-et-defend-sa-vision-pour-le-pays",
+       "date": "2025-06-23"
+      },
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "Le projet de Place publique prévoit un Haut Conseil du pilotage des retraites où les partenaires sociaux seraient majoritaires.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose un SMIC à 1 600 € net en deux ans, des conférences salariales et une hausse du salaire net financée par la taxation des gros héritages.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de porter le SMIC à 1 600 euros net dans les deux ans et d'organiser des conférences salariales.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle : pas candidat pour le moment, Raphaël Glucksmann trace son chemin et défend sa vision pour le pays",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-pas-candidat-pour-le-moment-raphael-glucksmann-trace-son-chemin-et-defend-sa-vision-pour-le-pays",
+       "date": "2025-06-23"
+      },
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "Le projet de Place publique prévoit de généraliser « Territoires zéro chômeur » et d'abroger la réforme de l'assurance chômage.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Le projet de Place publique prévoit de sortir de la tarification à l'acte à l'hôpital, un plan de prévention hors ONDAM et une Sécurité sociale unique fusionnant les régimes.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose des projets territoriaux de santé, des centres et maisons de santé, la fin de la tarification à l'acte à l'hôpital et un financement global pluriannuel.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de faire de la santé mentale des jeunes une priorité nationale et de « démarchandiser » les EHPAD et les crèches.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      },
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Raphaël Glucksmann – Sa lettre aux Français",
+       "url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+       "date": "2026-08-25"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Propose un plan quinquennal pour l'école (hausse des salaires enseignants, moins d'élèves par classe en primaire, rénovation), un service civique obligatoire de dix mois et des colonies de vacances pour tous.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose un plan quinquennal : hausse de la rémunération des enseignants, réduction des effectifs par classe en primaire, rénovation des bâtiments scolaires.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Fiscalité, école, immigration : ce que propose Raphaël Glucksmann",
+       "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+       "date": "2026-08-24"
+      },
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme",
+       "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+       "date": "2026-05-26"
+      },
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un service civique obligatoire de dix mois pour les jeunes (EHPAD, écoles, services publics, associations).",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Fiscalité, école, immigration : ce que propose Raphaël Glucksmann",
+       "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+       "date": "2026-08-24"
+      },
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme",
+       "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+       "date": "2026-05-26"
+      }
+     ]
+    },
+    {
+     "texte": "Propose « Colo pour tous » : un passeport garantissant à chaque enfant au moins un séjour collectif pendant sa scolarité.",
+     "sources": [
+      {
+       "media": "France 24 (AFP)",
+       "titre": "À Rouen, Raphaël Glucksmann veut relancer l'idée des colonies de vacances pour tous",
+       "url": "https://www.france24.com/fr/info-en-continu/20260620-a-rouen-rapha%C3%ABl-glucksmann-veut-relancer-l-id%C3%A9e-des-colonies-de-vacances-pour-tous",
+       "date": "2026-06-20"
+      },
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme",
+       "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+       "date": "2026-05-26"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'intégrer les établissements privés sous contrat à la carte scolaire pour la mixité sociale.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      },
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme",
+       "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+       "date": "2026-05-26"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Propose une convention citoyenne sur l'immigration et une régulation « réaliste » ; le projet de Place publique prévoit d'abroger la loi immigration 2024, de faciliter la régularisation des travailleurs sans papiers et de créer des voies légales d'immigration de travail.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose une convention citoyenne de citoyens tirés au sort sur l'immigration, confrontés aux données démographiques, économiques et sécuritaires.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Fiscalité, école, immigration : ce que propose Raphaël Glucksmann",
+       "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+       "date": "2026-08-24"
+      },
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme",
+       "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+       "date": "2026-05-26"
+      }
+     ]
+    },
+    {
+     "texte": "Le projet de Place publique prévoit d'abroger la loi immigration de 2024, de faciliter la régularisation des travailleurs sans papiers, une force européenne de sauvetage en mer et la fin du système de Dublin.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "En 2024, il défendait des voies d'immigration légales en Europe (quotas selon les besoins économiques).",
+     "sources": [
+      {
+       "media": "Le Monde",
+       "titre": "Raphaël Glucksmann souhaite la mise en place de « voies d'immigration légales » en Europe",
+       "url": "https://www.lemonde.fr/politique/article/2024/03/29/raphael-glucksmann-souhaite-la-mise-en-place-de-voies-d-immigration-legales-en-europe_6224887_823448.html",
+       "date": "2024-03-29"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "Raphaël Glucksmann veut développer des « voies d'immigration légales » en Europe",
+       "url": "https://www.lefigaro.fr/elections/europeennes/raphael-glucksmann-veut-developper-des-voies-d-immigration-legales-en-europe-20240329",
+       "date": "2024-03-29"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose une « politique sans naïveté » contre le narcotrafic (lutte contre le blanchiment et les cryptomonnaies), une police de proximité et le doublement des Maisons du droit et de la justice.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de lutter contre le blanchiment et les cryptomonnaies utilisés par les narcotrafiquants et de laisser les maires décider d'armer la police municipale ou d'installer des caméras.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Narcotrafic : Raphaël Glucksmann défend « une politique sans naïveté aucune sur la sécurité »",
+       "url": "https://www.publicsenat.fr/actualites/politique/narcotrafic-raphael-glucksmann-defend-une-politique-sans-naivete-aucune-sur-la-securite",
+       "date": "2025-11-19"
+      }
+     ]
+    },
+    {
+     "texte": "Le projet de Place publique prévoit une police de proximité, un service national de renseignement criminel, un office de lutte contre le blanchiment, une convention citoyenne sur les drogues (dont le cannabis) et le doublement des Maisons du droit et de la justice.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Propose un fonds européen de défense de 500 Md€ par emprunt commun, l'extension de la dissuasion nucléaire française aux partenaires européens, une forte hausse de l'aide militaire à l'Ukraine et un service universel obligatoire.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Le projet de Place publique prévoit un fonds européen de défense de 500 milliards d'euros par emprunt commun et propose d'étendre la dissuasion nucléaire française aux autres pays de l'UE, la France gardant la décision d'emploi.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "En 2024, il proposait un fonds de défense européen de 100 milliards d'euros financé par un emprunt européen.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Élections européennes 2024 : le socialiste Raphaël Glucksmann propose un « fonds de défense de 100 milliards » d'euros",
+       "url": "https://www.francetvinfo.fr/elections/europeennes/elections-europeennes-2024-le-socialiste-raphael-glucksmann-propose-un-fonds-de-defense-de-100-milliards-d-euros_6507344.html",
+       "date": "2024"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Raphaël Glucksmann",
+       "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Soutient une hausse de l'aide militaire à l'Ukraine et qualifie en novembre 2025 le plan de paix de Donald Trump de « plan de capitulation ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Plan de Trump pour l'Ukraine, retour du service militaire et désunion de la gauche... Le 8.30 franceinfo de Raphaël Glucksmann",
+       "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/plan-de-trump-pour-l-ukraine-retour-du-service-militaire-et-desunion-de-la-gauche-le-8-30-franceinfo-de-raphael-glucksmann_7606847.html",
+       "date": "2025-11-24"
+      },
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "Se prononce pour un service « universel et obligatoire » (militaire ou civique), au-delà du service militaire volontaire proposé par Emmanuel Macron.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Plan de Trump pour l'Ukraine, retour du service militaire et désunion de la gauche... Le 8.30 franceinfo de Raphaël Glucksmann",
+       "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/plan-de-trump-pour-l-ukraine-retour-du-service-militaire-et-desunion-de-la-gauche-le-8-30-franceinfo-de-raphael-glucksmann_7606847.html",
+       "date": "2025-11-24"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Fédéraliste européen : propose la fin du droit de veto (majorité qualifiée), un grand emprunt européen, une hausse du budget de l'UE et un « Buy European Act ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose la fin du droit de veto au niveau européen et un grand emprunt européen (défense, énergie, technologies).",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme",
+       "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+       "date": "2026-05-26"
+      },
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "Le projet de Place publique prévoit d'ici 2030 un traité de refondation instaurant la majorité qualifiée au Conseil européen et donnant l'initiative législative au Parlement européen.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Promet « cent jours de révolution écologique » : sortie des dépendances au gaz et au pétrole, rénovation thermique, renouvelables, nouveaux EPR, chèque carburant triplé à 500 €.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Promet « 100 jours de la révolution écologique » dès son élection : fin de la dépendance au gaz et au pétrole, rénovation thermique massive, transports électriques, énergies renouvelables.",
+     "sources": [
+      {
+       "media": "France 24 (AFP)",
+       "titre": "Présidentielle : Glucksmann promet « la révolution écologique » dès sa victoire",
+       "url": "https://www.france24.com/fr/info-en-continu/20260825-pr%C3%A9sidentielle-glucksmann-promet-la-r%C3%A9volution-%C3%A9cologique-d%C3%A8s-sa-victoire",
+       "date": "2026-08-25"
+      },
+      {
+       "media": "Public Sénat",
+       "titre": "Fiscalité, école, immigration : ce que propose Raphaël Glucksmann",
+       "url": "https://www.publicsenat.fr/actualites/politique/fiscalite-ecole-immigration-ce-que-propose-raphael-glucksmann",
+       "date": "2026-08-24"
+      }
+     ]
+    },
+    {
+     "texte": "Soutient la construction de nouveaux réacteurs nucléaires EPR (point de désaccord avec Yannick Jadot) ; le projet de Place publique prévoit de « conforter » le nucléaire.",
+     "sources": [
+      {
+       "media": "France 24 (AFP)",
+       "titre": "Présidentielle : Glucksmann promet « la révolution écologique » dès sa victoire",
+       "url": "https://www.france24.com/fr/info-en-continu/20260825-pr%C3%A9sidentielle-glucksmann-promet-la-r%C3%A9volution-%C3%A9cologique-d%C3%A8s-sa-victoire",
+       "date": "2026-08-25"
+      },
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de tripler le chèque carburant à 500 € et de l'étendre aux classes moyennes, financé par une taxe sur les superprofits des pétroliers (septembre 2026).",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Prix des carburants : « le gouvernement ne veut pas heurter TotalEnergies », selon Raphaël Glucksmann, qui réclame une taxe sur les superprofits",
+       "url": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-le-gouvernement-ne-veut-pas-heurter-totalenergies-selon-raphael-glucksmann-qui-reclame-une-taxe-sur-les-superprofits_8202563.html",
+       "date": "2026-09-21"
+      }
+     ]
+    },
+    {
+     "texte": "Le projet de Place publique vise –90 % d'émissions en 2040 et la neutralité climat en 2050, et un « ticket climat » de transport à tarif fixe.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    }
+   ]
+  },
+  "ia_numerique": {
+   "resume": "Le projet de Place publique prévoit l'interdiction des réseaux sociaux aux moins de 15 ans, l'interdiction de TikTok, une agence du numérique et de l'IA et la sortie de la dépendance aux GAFAM en 5 ans.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose d'interdire les réseaux sociaux aux moins de 15 ans et de « bannir TikTok » ; création d'une autorité de protection des mineurs en ligne.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "Propose une Agence industrielle du numérique et de l'IA (financée par France 2030, la BPI et une hausse de la taxe GAFAM) et un fonds souverain européen pour sortir de la dépendance aux GAFAM en cinq ans.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Le projet de Place publique prévoit un « plan Marshall » du logement : fonds foncier pour les collectivités, bail réel solidaire, encadrement des loyers en zones tendues, abrogation de la loi Kasbarian.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose un fonds national d'acquisition foncière, des objectifs relevés de logements sociaux, le développement du bail réel solidaire, l'encadrement des loyers en zones tendues, la régulation des meublés touristiques et l'abrogation de la loi Kasbarian.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Promet un grand plan d'adaptation de l'agriculture ; le projet de Place publique prévoit une réforme de la PAC (fin des aides à l'hectare), des prix planchers et le refus du Mercosur.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Promet « un grand plan d'adaptation de l'agriculture » dans le cadre de la révolution écologique (foire de Châlons, septembre 2026).",
+     "sources": [
+      {
+       "media": "ICI (France Bleu)",
+       "titre": "À la foire de Châlons-en-Champagne, Raphaël Glucksmann place les agriculteurs au cœur de son programme politique",
+       "url": "https://www.ici.fr/grand-est/marne-51/chalons-en-champagne/a-la-foire-de-chalons-raphael-glucksmann-place-les-agriculteurs-au-coeur-de-son-programme-politique-7377398",
+       "date": "2026-09-05"
+      }
+     ]
+    },
+    {
+     "texte": "Le projet de Place publique prévoit de réformer la PAC en rompant avec les aides à l'hectare, des prix planchers rémunérateurs, le refus des traités comme le Mercosur et des méga-bassines.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Le projet de Place publique prévoit la proportionnelle, l'investiture du Premier ministre par l'Assemblée avec fin du 49.3, la suppression de l'article 16, un référendum d'initiative citoyenne et le vote à 16 ans.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose un droit d'initiative citoyenne pour déclencher des référendums.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme",
+       "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+       "date": "2026-05-26"
+      },
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    },
+    {
+     "texte": "Le projet de Place publique prévoit la proportionnelle par circonscriptions régionales, un vote de confiance pour investir le Premier ministre avec motion de censure constructive (fin du 49.3), la suppression de l'article 16, le droit de vote à 16 ans et pour les étrangers extra-communautaires aux élections locales.",
+     "sources": [
+      {
+       "media": "Place publique (site officiel)",
+       "titre": "Acte I – Notre vision pour la France : les 42 chantiers de Place publique",
+       "url": "https://place-publique.eu/document/3Ari5O0s5O1L4iK1uyUhI0/pp-acte-un.pdf",
+       "date": "2025-06"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Note interne « Les trois publics cibles » (campagne présidentielle)",
+   "statut": "accusation",
+   "date": "2026-05-12",
+   "description": "Une note de travail rédigée par un conseiller (Mathieu Lefèvre-Marton, fondateur de Destin commun), révélée par Politico puis reprise par Mediapart, Le Monde et Marianne, recommande de cibler prioritairement cadres, retraités aisés et métropoles, et liste des « cibles à éviter » (18-25 ans, revenus sous 1 500 €, banlieues, certaines régions). LFI et François Ruffin l'accusent d'abandonner les classes populaires. Glucksmann parle d'un « document volé » sans « aucune valeur politique ». Polémique politique, sans procédure judiciaire connue.",
+   "sources": [
+    {
+     "media": "Marianne",
+     "titre": "« On reçoit beaucoup de conneries » : la note interne qui conseille à Raphaël Glucksmann d'ignorer les pauvres",
+     "url": "https://www.marianne.net/politique/gauche/on-recoit-beaucoup-de-conneries-la-note-interne-qui-conseille-a-raphael-glucksmann-d-ignorer-les-pauvres",
+     "date": "2026-05-12"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Raphaël Glucksmann",
+     "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Accusation d'avoir travaillé pour un « dictateur » en Géorgie",
+   "statut": "accusation",
+   "date": "2024-06",
+   "description": "Jean-Luc Mélenchon et Jordan Bardella l'accusent d'avoir servi « un dictateur » en conseillant Mikheil Saakachvili (2009-2012). Un chercheur de l'Ifri juge l'accusation « caricaturale » ; Saakachvili a par ailleurs été critiqué par des ONG pour des pratiques autoritaires. Accusation politique, sans procédure judiciaire.",
+   "sources": [
+    {
+     "media": "L'Obs",
+     "titre": "« L'accusation est caricaturale » : Glucksmann a-t-il travaillé pour un « dictateur » en Géorgie, comme le dit Mélenchon ?",
+     "url": "https://www.nouvelobs.com/monde/20240604.OBS89284/l-accusation-est-caricaturale-glucksmann-a-t-il-travaille-pour-un-dictateur-en-georgie-comme-le-dit-melenchon.html",
+     "date": "2024-06-04"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Raphaël Glucksmann",
+     "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Les modalités de financement de sa campagne 2027 (association de financement, prêts) ne sont pas rendues publiques à la date du 25/09/2026 ; la primaire est financée par une participation des électeurs non adhérents (15 €, 10 € pour les non-imposables et étudiants).",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Olivier Faure, Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste ?",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html",
+     "date": "2026-09"
+    }
+   ]
+  },
+  {
+   "texte": "Place publique (siège Paris 9e) : comptes 2024 déposés de façon conforme et certifiés avec observations par les commissaires aux comptes ; le parti n'est pas éligible à l'aide publique (résultats législatifs 2022 et 2024).",
+   "sources": [
+    {
+     "media": "CNCCFP (Journal officiel)",
+     "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+     "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+     "date": "2026-02-10"
+    }
+   ]
+  },
+  {
+   "texte": "Déclaration d'intérêts HATVP (2024) : indemnité nette de député européen de 120 234 € en 2023 ; droits d'auteur d'Allary Éditions de 59 175 € nets en 2023 ; fonction de coprésident de Place publique non rémunérée.",
+   "sources": [
+    {
+     "media": "HATVP",
+     "titre": "Déclaration d'intérêts de Raphaël Glucksmann, député européen (déposée le 16/09/2024, publiée le 22/07/2025)",
+     "url": "https://www.hatvp.fr/livraison/dossiers/glucksmann-raphael-di33197-europe.xml",
+     "date": "2025-07-22"
+    }
+   ]
+  }
+ ]
+}

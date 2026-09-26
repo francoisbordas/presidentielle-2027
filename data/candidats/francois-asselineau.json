@@ -1,0 +1,912 @@
+{
+ "id": "francois-asselineau",
+ "nom": "François Asselineau",
+ "naissance": "1957-09-14",
+ "lieu_naissance": "Paris",
+ "parti": "Union populaire républicaine",
+ "parti_sigle": "UPR",
+ "famille": "droite",
+ "position": 6.5,
+ "position_justif": {
+  "texte": "L'UPR se présente comme « ni droite ni gauche » et place au centre de son projet la sortie de l'UE, de l'euro et de l'OTAN. Wikipédia et la presse la décrivent comme souverainiste ; Mediapart la qualifie de « petit parti très à droite » et Arrêt sur images (cité par Wikipédia) décrit François Asselineau comme un « énarque de droite, aux lisières de l'extrême droite ». Placé au niveau de Debout la France (6,5) sur le barème du projet, par proximité souverainiste ; ce classement reste incertain, car le parti refuse l'axe gauche-droite.",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "François Asselineau",
+    "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Union populaire républicaine (2007)",
+    "url": "https://fr.wikipedia.org/wiki/Union_populaire_r%C3%A9publicaine_(2007)",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Mediapart",
+    "titre": "A Lille, Arnaud Montebourg tente de retrouver l'enthousiasme de 2011 (UPR qualifiée de « petit parti très à droite »)",
+    "url": "https://www.mediapart.fr/journal/france/170117/lille-arnaud-montebourg-tente-de-retrouver-lenthousiasme-de-2011",
+    "date": "2017-01-17"
+   },
+   {
+    "media": "Site officiel UPR",
+    "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+    "url": "https://upr.fr/francois-asselineau",
+    "date": "2026-09-25"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/francois-asselineau.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_ASSELINEAU.jpg",
+  "auteur": "Union Populaire Républicaine",
+  "licence": "CC BY-SA 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/upr.png",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:UPR-Logo-2015.png",
+  "licence": "Marque déposée (logo hébergé sur Wikipédia en français)"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Diplômé d'HEC Paris en 1980.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Site officiel UPR",
+      "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+      "url": "https://upr.fr/francois-asselineau",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Diplômé de l'ENA en 1985 (promotion Léonard-de-Vinci), dont il sort deuxième (« vice-major »).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Site officiel UPR",
+      "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+      "url": "https://upr.fr/francois-asselineau",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Inspecteur des finances à partir de 1985 ; il atteint ensuite le grade d'inspecteur général des finances (nomination de 2001).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Site officiel UPR",
+      "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+      "url": "https://upr.fr/francois-asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Européennes : « Nous essaierons d'imposer un débat sur la sortie de la France de l'UE, que ce soit à Bruxelles ou en France », défend François Asselineau (UPR)",
+      "url": "https://www.publicsenat.fr/actualites/politique/europeennes-nous-essaierons-dimposer-un-debat-sur-la-sortie-de-la-france-de-lue-que-ce-soit-a-bruxelles-ou-en-france-defend-francois-asselineau-upr",
+      "date": "2024-06-05"
+     }
+    ]
+   },
+   {
+    "texte": "Passé par le Crédit national et la direction du Trésor (bureau Asie-Océanie) à Bercy, puis conseiller pour les affaires internationales de Gérard Longuet, ministre de l'Industrie, en 1993.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Site officiel UPR",
+      "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+      "url": "https://upr.fr/francois-asselineau",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Directeur de cabinet de Françoise de Panafieu au Tourisme en 1995, puis au cabinet d'Hervé de Charette aux Affaires étrangères jusqu'en 1997.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Site officiel UPR",
+      "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+      "url": "https://upr.fr/francois-asselineau",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Directeur de cabinet de Charles Pasqua au conseil général des Hauts-de-Seine de 2001 à 2004.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Site officiel UPR",
+      "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+      "url": "https://upr.fr/francois-asselineau",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Délégué général à l'intelligence économique au ministère de l'Économie et des Finances de 2004 à 2006.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Site officiel UPR",
+      "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+      "url": "https://upr.fr/francois-asselineau",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseiller de Paris (19e arrondissement) de 2001 à 2008, élu sur la liste de Jean Tiberi.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Site officiel UPR",
+      "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+      "url": "https://upr.fr/francois-asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Présidentielle 2027 : qui sont les candidats potentiels et déclarés ?",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-qui-sont-les-candidats-potentiels-et-declares-20260423",
+      "date": "2026-04-23"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Européennes : « Nous essaierons d'imposer un débat sur la sortie de la France de l'UE, que ce soit à Bruxelles ou en France », défend François Asselineau (UPR)",
+      "url": "https://www.publicsenat.fr/actualites/politique/europeennes-nous-essaierons-dimposer-un-debat-sur-la-sortie-de-la-france-de-lue-que-ce-soit-a-bruxelles-ou-en-france-defend-francois-asselineau-upr",
+      "date": "2024-06-05"
+     }
+    ]
+   },
+   {
+    "texte": "Fonde l'Union populaire républicaine (UPR) le 25 mars 2007 et la préside depuis.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Site officiel UPR",
+      "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+      "url": "https://upr.fr/francois-asselineau",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Candidat à l'élection présidentielle de 2017 après avoir obtenu plus de 500 parrainages (587 selon Wikipédia) ; il recueille 0,92 % des voix (332 547) au premier tour.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Enarque, eurosceptique, complotiste : cinq choses à savoir sur François Asselineau, qui a obtenu ses 500 signatures",
+      "url": "https://www.francetvinfo.fr/elections/presidentielle/enarque-eurosceptique-complotiste-cinq-choses-a-savoir-sur-francois-asselineau-qui-a-obtenu-ses-500-signatures_2086811.html",
+      "date": "2017-03-10"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Européennes : « Nous essaierons d'imposer un débat sur la sortie de la France de l'UE, que ce soit à Bruxelles ou en France », défend François Asselineau (UPR)",
+      "url": "https://www.publicsenat.fr/actualites/politique/europeennes-nous-essaierons-dimposer-un-debat-sur-la-sortie-de-la-france-de-lue-que-ce-soit-a-bruxelles-ou-en-france-defend-francois-asselineau-upr",
+      "date": "2024-06-05"
+     },
+     {
+      "media": "La Nouvelle République",
+      "titre": "François Asselineau, candidat à la présidentielle, fait sa rentrée politique en Indre-et-Loire",
+      "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/valleres/francois-asselineau-candidat-a-la-presidentielle-fait-sa-rentree-politique-en-indre-et-loire-1789548931",
+      "date": "2026-09-16"
+     }
+    ]
+   },
+   {
+    "texte": "Échoue à se présenter en 2012 (parrainages insuffisants) et en 2022, avec 293 parrainages validés sur les 500 requis.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Conseil constitutionnel",
+      "titre": "Les parrainages validés par candidat – présidentielle 2022",
+      "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+      "date": "2022"
+     },
+     {
+      "media": "La Nouvelle République",
+      "titre": "François Asselineau, candidat à la présidentielle, fait sa rentrée politique en Indre-et-Loire",
+      "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/valleres/francois-asselineau-candidat-a-la-presidentielle-fait-sa-rentree-politique-en-indre-et-loire-1789548931",
+      "date": "2026-09-16"
+     }
+    ]
+   },
+   {
+    "texte": "Tête de liste UPR aux européennes de 2019 (1,17 %) et de 2024 (1,02 %).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro (AFP)",
+      "titre": "Européennes : Asselineau lance sa campagne pour un « Frexit »",
+      "url": "http://www.lefigaro.fr/flash-actu/2018/10/27/97001-20181027FILWWW00137-europeennes-asselineau-lance-sa-campagne-pour-un-frexit.php",
+      "date": "2018-10-27"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Européennes 2024 : Bardella, Asselineau, Maréchal, Philippot… le vote très à droite des Français vivant en Russie",
+      "url": "https://www.leparisien.fr/elections/europeennes/europeennes-2024-bardella-asselineau-marechal-philippot-le-vote-tres-a-droite-des-francais-vivant-en-russie-10-06-2024-2V232YRMZVCS5BQ7QFSWICJKAQ.php",
+      "date": "2024-06-10"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce en 2023 son intention d'être de nouveau candidat, puis lance officiellement sa campagne présidentielle 2027 le 21 mars 2026, lors des 19 ans de l'UPR à Paris.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Site officiel UPR",
+      "titre": "19 ans de l'UPR : François Asselineau lance sa campagne présidentielle 2027",
+      "url": "https://upr.fr/militantisme/19-ans-de-lupr-francois-asselineau-lance-sa-campagne-presidentielle-2027-et-nomme-marc-parigot-directeur-de-campagne/",
+      "date": "2026-03-22"
+     },
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "date": "2026"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Présidentielle 2027 : qui sont les candidats potentiels et déclarés ?",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-qui-sont-les-candidats-potentiels-et-declares-20260423",
+      "date": "2026-04-23"
+     },
+     {
+      "media": "La Nouvelle République",
+      "titre": "François Asselineau, candidat à la présidentielle, fait sa rentrée politique en Indre-et-Loire",
+      "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/valleres/francois-asselineau-candidat-a-la-presidentielle-fait-sa-rentree-politique-en-indre-et-loire-1789548931",
+      "date": "2026-09-16"
+     }
+    ]
+   },
+   {
+    "texte": "Est décrit par de nombreux médias (Libération, L'Obs, franceinfo, selon la synthèse de Wikipédia) comme conspirationniste, en raison notamment de ses thèses sur le rôle des États-Unis dans la construction européenne ; il conteste ce qualificatif, qu'il qualifie d'« excommunication ».",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "François Asselineau",
+      "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Enarque, eurosceptique, complotiste : cinq choses à savoir sur François Asselineau, qui a obtenu ses 500 signatures",
+      "url": "https://www.francetvinfo.fr/elections/presidentielle/enarque-eurosceptique-complotiste-cinq-choses-a-savoir-sur-francois-asselineau-qui-a-obtenu-ses-500-signatures_2086811.html",
+      "date": "2017-03-10"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "europe": {
+   "resume": "Propose la sortie de la France de l'Union européenne par l'article 50 du TUE (« Frexit »), la dénonciation des traités européens et la sortie de l'euro, avec le retour à un nouveau franc.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Le programme propose de « dénoncer juridiquement les traités européens, de sortir de l'UE et de l'euro, de sortir de l'OTAN » ; le programme 2027 est annoncé comme « en cours d'élaboration » sur le site de l'UPR. Il défend la sortie « de l'Union européenne, de l'euro et de l'OTAN » en 2024 comme en 2026.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      },
+      {
+       "media": "Site officiel UPR",
+       "titre": "Notre programme (programme 2027 « en cours d'élaboration »)",
+       "url": "https://upr.fr/notre-programme",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Public Sénat",
+       "titre": "Européennes : « Nous essaierons d'imposer un débat sur la sortie de la France de l'UE, que ce soit à Bruxelles ou en France », défend François Asselineau (UPR)",
+       "url": "https://www.publicsenat.fr/actualites/politique/europeennes-nous-essaierons-dimposer-un-debat-sur-la-sortie-de-la-france-de-lue-que-ce-soit-a-bruxelles-ou-en-france-defend-francois-asselineau-upr",
+       "date": "2024-06-05"
+      },
+      {
+       "media": "Capital",
+       "titre": "François Asselineau : sortie de l'UE et nationalisation de TF1 au programme",
+       "url": "https://www.capital.fr/economie-politique/francois-asselineau-sortie-de-l-ue-et-nationalisation-de-tf1-au-programme-1212796",
+       "date": "2017-03-09"
+      },
+      {
+       "media": "La Nouvelle République",
+       "titre": "François Asselineau, candidat à la présidentielle, fait sa rentrée politique en Indre-et-Loire",
+       "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/valleres/francois-asselineau-candidat-a-la-presidentielle-fait-sa-rentree-politique-en-indre-et-loire-1789548931",
+       "date": "2026-09-16"
+      }
+     ]
+    },
+    {
+     "texte": "La sortie de l'UE par l'article 50 du traité sur l'Union européenne et de l'OTAN par l'article 13 du traité de l'Atlantique Nord est présentée comme la condition de toutes les autres mesures.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+       "url": "https://upr.fr/francois-asselineau",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "François Asselineau",
+       "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Chiffre à 12 milliards d'euros par an l'économie budgétaire liée à la fin de la contribution de la France à l'UE.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Propose le retrait de la France de l'OTAN, un budget de la défense porté à au moins 3 % du PIB sur le quinquennat et une diplomatie de « puissance d'équilibre ».",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose d'engager le retrait de l'OTAN « dès les premiers jours de la Présidence » et de désengager les forces françaises des interventions menées dans ce cadre.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      },
+      {
+       "media": "Site officiel UPR",
+       "titre": "François Asselineau – Président-fondateur de l'Union Populaire Républicaine",
+       "url": "https://upr.fr/francois-asselineau",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Public Sénat",
+       "titre": "Européennes : « Nous essaierons d'imposer un débat sur la sortie de la France de l'UE, que ce soit à Bruxelles ou en France », défend François Asselineau (UPR)",
+       "url": "https://www.publicsenat.fr/actualites/politique/europeennes-nous-essaierons-dimposer-un-debat-sur-la-sortie-de-la-france-de-lue-que-ce-soit-a-bruxelles-ou-en-france-defend-francois-asselineau-upr",
+       "date": "2024-06-05"
+      },
+      {
+       "media": "La Nouvelle République",
+       "titre": "François Asselineau, candidat à la présidentielle, fait sa rentrée politique en Indre-et-Loire",
+       "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/valleres/francois-asselineau-candidat-a-la-presidentielle-fait-sa-rentree-politique-en-indre-et-loire-1789548931",
+       "date": "2026-09-16"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de porter le budget de la défense à au moins 3 % du PIB sur la durée du quinquennat et de refondre le Livre blanc de la défense.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "economie_fiscalite": {
+   "resume": "Propose de renationaliser plusieurs grandes entreprises (EDF, Enedis, gaz, eau, autoroutes, La Poste, SNCF, RATP), d'instaurer un contrôle des changes et des mouvements de capitaux, de baisser de 50 % les charges patronales des PME et de créer deux tranches d'impôt pour les revenus au-delà de 250 000 € et 500 000 €.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose de renationaliser ou d'arrêter la privatisation des sociétés de gaz, des réseaux d'eau, d'EDF, d'Enedis, de La Poste, des concessionnaires d'autoroutes, de TDF, de la RATP et de la SNCF. Son programme de 2017 prévoyait déjà la nationalisation totale ou partielle d'EDF, d'Enedis, d'Engie, d'Orange, des autoroutes, de l'eau, de TF1 et de TDF.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      },
+      {
+       "media": "Capital",
+       "titre": "François Asselineau : sortie de l'UE et nationalisation de TF1 au programme",
+       "url": "https://www.capital.fr/economie-politique/francois-asselineau-sortie-de-l-ue-et-nationalisation-de-tf1-au-programme-1212796",
+       "date": "2017-03-09"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de rétablir « immédiatement » un contrôle des changes et des mouvements de capitaux contre l'évasion fiscale et les délocalisations.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      },
+      {
+       "media": "Capital",
+       "titre": "François Asselineau : sortie de l'UE et nationalisation de TF1 au programme",
+       "url": "https://www.capital.fr/economie-politique/francois-asselineau-sortie-de-l-ue-et-nationalisation-de-tf1-au-programme-1212796",
+       "date": "2017-03-09"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de diminuer de 50 % les charges patronales des PME (moins de 50 M€ de chiffre d'affaires) et de supprimer le CICE pour les grandes entreprises (10 Md€).",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Propose une contribution de chaque ménage à l'impôt sur le revenu, deux nouvelles tranches au-delà de 250 000 € et 500 000 € de revenus annuels, une baisse de la TVA sur les produits courants et une hausse sur les produits de très grand luxe.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Annonce un plan de 27 milliards d'euros d'économies par an : fin de la contribution à l'UE, suppression des conseils régionaux, parlementaires réduits de 35 %, fin du financement public des partis.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Chiffre les économies à 12 Md€ (UE), 5 Md€ (suppression des conseils régionaux), 400 M€ (OTAN), 120 M€ (baisse de 35 % du nombre de parlementaires), 70 M€ (fin du financement public des partis) et 10 Md€ (suppression du CICE pour les grandes entreprises).",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose une hausse du SMIC brut de 24 % sur le quinquennat (environ 4,4 % par an) et annonce un million d'emplois créés en trois ans.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose d'augmenter le SMIC brut de 24 % sur le quinquennat, soit en moyenne 4,4 % par an.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de supprimer les allocations-chômage après deux refus d'offres d'embauche correspondant aux critères géographiques du demandeur.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose d'inscrire la retraite par répartition dans la Constitution, d'arrêter les réformes des retraites et d'indexer chaque année les pensions au moins sur l'inflation.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose d'inscrire dans la Constitution le principe d'un régime général de retraite par répartition et d'instaurer une garantie d'État du pouvoir d'achat des retraités (revalorisation annuelle au moins égale à l'inflation).",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Propose de rouvrir 30 000 lits d'hôpital public, d'augmenter de 15 % le budget de l'hôpital et de créer un pôle public de recherche et de production de médicaments.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose d'augmenter de 15 % le budget de l'hôpital public dès le premier budget et d'atteindre 265 000 lits, dont 25 000 de réanimation, de soins intensifs et de surveillance continue.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Propose de rétablir le cadre national du baccalauréat dès la première année, ainsi que la notation, le classement et les remises de prix.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose de rétablir « dès la première année du quinquennat » le cadre de référence national du baccalauréat.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Propose de sortir de l'espace Schengen, de rétablir les contrôles à toutes les frontières et de dénoncer le pacte de Marrakech sur les migrations.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose de se retirer de l'espace Schengen et d'établir des contrôles à toutes les frontières, avec des aménagements pour les travailleurs frontaliers.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de dénoncer le pacte de Marrakech sur les migrations.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose d'augmenter de 20 % les budgets de la justice et de la police et de rétablir une police de proximité.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose d'augmenter de 20 % le budget de la justice et de 20 % celui de la police pour que « toute condamnation prononcée soit exécutée ».",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose une « relocalisation écologique » de la production industrielle, la renationalisation d'EDF (et la fin du projet « Hercule »), le développement du ferroutage et une exemption de TVA pour l'alimentation vendue en circuit court et les produits biologiques.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose l'exemption de TVA des denrées vendues en circuit court ou coopératif et des produits français issus de l'agriculture biologique ou de la permaculture.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de renationaliser EDF et de mettre fin au projet « Hercule » de réorganisation du groupe.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Propose une politique agricole nationale à la place de la PAC, avec une hausse de 25 % des revenus agricoles, la sortie du CETA et l'interdiction du glyphosate.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose une hausse de 25 % des revenus des agriculteurs sur le quinquennat, l'arrêt des négociations de traités de libre-échange de type TAFTA, la dénonciation du CETA et l'interdiction du glyphosate.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Propose de construire 80 000 logements supplémentaires par an (400 000 sur le quinquennat) et de limiter les achats immobiliers d'étrangers dans les zones tendues.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose de lancer 80 000 logements par an en plus de ceux déjà prévus, en partie financés par les sommes qui ne seraient plus versées à l'UE.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "ia_numerique": {
+   "resume": "Propose de taxer les profits réalisés en France par les grandes plateformes (GAFAM), d'équiper l'État en solutions françaises ou libres et d'interdire aux plateformes de censurer le débat politique hors cadre légal.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose de taxer les GAFAM sur leurs profits réalisés en France, « sous peine d'exclusion de ce marché », et d'orienter les administrations vers des logiciels français ou libres.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose le référendum d'initiative citoyenne (RIC), un référendum obligatoire pour toute révision constitutionnelle, un nombre de députés ramené de 577 à 500 et un nombre de sénateurs réduit à environ 100.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose de créer le RIC, d'imposer le référendum pour toute révision de la Constitution et d'y supprimer les références à la construction européenne.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de passer de 577 à 500 députés et de 348 à environ 100 sénateurs, et de supprimer les conseils régionaux.",
+     "sources": [
+      {
+       "media": "Site officiel UPR",
+       "titre": "Programme 2022 – Notre programme de libération nationale pour 2022",
+       "url": "https://upr.fr/notre-programme/programme-2022",
+       "date": "2022"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Harcèlement sexuel et agressions sexuelles sur deux collaborateurs de l'UPR",
+   "statut": "proces_en_cours",
+   "date": "2026-04-07",
+   "description": "En 2020, deux anciens collaborateurs de l'UPR portent plainte (5 mai et 25 juin 2020) pour harcèlement et agressions sexuelles. Le 5 février 2021, après une garde à vue, François Asselineau est mis en examen pour harcèlement moral, harcèlement sexuel, agressions sexuelles par personne abusant de son autorité et intimidation d'une victime, et placé sous contrôle judiciaire. Les juges d'instruction rendent un non-lieu le 6 décembre 2024, dont le parquet fait appel. Le 7 avril 2026, la chambre de l'instruction de la cour d'appel de Paris infirme le non-lieu et le renvoie devant le tribunal correctionnel de Paris pour harcèlement sexuel et agression sexuelle sur un collaborateur et tentative d'agression sexuelle sur un autre, par personne abusant de son autorité. Au 25 septembre 2026, aucune date de procès n'a été rendue publique dans les sources consultées. Il conteste les accusations, qu'il qualifie de « machination politique », et bénéficie de la présomption d'innocence.",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "François Asselineau accusé de harcèlement sexuel",
+     "url": "https://web.archive.org/web/20210729191221/https://www.liberation.fr/france/2020/05/10/francois-asselineau-accuse-de-harcelement-sexuel_1787982/",
+     "date": "2020-05-10"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "François Asselineau, président de l'UPR et ancien candidat à la présidentielle, a été mis en examen pour harcèlement et agressions sexuelles",
+     "url": "https://www.lemonde.fr/politique/article/2021/02/05/le-president-de-l-upr-et-ancien-candidat-a-la-presidentielle-francois-asselineau-mis-en-examen-pour-harcelement-et-agressions-sexuelles_6068927_823448.html",
+     "date": "2021-02-05"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Non-lieu pour François Asselineau dans l'enquête pour harcèlement et agressions sexuelles",
+     "url": "https://www.lefigaro.fr/politique/non-lieu-dans-le-proces-de-francois-asselineau-accuse-d-harcelement-et-d-agressions-sexuelles-20241226",
+     "date": "2024-12-26"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "François Asselineau finalement renvoyé devant le tribunal correctionnel, notamment pour « harcèlement sexuel » et « agressions sexuelles » sur deux collaborateurs",
+     "url": "https://www.franceinfo.fr/politique/francois-asselineau/info-franceinfo-francois-asselineau-finalement-renvoye-devant-le-tribunal-correctionnel-notamment-pour-harcelement-sexuel-et-agressions-sexuelles-sur-deux-collaborateurs_8002061.html",
+     "date": "2026-05-13"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "François Asselineau renvoyé en procès pour agression et harcèlement sexuels",
+     "url": "https://www.lemonde.fr/politique/article/2026/05/19/francois-asselineau-renvoye-en-proces-pour-agression-et-harcelement-sexuels_6691492_823448.html",
+     "date": "2026-05-19"
+    },
+    {
+     "media": "20 Minutes",
+     "titre": "Présidentielle 2027 : candidat à l'élection, François Asselineau bientôt jugé pour agression et harcèlement sexuels",
+     "url": "https://www.20minutes.fr/justice/4224280-20260519-candidat-presidentielle-2027-francois-asselineau-bientot-juge-agressions-harcelement-sexuels",
+     "date": "2026-05-19"
+    },
+    {
+     "media": "Brut (AFP)",
+     "titre": "Agression et harcèlement sexuels : François Asselineau renvoyé en procès",
+     "url": "https://www.brut.media/fr/articles/france/justice-faits-divers/agression-et-harcelement-sexuels-francois-asselineau-renvoye-en-proces",
+     "date": "2026-05-19"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Présidentielle 2017 : compte approuvé après réformation par la CNCCFP (décision du 21 décembre 2017). Il s'établit à 1 237 609 € de dépenses (dont 389 413 € payés directement par l'UPR et 88 457 € de concours en nature) et 1 272 714 € de recettes, dont 790 244 € d'apport personnel (en grande partie emprunté au parti) et seulement 4 600 € de dons de personnes physiques.",
+   "sources": [
+    {
+     "media": "CNCCFP (JORF)",
+     "titre": "Décision du 21 décembre 2017 relative au compte de campagne de M. François Asselineau",
+     "url": "https://cnccfp.fr/wp-content/uploads/2022/04/De%CC%81cisions_pre%CC%81sidentielle_2017.pdf",
+     "date": "2018-02-13"
+    }
+   ]
+  },
+  {
+   "texte": "Présidentielle 2017 : remboursement forfaitaire de l'État arrêté à 755 139 € (candidat sous les 5 %) ; la CNCCFP a réintégré au compte des dépenses de meetings (Toulouse, Marseille) restées à la charge de l'UPR, sans rejeter le compte.",
+   "sources": [
+    {
+     "media": "CNCCFP (JORF)",
+     "titre": "Décision du 21 décembre 2017 relative au compte de campagne de M. François Asselineau",
+     "url": "https://cnccfp.fr/wp-content/uploads/2022/04/De%CC%81cisions_pre%CC%81sidentielle_2017.pdf",
+     "date": "2018-02-13"
+    }
+   ]
+  },
+  {
+   "texte": "Présidentielle 2022 : pas de compte de campagne, faute de candidature validée (293 parrainages).",
+   "sources": [
+    {
+     "media": "Conseil constitutionnel",
+     "titre": "Les parrainages validés par candidat – présidentielle 2022",
+     "url": "https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html",
+     "date": "2022"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "François Asselineau",
+     "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Asselineau",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "L'UPR n'a pas recours à l'emprunt bancaire et se finance par les cotisations et dons de ses adhérents, selon Wikipédia et Marianne (cités par Wikipédia) ; elle n'a pas obtenu le financement public après les législatives de 2017 (0,67 %).",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Union populaire républicaine (2007)",
+     "url": "https://fr.wikipedia.org/wiki/Union_populaire_r%C3%A9publicaine_(2007)",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Comptes 2024 de l'UPR : dépôt conforme et certification simple selon la CNCCFP ; le parti n'est pas éligible à l'aide publique.",
+   "sources": [
+    {
+     "media": "CNCCFP (JORF)",
+     "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+     "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+     "date": "2026-02-10"
+    }
+   ]
+  },
+  {
+   "texte": "Aucune déclaration de patrimoine ou d'intérêts de François Asselineau ne figure dans la liste open data de la HATVP consultée le 25/09/2026.",
+   "sources": [
+    {
+     "media": "HATVP",
+     "titre": "Liste open data des déclarations publiées",
+     "url": "https://www.hatvp.fr/livraison/opendata/liste.csv",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ]
+}

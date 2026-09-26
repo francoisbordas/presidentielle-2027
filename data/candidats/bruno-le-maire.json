@@ -1,0 +1,860 @@
+{
+ "id": "bruno-le-maire",
+ "nom": "Bruno Le Maire",
+ "naissance": "1969-04-15",
+ "lieu_naissance": "Neuilly-sur-Seine (Hauts-de-Seine)",
+ "parti": "Renaissance",
+ "parti_sigle": "RE",
+ "famille": "centre_droit",
+ "position": 2.0,
+ "position_justif": {
+  "texte": "Ancien membre de l'UMP puis de LR (candidat à la primaire de la droite en 2016), rallié à La République en marche / Renaissance en 2017. En 2026, il met en avant trois priorités : le travail, l'autorité de l'État et une « Europe à 6 », et critique à la fois le « bloc central », LFI et le RN. Position fixée entre Renaissance (0,5) et Horizons (2,5) du barème, compte tenu de son origine LR et de ses positions économiques libérales (suppression de l'ISF en 2016, refus des hausses d'impôts).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Bruno Le Maire",
+    "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "LCP",
+    "titre": "Présidentielle 2027 : Bruno Le Maire dira \"en octobre\" s'il est candidat",
+    "url": "https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967",
+    "date": "2026-06-23"
+   },
+   {
+    "media": "Parlons Politique",
+    "titre": "Bruno Le Maire entretient le doute sur 2027, mais devra dire s'il peut vraiment incarner l'alternative du bloc central",
+    "url": "https://www.parlons-politique.fr/elections/bruno-le-maire-entretient-le-doute-sur-2027-mais-devra-dire-sil-peut-vraiment-incarner-lalternative-du-bloc-central_21961/",
+    "date": "2026-06-23"
+   }
+  ]
+ },
+ "statut": "pressenti",
+ "photo": {
+  "fichier": "img/candidats/bruno-le-maire.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:EU2024BE_240223_Informal_meeting_of_economic_and_financial_affairs_ministers_Gent_JNZT_0040_(53545889372).jpg",
+  "auteur": "Belgian Presidency of the Council of the EU 2024",
+  "licence": "CC BY 2.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/re.svg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Renaissance-logotype-officiel.svg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Classes préparatoires littéraires au lycée Louis-le-Grand, puis École normale supérieure (rue d'Ulm) en 1989, section lettres ; maîtrise de lettres à l'université Paris-IV (1991).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Primaire à droite : Bruno Le Maire, quel parcours politique ?",
+      "url": "https://www.franceinfo.fr/politique/les-republicains/primaire-de-la-droite/primaire-a-droite-bruno-le-maire-quel-parcours-politique_1879969.html",
+      "date": "2016-10-20"
+     }
+    ]
+   },
+   {
+    "texte": "Reçu premier à l'agrégation de lettres modernes en 1992.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Primaire à droite : Bruno Le Maire, quel parcours politique ?",
+      "url": "https://www.franceinfo.fr/politique/les-republicains/primaire-de-la-droite/primaire-a-droite-bruno-le-maire-quel-parcours-politique_1879969.html",
+      "date": "2016-10-20"
+     }
+    ]
+   },
+   {
+    "texte": "Diplômé de Sciences Po Paris (1993) et de l'ENA, promotion Valmy (1996-1998), dont il sort classé 20e.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Primaire à droite : Bruno Le Maire, quel parcours politique ?",
+      "url": "https://www.franceinfo.fr/politique/les-republicains/primaire-de-la-droite/primaire-a-droite-bruno-le-maire-quel-parcours-politique_1879969.html",
+      "date": "2016-10-20"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Diplomate : entre en 1998 au ministère des Affaires étrangères (direction des affaires stratégiques, de sécurité et du désarmement), puis conseiller de Dominique de Villepin au Quai d'Orsay (2002), à l'Intérieur (2004) et à Matignon (2005).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Primaire à droite : Bruno Le Maire, quel parcours politique ?",
+      "url": "https://www.franceinfo.fr/politique/les-republicains/primaire-de-la-droite/primaire-a-droite-bruno-le-maire-quel-parcours-politique_1879969.html",
+      "date": "2016-10-20"
+     }
+    ]
+   },
+   {
+    "texte": "Directeur de cabinet du Premier ministre Dominique de Villepin de juillet 2006 à mai 2007.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Dominique de Villepin recase son fidèle Pierre Mongin à la RATP",
+      "url": "https://www.lemonde.fr/economie/article/2006/07/03/dominique-de-villepin-recase-son-fidele-pierre-mongin-a-la-ratp_791203_3234.html",
+      "date": "2006-07-03"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Primaire à droite : Bruno Le Maire, quel parcours politique ?",
+      "url": "https://www.franceinfo.fr/politique/les-republicains/primaire-de-la-droite/primaire-a-droite-bruno-le-maire-quel-parcours-politique_1879969.html",
+      "date": "2016-10-20"
+     }
+    ]
+   },
+   {
+    "texte": "Écrivain publié chez Gallimard (notamment Des hommes d'État, 2008 ; Jours de pouvoir, 2013 ; Paul. Une amitié, 2019 ; Fugue américaine, 2023). Il publie Le temps d'une décision (Gallimard) fin avril 2026.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Parlons Politique",
+      "titre": "Bruno Le Maire entretient le doute sur 2027, mais devra dire s'il peut vraiment incarner l'alternative du bloc central",
+      "url": "https://www.parlons-politique.fr/elections/bruno-le-maire-entretient-le-doute-sur-2027-mais-devra-dire-sil-peut-vraiment-incarner-lalternative-du-bloc-central_21961/",
+      "date": "2026-06-23"
+     },
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : Bruno Le Maire dira \"en octobre\" s'il est candidat",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967",
+      "date": "2026-06-23"
+     }
+    ]
+   },
+   {
+    "texte": "Depuis septembre 2024 : professeur invité au Centre Enterprise for Society (E4S), créé par l'université de Lausanne, l'IMD et l'EPFL.",
+    "sources": [
+     {
+      "media": "E4S (Enterprise for Society)",
+      "titre": "Bruno Le Maire nommé professeur invité au Centre Enterprise for Society (E4S)",
+      "url": "https://e4s.center/news/bruno-le-maire-nomme-professeur-invite-au-centre-enterprise-for-society-e4s/",
+      "date": "2024-09-13"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Conseiller stratégique extérieur du groupe néerlandais ASML (machines pour semi-conducteurs) à partir du 1er janvier 2025 ; ASML indique le 6 octobre 2025 qu'il ne le conseille plus, après sa nomination au gouvernement.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Bruno Le Maire, une reconversion très stratégique dans les semi-conducteurs",
+      "url": "https://www.lemonde.fr/economie/article/2024/12/19/bruno-le-maire-une-reconversion-tres-strategique-dans-les-semi-conducteurs_6458003_3234.html",
+      "date": "2024-12-19"
+     },
+     {
+      "media": "Reuters",
+      "titre": "Bruno Le Maire no longer advising ASML, company says",
+      "url": "https://www.reuters.com/technology/bruno-le-maire-no-longer-advisor-asml-company-says-2025-10-06/",
+      "date": "2025-10-06"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Depuis janvier 2026 : conseiller senior du cabinet new-yorkais Macro Advisory Partners (MAP), qui conseille multinationales et institutions internationales en géopolitique et économie.",
+    "sources": [
+     {
+      "media": "Challenges",
+      "titre": "Loin de la politique française, Bruno Le Maire se fait débaucher par un cabinet de conseil américain",
+      "url": "https://www.challenges.fr/politique/loin-de-la-politique-francaise-bruno-le-maire-se-fait-debaucher-par-un-cabinet-de-conseil-americain_635835",
+      "date": "2026-01-07"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Député de la 1re circonscription de l'Eure : juin 2007 - janvier 2009, juin 2012 - juin 2017, puis juin-juillet 2017.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Primaire à droite : Bruno Le Maire, quel parcours politique ?",
+      "url": "https://www.franceinfo.fr/politique/les-republicains/primaire-de-la-droite/primaire-a-droite-bruno-le-maire-quel-parcours-politique_1879969.html",
+      "date": "2016-10-20"
+     }
+    ]
+   },
+   {
+    "texte": "Secrétaire d'État aux Affaires européennes (décembre 2008 - juin 2009), puis ministre de l'Alimentation, de l'Agriculture et de la Pêche (23 juin 2009 - mai 2012) dans les gouvernements Fillon II et III ; il porte la loi de modernisation de l'agriculture et de la pêche promulguée en 2010.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Primaire à droite : Bruno Le Maire, quel parcours politique ?",
+      "url": "https://www.franceinfo.fr/politique/les-republicains/primaire-de-la-droite/primaire-a-droite-bruno-le-maire-quel-parcours-politique_1879969.html",
+      "date": "2016-10-20"
+     }
+    ]
+   },
+   {
+    "texte": "Conseiller régional de Haute-Normandie (2010-2015), après avoir conduit la liste UMP aux régionales de 2010 (30,70 %).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Primaire à droite : Bruno Le Maire, quel parcours politique ?",
+      "url": "https://www.franceinfo.fr/politique/les-republicains/primaire-de-la-droite/primaire-a-droite-bruno-le-maire-quel-parcours-politique_1879969.html",
+      "date": "2016-10-20"
+     }
+    ]
+   },
+   {
+    "texte": "Candidat à la présidence de l'UMP en 2014 face à Nicolas Sarkozy (environ 29 % des voix).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Primaire à droite : Bruno Le Maire, quel parcours politique ?",
+      "url": "https://www.franceinfo.fr/politique/les-republicains/primaire-de-la-droite/primaire-a-droite-bruno-le-maire-quel-parcours-politique_1879969.html",
+      "date": "2016-10-20"
+     }
+    ]
+   },
+   {
+    "texte": "Candidat à la primaire de la droite et du centre de 2016 (candidature officialisée à Vesoul en février 2016) : 5e du premier tour avec 2,4 % des voix (102 168 voix).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "À Vesoul, Bruno Le Maire annonce sa candidature à la primaire",
+      "url": "https://www.lemonde.fr/election-presidentielle-2017/article/2016/02/23/a-vesoul-bruno-le-maire-annonce-sa-candidature-a-la-primaire_4870515_4854003.html",
+      "date": "2016-02-23"
+     },
+     {
+      "media": "Mediapart",
+      "titre": "Fidèles, sarkozystes, droite extrême: les soutiens empoisonnés de Fillon",
+      "url": "https://www.mediapart.fr/journal/france/241116/fideles-sarkozystes-droite-extreme-les-soutiens-empoisonnes-de-fillon",
+      "date": "2016-11-24"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre de l'Économie et des Finances du 17 mai 2017 au 21 septembre 2024 (gouvernements Philippe, Castex, Borne et Attal), soit plus de sept ans, record de durée à ce poste sous la Ve République.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "BFMTV",
+      "titre": "\"C'est totalement exclu\" : quand Bruno Le Maire rejetait une entrée au gouvernement, il y a 13 jours",
+      "url": "https://www.bfmtv.com/politique/gouvernement/c-est-totalement-exclu-quand-bruno-le-maire-rejetait-une-entree-au-gouvernement-il-y-a-13-jours_AN-202510050350.html",
+      "date": "2025-10-05"
+     }
+    ]
+   },
+   {
+    "texte": "Nommé ministre d'État, ministre des Armées et des Anciens Combattants le 5 octobre 2025 dans le gouvernement Lecornu I ; le 6 octobre, après l'annonce de la démission de Sébastien Lecornu et les critiques de LR sur sa nomination, il annonce se retirer du gouvernement « pour permettre la reprise des discussions ». Treize jours plus tôt, il avait déclaré à L'Usine nouvelle qu'une entrée au gouvernement était « totalement exclue ».",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Démission de Sébastien Lecornu : Bruno Le Maire propose de ne pas participer au gouvernement pour \"permettre la reprise des discussions\"",
+      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/demission-de-sebastien-lecornu-bruno-le-maire-ministre-des-armees-demissionnaire-annonce-renoncer-a-participer-au-gouvernement_7535809.html",
+      "date": "2025-10-06"
+     },
+     {
+      "media": "BFMTV",
+      "titre": "\"C'est totalement exclu\" : quand Bruno Le Maire rejetait une entrée au gouvernement, il y a 13 jours",
+      "url": "https://www.bfmtv.com/politique/gouvernement/c-est-totalement-exclu-quand-bruno-le-maire-rejetait-une-entree-au-gouvernement-il-y-a-13-jours_AN-202510050350.html",
+      "date": "2025-10-05"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia (en)",
+      "titre": "Bruno Le Maire",
+      "url": "https://en.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Bilan dette (Insee) : la dette publique au sens de Maastricht s'établissait à 2 218,4 Md€ fin 2017 (97,0 % du PIB en première estimation trimestrielle ; 96,8 % selon les comptes annuels 2017). Fin 2024, elle atteint 3 305,3 Md€, soit 113,0 % du PIB.",
+    "sources": [
+     {
+      "media": "Insee",
+      "titre": "À la fin du quatrième trimestre 2017, la dette publique s'établit à 2 218,4 Md€ (Informations rapides n° 80)",
+      "url": "https://www.insee.fr/fr/statistiques/3375424",
+      "date": "2018-03"
+     },
+     {
+      "media": "Insee",
+      "titre": "Les comptes des administrations publiques en 2017 (Insee Première n° 1698)",
+      "url": "https://www.insee.fr/fr/statistiques/3550432",
+      "date": "2018-05"
+     },
+     {
+      "media": "Insee",
+      "titre": "À la fin du quatrième trimestre 2024, la dette publique s'établit à 3 305,3 Md€ (Informations rapides n° 82)",
+      "url": "https://www.insee.fr/fr/statistiques/8540321",
+      "date": "2025-03-27"
+     },
+     {
+      "media": "Insee",
+      "titre": "En 2024, le déficit public s'élève à 5,8 % du PIB, la dette publique à 113,0 % du PIB (Informations rapides n° 81)",
+      "url": "https://www.insee.fr/fr/statistiques/8540375",
+      "date": "2025-03-27"
+     }
+    ]
+   },
+   {
+    "texte": "Déficit public (Insee) : 2,6 % du PIB en 2017 ; 6,6 % en 2021 ; 5,5 % du PIB (154,0 Md€) en 2023 selon la première estimation de mars 2024, contre une prévision gouvernementale de 4,9 %.",
+    "sources": [
+     {
+      "media": "Insee",
+      "titre": "Les comptes des administrations publiques en 2017 (Insee Première n° 1698)",
+      "url": "https://www.insee.fr/fr/statistiques/3550432",
+      "date": "2018-05"
+     },
+     {
+      "media": "Insee",
+      "titre": "En 2023, le déficit public s'élève à 5,5 % du PIB, la dette publique à 110,6 % du PIB (Informations rapides n° 74)",
+      "url": "https://www.insee.fr/fr/statistiques/8061907",
+      "date": "2024-03-26"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Révision Insee : dans sa publication de mars 2025, l'Insee ramène le déficit 2023 à 5,4 % du PIB et la dette fin 2023 à 109,8 % du PIB.",
+    "sources": [
+     {
+      "media": "Insee",
+      "titre": "En 2024, le déficit public s'élève à 5,8 % du PIB, la dette publique à 113,0 % du PIB (Informations rapides n° 81)",
+      "url": "https://www.insee.fr/fr/statistiques/8540375",
+      "date": "2025-03-27"
+     }
+    ]
+   },
+   {
+    "texte": "Déficit 2024 : prévu à 4,4 % du PIB dans la loi de finances initiale pour 2024, estimé à 6,1 % à l'automne 2024 (écart d'environ 50 Md€), puis constaté à 5,8 % du PIB (169,6 Md€) par l'Insee en mars 2025.",
+    "sources": [
+     {
+      "media": "Public Sénat",
+      "titre": "Dérapage du déficit : le rapport du Sénat pointe les responsabilités de Bruno Le Maire, Elisabeth Borne, Gabriel Attal et Emmanuel Macron",
+      "url": "https://www.publicsenat.fr/actualites/economie/derapage-du-deficit-le-rapport-du-senat-pointe-les-responsabilites-de-bruno-le-maire-elisabeth-borne-gabriel-attal-et-emmanuel-macron",
+      "date": "2024-11-19"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Dégradation des finances publiques : Bruno Le Maire, Gabriel Attal et Elisabeth Borne auditionnés au Sénat",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/degradation-des-finances-publiques-bruno-le-maire-gabriel-attal-et-elisabeth-borne-auditionnes-au-senat",
+      "date": "2024-10"
+     },
+     {
+      "media": "Insee",
+      "titre": "En 2024, le déficit public s'élève à 5,8 % du PIB, la dette publique à 113,0 % du PIB (Informations rapides n° 81)",
+      "url": "https://www.insee.fr/fr/statistiques/8540375",
+      "date": "2025-03-27"
+     }
+    ]
+   },
+   {
+    "texte": "« Quoi qu'il en coûte » : à partir de mars 2020, pendant la crise du Covid-19, l'État finance chômage partiel et reports de charges ; Bruno Le Maire est le ministre de l'Économie chargé de ces mesures. Il se dit « responsable des dépenses que nous avons engagées pour faire face au covid et à la crise inflationniste » devant la commission des finances le 12 décembre 2024. Ses détracteurs le surnomment « M. Quoi qu'il en coûte » ou « M. 1000 milliards de dette ».",
+    "sources": [
+     {
+      "media": "Assemblée nationale",
+      "titre": "Commission des finances, compte rendu n° 064 : audition de M. Bruno Le Maire (causes des écarts des prévisions fiscales et budgétaires 2023-2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/cion_fin/l17cion_fin2425064_compte-rendu.pdf",
+      "date": "2024-12-12"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Cour des comptes (rapport sur la situation des finances publiques, 15 juillet 2024) : situation jugée « très dégradée » ; déficit 2023 de 5,5 % du PIB, 0,6 point au-dessus de la prévision ; la Cour relève des baisses d'impôts d'environ 62 Md€ depuis 2018 non compensées par des économies, et juge difficile l'objectif de 2,9 % de déficit en 2027.",
+    "sources": [
+     {
+      "media": "Challenges",
+      "titre": "La Cour des comptes épingle la gestion budgétaire de Bruno Le Maire",
+      "url": "https://www.challenges.fr/politique/la-cour-des-comptes-epingle-la-gestion-budgetaire-de-bruno-le-maire_899390",
+      "date": "2024-07-15"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Finances publiques : la Cour des comptes met en garde le futur gouvernement",
+      "url": "https://www.lemonde.fr/politique/article/2024/07/15/finances-publiques-la-cour-des-comptes-met-en-garde-le-futur-gouvernement_6250236_823448.html",
+      "date": "2024-07-15"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Mission d'information du Sénat (rapporteur général Jean-François Husson, LR ; président Claude Raynal, PS) : premier rapport du 13 juin 2024 dénonçant « imprudence », « aveuglement » et « rétention d'information », estimant que le gouvernement connaissait dès décembre 2023 des notes alertant sur la dégradation des recettes ; écart de 0,6 point de PIB en 2023 qualifié d'« inédit depuis 25 ans ».",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "« Aveuglement », « imprudence », « inaction »… La charge du Sénat contre la gestion budgétaire du gouvernement",
+      "url": "https://www.lefigaro.fr/conjoncture/aveuglement-imprudence-inaction-la-charge-du-senat-contre-la-gestion-budgetaire-du-gouvernement-20240613",
+      "date": "2024-06-13"
+     },
+     {
+      "media": "L'Opinion",
+      "titre": "Dérapage du déficit en 2023 : le réquisitoire du Sénat contre Bruno Le Maire",
+      "url": "https://www.lopinion.fr/economie/derapage-du-deficit-en-2023-le-requisitoire-du-senat-contre-bruno-le-maire",
+      "date": "2024-06-13"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Dérapage du déficit : les moments clés de la mission d'information du Sénat qui étrille les gouvernements passés",
+      "url": "https://www.publicsenat.fr/actualites/politique/derapage-du-deficit-les-moments-cles-de-la-mission-dinformation-du-senat-qui-etrille-les-gouvernements-passes",
+      "date": "2024-11"
+     }
+    ]
+   },
+   {
+    "texte": "Le 21 mars 2024, Jean-François Husson et Claude Raynal effectuent un contrôle sur pièces et sur place à Bercy et y consultent des notes internes de décembre 2023 sur la dégradation des finances publiques.",
+    "sources": [
+     {
+      "media": "Public Sénat",
+      "titre": "Dérapage du déficit : les moments clés de la mission d'information du Sénat qui étrille les gouvernements passés",
+      "url": "https://www.publicsenat.fr/actualites/politique/derapage-du-deficit-les-moments-cles-de-la-mission-dinformation-du-senat-qui-etrille-les-gouvernements-passes",
+      "date": "2024-11"
+     }
+    ]
+   },
+   {
+    "texte": "Auditions au Sénat : le 30 mai 2024, il déclare « Jamais, jamais, jamais je n'accepterai d'être accusé de dissimulation » ; le 7 novembre 2024 (2 h 30), il réfute toute « faute » ou « dissimulation », attribue une partie du dérapage à une erreur d'évaluation des recettes par ses services, et estime que le passage à 6,1 % relève du nouveau gouvernement, ce que le rapporteur Husson juge « ni acceptable, ni compréhensible ».",
+    "sources": [
+     {
+      "media": "Public Sénat",
+      "titre": "Dérapage du déficit : les moments clés de la mission d'information du Sénat qui étrille les gouvernements passés",
+      "url": "https://www.publicsenat.fr/actualites/politique/derapage-du-deficit-les-moments-cles-de-la-mission-dinformation-du-senat-qui-etrille-les-gouvernements-passes",
+      "date": "2024-11"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Audition de Bruno Le Maire sur le déficit public : « L'amnésie est confondante quand elle est poussée à ce point », tance le rapporteur",
+      "url": "https://www.publicsenat.fr/actualites/politique/audition-de-bruno-le-maire-sur-le-deficit-public-lamnesie-est-confondante-quand-elle-est-poussee-a-ce-point-tance-le-rapporteur",
+      "date": "2024-11-07"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Dérapage du déficit : Bruno Le Maire réfute toute faute ou dissimulation",
+      "url": "https://www.lemonde.fr/politique/article/2024/11/07/derapage-du-deficit-bruno-le-maire-refute-toute-faute-ou-dissimulation_6381154_823448.html",
+      "date": "2024-11-07"
+     }
+    ]
+   },
+   {
+    "texte": "Second rapport sénatorial du 19 novembre 2024, « Une irresponsabilité budgétaire assumée, un Parlement ignoré » : il pointe les responsabilités de Bruno Le Maire, d'Élisabeth Borne, de Gabriel Attal et d'Emmanuel Macron, relève qu'il avait demandé un projet de loi de finances rectificative (PLFR) le 6 février 2024 tout en défendant publiquement son absence. Bruno Le Maire qualifie le rapport de « réquisitoire d'opposants politiques truffé de mensonges, d'approximations et d'affirmations spécieuses ».",
+    "sources": [
+     {
+      "media": "Public Sénat",
+      "titre": "Dérapage du déficit : le rapport du Sénat pointe les responsabilités de Bruno Le Maire, Elisabeth Borne, Gabriel Attal et Emmanuel Macron",
+      "url": "https://www.publicsenat.fr/actualites/economie/derapage-du-deficit-le-rapport-du-senat-pointe-les-responsabilites-de-bruno-le-maire-elisabeth-borne-gabriel-attal-et-emmanuel-macron",
+      "date": "2024-11-19"
+     },
+     {
+      "media": "LCP",
+      "titre": "Rapport du Sénat sur le dérapage budgétaire : Bruno Le Maire dénonce \"un réquisitoire d'opposants politiques truffé de mensonges\"",
+      "url": "https://lcp.fr/actualites/rapport-du-senat-sur-le-derapage-budgetaire-bruno-le-maire-denonce-un-requisitoire-d",
+      "date": "2024-11-19"
+     }
+    ]
+   },
+   {
+    "texte": "Audition sous serment devant la commission des finances de l'Assemblée nationale (12 décembre 2024, régime de commission d'enquête) : il se dit « responsable des erreurs de [ses] services concernant les prévisions de recettes », affirme avoir laissé en septembre 2024 un plan permettant de contenir le déficit « autour de 5,5 % en 2024 », juge qu'un PLFR au printemps 2024 lui « semblait la seule manière » de mettre les finances publiques au cœur du débat, et attribue la dette à des causes structurelles (retraite à 60 ans, 35 heures, chômage de masse).",
+    "sources": [
+     {
+      "media": "Assemblée nationale",
+      "titre": "Commission des finances, compte rendu n° 064 : audition de M. Bruno Le Maire (causes des écarts des prévisions fiscales et budgétaires 2023-2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/cion_fin/l17cion_fin2425064_compte-rendu.pdf",
+      "date": "2024-12-12"
+     }
+    ]
+   },
+   {
+    "texte": "Le Figaro révèle début 2025 une lettre de Bruno Le Maire à Emmanuel Macron sur le dérapage du déficit, demandant des mesures d'économies ; ses recommandations (dont un PLFR) n'ont pas été retenues par l'exécutif.",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "«Une omission d'État» : qu'est-ce que cette lettre secrète de Bruno Le Maire sur le déficit, révélée par Le Figaro en février ?",
+      "url": "https://www.lefigaro.fr/conjoncture/les-notes-secretes-de-bruno-le-maire-sur-le-derapage-du-deficit-20250131",
+      "date": "2025-01-31"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Dérapage du déficit : le rapport du Sénat pointe les responsabilités de Bruno Le Maire, Elisabeth Borne, Gabriel Attal et Emmanuel Macron",
+      "url": "https://www.publicsenat.fr/actualites/economie/derapage-du-deficit-le-rapport-du-senat-pointe-les-responsabilites-de-bruno-le-maire-elisabeth-borne-gabriel-attal-et-emmanuel-macron",
+      "date": "2024-11-19"
+     }
+    ]
+   },
+   {
+    "texte": "Pour 2025 (après son départ), l'Insee établit le déficit à 5,1 % du PIB et la dette à 115,6 % du PIB.",
+    "sources": [
+     {
+      "media": "Insee",
+      "titre": "En 2025, le déficit public s'élève à 5,1 % du PIB, la dette publique à 115,6 % du PIB (Informations rapides n° 78)",
+      "url": "https://www.insee.fr/fr/statistiques/8956575",
+      "date": "2026-03"
+     }
+    ]
+   },
+   {
+    "texte": "Le 18 avril 2023 sur BFMTV, il déclare que les Français « n'ont aucune envie de voir que des personnes peuvent bénéficier d'aides, les renvoyer au Maghreb ou ailleurs, alors qu'ils n'y ont pas droit » ; la gauche l'accuse de mobiliser des préjugés racistes.",
+    "sources": [
+     {
+      "media": "RMC / BFMTV",
+      "titre": "La gauche s'indigne après les propos de Bruno Le Maire sur les aides sociales envoyées \"au Maghreb\"",
+      "url": "https://rmc.bfmtv.com/actualites/politique/la-gauche-s-indigne-apres-les-propos-de-bruno-le-maire-sur-les-aides-sociales-envoyees-au-maghreb_AD-202304180399.html",
+      "date": "2023-04-18"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Le Maire",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "travail_salaires": {
+   "resume": "Fait du travail l'une de ses « trois priorités absolues » pour la France (juin 2026).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Le 22 juin 2026 sur BFMTV, il cite le travail, l'autorité de l'État et l'« Europe à 6 » comme ses trois priorités absolues.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle 2027 : Bruno Le Maire dira \"en octobre\" s'il est candidat",
+       "url": "https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967",
+       "date": "2026-06-23"
+      },
+      {
+       "media": "Parlons Politique",
+       "titre": "Bruno Le Maire entretient le doute sur 2027, mais devra dire s'il peut vraiment incarner l'alternative du bloc central",
+       "url": "https://www.parlons-politique.fr/elections/bruno-le-maire-entretient-le-doute-sur-2027-mais-devra-dire-sil-peut-vraiment-incarner-lalternative-du-bloc-central_21961/",
+       "date": "2026-06-23"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Met en avant le rétablissement de « l'autorité de l'État » parmi ses trois priorités (juin 2026).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "« Autorité de l'État » citée comme deuxième priorité absolue le 22 juin 2026.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle 2027 : Bruno Le Maire dira \"en octobre\" s'il est candidat",
+       "url": "https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967",
+       "date": "2026-06-23"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Propose une « Europe à 6 » plutôt qu'à 27 comme cadre d'approfondissement européen.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Le 22 juin 2026, il plaide pour une « Europe à 6 » et non à 27.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle 2027 : Bruno Le Maire dira \"en octobre\" s'il est candidat",
+       "url": "https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967",
+       "date": "2026-06-23"
+      }
+     ]
+    }
+   ]
+  },
+  "economie_fiscalite": {
+   "resume": "Défend la baisse des impôts de production et la simplification, et critique leur arrêt depuis la dissolution de 2024.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "En septembre 2025 : « La baisse des impôts de production a été stoppée, la loi sur la simplification est au point mort, les incertitudes politiques minent la confiance des investisseurs. [...] Quel saccage ».",
+     "sources": [
+      {
+       "media": "BFMTV",
+       "titre": "\"C'est totalement exclu\" : quand Bruno Le Maire rejetait une entrée au gouvernement, il y a 13 jours",
+       "url": "https://www.bfmtv.com/politique/gouvernement/c-est-totalement-exclu-quand-bruno-le-maire-rejetait-une-entree-au-gouvernement-il-y-a-13-jours_AN-202510050350.html",
+       "date": "2025-10-05"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Enquête sur le financement de son micro-parti « Avec BLM »",
+   "statut": "classe_sans_suite",
+   "date": "2023-12",
+   "description": "Le parquet de Paris ouvre en 2023 une enquête après un signalement de la CNCCFP : le micro-parti n'aurait pas réglé des factures de prestataires depuis 2016, ce qui pouvait constituer un financement illégal. Classement sans suite en décembre 2023 pour absence d'infraction, les abandons de créances n'étant pas jugés illicites.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Le microparti de Bruno Le Maire fait l'objet d'une enquête judiciaire",
+     "url": "https://www.mediapart.fr/journal/france/110623/le-microparti-de-bruno-le-maire-fait-l-objet-d-une-enquete-judiciaire",
+     "date": "2023-06-11"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Le microparti du ministre de l'économie Bruno Le Maire visé par une enquête judiciaire",
+     "url": "https://www.lemonde.fr/politique/article/2023/06/12/le-microparti-du-ministre-de-l-economie-bruno-le-maire-vise-par-une-enquete-judiciaire_6177263_823448.html",
+     "date": "2023-06-12"
+    },
+    {
+     "media": "Mediapart",
+     "titre": "L'enquête contre le parti de Bruno Le Maire classée sans suite",
+     "url": "https://www.mediapart.fr/journal/france/111223/l-enquete-contre-le-parti-de-bruno-le-maire-classee-sans-suite",
+     "date": "2023-12-11"
+    }
+   ]
+  },
+  {
+   "intitule": "Emploi de son épouse comme assistante parlementaire (2007-2013)",
+   "statut": "accusation",
+   "date": "2013-10-08",
+   "description": "Mediapart révèle que Pauline Le Maire a été rémunérée par l'Assemblée nationale comme assistante parlementaire à temps plein de son mari entre 2007 et 2013. Aucune procédure judiciaire n'a été trouvée.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "L'emploi flou de l'épouse de Bruno Le Maire",
+     "url": "https://www.mediapart.fr/journal/france/061013/lemploi-flou-de-lepouse-de-bruno-le-maire",
+     "date": "2013-10-06"
+    },
+    {
+     "media": "20 Minutes",
+     "titre": "L'étrange emploi de la femme de Bruno Le Maire",
+     "url": "https://www.20minutes.fr/politique/1233649-20131008-20131008-letrange-emploi-femme-bruno-maire",
+     "date": "2013-10-08"
+    },
+    {
+     "media": "L'Express",
+     "titre": "Bruno Le Maire employait sa femme pour un emploi bien flou",
+     "url": "http://www.lexpress.fr/actualite/politique/lr/bruno-le-maire-employait-sa-femme-pour-un-emploi-bien-flou_1289223.html",
+     "date": "2013-10"
+    }
+   ]
+  },
+  {
+   "intitule": "Rapport de l'IGF sur les concessions autoroutières",
+   "statut": "accusation",
+   "date": "2023-01-25",
+   "description": "Le Canard enchaîné affirme qu'il n'a pas rendu public un rapport de l'Inspection générale des finances (février 2021) relevant une rentabilité des concessionnaires autoroutiers supérieure à l'attendu (12 % contre 7,67 %) ; l'opposition demande sa publication. Aucune procédure judiciaire n'a été trouvée.",
+   "sources": [
+    {
+     "media": "HuffPost",
+     "titre": "Bruno Le Maire a-t-il étouffé ce rapport sur les autoroutes ? L'opposition exige de le lire",
+     "url": "https://www.huffingtonpost.fr/politique/article/bruno-le-maire-a-t-il-etouffe-ce-rapport-sur-les-autoroutes-l-opposition-exige-de-le-lire_213220.html",
+     "date": "2023-01-25"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Bruno Le Maire",
+     "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Dérapage du déficit public 2023-2024 : mises en cause parlementaires",
+   "statut": "accusation",
+   "date": "2024-11-19",
+   "description": "Deux rapports de la mission d'information de la commission des finances du Sénat (juin et novembre 2024) l'accusent d'un « double discours » et d'avoir tardé à informer le Parlement ; il nie toute faute ou dissimulation. Il s'agit de travaux de contrôle parlementaire, non d'une procédure judiciaire. Aucune plainte devant la Cour de justice de la République n'a été trouvée dans les sources consultées.",
+   "sources": [
+    {
+     "media": "Public Sénat",
+     "titre": "Dérapage du déficit : le rapport du Sénat pointe les responsabilités de Bruno Le Maire, Elisabeth Borne, Gabriel Attal et Emmanuel Macron",
+     "url": "https://www.publicsenat.fr/actualites/economie/derapage-du-deficit-le-rapport-du-senat-pointe-les-responsabilites-de-bruno-le-maire-elisabeth-borne-gabriel-attal-et-emmanuel-macron",
+     "date": "2024-11-19"
+    },
+    {
+     "media": "LCP",
+     "titre": "Rapport du Sénat sur le dérapage budgétaire : Bruno Le Maire dénonce \"un réquisitoire d'opposants politiques truffé de mensonges\"",
+     "url": "https://lcp.fr/actualites/rapport-du-senat-sur-le-derapage-budgetaire-bruno-le-maire-denonce-un-requisitoire-d",
+     "date": "2024-11-19"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "« Aveuglement », « imprudence », « inaction »… La charge du Sénat contre la gestion budgétaire du gouvernement",
+     "url": "https://www.lefigaro.fr/conjoncture/aveuglement-imprudence-inaction-la-charge-du-senat-contre-la-gestion-budgetaire-du-gouvernement-20240613",
+     "date": "2024-06-13"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Dérapage du déficit : Bruno Le Maire réfute toute faute ou dissimulation",
+     "url": "https://www.lemonde.fr/politique/article/2024/11/07/derapage-du-deficit-bruno-le-maire-refute-toute-faute-ou-dissimulation_6381154_823448.html",
+     "date": "2024-11-07"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Micro-parti « Avec BLM » : signalé par la CNCCFP, visé par une enquête du parquet de Paris en 2023 pour factures impayées depuis 2016, classée sans suite en décembre 2023.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Le microparti de Bruno Le Maire fait l'objet d'une enquête judiciaire",
+     "url": "https://www.mediapart.fr/journal/france/110623/le-microparti-de-bruno-le-maire-fait-l-objet-d-une-enquete-judiciaire",
+     "date": "2023-06-11"
+    },
+    {
+     "media": "Mediapart",
+     "titre": "L'enquête contre le parti de Bruno Le Maire classée sans suite",
+     "url": "https://www.mediapart.fr/journal/france/111223/l-enquete-contre-le-parti-de-bruno-le-maire-classee-sans-suite",
+     "date": "2023-12-11"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Bruno Le Maire",
+     "url": "https://fr.wikipedia.org/wiki/Bruno_Le_Maire",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Aucune structure de financement de campagne 2027 n'est connue : il annonce qu'il dira « en octobre » 2026 s'il est candidat.",
+   "sources": [
+    {
+     "media": "LCP",
+     "titre": "Présidentielle 2027 : Bruno Le Maire dira \"en octobre\" s'il est candidat",
+     "url": "https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967",
+     "date": "2026-06-23"
+    },
+    {
+     "media": "Parlons Politique",
+     "titre": "Bruno Le Maire entretient le doute sur 2027, mais devra dire s'il peut vraiment incarner l'alternative du bloc central",
+     "url": "https://www.parlons-politique.fr/elections/bruno-le-maire-entretient-le-doute-sur-2027-mais-devra-dire-sil-peut-vraiment-incarner-lalternative-du-bloc-central_21961/",
+     "date": "2026-06-23"
+    }
+   ]
+  },
+  {
+   "texte": "Statut incertain : la page Wikipédia des candidatures 2027 le range parmi les candidats pressentis ; la liste LCP le cite parmi les prétendants.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Candidatures à l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "LCP",
+     "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+     "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+     "date": "2026"
+    }
+   ]
+  }
+ ]
+}

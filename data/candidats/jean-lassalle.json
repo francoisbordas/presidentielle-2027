@@ -1,0 +1,614 @@
+{
+ "id": "jean-lassalle",
+ "nom": "Jean Lassalle",
+ "naissance": "1955-05-03",
+ "lieu_naissance": "Lourdios-Ichère (Basses-Pyrénées, auj. Pyrénées-Atlantiques)",
+ "parti": "Résistons !",
+ "parti_sigle": "RES",
+ "famille": "centre",
+ "position": 1.5,
+ "position_justif": {
+  "texte": "Présenté par les médias « du centre au centre droit » (ancien vice-président du MoDem, 2010-2016) ; ligne ruraliste et « antisystème », eurosceptique (« Europe des nations », sortie de l'OTAN). Un vote par approbation de 2017 le situait à une extrémité de l'axe, entre Nicolas Dupont-Aignan et François Asselineau. Position indicative 1,5, inclassable de façon univoque.",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Jean Lassalle",
+    "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "franceinfo (France 2)",
+    "titre": "Présidentielle 2022 : Jean Lassalle veut toujours sortir de l'Otan",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/presidentielle-2022-jean-lassalle-veut-toujours-sortir-de-lotan_5053966.html",
+    "date": "2022-03-30"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour pouvoir être de nouveau candidat à l'élection",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html",
+    "date": "2026-07-15"
+   }
+  ]
+ },
+ "statut": "pressenti",
+ "photo": {
+  "fichier": "img/candidats/jean-lassalle.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Jean_Lassalle.jpg",
+  "auteur": "Antoine Lamielle",
+  "licence": "CC BY-SA 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/res.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Logo-resistons.png",
+  "licence": "Domaine public"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Études classiques (latin, grec), puis formation de technicien agricole spécialisé dans l'hydraulique et l'aménagement du territoire.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean Lassalle",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Issu d'une famille de bergers transhumants ; a fondé une société de conseil employant une dizaine de salariés.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean Lassalle",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Depuis l'automne 2025, tournée d'un one man show autobiographique.",
+    "sources": [
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour l'aider à être candidat « contre le système »",
+      "url": "https://www.20minutes.fr/politique/4234002-20260710-presidentielle-2027-jean-lassalle-lance-cagnotte-aider-etre-candidat-contre-systeme",
+      "date": "2026-07-10"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jean Lassalle",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Maire de Lourdios-Ichère de 1977 à 2017 (quarante ans).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean Lassalle",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour l'aider à être candidat « contre le système »",
+      "url": "https://www.20minutes.fr/politique/4234002-20260710-presidentielle-2027-jean-lassalle-lance-cagnotte-aider-etre-candidat-contre-systeme",
+      "date": "2026-07-10"
+     }
+    ]
+   },
+   {
+    "texte": "Conseiller général des Pyrénées-Atlantiques (1982-2015), vice-président du conseil général (1991-2001).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean Lassalle",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Député de la 4e circonscription des Pyrénées-Atlantiques de 2002 à 2022 ; battu aux législatives de 2024.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean Lassalle",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour l'aider à être candidat « contre le système »",
+      "url": "https://www.20minutes.fr/politique/4234002-20260710-presidentielle-2027-jean-lassalle-lance-cagnotte-aider-etre-candidat-contre-systeme",
+      "date": "2026-07-10"
+     }
+    ]
+   },
+   {
+    "texte": "Président du parc national des Pyrénées (1989-1999) ; vice-président du MoDem (2010-2016) ; président de Résistons depuis 2016.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean Lassalle",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Candidat à la présidentielle de 2017 (1,21 %, 7e sur 11) et de 2022 (3,13 %, 7e sur 12).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean Lassalle",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour pouvoir être candidat, objectif 100 000 €",
+      "url": "https://www.ouest-france.fr/politique/jean-lassalle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-candidat-objectif-100-000-euros-f890031c-7c5b-11f1-b616-dddac7a26294",
+      "date": "2026-07-10"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour l'aider à être candidat « contre le système »",
+      "url": "https://www.20minutes.fr/politique/4234002-20260710-presidentielle-2027-jean-lassalle-lance-cagnotte-aider-etre-candidat-contre-systeme",
+      "date": "2026-07-10"
+     }
+    ]
+   },
+   {
+    "texte": "Grève de la faim en 2006 (31 kg perdus) contre la délocalisation de l'usine Toyal hors de la vallée d'Aspe ; a chanté l'hymne béarnais « Aqueros mountagnos » dans l'hémicycle en 2003.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean Lassalle",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour l'aider à être candidat « contre le système »",
+      "url": "https://www.20minutes.fr/politique/4234002-20260710-presidentielle-2027-jean-lassalle-lance-cagnotte-aider-etre-candidat-contre-systeme",
+      "date": "2026-07-10"
+     }
+    ]
+   },
+   {
+    "texte": "Tête de liste « Alliance rurale » avec la Fédération nationale des chasseurs aux européennes de 2024 : 2,35 % (sous le seuil de remboursement de 3 %).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean Lassalle",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour l'aider à être candidat « contre le système »",
+      "url": "https://www.20minutes.fr/politique/4234002-20260710-presidentielle-2027-jean-lassalle-lance-cagnotte-aider-etre-candidat-contre-systeme",
+      "date": "2026-07-10"
+     }
+    ]
+   },
+   {
+    "texte": "A rencontré Bachar el-Assad en Syrie en janvier 2017, ce qui a suscité des critiques.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean Lassalle",
+      "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Le 10 juillet 2026, a lancé une cagnotte pour financer une troisième candidature « contre le système », disant avoir déjà 250 promesses de parrainages sur 500 et se donnant jusqu'à l'automne pour décider. Il n'est pas officiellement candidat au 25 septembre 2026.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour pouvoir être de nouveau candidat à l'élection",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html",
+      "date": "2026-07-15"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour l'aider à être candidat « contre le système »",
+      "url": "https://www.20minutes.fr/politique/4234002-20260710-presidentielle-2027-jean-lassalle-lance-cagnotte-aider-etre-candidat-contre-systeme",
+      "date": "2026-07-10"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour financer sa troisième campagne",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-financer-sa-troisieme-campagne-20260715",
+      "date": "2026-07-15"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour pouvoir être candidat, objectif 100 000 €",
+      "url": "https://www.ouest-france.fr/politique/jean-lassalle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-candidat-objectif-100-000-euros-f890031c-7c5b-11f1-b616-dddac7a26294",
+      "date": "2026-07-10"
+     }
+    ]
+   },
+   {
+    "texte": "La page Wikipédia des candidatures le range parmi les candidats pressentis (ni déclaré ni retiré).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "institutions": {
+   "resume": "En 2022, proposait le référendum d'initiative citoyenne constituant, la reconnaissance du vote blanc et une réorganisation du territoire autour des communes ; en 2026, se présente comme candidat « contre le système ».",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "S'était engagé par acte notarié (avril 2022) à mettre en place, s'il était élu, le RIC constituant, la reconnaissance du vote blanc et la baisse de la TVA sur les carburants avant les législatives.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Jean Lassalle",
+       "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Veut « réorganiser l'ensemble du tissu territorial autour des communes » et « reconstruire l'État ».",
+     "sources": [
+      {
+       "media": "franceinfo (France 2)",
+       "titre": "Présidentielle 2022 : « Je veux réorganiser le tissu territorial autour des communes », défend Jean Lassalle",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-je-veux-reorganiser-le-tissu-territorial-autour-des-communes-defend-jean-lassalle_4960641.html",
+       "date": "2022-02-14"
+      }
+     ]
+    },
+    {
+     "texte": "Proposait de comptabiliser les votes blancs.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Jean Lassalle",
+       "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "economie_fiscalite": {
+   "resume": "En 2022, proposait de baisser la TVA sur les hydrocarbures de 20 % à 5,5 % et de porter l'investissement dans la recherche à 5 % du PIB.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Proposait l'abaissement de la TVA sur les hydrocarbures de 20 % à 5,5 %.",
+     "sources": [
+      {
+       "media": "franceinfo (France 2)",
+       "titre": "Présidentielle 2022 : Jean Lassalle promet « la baisse des taxes, immédiatement »",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/presidentielle-2022-jean-lassalle-promet-la-baisse-des-taxes-immediatement_5069581.html",
+       "date": "2022-04-08"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Jean Lassalle",
+       "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Proposait d'augmenter les investissements dans la recherche à 5 % du PIB.",
+     "sources": [
+      {
+       "media": "franceinfo (France 2)",
+       "titre": "Présidentielle 2022 : « Je veux réorganiser le tissu territorial autour des communes », défend Jean Lassalle",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-je-veux-reorganiser-le-tissu-territorial-autour-des-communes-defend-jean-lassalle_4960641.html",
+       "date": "2022-02-14"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "En 2022, proposait un SMIC à 1 400 euros.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Proposait le SMIC à 1 400 euros.",
+     "sources": [
+      {
+       "media": "franceinfo (France 2)",
+       "titre": "Présidentielle 2022 : Jean Lassalle promet « la baisse des taxes, immédiatement »",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/presidentielle-2022-jean-lassalle-promet-la-baisse-des-taxes-immediatement_5069581.html",
+       "date": "2022-04-08"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "En 2022, proposait la sortie de l'OTAN (« priorité absolue » après la guerre en Ukraine) et un service national universel obligatoire, militaire ou civil, de neuf mois (coût estimé à 10 milliards).",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Veut sortir de l'OTAN, « une priorité absolue » au sortir de la guerre.",
+     "sources": [
+      {
+       "media": "franceinfo (France 2)",
+       "titre": "Présidentielle 2022 : Jean Lassalle veut toujours sortir de l'Otan",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/presidentielle-2022-jean-lassalle-veut-toujours-sortir-de-lotan_5053966.html",
+       "date": "2022-03-30"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Jean Lassalle",
+       "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Proposait un service national universel militaire ou civil obligatoire de neuf mois, estimé à dix milliards.",
+     "sources": [
+      {
+       "media": "franceinfo (France 2)",
+       "titre": "Présidentielle 2022 : Jean Lassalle veut toujours sortir de l'Otan",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/presidentielle-2022-jean-lassalle-veut-toujours-sortir-de-lotan_5053966.html",
+       "date": "2022-03-30"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Propose de renégocier les traités européens et de refonder une « Europe des nations » ; a voté non à Maastricht (1992) et au traité constitutionnel (2005).",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Dénonce une « dictature financière » de l'UE et propose de renégocier les traités pour une « Europe des nations ».",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Jean Lassalle",
+       "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "En 2022, disait vouloir engager immédiatement la construction de lits d'hôpitaux.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Citait la construction de lits d'hôpitaux parmi ses premières décisions.",
+     "sources": [
+      {
+       "media": "franceinfo (France 2)",
+       "titre": "Présidentielle 2022 : « Si j'étais président », les mesures phares de Jean Lassalle",
+       "url": "https://www.franceinfo.fr/politique/jean-lassalle/presidentielle-2022-si-jetais-president-les-mesures-phares-de-jean-lassalle_4934877.html",
+       "date": "2022-01-30"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Défend la ruralité et l'agriculture paysanne ; a mené en 2024 la liste « Alliance rurale » avec les chasseurs.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Liste Alliance rurale (2024) présentée comme la voix de la ruralité, avec la Fédération nationale des chasseurs.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Jean Lassalle",
+       "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "franceinfo (France 2)",
+       "titre": "Élections européennes : « Alliance rurale est le retour du bon sens », propose la tête de liste Jean Lassalle",
+       "url": "https://www.franceinfo.fr/elections/elections-europeennes-alliance-rurale-est-le-retour-du-bon-sens-propose-la-tete-de-liste-jean-lassalle_6519086.html",
+       "date": "2024-05-01"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Enquête pour viol et agression sexuelle (faits allégués de 2010)",
+   "statut": "classe_sans_suite",
+   "date": "2024-03-29",
+   "description": "Enquête préliminaire ouverte le 3 mai 2023 par le parquet de Bordeaux après la plainte d'une femme de 45 ans pour des faits allégués en 2010 dans une chambre d'hôtel à Bordeaux. Jean Lassalle a contesté les faits. Classement sans suite le 29 mars 2024, le parquet estimant que les investigations « ne permettent pas d'établir l'existence d'une infraction pénale ».",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Jean Lassalle visé par une enquête pour viol",
+     "url": "https://www.franceinfo.fr/politique/jean-lassalle/jean-lassalle-vise-par-une-enquete-pour-viol_5963249.html",
+     "date": "2023-07-21"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "L'enquête pour viol et agression sexuelle visant Jean Lassalle classée sans suite",
+     "url": "https://www.lemonde.fr/politique/article/2024/03/29/l-enquete-pour-viol-et-agression-sexuelle-visant-jean-lassalle-classee-sans-suite_6224878_823448.html",
+     "date": "2024-03-29"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "L'enquête pour viol et agression sexuelle visant Jean Lassalle classée sans suite",
+     "url": "https://www.franceinfo.fr/politique/jean-lassalle/l-enquete-pour-viol-et-agression-sexuelle-visant-jean-lassalle-classee-sans-suite_6454889.html",
+     "date": "2024-03-29"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "L'enquête pour viol et agressions sexuelles contre Jean Lassalle classée sans suite",
+     "url": "https://www.lefigaro.fr/faits-divers/l-enquete-pour-viol-et-agressions-sexuelles-contre-jean-lassalle-classee-sans-suite-20240329",
+     "date": "2024-03-29"
+    },
+    {
+     "media": "Le Parisien",
+     "titre": "La plainte pour viol et agression sexuelle contre Jean Lassalle classée sans suite",
+     "url": "https://www.leparisien.fr/faits-divers/la-plainte-pour-viol-et-agression-sexuelle-contre-jean-lassalle-classee-sans-suite-29-03-2024-SNZA6QGEGVC5VOOAJVSK7MFOWI.php",
+     "date": "2024-03-29"
+    }
+   ]
+  },
+  {
+   "intitule": "Accusations de comportements sexistes et d'attouchement (2017-2018)",
+   "statut": "accusation",
+   "date": "2017-10",
+   "description": "En octobre 2017, la directrice de la communication du PCF, Julia Castanier, l'a accusé de lui avoir mis une « main aux fesses » à l'Assemblée ; d'autres femmes ont témoigné dans Mediapart de propos ou comportements déplacés, et le directeur de l'ENS Paris-Saclay a signalé en 2018 une attitude déplacée. Jean Lassalle conteste catégoriquement ; aucune plainte n'a été déposée selon lui.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Jean Lassalle",
+     "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Mise en scène de son abstention au second tour de 2022",
+   "statut": "enquete",
+   "date": "2022-04-28",
+   "description": "Filmé le 24 avril 2022 mettant en scène son abstention dans le bureau de vote de Lourdios-Ichère, il a entraîné l'annulation par le Conseil constitutionnel des suffrages de la commune ; le parquet de Pau a ouvert une enquête pénale pour infraction au code électoral. Issue de l'enquête non trouvée dans les sources consultées.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Abstention de Jean Lassalle : une enquête pénale ouverte à l'encontre du député",
+     "url": "https://www.franceinfo.fr/politique/jean-lassalle/abstention-de-jean-lassalle-une-enquete-penale-ouverte-a-l-encontre-du-depute_5107840.html",
+     "date": "2022-04-28"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Présidentielle 2022 : la mise en scène de l'abstention de Jean Lassalle condamnée par le Conseil constitutionnel",
+     "url": "https://www.franceinfo.fr/politique/jean-lassalle/presidentielle-2022-la-mise-en-scene-de-l-abstention-de-jean-lassalle-condamnee-par-le-conseil-constitutionnel_5108230.html",
+     "date": "2022-04-28"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Jean Lassalle",
+     "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Présidentielle 2017 : compte retenu par la CNCCFP (décision du 21 décembre 2017) avec 241 573 € de dépenses et 228 659 € de remboursement ; candidat ayant le moins dépensé (moins de 250 000 €).",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Élection présidentielle française de 2017 (comptes de campagne retenus par la CNCCFP, décision du 21 décembre 2017)",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2017",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Jean Lassalle",
+     "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Présidentielle 2022 : compte retenu par la CNCCFP (décision du 14 décembre 2022) avec 770 991 € de dépenses, intégralement remboursées (plafond de remboursement 800 423 €).",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Élection présidentielle française de 2022 (comptes de campagne retenus par la CNCCFP, décision du 14 décembre 2022)",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Campagne 2027 : cagnotte en ligne lancée le 10 juillet 2026 avec un objectif de 100 000 €, jugé le minimum logistique pour recueillir les 500 parrainages ; il regrette l'absence de « banque pour les petits partis ».",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour pouvoir être de nouveau candidat à l'élection",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-de-nouveau-candidat-a-l-election_8102522.html",
+     "date": "2026-07-15"
+    },
+    {
+     "media": "20 Minutes",
+     "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour l'aider à être candidat « contre le système »",
+     "url": "https://www.20minutes.fr/politique/4234002-20260710-presidentielle-2027-jean-lassalle-lance-cagnotte-aider-etre-candidat-contre-systeme",
+     "date": "2026-07-10"
+    },
+    {
+     "media": "Ouest-France",
+     "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour pouvoir être candidat, objectif 100 000 €",
+     "url": "https://www.ouest-france.fr/politique/jean-lassalle/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-pouvoir-etre-candidat-objectif-100-000-euros-f890031c-7c5b-11f1-b616-dddac7a26294",
+     "date": "2026-07-10"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour financer sa troisième campagne",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-jean-lassalle-lance-une-cagnotte-pour-financer-sa-troisieme-campagne-20260715",
+     "date": "2026-07-15"
+    }
+   ]
+  },
+  {
+   "texte": "Européennes 2024 : la liste Alliance rurale (2,35 %) n'a pas atteint le seuil de 3 % ouvrant droit au remboursement ; il dit que l'alliance avec les chasseurs lui a « fait perdre de l'argent ».",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Jean Lassalle",
+     "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "20 Minutes",
+     "titre": "Présidentielle 2027 : Jean Lassalle lance une cagnotte pour l'aider à être candidat « contre le système »",
+     "url": "https://www.20minutes.fr/politique/4234002-20260710-presidentielle-2027-jean-lassalle-lance-cagnotte-aider-etre-candidat-contre-systeme",
+     "date": "2026-07-10"
+    }
+   ]
+  },
+  {
+   "texte": "En avril 2019, avait renoncé aux européennes faute de fonds : il estimait avoir besoin d'un million d'euros et n'en avait réuni avec certitude que 250 000.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Jean Lassalle",
+     "url": "https://fr.wikipedia.org/wiki/Jean_Lassalle",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Jean Lassalle ne se présentera pas aux élections européennes faute d'avoir pu réunir les fonds nécessaires",
+     "url": "https://www.franceinfo.fr/politique/jean-lassalle/jean-lassalle-ne-se-presentera-pas-aux-elections-europeennes-faute-d-avoir-pu-reunir-les-fonds-necessaires_3396527.html",
+     "date": "2019-04-13"
+    }
+   ]
+  }
+ ]
+}

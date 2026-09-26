@@ -1,0 +1,1468 @@
+{
+ "id": "david-lisnard",
+ "nom": "David Lisnard",
+ "naissance": "1969-02-02",
+ "lieu_naissance": "Limoges (Haute-Vienne)",
+ "parti": "Nouvelle Énergie",
+ "parti_sigle": "NE",
+ "famille": "droite",
+ "position": 5.5,
+ "position_justif": {
+  "texte": "Nouvelle Énergie n'est pas classé par le Chapel Hill Expert Survey ; LR correspond à 5 dans le barème. David Lisnard, ancien vice-président de LR, a quitté ce parti le 31 mars 2026 en lui reprochant ses « ambiguïtés » vis-à-vis de la macronie ; il défend une primaire allant du centre-droit jusqu'à Sarah Knafo (Reconquête) tout en déclarant ne pas être au RN. Le Monde présente sa candidature comme une offre libérale autonome à droite, Libération le range parmi les « libéraux conservateurs » aux côtés de Sarah Knafo et Les Échos le rapproche de Javier Milei. Position fixée à 5,5 : à droite de LR (5), en deçà de DLF (6,5).",
+  "sources": [
+   {
+    "media": "Public Sénat",
+    "titre": "Présidentielle 2027 : David Lisnard, maire de Cannes, annonce sa candidature et quitte officiellement les LR",
+    "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr",
+    "date": "2026-04-01"
+   },
+   {
+    "media": "Le Monde",
+    "titre": "Le libéralisme de David Lisnard peine à convaincre dans les rangs de la droite",
+    "url": "https://www.lemonde.fr/politique/article/2026/04/09/le-liberalisme-de-david-lisnard-peine-a-convaincre-dans-les-rangs-de-la-droite_6678574_823448.html",
+    "date": "2026-04-09"
+   },
+   {
+    "media": "Libération",
+    "titre": "Revues, think tanks, soirées… Les réseaux qui inspirent les libéraux conservateurs, de David Lisnard à Sarah Knafo",
+    "url": "https://www.liberation.fr/idees-et-debats/revues-think-tanks-soirees-les-reseaux-qui-inspirent-les-liberaux-conservateurs-de-david-lisnard-a-sarah-knafo-20260923_6WP2MNYOSJD35MKHLGYRXAASS4/",
+    "date": "2026-09-23"
+   },
+   {
+    "media": "Les Échos",
+    "titre": "Présidentielle 2027 : David Lisnard à l'école Milei",
+    "url": "https://www.lesechos.fr/weekend/chroniques/presidentielle-2027-david-lisnard-a-lecole-milei-2250345",
+    "date": "2026-09-08"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "David Lisnard",
+    "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+    "date": "2026-09-25"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/david-lisnard.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:David_Lisnard.jpg",
+  "auteur": "Marie Tavares",
+  "licence": "CC BY 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/ne.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Logo-blanc-bleu.png",
+  "licence": "Domaine public (selon Wikimedia Commons)"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Scolarité à Limoges puis à Cannes (lycée Carnot, puis lycée Bristol où il obtient le baccalauréat).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Nouvelle Énergie (site officiel)",
+      "titre": "David Lisnard",
+      "url": "https://www.unenouvelleenergie.fr/david-lisnard/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Diplômé de l'Institut d'études politiques (Sciences Po) de Bordeaux en 1992.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Nouvelle Énergie (site officiel)",
+      "titre": "David Lisnard",
+      "url": "https://www.unenouvelleenergie.fr/david-lisnard/",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Petits emplois pendant ses études (serveur, livreur, déménageur, pompiste…), puis pigiste pour plusieurs journaux et revues ; il indique aussi avoir donné des cours en classes préparatoires.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Nouvelle Énergie (site officiel)",
+      "titre": "David Lisnard",
+      "url": "https://www.unenouvelleenergie.fr/david-lisnard/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Service militaire en 1993-1994 comme canonnier dans l'armée de terre, selon son propre récit.",
+    "sources": [
+     {
+      "media": "Nouvelle Énergie (site officiel)",
+      "titre": "« Une expérience formatrice, qu'il ne faut pas idéaliser » : David Lisnard raconte son service militaire",
+      "url": "https://www.unenouvelleenergie.fr/une-experience-formatrice-quil-ne-faut-pas-idealiser-david-lisnard-raconte-son-service-militaire/",
+      "date": "2025-12-12"
+     }
+    ]
+   },
+   {
+    "texte": "De 1996 à 1999, directeur de cabinet et attaché parlementaire de Jacques Pélissard, député-maire de Lons-le-Saunier et vice-président de l'Association des maires de France.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Nouvelle Énergie (site officiel)",
+      "titre": "David Lisnard",
+      "url": "https://www.unenouvelleenergie.fr/david-lisnard/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Commerçant à Cannes (magasins de vêtements) : il a cédé ses derniers commerces en 2016. Sa déclaration d'intérêts mentionne la co-gérance de la SARL Les P'tits Durs, dissoute le 30 novembre 2016.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "HATVP",
+      "titre": "Déclaration d'intérêts – Vice-président du conseil départemental des Alpes-Maritimes (2021)",
+      "url": "https://www.hatvp.fr/livraison/dossiers/lisnard-david-di25251-departement-06.pdf",
+      "date": "2021-07-28"
+     }
+    ]
+   },
+   {
+    "texte": "Président de la SEMEC, société d'exploitation du Palais des festivals et des congrès de Cannes, à partir de 2001 ; en 2008, président de Service Public 2000, cabinet de conseil et d'audit aux collectivités locales.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Nouvelle Énergie (site officiel)",
+      "titre": "David Lisnard",
+      "url": "https://www.unenouvelleenergie.fr/david-lisnard/",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseiller municipal de Cannes et adjoint au maire Bernard Brochand à partir de 2001, puis premier adjoint en 2008.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Nouvelle Énergie (site officiel)",
+      "titre": "David Lisnard",
+      "url": "https://www.unenouvelleenergie.fr/david-lisnard/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Conseiller général puis départemental des Alpes-Maritimes depuis le 16 mars 2008 (canton de Cannes-Est, puis Cannes-2 depuis 2015) ; vice-président du département, chargé du tourisme, depuis 2014.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Nouvelle Énergie (site officiel)",
+      "titre": "David Lisnard",
+      "url": "https://www.unenouvelleenergie.fr/david-lisnard/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Maire de Cannes depuis le 5 avril 2014 ; réélu au premier tour en 2020 (88,08 %) et en mars 2026 (81,11 %).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Élections municipales et communautaires 2020 – Cannes",
+      "url": "https://elections.interieur.gouv.fr/municipales-2020/006/006029.html",
+      "date": "2020-03-15"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Municipales 2026 à Cannes : les résultats du premier tour",
+      "url": "https://www.leparisien.fr/elections/municipales/municipales-2026-a-cannes-les-resultats-du-premier-tour-15-03-2026-V7UHLGZAYZDBNKX67336X2N2RA.php",
+      "date": "2026-03-15"
+     }
+    ]
+   },
+   {
+    "texte": "Président de la communauté d'agglomération Cannes Pays de Lérins depuis le 20 juillet 2017.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "HATVP",
+      "titre": "Déclaration d'intérêts – Vice-président du conseil départemental des Alpes-Maritimes (2021)",
+      "url": "https://www.hatvp.fr/livraison/dossiers/lisnard-david-di25251-departement-06.pdf",
+      "date": "2021-07-28"
+     }
+    ]
+   },
+   {
+    "texte": "Président de l'Association des maires de France (AMF) depuis le 17 novembre 2021 (élu avec 62,3 % des voix face à Philippe Laurent), réélu en novembre 2023 ; en septembre 2026, il annonce briguer un nouveau mandat à la tête de l'AMF tout en étant candidat à la présidentielle.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "David Lisnard, candidat à la présidentielle de 2027, veut rester président de l'Association des maires de France",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/11/david-lisnard-candidat-a-la-presidentielle-de-2027-veut-rester-president-de-l-association-des-maires-de-france_6770544_823448.html",
+      "date": "2026-09-11"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "David Lisnard au Figaro : « Je veux poursuivre notre action à la tête des maires de France »",
+      "url": "https://www.lefigaro.fr/politique/david-lisnard-au-figaro-je-veux-poursuivre-notre-action-a-la-tete-des-maires-de-france-20260910",
+      "date": "2026-09-10"
+     }
+    ]
+   },
+   {
+    "texte": "Député suppléant de Bernard Brochand dans la 8e circonscription des Alpes-Maritimes (2012-2017 selon Wikipédia ; la HATVP mentionne ce mandat jusqu'en 2022).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "HATVP",
+      "titre": "Déclaration d'intérêts modificative – Alpes-Maritimes (2024)",
+      "url": "https://www.hatvp.fr/livraison/dossiers/lisnard-david-dim29314-departement-06.pdf",
+      "date": "2024-06-13"
+     }
+    ]
+   },
+   {
+    "texte": "Vice-président des Républicains à partir du 28 juin 2025 ; il quitte LR le 31 mars 2026.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Présidentielle 2027 : David Lisnard, maire de Cannes, annonce sa candidature et quitte officiellement les LR",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr",
+      "date": "2026-04-01"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Fondateur et président de Nouvelle Énergie, mouvement créé à Cannes et déployé au niveau national le 9 juin 2021.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Nouvelle Énergie (site officiel)",
+      "titre": "David Lisnard",
+      "url": "https://www.unenouvelleenergie.fr/david-lisnard/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Il annonce le 31 mars 2026 sur France 2 quitter Les Républicains et être candidat à l'élection présidentielle de 2027, en appelant à une « grande primaire ouverte » de la droite.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "David Lisnard, maire de Cannes, quitte LR et se déclare candidat pour la présidentielle de 2027",
+      "url": "https://www.lemonde.fr/politique/article/2026/03/31/david-lisnard-maire-de-cannes-quitte-lr-et-se-declare-candidat-pour-la-presidentielle-de-2027_6675703_823448.html",
+      "date": "2026-03-31"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Présidentielle 2027 : David Lisnard, maire de Cannes, annonce sa candidature et quitte officiellement les LR",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-david-lisnard-maire-de-cannes-annonce-sa-candidature-et-quitte-officiellement-les-lr",
+      "date": "2026-04-01"
+     },
+     {
+      "media": "LCP",
+      "titre": "« Je suis candidat » : David Lisnard quitte LR et relance le débat sur une primaire à droite",
+      "url": "https://lcp.fr/actualites/je-suis-candidat-david-lisnard-quitte-lr-et-relance-le-debat-sur-une-primaire-a-droite",
+      "date": "2026-04-01"
+     }
+    ]
+   },
+   {
+    "texte": "Premier meeting de campagne le 3 juillet 2026 à Saint-Raphaël (Var), devant environ 1 500 personnes selon les organisateurs.",
+    "sources": [
+     {
+      "media": "20 Minutes",
+      "titre": "Candidat à la présidentielle, David Lisnard attaque les héritiers de Macron",
+      "url": "https://www.20minutes.fr/politique/4232790-20260703-presidentielle-2027-david-lisnard-attaque-heritiers-macron",
+      "date": "2026-07-03"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Le 2 septembre 2026, il affirme avoir recueilli les 500 promesses de parrainage nécessaires, qui doivent encore être confirmées après la publication du décret de convocation.",
+    "sources": [
+     {
+      "media": "Le Parisien",
+      "titre": "Présidentielle 2027 : le maire de Cannes David Lisnard assure avoir déjà recueilli les 500 promesses de parrainages",
+      "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-le-maire-de-cannes-david-lisnard-assure-avoir-deja-recueilli-les-500-promesses-de-parrainages-02-09-2026-KXBG4QLUFJCAPPEKM3HCGIIHMA.php",
+      "date": "2026-09-02"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Présidentielle 2027 : David Lisnard veut « rétablir le délit de séjour illégal en France »",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/programmes/presidentielle-2027-david-lisnard-veut-retablir-le-delit-de-sejour-illegal-en-france-20260903",
+      "date": "2026-09-03"
+     }
+    ]
+   },
+   {
+    "texte": "L'ancien préfet Philippe Castanet a été désigné pour diriger sa campagne présidentielle (juillet 2026).",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "Présidentielle : le préfet Philippe Castanet, homme de « solutions » va diriger la campagne de David Lisnard",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-le-prefet-philippe-castanet-homme-de-solutions-va-diriger-la-campagne-de-david-lisnard-20260701",
+      "date": "2026-07-01"
+     }
+    ]
+   },
+   {
+    "texte": "Un sondage Ifop pour Le Figaro (22-24 juin 2026) le crédite de 2 % des intentions de vote au premier tour.",
+    "sources": [
+     {
+      "media": "Commission des sondages",
+      "titre": "Notice – Intentions de vote présidentielle 2027, Ifop pour Le Figaro (22-24 juin 2026)",
+      "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juin/10211-pres-iv-ifop-le-figaro-25-juin.pdf",
+      "date": "2026-06-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "En août 2016, après l'attentat de Nice, il prend un arrêté interdisant sur les plages de Cannes les tenues « manifestant de manière ostentatoire une appartenance religieuse » (dit arrêté « anti-burkini ») ; le Conseil d'État a jugé illégal un arrêté similaire à Villeneuve-Loubet le 26 août 2016, et la ville de Cannes a été condamnée en 2018 à rembourser une amende infligée sur ce fondement.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Burkini : le maire de Cannes interdit les vêtements religieux à la plage",
+      "url": "https://www.lemonde.fr/societe/article/2016/08/11/le-maire-de-cannes-interdit-les-vetements-religieux-a-la-plage_4981587_3224.html",
+      "date": "2016-08-11"
+     },
+     {
+      "media": "Légifrance",
+      "titre": "Conseil d'État, juge des référés, 26/08/2016, n° 402742 (arrêté de Villeneuve-Loubet)",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000033070536/",
+      "date": "2016-08-26"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Auteur ou co-auteur de plusieurs livres, dont « Ainsi va la France » (2025, L'Observatoire) ; un nouvel ouvrage coécrit avec Romain Marsily, « Les robots, le Pape, l'IA et nous » (Fayard), est annoncé pour le 28 octobre 2026.",
+    "sources": [
+     {
+      "media": "Nouvelle Énergie (site officiel)",
+      "titre": "David Lisnard",
+      "url": "https://www.unenouvelleenergie.fr/david-lisnard/",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Canard enchaîné",
+      "titre": "Présidentielle 2027 : David Lisnard, yes, we Cannes !",
+      "url": "https://www.lecanardenchaine.fr/dossiers/l-annee-canard-2025/52604-david-lisnard-yes-we-cannes",
+      "date": "2026-01-24"
+     },
+     {
+      "media": "Nouvelle Énergie (site officiel)",
+      "titre": "« Les robots, le Pape, l'IA et nous » : le nouveau livre de David Lisnard en précommande",
+      "url": "https://www.unenouvelleenergie.fr/les-robots-le-pape-lia-et-nous--le-nouveau-livre-de-david-lisnard-en-prcommande/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Chevalier des Arts et des Lettres.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "David Lisnard",
+      "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "economie_fiscalite": {
+   "resume": "Propose de baisser les impôts uniquement après la baisse de la dépense : 40 milliards d'euros de baisse des impôts de production en commençant par la suppression de la C3S, un impôt sur les sociétés ramené à 20 %, et la fin des subventions aux entreprises destinées à compenser leurs charges.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose d'affecter 40 milliards d'euros (20 % des économies) à la baisse des impôts de production, en commençant par la suppression de la C3S.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Que ferait David Lisnard des 200 milliards d'économies annoncés ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/que-ferait-david-lisnard-des-200-milliards-d-economies/",
+       "date": "2026-08-31"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut baisser les impôts ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-baisser-les-impots/",
+       "date": "2026-08-22"
+      }
+     ]
+    },
+    {
+     "texte": "Son livre programme prévoit de ramener l'impôt sur les sociétés à 20 %, avec une part variable de 0 à 5 % laissée aux collectivités locales.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut baisser les impôts ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-baisser-les-impots/",
+       "date": "2026-08-22"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme de Nouvelle Énergie chiffre la suppression de la C3S et de la CVAE à 11,5 milliards d'euros, pour ramener les impôts de production de 2 % à 1 % du PIB.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "L'ambition française de David Lisnard (programme)",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de cesser de subventionner les entreprises pour compenser leurs charges et de baisser directement la fiscalité et les charges, en dénonçant un « capitalisme de connivence » ; il vise aussi les 2 milliards d'euros versés par l'État aux cabinets de conseil.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut supprimer les subventions aux entreprises ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-les-subventions-aux-entreprises/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de réécrire entièrement les codes des marchés publics, des impôts et du travail, et un recours permettant de faire abroger une règle reconnue absurde.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut supprimer des normes et des agences de l'État ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-des-normes-et-des-agences-de-l-etat/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Défend un « capitalisme populaire » visant à accroître la participation des Français au capital des entreprises.",
+     "sources": [
+      {
+       "media": "Le Monde",
+       "titre": "Présidentielle 2027 : à Cannes, David Lisnard bat la campagne pour une grande primaire de la droite",
+       "url": "https://www.lemonde.fr/politique/article/2026/08/30/presidentielle-2027-a-cannes-david-lisnard-bat-la-campagne-pour-une-grande-primaire-de-la-droite_6760742_823448.html",
+       "date": "2026-08-30"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "David Lisnard",
+       "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Propose de baisser la dépense publique de 80 milliards d'euros dès la première année et d'au moins 200 milliards en trajectoire (dont 40 pour le désendettement), notamment en ne remplaçant pas les départs à la retraite dans la fonction publique et en supprimant une partie des quelque 1 200 agences et opérateurs de l'État.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Vise 80 milliards d'euros de baisse de dépense dès la première année et au moins 200 milliards en trajectoire, dont 40 milliards affectés au désendettement ; il exclut toute hausse d'impôt pour réduire la dette.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Que propose David Lisnard face à la dette publique ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-face-a-la-dette-publique/",
+       "date": "2026-08-31"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quelles économies propose David Lisnard ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/",
+       "date": "2026-08-31"
+      }
+     ]
+    },
+    {
+     "texte": "Clé de répartition annoncée des 200 milliards d'économies : 120 milliards (60 %) rendus aux actifs par la baisse des cotisations, 40 milliards (20 %) de baisse des impôts de production, 40 milliards (20 %) pour la dette ou la modernisation de l'État.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Que ferait David Lisnard des 200 milliards d'économies annoncés ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/que-ferait-david-lisnard-des-200-milliards-d-economies/",
+       "date": "2026-08-31"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut réduire le nombre de fonctionnaires ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reduire-le-nombre-de-fonctionnaires/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de ne plus remplacer l'ensemble des quelque 500 000 départs annuels de la fonction publique, en commençant par les fonctions administratives, sans licenciement.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut réduire le nombre de fonctionnaires ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-reduire-le-nombre-de-fonctionnaires/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Gisements d'économies cités : les quelque 1 200 agences et opérateurs publics (83 à 100 milliards d'euros de dépenses, 420 000 à 440 000 agents), la bureaucratie, le plafonnement de certains revenus sociaux et la désindexation des pensions au-delà de 2 000 euros par mois.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quelles économies propose David Lisnard ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quelles-economies-david-lisnard-propose-t-il-et-ou-exactement/",
+       "date": "2026-08-31"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme fixe l'objectif de ramener la dépense publique sous 50 % du PIB, soit une baisse de 8 points de PIB en dix ans, et de basculer 450 000 fonctionnaires « des bureaux vers le terrain ».",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Être maître de notre destin (programme)",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de réduire le nombre de ministères et de nommer un directeur des ressources humaines de l'État.",
+     "sources": [
+      {
+       "media": "Le Monde",
+       "titre": "Présidentielle 2027 : à Cannes, David Lisnard bat la campagne pour une grande primaire de la droite",
+       "url": "https://www.lemonde.fr/politique/article/2026/08/30/presidentielle-2027-a-cannes-david-lisnard-bat-la-campagne-pour-une-grande-primaire-de-la-droite_6760742_823448.html",
+       "date": "2026-08-30"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "David Lisnard",
+       "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose d'ajouter un étage de retraite par capitalisation obligatoire et collective au-dessus d'un socle par répartition (environ 1 200 euros par mois selon la présentation d'août 2026), sans revenir sur la réforme de 2023.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose un étage de capitalisation obligatoire et collective, alimenté par une part des cotisations salariales et patronales, au-dessus d'un socle par répartition d'environ 1 200 euros de pension mensuelle.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat propose la retraite par capitalisation ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-la-retraite-par-capitalisation/",
+       "date": "2026-08-22"
+      }
+     ]
+    },
+    {
+     "texte": "La page programme « L'ambition française » décrit une autre version : âge légal à 65 ans, socle par répartition complété par un minimum vieillesse de 1 000 euros par mois, puis passage progressif (environ 8 tranches) des autres régimes à la capitalisation pour atteindre 116 milliards d'euros, soit environ 40 % des retraites.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "L'ambition française de David Lisnard (programme)",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Refuse de revenir sur la réforme des retraites de 2023, qu'il qualifie de « réformette », et ne fait pas d'un nouveau recul de l'âge sa proposition principale ; il envisage la désindexation des pensions les plus élevées pour financer la transition.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel âge de départ à la retraite David Lisnard défend-il ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-age-de-depart-a-la-retraite-david-lisnard-defend-il/",
+       "date": "2026-08-31"
+      }
+     ]
+    },
+    {
+     "texte": "Défend depuis 2023 l'introduction d'une part de capitalisation dans le système de retraites (tribune dans Le Figaro).",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "David Lisnard : « La capitalisation, pour en finir avec le sado-réformisme des retraites »",
+       "url": "https://www.lefigaro.fr/vox/economie/david-lisnard-la-capitalisation-pour-en-finir-avec-le-sado-reformisme-des-retraites-20230104",
+       "date": "2023-01-04"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Pour en finir avec le sado-réformisme des retraites : la capitalisation",
+       "url": "https://www.unenouvelleenergie.fr/pour-en-finir-avec-le-sado-reformisme-des-retraites-la-capitalisation/",
+       "date": "2023-01-05"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose de rendre 120 milliards d'euros aux actifs par la baisse des cotisations, soit environ 400 euros net de plus par mois et par salarié, de créer un contrat de travail unique et de regrouper les aides sociales en une allocation unique plafonnée à un pourcentage du SMIC.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Annonce environ 400 euros net de plus par mois et par salarié grâce à 120 milliards d'euros de baisse des cotisations salariales et patronales, financée par les économies (« cotiser moins pour gagner plus »).",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut améliorer le pouvoir d'achat ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-ameliorer-le-pouvoir-d-achat/",
+       "date": "2026-08-22"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Comment David Lisnard veut-il augmenter les salaires sans augmenter le coût du travail ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/comment-david-lisnard-veut-il-augmenter-les-salaires-sans-augmenter-le-cout-du-travail/",
+       "date": "2026-08-31"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de regrouper l'ensemble des aides sociales en une allocation unique plafonnée à un pourcentage du SMIC, et de retirer les aides sociales et le logement social aux personnes condamnées pour délinquance.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut regrouper les aides sociales en une allocation unique ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-regrouper-les-aides-sociales-en-une-allocation-unique/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme prévoit un contrat de travail unique pour les nouveaux emplois (fusion CDI/CDD avec indemnités de licenciement progressives), des charges patronales négatives pour l'embauche de personnes au RSA depuis plus de deux ans et un abaissement de la limite d'âge de l'apprentissage.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "L'ambition française de David Lisnard (programme)",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Propose de supprimer les agences régionales de santé, de doubler le nombre d'étudiants en médecine d'ici 2030, de supprimer Parcoursup pour l'accès aux études de santé et de mieux rembourser les actes dans les zones sous-dotées, en refusant la régulation de l'installation des médecins.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de supprimer les ARS et de transférer leurs responsabilités aux préfets et aux collectivités.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Santé : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de doubler le nombre d'étudiants en médecine d'ici 2030, de supprimer Parcoursup, de simplifier la LAS/PASS et d'autoriser l'exercice sous supervision dès la 5e année.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Santé : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un conventionnement différencié (meilleur remboursement des actes dans les zones sous-dotées), des maisons de santé pluridisciplinaires dans chaque canton et l'accès direct aux infirmiers, kinésithérapeutes et pharmaciens.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Santé : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat propose une réforme de l'hôpital public ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-une-reforme-de-l-hopital-public/",
+       "date": "2026-08-22"
+      }
+     ]
+    },
+    {
+     "texte": "S'oppose à la régulation de l'installation des médecins, en estimant qu'elle pousse des médecins formés en France à exercer à l'étranger.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Comment David Lisnard compte-t-il lutter contre les déserts médicaux ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/comment-david-lisnard-compte-t-il-lutter-contre-les-deserts-medicaux/",
+       "date": "2026-08-31"
+      }
+     ]
+    },
+    {
+     "texte": "Propose la création d'un consortium pharmaceutique européen « sur le modèle d'Airbus » pour relocaliser la production de médicaments.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Santé : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Propose de supprimer la carte scolaire et d'instaurer progressivement un chèque-éducation utilisable dans le public comme dans le privé, un certificat de fin de primaire conditionnant l'entrée au collège et une hausse de 20 % de la rémunération des enseignants en cinq ans.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de supprimer la carte scolaire, de laisser les familles choisir l'établissement avec un financement public qui suit l'élève (chèque-éducation valable dans le public ou le privé), et de laisser les chefs d'établissement recruter leurs équipes.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut supprimer la carte scolaire ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-supprimer-la-carte-scolaire/",
+       "date": "2026-08-22"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "École : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un certificat de fin de primaire dont la validation conditionnerait l'entrée au collège.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "École : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose une hausse de 20 % des rémunérations des enseignants en cinq ans, conditionnée à une autonomie accrue, une présence renforcée dans l'établissement et une évaluation régulière ; des classes d'excellence en mathématiques et en sciences dans chaque académie.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "École : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Demande le retour aux savoirs fondamentaux et le rétablissement de l'autorité du professeur, en critiquant le collège unique et le « pédagogisme ».",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quelles sont les propositions de David Lisnard pour l'école ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quelles-sont-les-propositions-de-david-lisnard-pour-l-ecole/",
+       "date": "2026-08-31"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "École : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Propose de réduire l'immigration légale, de rétablir le délit de séjour irrégulier, de supprimer l'aide médicale d'État (remplacée par une aide d'urgence), de revenir sur l'accord franco-algérien de 1968 et d'organiser un référendum sur l'immigration après une révision de l'article 11.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de rétablir le délit de séjour irrégulier, abrogé en 2012, de réviser la Constitution pour « sortir de l'étau des jurisprudences européennes » et fixer des quotas, et de créer des centres de traitement des visas hors des frontières européennes.",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "Présidentielle 2027 : David Lisnard veut « rétablir le délit de séjour illégal en France »",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/programmes/presidentielle-2027-david-lisnard-veut-retablir-le-delit-de-sejour-illegal-en-france-20260903",
+       "date": "2026-09-03"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Immigration : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de supprimer l'aide médicale d'État et de la remplacer par une aide d'urgence (700 millions d'euros d'économies selon le programme), et d'arrêter le versement des prestations non contributives aux personnes installées à l'étranger.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Immigration : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat propose de supprimer l'aide médicale d'État ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-supprimer-l-aide-medicale-d-etat/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un référendum sur l'immigration, conditionné à l'élargissement du champ de l'article 11 de la Constitution ; il désigne la CEDH parmi les « verrous » à lever.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat propose un référendum sur l'immigration ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-un-referendum-sur-l-immigration/",
+       "date": "2026-08-18"
+      },
+      {
+       "media": "Le Parisien",
+       "titre": "Présidentielle : référendums, contournement du Conseil constitutionnel… Les propositions chocs de David Lisnard",
+       "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-referendums-contournement-du-conseil-constitutionnel-les-propositions-chocs-de-david-lisnard-17-06-2026-LLDVICUMUFGK3BWZFC7YUL7SAU.php",
+       "date": "2026-06-17"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de revenir sur l'accord franco-algérien de 1968.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Immigration : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Défend la réduction de l'immigration légale, qu'il présente comme la principale source de l'immigration irrégulière ; en 2024, il avait préconisé de la « diviser par huit ».",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Que propose David Lisnard sur l'immigration ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-sur-l-immigration/",
+       "date": "2026-08-31"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "David Lisnard",
+       "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose de construire 20 000 places de prison, d'exécuter intégralement les peines et d'instaurer la perpétuité réelle, de rétablir les peines planchers, d'abaisser la majorité pénale à 16 ans, de renforcer les pouvoirs des polices municipales et d'interdire le Syndicat de la magistrature.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "S'engage à construire 20 000 places de prison, à faire exécuter intégralement les peines prononcées et à instaurer la perpétuité réelle.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat propose de construire des places de prison ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-construire-des-places-de-prison/",
+       "date": "2026-08-18"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut que les peines soient réellement exécutées ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-que-les-peines-soient-reellement-executees/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de supprimer les réductions de peine automatiques, de rétablir les peines planchers pour les récidivistes et d'appliquer une sanction, même courte, dès la première infraction.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Sécurité : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'abaisser la majorité pénale à 16 ans, d'inverser le principe de l'excuse de minorité dès 13 ans, de créer des internats disciplinaires fermés et de rendre les parents solvables redevables de la réparation des actes de leurs enfants mineurs.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Sécurité : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut rendre les parents responsables des délits de leurs enfants ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-rendre-les-parents-responsables-des-delits-de-leurs-enfants/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de rétablir la responsabilité des magistrats et d'interdire le Syndicat de la magistrature (discours de Saint-Raphaël, juillet 2026).",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat propose de rétablir la responsabilité des magistrats ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-retablir-la-responsabilite-des-magistrats/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Demande davantage de pouvoirs pour les polices municipales volontaires, dont l'accès à certains fichiers sous contrôle du juge, sans armement obligatoire ; le programme vise 50 % de présence des forces de sécurité sur le terrain contre 37 %.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quelles sont les propositions de David Lisnard sur la sécurité ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quelles-sont-les-propositions-de-david-lisnard-sur-la-securite/",
+       "date": "2026-08-31"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Sécurité : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Réclame une politique pénale plus ferme contre les trafiquants de drogue, y compris mineurs, en citant le rapport d'Étienne Blanc (220 000 membres des forces de l'ordre face à 250 000 trafiquants).",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Que propose David Lisnard face au narcotrafic ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/que-propose-david-lisnard-face-au-narcotrafic/",
+       "date": "2026-08-31"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Se prononce pour le rétablissement d'un service militaire universel et court (environ trois mois) et, sur la guerre en Ukraine, pour « se réarmer » et construire des systèmes de sécurité collective tout en rejetant l'idée d'un « risque existentiel » russe pour la France.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Se dit favorable au retour d'un service militaire universel, court (environ trois mois), en caserne et en uniforme.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "« Une expérience formatrice, qu'il ne faut pas idéaliser » : David Lisnard raconte son service militaire",
+       "url": "https://www.unenouvelleenergie.fr/une-experience-formatrice-quil-ne-faut-pas-idealiser-david-lisnard-raconte-son-service-militaire/",
+       "date": "2025-12-12"
+      }
+     ]
+    },
+    {
+     "texte": "En mars 2025, il juge qu'il existe « un risque géopolitique majeur qui nécessite de se réarmer », critique à la fois le discours d'Emmanuel Macron sur un risque « existentiel » russe et une « fascination pour Poutine », et plaide pour des « systèmes de sécurité collective ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Guerre en Ukraine : « Il y a un risque géopolitique majeur », estime David Lisnard",
+       "url": "https://www.franceinfo.fr/politique/guerre-en-ukraine-il-y-a-un-risque-geopolitique-majeur-estime-david-lisnard_7121292.html",
+       "date": "2025-03-10"
+      }
+     ]
+    },
+    {
+     "texte": "Il s'est rendu à plusieurs reprises en Ukraine depuis 2022, notamment à Lviv et dans le Donbass en 2024.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "David Lisnard sur le terrain en Ukraine, dont dans le Donbass, deux ans après l'agression russe",
+       "url": "https://www.unenouvelleenergie.fr/david-lisnard-sur-le-terrain-en-ukraine-dont-dans-le-donbass-deux-ans-apres-lagression-russe/",
+       "date": "2024-02-27"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Veut réviser la Constitution pour rétablir la primauté de la loi française face aux jurisprudences européennes, en finir avec les surtranspositions de normes européennes et appelle l'Europe à concentrer ses moyens sur quelques grands paris technologiques et industriels.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de réviser la Constitution pour « sortir de l'étau des jurisprudences européennes » en matière migratoire et désigne la Convention européenne des droits de l'homme parmi les verrous à lever.",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "Présidentielle 2027 : David Lisnard veut « rétablir le délit de séjour illégal en France »",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/programmes/presidentielle-2027-david-lisnard-veut-retablir-le-delit-de-sejour-illegal-en-france-20260903",
+       "date": "2026-09-03"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat propose un référendum sur l'immigration ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-un-referendum-sur-l-immigration/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'en finir avec les surtranspositions françaises des normes européennes et d'imposer des clauses miroirs aux produits importés.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Agriculture : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Dans une tribune co-signée en décembre 2025 (parue dans Les Échos), il estime que l'Europe « vit dans l'illusion de sa puissance » et appelle à miser sur quelques domaines clés, à réduire les dépendances et à mutualiser l'effort européen.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "« L'Europe connaîtra-t-elle au XXIe siècle le destin de la Chine au XIXe siècle ? » (tribune parue dans Les Échos)",
+       "url": "https://www.unenouvelleenergie.fr/leurope-connaitra-t-elle-au-xxie-siecle-le-destin-de-la-chine-au-xixe-siecle/",
+       "date": "2025-12-23"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un consortium pharmaceutique européen sur le modèle d'Airbus.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Santé : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose d'arrêter le démantèlement programmé des réacteurs, de prolonger le parc nucléaire jusqu'à 60 ans, de construire une première série de six EPR et des petits réacteurs modulaires, et défend une écologie qui fixe des objectifs sans imposer de technologie.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose d'arrêter le plan de fermeture de réacteurs, de prolonger les réacteurs existants jusqu'à 60 ans, d'engager une première série de six EPR, de déployer des mini-réacteurs et de financer la recherche sur la 4e génération et la fusion.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut construire de nouveaux réacteurs nucléaires ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-construire-de-nouveaux-reacteurs-nucleaires/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Défend une écologie qui « fixe des objectifs sans prescrire les moyens » (« neutralité scientifique »), critique le zéro artificialisation nette jugé inapplicable pour les communes et qualifie de faute la fermeture de Fessenheim.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat défend une écologie pragmatique et non punitive ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-une-ecologie-pragmatique-et-non-punitive/",
+       "date": "2026-08-22"
+      }
+     ]
+    }
+   ]
+  },
+  "ia_numerique": {
+   "resume": "Appelle à une « politique de l'audace numérique » face à l'intelligence artificielle, s'appuie sur l'électricité nucléaire comme atout de souveraineté technologique, et publie en octobre 2026 un livre sur les robots et l'IA.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Dans une tribune de novembre 2023, il appelle à une « politique de l'audace numérique » face à l'hégémonie américaine et asiatique en matière d'IA, avec une réforme de l'éducation et des investissements massifs dans les secteurs d'avenir.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Intelligence artificielle : « L'esprit de conquête doit à nouveau guider l'action politique » (tribune parue dans Marianne)",
+       "url": "https://www.unenouvelleenergie.fr/intelligence-artificielle-lesprit-de-conquete-doit-a-nouveau-guider-laction-politique/",
+       "date": "2023-11-30"
+      }
+     ]
+    },
+    {
+     "texte": "Il compte l'électricité nucléaire décarbonée et pilotable parmi les atouts permettant à la France de tenir son rang dans l'IA (publication du 12 août 2026).",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut construire de nouveaux réacteurs nucléaires ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-construire-de-nouveaux-reacteurs-nucleaires/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "texte": "Son livre « Les robots, le Pape, l'IA et nous », coécrit avec Romain Marsily, doit paraître le 28 octobre 2026 chez Fayard.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "« Les robots, le Pape, l'IA et nous » : le nouveau livre de David Lisnard en précommande",
+       "url": "https://www.unenouvelleenergie.fr/les-robots-le-pape-lia-et-nous--le-nouveau-livre-de-david-lisnard-en-prcommande/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Propose de supprimer l'article 55 de la loi SRU (obligation de 20 à 25 % de logements sociaux) pour le remplacer, éventuellement, par un objectif négocié sur les constructions nouvelles, et attribue la crise du logement aux « attaques » de l'État contre la propriété.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose la suppression de l'article 55 de la loi SRU, éventuellement remplacé de façon transitoire par un objectif plafonné sur le flux de logements construits, défini entre l'État et les collectivités.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "L'ambition française de David Lisnard (programme)",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Estime en décembre 2025 que les attaques d'un « État trop centralisateur » contre la propriété sont la première cause de la crise du logement, qu'il qualifie de « plus grande crise sociale et humaine ».",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "David Lisnard face à la crise du logement : « Il est temps de briser cette spirale infernale ! »",
+       "url": "https://www.lefigaro.fr/politique/david-lisnard-face-a-la-crise-du-logement-il-est-temps-de-briser-cette-spirale-infernale-20251205",
+       "date": "2025-12-05"
+      }
+     ]
+    },
+    {
+     "texte": "Rappelle que la France produisait 500 000 logements neufs par an sous Georges Pompidou contre environ 280 000 aujourd'hui, en mettant en cause l'accumulation de règles (loi SRU, loi Climat et résilience, IFI).",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat défend une écologie pragmatique et non punitive ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-une-ecologie-pragmatique-et-non-punitive/",
+       "date": "2026-08-22"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Propose d'en finir avec les surtranspositions, d'imposer des clauses miroirs aux importations, de simplifier radicalement le statut de l'exploitation agricole et de transférer une partie des charges vers une TVA « compétitivité / relocalisation ».",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose la fin des surtranspositions françaises, l'alignement réglementaire sur le marché commun et des clauses miroirs obligatoires pour les produits importés.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Agriculture : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un statut unique de l'exploitation agricole (production, transformation, énergie, tourisme rural…), un guichet numérique unique et la rémunération des services environnementaux rendus par les agriculteurs.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Agriculture : le projet de David Lisnard",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme évoque une TVA « Compétitivité / Relocalisation » créée progressivement sur 12 ans pour atteindre un taux unique, par exemple de 25 %.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "L'ambition française de David Lisnard (programme)",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose de rétablir un septennat renouvelable, de libérer l'article 11 de ses limites thématiques pour élargir le référendum, de remplacer départements et régions par une quarantaine à cinquantaine de « provinces » et d'inscrire la « subsidiarité ascendante » dans la Constitution.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Lors de son discours de Bayeux (17 juin 2026), il propose le rétablissement d'un septennat renouvelable et l'extension du référendum de l'article 11 sans limites thématiques, dans une refonte des institutions inspirée de la Constitution de 1958.",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "Présidentielle : référendums, contournement du Conseil constitutionnel… Les propositions chocs de David Lisnard",
+       "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-referendums-contournement-du-conseil-constitutionnel-les-propositions-chocs-de-david-lisnard-17-06-2026-LLDVICUMUFGK3BWZFC7YUL7SAU.php",
+       "date": "2026-06-17"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "À Bayeux, David Lisnard invoque l'esprit de résistance pour reconstruire la France",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/a-bayeux-david-lisnard-invoque-l-esprit-de-resistance-pour-reconstruire-la-france-20260617",
+       "date": "2026-06-17"
+      }
+     ]
+    },
+    {
+     "texte": "Accuse en août 2026 Gabriel Attal d'avoir repris au moins onze de ses mesures institutionnelles et lui adresse une « facture de droits d'auteur » symbolique de 19,58 euros.",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "Présidentielle 2027 : David Lisnard accuse Gabriel Attal de plagiat sur son projet institutionnel",
+       "url": "https://www.lefigaro.fr/politique/presidentielle-2027-david-lisnard-accuse-gabriel-attal-de-plagiat-sur-son-projet-institutionnel-20260803",
+       "date": "2026-08-03"
+      },
+      {
+       "media": "Le Parisien",
+       "titre": "Présidentielle 2027 : David Lisnard accuse Gabriel Attal d'avoir repris ses idées et lui adresse une « facture de droits d'auteur »",
+       "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-david-lisnard-accuse-gabriel-attal-davoir-repris-ses-idees-et-lui-adresse-une-facture-de-droits-dauteur-03-08-2026-TD3DG2A4K5EINIOQZ4VKFBZ4PA.php",
+       "date": "2026-08-03"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de remplacer les départements et les régions par des « provinces » (une quarantaine ou cinquantaine selon le programme).",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut remplacer les départements et les régions ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-remplacer-les-departements-et-les-regions/",
+       "date": "2026-08-18"
+      },
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Le renouveau civique de David Lisnard (programme)",
+       "url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "David Lisnard",
+       "url": "https://fr.wikipedia.org/wiki/David_Lisnard",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'inscrire la « subsidiarité ascendante » comme principe : l'échelon le plus proche décide et ne transfère vers le haut que ce qu'il ne peut assumer.",
+     "sources": [
+      {
+       "media": "Nouvelle Énergie (site officiel)",
+       "titre": "Quel candidat veut donner plus de pouvoir aux maires et aux régions ?",
+       "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-veut-donner-plus-de-pouvoir-aux-maires/",
+       "date": "2026-08-22"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Enquête judiciaire sur l'attribution du marché de modernisation du port de Cannes",
+   "statut": "enquete",
+   "date": "2021-09-28",
+   "description": "Mediapart a rapporté en septembre 2021 l'ouverture d'une enquête judiciaire sur les conditions d'attribution du marché de modernisation du port de Cannes, dossier présenté comme « gênant » pour David Lisnard, maire de la ville. Aucune source consultée n'indique qu'il ait été personnellement mis en examen ou poursuivi ; les suites de cette enquête n'ont pas été trouvées à la date du 25 septembre 2026.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Le port de Cannes visé par une enquête judiciaire",
+     "url": "https://www.mediapart.fr/journal/france/280921/le-port-de-cannes-vise-par-une-enquete-judiciaire",
+     "date": "2021-09-28"
+    }
+   ]
+  },
+  {
+   "intitule": "Critiques du Canard enchaîné sur le cumul d'indemnités",
+   "statut": "accusation",
+   "date": "2025-11-18",
+   "description": "Le Canard enchaîné relève que David Lisnard, qui dénonce l'État-providence, cumule les indemnités de maire de Cannes, de vice-président du conseil départemental et de président de l'agglomération Cannes Pays de Lérins, et évoque des avantages fiscaux liés à son parti. Il s'agit d'un article critique, sans procédure judiciaire. Ses déclarations à la HATVP font état d'environ 58 000 euros net annuels comme maire et de 25 000 à 36 000 euros comme vice-président du département (2016-2020).",
+   "sources": [
+    {
+     "media": "Le Canard enchaîné",
+     "titre": "Populisme : Le festival du maire de Cannes",
+     "url": "https://www.lecanardenchaine.fr/politique/52396-le-festival-du-maire-de-cannes",
+     "date": "2025-11-18"
+    },
+    {
+     "media": "HATVP",
+     "titre": "Déclaration d'intérêts – Vice-président du conseil départemental des Alpes-Maritimes (2021)",
+     "url": "https://www.hatvp.fr/livraison/dossiers/lisnard-david-di25251-departement-06.pdf",
+     "date": "2021-07-28"
+    }
+   ]
+  },
+  {
+   "intitule": "Tweet raciste d'un compte de soutien non officiel (« Les Jeunes Avec Lisnard »)",
+   "statut": "accusation",
+   "date": "2026-09-19",
+   "description": "En septembre 2026, un compte X non officiel se présentant comme soutien de David Lisnard a publié un message à caractère raciste sur la liste de l'équipe de France de football. Nouvelle Énergie a dénoncé un post « lamentable », indiqué que ce compte n'a aucun lien avec le candidat et envisage une action en justice. David Lisnard n'est pas personnellement mis en cause.",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "titre": "Le parti Nouvelle Énergie dénonce le post « lamentable » d'un compte de soutien non-officiel auteur d'un tweet raciste",
+     "url": "https://www.leparisien.fr/politique/apres-des-tweets-racistes-sur-la-liste-de-zidane-un-compte-de-soutien-a-david-lisnard-somme-de-sexpliquer-19-09-2026-2K5YT6OOKVCLBNWVW4QLM3MFWM.php",
+     "date": "2026-09-19"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Nouvelle Énergie figure parmi les partis ayant respecté leurs obligations comptables au titre de l'exercice 2024, selon l'avis de la CNCCFP publié au Journal officiel du 10 février 2026.",
+   "sources": [
+    {
+     "media": "CNCCFP",
+     "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (JO du 10 février 2026)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+     "date": "2026-02-10"
+    }
+   ]
+  },
+  {
+   "texte": "Nouvelle Énergie revendique près de 30 000 adhérents et 1 800 élus au 16 septembre 2026 (contre environ 15 000 adhérents revendiqués au printemps 2026).",
+   "sources": [
+    {
+     "media": "Nouvelle Énergie (site officiel)",
+     "titre": "Combien d'adhérents compte Nouvelle Énergie, le parti de David Lisnard ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/combien-d-adherents-compte-nouvelle-energie/",
+     "date": "2026-09-16"
+    },
+    {
+     "media": "Nouvelle Énergie (site officiel)",
+     "titre": "Qui est David Lisnard ?",
+     "url": "https://www.unenouvelleenergie.fr/questions/qui-est-david-lisnard/",
+     "date": "2026-08-31"
+    }
+   ]
+  },
+  {
+   "texte": "Déclarations d'intérêts à la HATVP : indemnités nettes d'environ 58 000 euros par an comme maire de Cannes et de 25 000 à 36 000 euros par an comme vice-président du conseil départemental (2016-2020) ; mandats non rémunérés à l'agglomération et à l'AMF ; ancienne co-gérance de la SARL Les P'tits Durs (dissoute en 2016) ; conjointe journaliste à France Télévisions. Une déclaration de 2026 (maire de Cannes) est déposée, publication à venir.",
+   "sources": [
+    {
+     "media": "HATVP",
+     "titre": "Déclarations de David Lisnard (fiche nominative)",
+     "url": "https://www.hatvp.fr/pages_nominatives/lisnard-david",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "HATVP",
+     "titre": "Déclaration d'intérêts – Vice-président du conseil départemental des Alpes-Maritimes (2021)",
+     "url": "https://www.hatvp.fr/livraison/dossiers/lisnard-david-di25251-departement-06.pdf",
+     "date": "2021-07-28"
+    },
+    {
+     "media": "HATVP",
+     "titre": "Déclaration d'intérêts modificative – Alpes-Maritimes (2024)",
+     "url": "https://www.hatvp.fr/livraison/dossiers/lisnard-david-dim29314-departement-06.pdf",
+     "date": "2024-06-13"
+    }
+   ]
+  }
+ ]
+}

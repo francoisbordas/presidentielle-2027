@@ -1,0 +1,562 @@
+{
+ "id": "jerome-guedj",
+ "nom": "Jérôme Guedj",
+ "naissance": "1972-01-23",
+ "lieu_naissance": "Pantin (Seine-Saint-Denis)",
+ "parti": "Parti socialiste",
+ "parti_sigle": "PS",
+ "famille": "gauche",
+ "position": -3.5,
+ "position_justif": {
+  "texte": "Député PS (barème −4), ancien proche de Jean-Luc Mélenchon ; depuis 2023-2025 il rompt avec LFI, se rallie à l'aile du PS de Nicolas Mayer-Rossignol et se présente comme candidat d'une « gauche républicaine », « universaliste » et « laïque ». Il prône un gel plutôt qu'une abrogation de la réforme des retraites. Position fixée légèrement à droite du barème PS.",
+  "sources": [
+   {
+    "media": "franceinfo",
+    "titre": "Présidentielle 2027 : le député socialiste Jérôme Guedj annonce sa candidature",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-depute-socialiste-jerome-guedj-officialise-sa-candidature_7785572.html",
+    "date": "2026-02-05"
+   },
+   {
+    "media": "Le Quotidien du Médecin",
+    "titre": "Expert de la santé et du grand âge, le député socialiste Jérôme Guedj candidat à la présidentielle",
+    "url": "http://www.lequotidiendumedecin.fr/sante-societe/politique-de-sante/expert-de-la-sante-et-du-grand-age-le-depute-socialiste-jerome-guedj-candidat-la-presidentielle",
+    "date": "2026-02-05"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Jérôme Guedj",
+    "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+    "date": "2026-09-25"
+   }
+  ]
+ },
+ "statut": "primaire",
+ "photo": {
+  "fichier": "img/candidats/jerome-guedj.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:J%C3%A9r%C3%B4me_Guedj_2010.jpg",
+  "auteur": "Audrey AK",
+  "licence": "CC BY-SA 2.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/ps.svg",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Logo_Parti_Socialiste_-_2024.svg",
+  "licence": "marque déposée"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Diplômé de l'Institut d'études politiques de Paris (1992) et ancien élève de l'ENA (promotion Victor Schœlcher, 1996).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Choisir 2027 (site officiel de la primaire)",
+      "titre": "Jérôme Guedj",
+      "url": "https://choisir2027.fr/candidat/jerome-guedj/",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Membre de l'Inspection générale des affaires sociales (IGAS) à partir de 1996.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Choisir 2027 (site officiel de la primaire)",
+      "titre": "Jérôme Guedj",
+      "url": "https://choisir2027.fr/candidat/jerome-guedj/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Chargé en mars 2020 par le ministre de la Santé Olivier Véran d'une mission sur l'isolement des personnes âgées confinées.",
+    "sources": [
+     {
+      "media": "Le Parisien",
+      "titre": "Essonne : Jérôme Guedj chargé d'une mission sur l'isolement des personnes âgées confinées",
+      "url": "https://www.leparisien.fr/essonne-91/covid-19-en-essonne-jerome-guedj-charge-d-une-mission-sur-l-isolement-des-personnes-agees-confinees-31-03-2020-8291475.php",
+      "date": "2020-03-31"
+     },
+     {
+      "media": "Libération",
+      "titre": "Jérôme Guedj, socialiste frondeur en mission chez Macron",
+      "url": "https://www.liberation.fr/politiques/2020/04/24/jerome-guedj-socialiste-frondeur-en-mission-chez-macron_1786251/",
+      "date": "2020-04-24"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Activité de conseil : gérant de la société J G Conseils (créée en 2006), puis consultant via le cabinet Etsa (santé et protection sociale) de 2019 à 2022, pour une rémunération nette déclarée de 120 000 € (2019), 70 000 € (2020), 125 000 € (2021) et 95 000 € (2022) ; activité arrêtée en septembre 2022.",
+    "sources": [
+     {
+      "media": "HATVP",
+      "titre": "Fiche Jérôme Guedj (déclaration d'intérêts du 17 septembre 2025)",
+      "url": "https://www.hatvp.fr/fiche-nominative/?declarant=guedj-jerome",
+      "date": "2025-09-17"
+     },
+     {
+      "media": "L'Obs (Rue89)",
+      "titre": "De Fillon à Chatel, enquête sur les députés qui vendent leurs conseils",
+      "url": "https://www.nouvelobs.com/rue89/rue89-politique/20130417.RUE5633/de-fillon-a-chatel-enquete-sur-les-deputes-qui-vendent-leurs-conseils.html",
+      "date": "2013-04-17"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Chargé d'enseignement à Sciences Po (2019-2024).",
+    "sources": [
+     {
+      "media": "HATVP",
+      "titre": "Fiche Jérôme Guedj (déclaration d'intérêts du 17 septembre 2025)",
+      "url": "https://www.hatvp.fr/fiche-nominative/?declarant=guedj-jerome",
+      "date": "2025-09-17"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseiller général de l'Essonne (canton de Massy-Est) de 1998 à 2021, président du conseil général de l'Essonne de 2011 à 2015.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Essonne : après 23 ans au département, Jérôme Guedj met le cap sur les régionales",
+      "url": "https://www.leparisien.fr/essonne-91/essonne-apres-23-ans-au-departement-jerome-guedj-met-le-cap-sur-les-regionales-04-05-2021-RGDK5Z67OZASVB45MBPMMAVWRY.php",
+      "date": "2021-05-04"
+     },
+     {
+      "media": "Choisir 2027 (site officiel de la primaire)",
+      "titre": "Jérôme Guedj",
+      "url": "https://choisir2027.fr/candidat/jerome-guedj/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Député de la 6e circonscription de l'Essonne en 2012-2014 (suppléant de François Lamy), puis depuis 2022 (élu face à Amélie de Montchalin, réélu en 2024).",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Amélie de Montchalin chute dans l'Essonne lors des législatives et devrait démissionner",
+      "url": "https://www.lemonde.fr/politique/article/2022/06/19/amelie-de-montchalin-chute-dans-l-essonne-lors-des-legislatives-et-devrait-demissionner_6131100_823448.html",
+      "date": "2022-06-19"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Conseiller régional d'Île-de-France depuis 2021.",
+    "sources": [
+     {
+      "media": "Le Parisien",
+      "titre": "Essonne : après 23 ans au département, Jérôme Guedj met le cap sur les régionales",
+      "url": "https://www.leparisien.fr/essonne-91/essonne-apres-23-ans-au-departement-jerome-guedj-met-le-cap-sur-les-regionales-04-05-2021-RGDK5Z67OZASVB45MBPMMAVWRY.php",
+      "date": "2021-05-04"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Secrétaire national à la laïcité du PS de 2020 à 2025.",
+    "sources": [
+     {
+      "media": "Mediapart",
+      "titre": "Le PS se pose en nouveau « héraut » de la laïcité",
+      "url": "https://www.mediapart.fr/journal/france/041220/le-ps-se-pose-en-nouveau-heraut-de-la-laicite",
+      "date": "2020-12-04"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Adhère au PS en 1993 dans le courant Gauche socialiste ; ancien assistant parlementaire de Jean-Luc Mélenchon.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Choisir 2027 (site officiel de la primaire)",
+      "titre": "Jérôme Guedj",
+      "url": "https://choisir2027.fr/candidat/jerome-guedj/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Après le 7 octobre 2023, rompt avec LFI ; aux législatives de 2024, il refuse l'étiquette du Nouveau Front populaire et affronte une candidate dissidente soutenue par LFI.",
+    "sources": [
+     {
+      "media": "Le Point",
+      "titre": "Jérôme Guedj : « Avec Mélenchon, la baston va être sans pitié »",
+      "url": "https://www.lepoint.fr/politique/jerome-guedj-avec-melenchon-la-baston-va-etre-sans-pitie-18-05-2024-2560475_20.php",
+      "date": "2024-05-18"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Au congrès du PS de juin 2025, il qualifie Jean-Luc Mélenchon de « salopard antisémite », puis regrette le mot « salopard » en maintenant « antisémite ».",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "Congrès du PS: Jérôme Guedj qualifie Jean-Luc Mélenchon de «salopard antisémite»",
+      "url": "https://video.lefigaro.fr/figaro/video/congres-du-ps-jerome-guedj-qualifie-jean-luc-melenchon-de-salopard-antisemite/",
+      "date": "2025-06-14"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Jérôme Guedj regrette d'avoir qualifié Jean-Luc Mélenchon de «salopard», pas d'«antisémite»",
+      "url": "https://www.lefigaro.fr/politique/jerome-guedj-regrette-d-avoir-qualifie-jean-luc-melenchon-de-salopard-pas-d-antisemite-20250616",
+      "date": "2025-06-16"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce sa candidature à la présidentielle le 5 février 2026 sur France Inter « pour porter la voix d'une gauche républicaine » ; rejoint en août 2026 la primaire du PS et de Place publique.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2027 : le député socialiste Jérôme Guedj annonce sa candidature",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-depute-socialiste-jerome-guedj-officialise-sa-candidature_7785572.html",
+      "date": "2026-02-05"
+     },
+     {
+      "media": "France Inter",
+      "titre": "Jérôme Guedj : \"Je suis aujourd'hui candidat à l'élection présidentielle\"",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-jeudi-05-fevrier-2026-7548548",
+      "date": "2026-02-05"
+     },
+     {
+      "media": "La Tribune Dimanche",
+      "titre": "Jérôme Guedj, député PS de l'Essonne et candidat à la présidentielle : « Je prendrai toute ma place dans cette primaire »",
+      "url": "https://www.latribune.fr/article/la-tribune-dimanche/politique/18147697960524/jerome-guedj-depute-ps-de-l-essonne-et-candidat-a-la-presidentielle-je-prendrai-toute-ma-place-dans-cette-primaire",
+      "date": "2026-08-23"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Primaire présidentielle socialiste française de 2026",
+      "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Se met en retrait de la coordination des travaux budgétaires des députés PS jusqu'au 18 octobre 2026 pendant la primaire.",
+    "sources": [
+     {
+      "media": "Libération",
+      "titre": "Les députés PS Brun et Guedj remplacés pour l'examen des textes budgétaires à l'Assemblée",
+      "url": "https://www.liberation.fr/politique/les-deputes-ps-brun-et-guedj-remplaces-pour-lexamen-des-textes-budgetaires-a-lassemblee-20260831_2ZKTWCJIH5GTJELBNWVLR7X664/",
+      "date": "2026-08-31"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Primaire présidentielle socialiste française de 2026",
+      "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Publie en 2026 « La République, c'est nous ! » (Éditions de l'Observatoire) et écrit le 14 juillet 2026 aux maires pour solliciter des parrainages.",
+    "sources": [
+     {
+      "media": "Le Parisien",
+      "titre": "« La République c'est nous ! » : le député PS Jérôme Guedj écrit aux maires de France et sort un livre",
+      "url": "https://www.leparisien.fr/elections/presidentielle/la-republique-cest-nous-le-depute-ps-jerome-guedj-ecrit-aux-maires-de-france-et-sort-un-livre-13-07-2026-MKF3DHJ4AJECJOHRZVRNWDHYTM.php",
+      "date": "2026-07-13"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jérôme Guedj",
+      "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "retraites": {
+   "resume": "A combattu la réforme Borne de 2023 ; prône depuis 2024 un gel ou une suspension de la réforme plutôt qu'une abrogation, à rediscuter avec les partenaires sociaux.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "En 2023, obtient du ministre Olivier Dussopt qu'il corrige le nombre de futurs retraités bénéficiant de la pension minimale à 85 % du smic.",
+     "sources": [
+      {
+       "media": "Challenges",
+       "titre": "Le coup de maître de Jérôme Guedj qui a fait voler en éclats la communication du gouvernement sur les retraites",
+       "url": "https://www.challenges.fr/politique/coulisses-comment-jerome-guedj-a-piege-olivier-dussopt-sur-les-retraites_847456",
+       "date": "2023-03-03"
+      },
+      {
+       "media": "Investir - Les Échos",
+       "titre": "Pension à 1.200 euros : combien de retraités concernés ?",
+       "url": "https://investir.lesechos.fr/placements/retraite/pension-a-1200-euros-combien-de-retraites-concernes-1926222",
+       "date": "2023-03-01"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Jérôme Guedj",
+       "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Préconise en septembre 2024 un gel ou une suspension de la réforme des retraites plutôt qu'une abrogation, estimant que « la gauche n'a pas gagné ».",
+     "sources": [
+      {
+       "media": "La Provence",
+       "titre": "Réforme des retraites : le député socialiste Jérôme Guedj prône un gel, pas une abrogation",
+       "url": "https://www.laprovence.com/article/politique/7932840956166414/reforme-des-retraites-le-depute-socialiste-jerome-guedj-prone-un-gel-pas-une-abrogation?id=7932840956166414",
+       "date": "2024-09-01"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Jérôme Guedj",
+       "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Spécialiste du grand âge : réclame une loi de programmation « bien vieillir », des ratios opposables de personnel dans les Ehpad et le renforcement du maintien à domicile.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Réclame une loi de programmation sur le « bien vieillir » et plusieurs milliards d'euros pour le secteur du grand âge.",
+     "sources": [
+      {
+       "media": "Challenges",
+       "titre": "Jérôme Guedj réclame des milliards pour \"bien vieillir\"",
+       "url": "https://www.challenges.fr/politique/jerome-guedj-reclame-des-milliards-pour-bien-vieillir_851404",
+       "date": "2023-04-08"
+      },
+      {
+       "media": "Les Échos",
+       "titre": "Le retour remarqué du frondeur Jérôme Guedj à l'Assemblée",
+       "url": "https://www.lesechos.fr/politique-societe/politique/le-retour-remarque-du-frondeur-jerome-guedj-a-lassemblee-1968436",
+       "date": "2023-08-07"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Jérôme Guedj",
+       "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Préconise des ratios opposables personnels/résidents dans les Ehpad, l'allongement des interventions à domicile et la lutte contre l'isolement.",
+     "sources": [
+      {
+       "media": "20 Minutes",
+       "titre": "Jérôme Guedj accuse le gouvernement de « négligence à l'égard » des seniors",
+       "url": "https://www.20minutes.fr/politique/4048509-20230809-depute-socialiste-jerome-guedj-ps-accuse-gouvernement-negligence-egard-personnes-agees",
+       "date": "2023-08-09"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Jérôme Guedj",
+       "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose de créer un « Défenseur de la laïcité », autorité constitutionnelle indépendante nommée pour six ans, sur le modèle du Défenseur des droits.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Dépose en décembre 2025 une proposition constitutionnelle créant un « Défenseur de la laïcité » nommé pour six ans, saisissable par toute personne estimant qu'un service public a manqué à ce principe.",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "Jérôme Guedj relance son projet de «Défenseur de la laïcité» pour les 120 ans de la loi de 1905",
+       "url": "https://www.lefigaro.fr/politique/jerome-guedj-relance-son-projet-de-defenseur-de-la-laicite-pour-les-120-ans-de-la-loi-de-1905-20251203",
+       "date": "2025-12-03"
+      },
+      {
+       "media": "La Dépêche",
+       "titre": "Les 120 ans de la loi de 1905 : le député Jérôme Guedj propose la création d'un Défenseur de la laïcité",
+       "url": "https://www.ladepeche.fr/2025/12/09/les-120-ans-de-la-loi-de-1905-le-depute-jerome-guedj-propose-la-creation-dun-defenseur-de-la-laicite-13091264.php",
+       "date": "2025-12-09"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Jérôme Guedj",
+       "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Soutient l'interdiction de l'abaya à l'école au nom de la loi de 2004, mais s'oppose à une interdiction du voile pour les moins de 15 ans.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Se prononce en 2023 pour l'interdiction de l'abaya et du qamis portés de manière ostentatoire à l'école.",
+     "sources": [
+      {
+       "media": "France Inter",
+       "titre": "Interdiction de l'abaya à l'école : la Nupes fracturée sur la question",
+       "url": "https://www.radiofrance.fr/franceinter/interdiction-de-l-abaya-a-l-ecole-la-nupes-fracturee-sur-la-question-3804720",
+       "date": "2023-08-28"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Jérôme Guedj",
+       "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "S'oppose en 2025 à la proposition de Gabriel Attal d'interdire le voile aux moins de 15 ans.",
+     "sources": [
+      {
+       "media": "Libération",
+       "titre": "Voile, séparatisme : pour le socialiste Jérôme Guedj, Gabriel Attal court «après la droite et l'extrême droite»",
+       "url": "https://www.liberation.fr/politique/voile-separatisme-pour-le-socialiste-jerome-guedj-gabriel-attal-court-apres-la-droite-et-lextreme-droite-20250521_PNY273YQWVEX5NELSELJOJNKC4/",
+       "date": "2025-05-21"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Jérôme Guedj",
+       "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Revendique une méthode de compromis budgétaire : « s'asseoir à la table des négociations […] pour arracher des avancées concrètes », notamment sur le budget de la Sécurité sociale.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Dans sa lettre aux maires (juillet 2026), met en avant sa préférence pour la négociation budgétaire « plutôt que de céder à la politique du pire ou à l'obstruction stérile ».",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "« La République c'est nous ! » : le député PS Jérôme Guedj écrit aux maires de France et sort un livre",
+       "url": "https://www.leparisien.fr/elections/presidentielle/la-republique-cest-nous-le-depute-ps-jerome-guedj-ecrit-aux-maires-de-france-et-sort-un-livre-13-07-2026-MKF3DHJ4AJECJOHRZVRNWDHYTM.php",
+       "date": "2026-07-13"
+      }
+     ]
+    },
+    {
+     "texte": "Coordonnait avec Philippe Brun le travail des députés socialistes sur le budget avant de s'en retirer pendant la primaire.",
+     "sources": [
+      {
+       "media": "Libération",
+       "titre": "Les députés PS Brun et Guedj remplacés pour l'examen des textes budgétaires à l'Assemblée",
+       "url": "https://www.liberation.fr/politique/les-deputes-ps-brun-et-guedj-remplaces-pour-lexamen-des-textes-budgetaires-a-lassemblee-20260831_2ZKTWCJIH5GTJELBNWVLR7X664/",
+       "date": "2026-08-31"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Primaire présidentielle socialiste française de 2026",
+       "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [
+  {
+   "texte": "Aucun compte de campagne présidentielle antérieur (première candidature).",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Jérôme Guedj",
+     "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Guedj",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Déclaration d'intérêts HATVP (septembre 2025) : revenus de conseil via le cabinet Etsa (410 000 € nets cumulés 2019-2022), activité arrêtée en 2022 ; rémunérations d'enseignement et de formation de quelques milliers d'euros par an.",
+   "sources": [
+    {
+     "media": "HATVP",
+     "titre": "Fiche Jérôme Guedj (déclaration d'intérêts du 17 septembre 2025)",
+     "url": "https://www.hatvp.fr/fiche-nominative/?declarant=guedj-jerome",
+     "date": "2025-09-17"
+    }
+   ]
+  }
+ ]
+}

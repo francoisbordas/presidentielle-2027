@@ -1,0 +1,733 @@
+{
+ "id": "olivier-faure",
+ "nom": "Olivier Faure",
+ "naissance": "1968-08-18",
+ "lieu_naissance": "La Tronche (Isère)",
+ "parti": "Parti socialiste",
+ "parti_sigle": "PS",
+ "famille": "gauche",
+ "position": -4.5,
+ "position_justif": {
+  "texte": "Premier secrétaire du PS (barème PS : −4), il défend pour la primaire une ligne présentée comme « à gauche toute » par l'AFP et des propositions « très à gauche » (smic à 1 700 €, retraite à 62 ans, régularisation massive de travailleurs sans-papiers) ; architecte des alliances NUPES (2022) et Nouveau Front populaire (2024). Position fixée légèrement à gauche du barème PS.",
+  "sources": [
+   {
+    "media": "AFP (via Boursorama)",
+    "titre": "Olivier Faure, \"à gauche toute\" pour la primaire",
+    "url": "https://www.boursorama.com/actualite-economique/actualites/olivier-faure-a-gauche-toute-pour-la-primaire-9db61319a9452da24d0e9bea2fa49132",
+    "date": "2026-09-17"
+   },
+   {
+    "media": "Le Parisien (AFP)",
+    "titre": "Primaire du PS : smic à 1 700 euros, retraite à 62 ans, faire cotiser l'IA… Olivier Faure développe ses propositions",
+    "url": "https://www.leparisien.fr/politique/primaire-du-ps-smic-a-1-700-euros-retraite-a-62-ans-faire-cotiser-lia-olivier-faure-developpe-ses-propositions-16-09-2026-LG23OMNFL5DAZFUOADKBWDSBMY.php",
+    "date": "2026-09-16"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Olivier Faure",
+    "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+    "date": "2026-09-25"
+   }
+  ]
+ },
+ "statut": "primaire",
+ "photo": {
+  "fichier": "img/candidats/olivier-faure.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:OF_MATIGNON_-_MAXIME_CLAM_(cropped).png",
+  "auteur": "KimiRaikkonen3",
+  "licence": "Public domain"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/ps.svg",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Logo_Parti_Socialiste_-_2024.svg",
+  "licence": "marque déposée"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Élève du lycée Pothier d'Orléans ; titulaire d'un DEA de droit économique (université d'Orléans) et d'un DEA de science politique (université Paris-I-Panthéon-Sorbonne).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Faure",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Parti socialiste (site officiel)",
+      "titre": "Le premier secrétaire",
+      "url": "https://parti-socialiste.fr/le-premier-secretaire/",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "De 1991 à 1993, collaborateur du président de la commission des lois de l'Assemblée nationale, Gérard Gouzes.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Faure",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Libération",
+      "titre": "Cinq choses à savoir sur Olivier Faure, nouveau patron des députés PS",
+      "url": "https://www.liberation.fr/france/2016/12/13/cinq-choses-a-savoir-sur-olivier-faure-nouveau-patron-des-deputes-ps_1535077/",
+      "date": "2016-12-13"
+     }
+    ]
+   },
+   {
+    "texte": "De 1993 à 1997, cadre dirigeant d'une PME de 150 salariés.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Faure",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Europe 1",
+      "titre": "Olivier Faure, le retour de la synthèse socialiste",
+      "url": "https://www.europe1.fr/politique/olivier-faure-le-retour-de-la-synthese-socialiste-3601502",
+      "date": "2018-03-16"
+     }
+    ]
+   },
+   {
+    "texte": "Conseiller de Martine Aubry au ministère de l'Emploi (1997-2000), puis directeur adjoint du cabinet de François Hollande, premier secrétaire du PS (2000-2007) ; secrétaire général du groupe socialiste à l'Assemblée à partir d'octobre 2007.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Faure",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Libération",
+      "titre": "Cinq choses à savoir sur Olivier Faure, nouveau patron des députés PS",
+      "url": "https://www.liberation.fr/france/2016/12/13/cinq-choses-a-savoir-sur-olivier-faure-nouveau-patron-des-deputes-ps_1535077/",
+      "date": "2016-12-13"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Député de la 11e circonscription de Seine-et-Marne depuis juin 2012, réélu en 2017, 2022 et 2024 (dès le premier tour en 2024).",
+    "sources": [
+     {
+      "media": "Assemblée nationale",
+      "titre": "M. Olivier Faure - Seine-et-Marne (11e circonscription)",
+      "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA609332",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "BFMTV",
+      "titre": "Résultats élections législatives 2024: Olivier Faure réélu dès le premier tour dans la 11e circonscription de Seine-et-Marne",
+      "url": "https://www.bfmtv.com/politique/elections/legislatives/resultats-elections-legislatives-2024-olivier-faure-reelu-des-le-premier-tour-dans-la-11e-circonscription-de-seine-et-marne_AN-202406300524.html",
+      "date": "2024-06-30"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Faure",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Président du groupe socialiste à l'Assemblée nationale de décembre 2016 à avril 2018.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Faure",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Libération",
+      "titre": "Cinq choses à savoir sur Olivier Faure, nouveau patron des députés PS",
+      "url": "https://www.liberation.fr/france/2016/12/13/cinq-choses-a-savoir-sur-olivier-faure-nouveau-patron-des-deputes-ps_1535077/",
+      "date": "2016-12-13"
+     }
+    ]
+   },
+   {
+    "texte": "Premier secrétaire du Parti socialiste depuis 2018 (élu avec 86 % en mars 2018, réélu en 2021, 2023 et le 6 juin 2025 avec 51,15 % face à Nicolas Mayer-Rossignol).",
+    "sources": [
+     {
+      "media": "Europe 1",
+      "titre": "Olivier Faure proclamé premier secrétaire du Parti socialiste",
+      "url": "https://www.europe1.fr/politique/olivier-faure-proclame-premier-secretaire-du-parti-socialiste-3620561",
+      "date": "2018-04-07"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Olivier Faure officiellement réélu à la tête du PS au 79e Congrès du Parti",
+      "url": "https://www.lefigaro.fr/politique/olivier-faure-officiellement-reelu-a-la-tete-du-ps-au-79e-congres-du-parti-20210918",
+      "date": "2021-09-18"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Congrès du PS : Olivier Faure reconduit sur le fil à la tête du parti",
+      "url": "https://www.lemonde.fr/politique/article/2025/06/06/congres-du-ps-le-camp-d-olivier-faure-affirme-beneficier-d-une-avance-irrattrapable-son-opposant-estime-pouvoir-encore-s-imposer_6610741_823448.html",
+      "date": "2025-06-06"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Faure",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Membre du PS depuis 1984 (à 16 ans) ; mère d'origine vietnamienne, enfance à La Réunion puis à Orléans.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Faure",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Parti socialiste (site officiel)",
+      "titre": "Le premier secrétaire",
+      "url": "https://parti-socialiste.fr/le-premier-secretaire/",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "En 2022, il fait entrer le PS dans la NUPES avec LFI ; ce choix provoque le départ de plusieurs cadres, dont Bernard Cazeneuve.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Faure",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Bernard Cazeneuve quitte le PS après l'accord passé avec LFI",
+      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/05/04/bernard-cazeneuve-annonce-qu-il-quitte-le-parti-socialiste-a-la-suite-de-l-accord-passe-avec-la-france-insoumise_6124779_6104324.html",
+      "date": "2022-05-04"
+     }
+    ]
+   },
+   {
+    "texte": "Candidature à la primaire du PS, de Place publique et de la GRS annoncée le 30 août 2026 au journal de 20 h de TF1.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Le chef du Parti socialiste, Olivier Faure, confirme sa candidature à la primaire de son camp en vue de l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html",
+      "date": "2026-08-30"
+     },
+     {
+      "media": "TF1 Info",
+      "titre": "\"Oui je suis candidat à la présidence de la République\", confirme Olivier Faure sur TF1",
+      "url": "https://www.tf1info.fr/politique/oui-je-suis-candidat-a-la-presidence-de-la-republique-confirme-olivier-faure-sur-tf1-2461307.html",
+      "date": "2026-08-30"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Primaire présidentielle socialiste française de 2026",
+      "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Le 9 juillet 2026, les adhérents du PS choisissent à 55,5 % une primaire fermée, contre l'option d'une primaire ouverte défendue par Olivier Faure.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Au PS, Olivier Faure perd son « référendum » interne sur la désignation du candidat social-démocrate à la présidentielle",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/10/olivier-faure-perd-son-referendum-interne-sur-la-designation-du-candidat-social-democrate-a-la-presidentielle_6722211_823448.html",
+      "date": "2026-07-10"
+     },
+     {
+      "media": "BFMTV",
+      "titre": "Présidentielle 2027: le PS choisit une primaire fermée pour désigner son candidat, Olivier Faure désavoué",
+      "url": "https://www.bfmtv.com/politique/parti-socialiste/presidentielle-2027-le-ps-choisit-une-primaire-fermee-pour-designer-son-candidat-olivier-faure-desavoue_AD-202607100184.html",
+      "date": "2026-07-10"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Faure",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Publie en septembre 2026 le livre-programme « La loi du plus juste » (Robert Laffont).",
+    "sources": [
+     {
+      "media": "Le Parisien (AFP)",
+      "titre": "Primaire du PS : smic à 1 700 euros, retraite à 62 ans, faire cotiser l'IA… Olivier Faure développe ses propositions",
+      "url": "https://www.leparisien.fr/politique/primaire-du-ps-smic-a-1-700-euros-retraite-a-62-ans-faire-cotiser-lia-olivier-faure-developpe-ses-propositions-16-09-2026-LG23OMNFL5DAZFUOADKBWDSBMY.php",
+      "date": "2026-09-16"
+     },
+     {
+      "media": "AFP (via Boursorama)",
+      "titre": "Olivier Faure, \"à gauche toute\" pour la primaire",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/olivier-faure-a-gauche-toute-pour-la-primaire-9db61319a9452da24d0e9bea2fa49132",
+      "date": "2026-09-17"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Faure",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "travail_salaires": {
+   "resume": "Propose de porter le smic à 1 700 € net, de conditionner les aides publiques aux entreprises aux hausses de salaire via une conférence salariale, et d'imposer par la loi qu'à chaque euro de dividende corresponde au moins l'équivalent pour les salariés.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de « faire passer [le smic] à 1 700 euros net et convoquer une conférence salariale où l'État conditionne notamment ses aides aux entreprises à l'augmentation des salaires ».",
+     "sources": [
+      {
+       "media": "Le Parisien (AFP)",
+       "titre": "Primaire du PS : smic à 1 700 euros, retraite à 62 ans, faire cotiser l'IA… Olivier Faure développe ses propositions",
+       "url": "https://www.leparisien.fr/politique/primaire-du-ps-smic-a-1-700-euros-retraite-a-62-ans-faire-cotiser-lia-olivier-faure-developpe-ses-propositions-16-09-2026-LG23OMNFL5DAZFUOADKBWDSBMY.php",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "AFP (via La Gazette France)",
+       "titre": "Smic à 1.700 euros, régularisation des travailleurs sans papiers, retraites: Faure développe ses propositions",
+       "url": "https://www.lagazettefrance.fr/article/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Olivier Faure",
+       "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose que « dès lors qu'un euro de dividende est versé aux actionnaires, il doit y avoir au moins l'équivalent pour les salariés » (participation, intéressement ou salaire), en l'imposant par la loi.",
+     "sources": [
+      {
+       "media": "Le Parisien (AFP)",
+       "titre": "Primaire du PS : smic à 1 700 euros, retraite à 62 ans, faire cotiser l'IA… Olivier Faure développe ses propositions",
+       "url": "https://www.leparisien.fr/politique/primaire-du-ps-smic-a-1-700-euros-retraite-a-62-ans-faire-cotiser-lia-olivier-faure-developpe-ses-propositions-16-09-2026-LG23OMNFL5DAZFUOADKBWDSBMY.php",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "AFP (via La Gazette France)",
+       "titre": "Smic à 1.700 euros, régularisation des travailleurs sans papiers, retraites: Faure développe ses propositions",
+       "url": "https://www.lagazettefrance.fr/article/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions",
+       "date": "2026-09-16"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Défend un âge légal de départ à 62 ans ; a négocié fin 2025 le gel de la réforme de 2023 jusqu'en janvier 2028.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Se dit favorable à un âge de départ à la retraite à 62 ans : « Aucun candidat se revendiquant des socialistes ne saurait s'en éloigner ».",
+     "sources": [
+      {
+       "media": "Le Parisien (AFP)",
+       "titre": "Primaire du PS : smic à 1 700 euros, retraite à 62 ans, faire cotiser l'IA… Olivier Faure développe ses propositions",
+       "url": "https://www.leparisien.fr/politique/primaire-du-ps-smic-a-1-700-euros-retraite-a-62-ans-faire-cotiser-lia-olivier-faure-developpe-ses-propositions-16-09-2026-LG23OMNFL5DAZFUOADKBWDSBMY.php",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "AFP (via La Gazette France)",
+       "titre": "Smic à 1.700 euros, régularisation des travailleurs sans papiers, retraites: Faure développe ses propositions",
+       "url": "https://www.lagazettefrance.fr/article/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions",
+       "date": "2026-09-16"
+      }
+     ]
+    },
+    {
+     "texte": "Avec Boris Vallaud et Patrick Kanner, a négocié avec le gouvernement Lecornu le gel de l'âge légal à 62 ans et 9 mois jusqu'en janvier 2028, voté le 12 novembre 2025.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Olivier Faure",
+       "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "Qui va payer la suspension de la réforme des retraites d'ici 2028, selon Matignon ?",
+       "url": "https://www.radiofrance.fr/franceinfo/podcasts/le-decryptage-eco/qui-va-payer-la-suspension-de-la-reforme-des-retraites-d-ici-2028-selon-matignon-8690170",
+       "date": "2025-10-23"
+      }
+     ]
+    }
+   ]
+  },
+  "ia_numerique": {
+   "resume": "Propose de faire cotiser l'intelligence artificielle pour financer retraites et protection sociale.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Estime que l'IA va réduire le nombre de cotisants et propose de « faire cotiser l'IA pour financer nos retraites et notre protection sociale ».",
+     "sources": [
+      {
+       "media": "Le Parisien (AFP)",
+       "titre": "Primaire du PS : smic à 1 700 euros, retraite à 62 ans, faire cotiser l'IA… Olivier Faure développe ses propositions",
+       "url": "https://www.leparisien.fr/politique/primaire-du-ps-smic-a-1-700-euros-retraite-a-62-ans-faire-cotiser-lia-olivier-faure-developpe-ses-propositions-16-09-2026-LG23OMNFL5DAZFUOADKBWDSBMY.php",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "AFP (via La Gazette France)",
+       "titre": "Smic à 1.700 euros, régularisation des travailleurs sans papiers, retraites: Faure développe ses propositions",
+       "url": "https://www.lagazettefrance.fr/article/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Olivier Faure",
+       "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Propose une régularisation massive de travailleurs sans-papiers sur le modèle espagnol (400 000 selon Public Sénat ; il dit que 500 000 « ne le choque pas » selon l'AFP).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose de régulariser 400 000 travailleurs sans-papiers, en s'inspirant de la campagne espagnole de 2025, avec le travail comme critère principal.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Immigration : À quoi correspond la proposition d'Olivier Faure de régulariser 400 000 travailleurs sans-papiers ?",
+       "url": "https://www.publicsenat.fr/actualites/politique/immigration-a-quoi-correspond-la-proposition-dolivier-faure-de-regulariser-400-000-travailleurs-sans-papiers",
+       "date": "2026-09-17"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Olivier Faure",
+       "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Selon l'AFP, il affirme que le chiffre de 500 000 régularisations, comme en Espagne, « ne (le) choque pas ».",
+     "sources": [
+      {
+       "media": "Le Parisien (AFP)",
+       "titre": "Primaire du PS : smic à 1 700 euros, retraite à 62 ans, faire cotiser l'IA… Olivier Faure développe ses propositions",
+       "url": "https://www.leparisien.fr/politique/primaire-du-ps-smic-a-1-700-euros-retraite-a-62-ans-faire-cotiser-lia-olivier-faure-developpe-ses-propositions-16-09-2026-LG23OMNFL5DAZFUOADKBWDSBMY.php",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "AFP (via La Gazette France)",
+       "titre": "Smic à 1.700 euros, régularisation des travailleurs sans papiers, retraites: Faure développe ses propositions",
+       "url": "https://www.lagazettefrance.fr/article/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions",
+       "date": "2026-09-16"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Affirme l'existence de contrôles au faciès et de discriminations dans la police ; avait défendu en 2021 un « droit de regard » des policiers sur les décisions de justice avant de qualifier l'expression de « malheureuse ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Affirme en septembre 2026 qu'il existe dans la police « une réalité des contrôles au faciès et des discriminations ».",
+     "sources": [
+      {
+       "media": "Le Parisien (AFP)",
+       "titre": "Primaire du PS : smic à 1 700 euros, retraite à 62 ans, faire cotiser l'IA… Olivier Faure développe ses propositions",
+       "url": "https://www.leparisien.fr/politique/primaire-du-ps-smic-a-1-700-euros-retraite-a-62-ans-faire-cotiser-lia-olivier-faure-developpe-ses-propositions-16-09-2026-LG23OMNFL5DAZFUOADKBWDSBMY.php",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "AFP (via La Gazette France)",
+       "titre": "Smic à 1.700 euros, régularisation des travailleurs sans papiers, retraites: Faure développe ses propositions",
+       "url": "https://www.lagazettefrance.fr/article/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Olivier Faure",
+       "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "En mai 2021, lors d'un rassemblement de policiers, il demande un « droit de regard » des policiers sur les décisions de justice, puis qualifie l'expression de « malheureuse ».",
+     "sources": [
+      {
+       "media": "20 Minutes",
+       "titre": "« Droit de regard des policiers » : Olivier Faure s'excuse et parle d'une « expression malheureuse »",
+       "url": "https://www.20minutes.fr/politique/3045955-20210520-droit-regard-policiers-olivier-faure-excuse-parle-expression-malheureuse",
+       "date": "2021-05-20"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Olivier Faure",
+       "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose une commission « vérité et réconciliation » sur la colonisation ; s'était opposé en 2015-2016 à l'extension de la déchéance de nationalité.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose une commission « vérité et réconciliation » sur la colonisation.",
+     "sources": [
+      {
+       "media": "Le Parisien (AFP)",
+       "titre": "Primaire du PS : smic à 1 700 euros, retraite à 62 ans, faire cotiser l'IA… Olivier Faure développe ses propositions",
+       "url": "https://www.leparisien.fr/politique/primaire-du-ps-smic-a-1-700-euros-retraite-a-62-ans-faire-cotiser-lia-olivier-faure-developpe-ses-propositions-16-09-2026-LG23OMNFL5DAZFUOADKBWDSBMY.php",
+       "date": "2026-09-16"
+      },
+      {
+       "media": "AFP (via La Gazette France)",
+       "titre": "Smic à 1.700 euros, régularisation des travailleurs sans papiers, retraites: Faure développe ses propositions",
+       "url": "https://www.lagazettefrance.fr/article/smic-a-1-700-euros-regularisation-des-travailleurs-sans-papiers-retraites-faure-developpe-ses-propositions",
+       "date": "2026-09-16"
+      }
+     ]
+    },
+    {
+     "texte": "S'est opposé en 2015-2016 au projet de révision constitutionnelle étendant la déchéance de nationalité.",
+     "sources": [
+      {
+       "media": "Europe 1 (Le Lab)",
+       "titre": "L'argumentaire en cinq points d'Olivier Faure, porte-parole du PS, contre la déchéance de nationalité",
+       "url": "https://lelab.europe1.fr/largumentaire-en-cinq-points-dolivier-faure-porte-parole-du-ps-contre-la-decheance-de-nationalite-2642667",
+       "date": "2015-12-30"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Olivier Faure",
+       "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "economie_fiscalite": {
+   "resume": "A porté en 2022 une proposition de référendum d'initiative partagée sur la taxation des « superprofits » ; propose depuis 2023 un « capital républicain » (dotation universelle) contre « l'héritocratie ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "A lancé en 2022 une proposition de référendum d'initiative partagée sur la taxation des bénéfices exceptionnels des grandes entreprises, rejetée par le Conseil constitutionnel.",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "Taxation des superprofits : le référendum d'Olivier Faure, un parcours du combattant",
+       "url": "https://www.leparisien.fr/politique/taxation-des-superprofits-le-referendum-dolivier-faure-un-parcours-du-combattant-02-09-2022-3ZU7PQFM7RERTIP2YV7AQS2R7I.php",
+       "date": "2022-09-02"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Olivier Faure",
+       "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose en 2023 un « capital républicain », dotation universelle destinée à mettre fin à « l'héritocratie ».",
+     "sources": [
+      {
+       "media": "Libération",
+       "titre": "Le «capital républicain» d'Olivier Faure, une voie stimulante contre «l'héritocratie»",
+       "url": "https://www.liberation.fr/politique/le-capital-republicain-dolivier-faure-une-voie-stimulante-contre-lheritocratie-20231115_WB2J6IIGVVELNOB7QM22JZLX3A/",
+       "date": "2023-11-15"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Olivier Faure",
+       "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "A demandé en 2023 un moratoire sur l'autoroute A69.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Demande en octobre 2023 un moratoire sur la construction de l'autoroute A69, qu'il qualifie d'« anachronique ».",
+     "sources": [
+      {
+       "media": "Mediapart",
+       "titre": "Olivier Faure : « Le terrain et la science se conjuguent pour demander de renoncer à l'A69 »",
+       "url": "https://www.mediapart.fr/journal/politique/201023/olivier-faure-le-terrain-et-la-science-se-conjuguent-pour-demander-de-renoncer-l-a69",
+       "date": "2023-10-20"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Olivier Faure",
+       "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "A accepté fin janvier 2026 que le gouvernement Lecornu recoure au 49.3 pour adopter le budget 2026, sans le censurer.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Le PS accepte fin janvier 2026 que le gouvernement utilise l'article 49.3 pour faire adopter le budget 2026 ; les motions de censure de LFI et du RN sont rejetées.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Olivier Faure",
+       "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "Budget 2026 : les motions de censure du RN et de LFI contre Sébastien Lecornu rejetées tour à tour par l'Assemblée nationale",
+       "url": "https://www.franceinfo.fr/economie/budget/budget-2026-les-motions-de-censure-du-rn-et-de-lfi-rejetees-par-l-assemblee-nationale_7760618.html",
+       "date": "2026-01-23"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Suspension de Philippe Brun (PS) avant la primaire",
+   "statut": "accusation",
+   "date": "2026-09-16",
+   "description": "Le député PS Philippe Brun, candidat déclaré à la primaire, est suspendu « à titre conservatoire » par la direction du PS à la suite d'accusations d'une militante portant sur des faits « susceptibles de relever d'une caractérisation pénale » ; il dénonce une « instrumentalisation » et affirme qu'aucune plainte pénale n'existe. Affaire concernant le parti dirigé par Olivier Faure : celui-ci n'est pas personnellement mis en cause.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : Philippe Brun, suspendu à titre conservatoire du PS, ne participera pas à la primaire à gauche",
+     "url": "https://www.lemonde.fr/politique/article/2026/09/16/presidentielle-2027-philippe-brun-suspendu-a-titre-conservatoire-du-ps-ne-participera-pas-a-la-primaire-a-gauche_6775146_823448.html",
+     "date": "2026-09-16"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2027 : le PS cherche à éviter que l'affaire Philippe Brun entache la primaire",
+     "url": "https://www.lemonde.fr/politique/article/2026/09/17/presidentielle-2027-le-ps-cherche-a-eviter-que-l-affaire-philippe-brun-entache-sa-primaire_6775900_823448.html",
+     "date": "2026-09-17"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Primaire présidentielle socialiste française de 2026",
+     "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Pas de compte de campagne présidentielle antérieur (Olivier Faure n'a jamais été candidat à la présidentielle).",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Olivier Faure",
+     "url": "https://fr.wikipedia.org/wiki/Olivier_Faure",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Primaire « Choisir 2027 » : vote réservé aux adhérents du PS, de Place publique et de la GRS, ou aux personnes cotisant 15 € (10 € tarif social) à une association de financement du « pôle social-démocrate ».",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Le Parti socialiste et Place Publique valident l'accord sur les modalités de la primaire à laquelle participera Raphaël Glucksmann",
+     "url": "https://www.franceinfo.fr/politique/ps/le-parti-socialiste-valide-l-accord-sur-les-modalites-de-la-primaire-a-laquelle-participera-raphael-glucksmann_8161388.html",
+     "date": "2026-08-26"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Primaire présidentielle socialiste française de 2026",
+     "url": "https://fr.wikipedia.org/wiki/Primaire_pr%C3%A9sidentielle_socialiste_fran%C3%A7aise_de_2026",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Situation du PS : après les défaites de 2017, le parti vend son siège historique de la rue de Solférino (environ 45,5 M€, groupe Apsys) pour renflouer ses finances.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Le PS va vendre son siège au groupe Apsys pour 45,55 millions d'euros",
+     "url": "https://www.lemonde.fr/politique/article/2017/12/19/le-groupe-apsys-acquereur-du-siege-du-ps-rue-de-solferino-pour-45-55-millions-d-euros_5232049_823448.html",
+     "date": "2017-12-19"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Le PS met en vente son siège rue de Solférino",
+     "url": "http://www.lefigaro.fr/flash-actu/2017/09/19/97001-20170919FILWWW00309-le-ps-vend-son-siege-rue-de-solferino.php",
+     "date": "2017-09-19"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Parti socialiste (France)",
+     "url": "https://fr.wikipedia.org/wiki/Parti_socialiste_(France)",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Déclaration d'intérêts HATVP (octobre 2024) : la fonction de premier secrétaire du PS est déclarée comme bénévole ; aucune activité de conseil ni participation financière déclarée.",
+   "sources": [
+    {
+     "media": "HATVP",
+     "titre": "Fiche Olivier Faure",
+     "url": "https://www.hatvp.fr/fiche-nominative/?declarant=faure-olivier",
+     "date": "2024-10-03"
+    }
+   ]
+  },
+  {
+   "texte": "Selon Mediapart (2023), 25 candidats socialistes dissidents aux législatives de 2022 se sont rattachés au Parti radical de gauche, privant le PS d'environ un million d'euros de financement public.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Des socialistes anti-Olivier Faure ont offert un million d'euros au Parti radical de gauche",
+     "url": "https://www.mediapart.fr/journal/france/110123/des-socialistes-anti-olivier-faure-ont-offert-un-million-d-euros-au-parti-radical-de-gauche",
+     "date": "2023-01-11"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Parti socialiste (France)",
+     "url": "https://fr.wikipedia.org/wiki/Parti_socialiste_(France)",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ]
+}

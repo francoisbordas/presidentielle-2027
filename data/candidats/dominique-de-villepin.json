@@ -1,0 +1,774 @@
+{
+ "id": "dominique-de-villepin",
+ "nom": "Dominique de Villepin",
+ "naissance": "1953-11-14",
+ "lieu_naissance": "Rabat (protectorat français du Maroc)",
+ "parti": "La France humaniste",
+ "parti_sigle": "LFH",
+ "famille": "centre_droit",
+ "position": 1.5,
+ "position_justif": {
+  "texte": "Ancien RPR/UMP (1977-2011), gaulliste chiraquien. France-Politique classe La France humaniste à droite, idéologie gaulliste ; en 2025-2026 il se dit « pour la justice sociale, ce qui me met à gauche » et « pour l'ordre républicain, ce qui me met à droite », affirme « n'avoir jamais été de droite » et obtient une meilleure popularité à gauche qu'à droite (Ifop, mars 2025). Position retenue : centre droit (1,5), entre Renaissance et Horizons, faute de classement Chapel Hill.",
+  "sources": [
+   {
+    "media": "France-Politique (Laurent de Boissieu)",
+    "titre": "La France Humaniste (LFH)",
+    "url": "https://www.france-politique.fr/wiki/La_France_Humaniste_(LFH)",
+    "date": "2025-11-24"
+   },
+   {
+    "media": "20 Minutes (reprise shango.media)",
+    "titre": "Présidentielle 2027 : « Pas de régularisation massive et globale », dit de Villepin sur l'immigration",
+    "url": "https://www.shango.media/20-minutes-presidentielle-2027-pas-de-regularisation-massive-et-globale-dit-de-villepin-sur-limmigration-11855813",
+    "date": "2026-09-18"
+   },
+   {
+    "media": "Sud Ouest (avec AFP)",
+    "titre": "Dominique de Villepin inaugure les locaux de son parti avec « toute son énergie tendue vers 2027 »",
+    "url": "https://www.sudouest.fr/ile-de-france/paris/dominique-de-villepin-inaugure-les-locaux-de-son-parti-avec-toute-son-energie-tendue-vers-2027-27133746.php",
+    "date": "2025-12-17"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "\"Une haie à la fois\" : Dominique de Villepin, une voie vers la présidentielle 2027 ?",
+    "url": "https://www.francetvinfo.fr/politique/nouveau-front-populaire/une-haie-a-la-fois-dominique-de-villepin-une-voie-vers-la-presidentielle-2027_7168188.html",
+    "date": "2025-04-13"
+   }
+  ]
+ },
+ "statut": "pressenti",
+ "photo": {
+  "fichier": "img/candidats/dominique-de-villepin.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Launch_Republique_Solidaire_2010-06-19_n05_(cropped).jpg",
+  "auteur": "Marie-Lan Nguyen",
+  "licence": "CC BY 2.5"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/lfh.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Logo-LFH-2026.jpg",
+  "licence": "CC BY 3.0"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Baccalauréat au lycée jésuite Le Caousou (Toulouse), lettres à l'université Paris-Nanterre, licence de droit (Assas), diplômé de Sciences Po Paris (1975, section Service public).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Élève de l'ENA, promotion Voltaire (1978-1980), classé 25e.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia (en)",
+      "titre": "Dominique de Villepin",
+      "url": "https://en.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Diplomate de 1980 à 1995 : direction des Affaires africaines et malgaches, Centre d'analyse et de prévision, ambassades à Washington (1984-1989) et New Delhi (1989-1992), puis directeur de cabinet d'Alain Juppé au Quai d'Orsay (1993).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia (en)",
+      "titre": "Dominique de Villepin",
+      "url": "https://en.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Avocat au barreau de Paris de janvier 2008 à juillet 2015 ; dirige la société de conseil Villepin International (stratégie, risques politiques, conférences), active notamment en Chine et dans le Golfe.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "L'Express",
+      "titre": "Les vies secrètes de Dominique de Villepin",
+      "url": "https://www.lexpress.fr/actualite/politique/les-vies-secretes-de-dominique-de-villepin_1683274.html",
+      "date": "2015-05-28"
+     }
+    ]
+   },
+   {
+    "texte": "Selon l'enquête de la cellule investigation de Radio France (décembre 2025) : une cinquantaine d'interventions en Chine (dont une conférence rémunérée 94 000 € en 2008), des fonctions de conseil auprès de fonds et agences de notation chinois, présidence depuis 2017 de l'International Alliance for Mountain Tourism ; il déclare que la Chine représente « 8 à 10 % » de son chiffre d'affaires.",
+    "sources": [
+     {
+      "media": "Radio France",
+      "titre": "Révélations - Les affaires chinoises de Dominique de Villepin",
+      "url": "https://www.radiofrance.com/presse/revelations-les-affaires-chinoises-de-dominique-de-villepin",
+      "date": "2025-12-04"
+     },
+     {
+      "media": "franceinfo (cellule investigation de Radio France)",
+      "titre": "ENQUÊTE. Chine, Arabie saoudite, Russie… Les secrets bien gardés de Dominique de Villepin sur ses activités à l'étranger",
+      "url": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-chine-arabie-saoudite-ou-russie-les-secrets-bien-gardes-de-dominique-de-villepin-sur-ses-activites-a-l-etranger_7656232.html",
+      "date": "2025-12-04"
+     }
+    ]
+   },
+   {
+    "texte": "Selon la même enquête, il a perçu environ 800 000 € par an de 2008 à 2010 d'un groupe de l'homme d'affaires saoudien Khaled Bugshan, a exercé une fonction auprès de l'Autorité des musées du Qatar et a participé à des forums en Russie (Valdaï, 2014) ; il nie toute activité d'affaires en Russie.",
+    "sources": [
+     {
+      "media": "franceinfo (cellule investigation de Radio France)",
+      "titre": "ENQUÊTE. Chine, Arabie saoudite, Russie… Les secrets bien gardés de Dominique de Villepin sur ses activités à l'étranger",
+      "url": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-chine-arabie-saoudite-ou-russie-les-secrets-bien-gardes-de-dominique-de-villepin-sur-ses-activites-a-l-etranger_7656232.html",
+      "date": "2025-12-04"
+     }
+    ]
+   },
+   {
+    "texte": "Membre du conseil d'administration du Fonds national d'intérêts arméniens (ANIF) de 2019 à janvier 2024.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia (en)",
+      "titre": "Dominique de Villepin",
+      "url": "https://en.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Secrétaire général de la présidence de la République auprès de Jacques Chirac (17 mai 1995 – 6 mai 2002).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia (en)",
+      "titre": "Dominique de Villepin",
+      "url": "https://en.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre des Affaires étrangères (7 mai 2002 – 31 mars 2004) ; discours à l'ONU contre la guerre en Irak le 14 février 2003.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia (en)",
+      "titre": "Dominique de Villepin",
+      "url": "https://en.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre de l'Intérieur (31 mars 2004 – 31 mai 2005), puis Premier ministre (31 mai 2005 – 17 mai 2007). N'a jamais exercé de mandat électif.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia (en)",
+      "titre": "Dominique de Villepin",
+      "url": "https://en.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Fondateur de République solidaire (2010) ; annonce le 16 mars 2012 ne pas avoir obtenu les 500 parrainages pour la présidentielle 2012.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Les 600 signatures de Villepin: info ou intox?",
+      "url": "https://www.20minutes.fr/elections/902255-20120321-600-signatures-villepin-info-intox",
+      "date": "2012-03-21"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Lance La France humaniste le 23 juin 2025, dont il est président d'honneur ; le parti est présidé par Benoît Jimenez, maire de Garges-lès-Gonesse.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Dominique de Villepin lance son parti, La France humaniste",
+      "url": "https://www.lemonde.fr/politique/article/2025/06/24/dominique-de-villepin-lance-son-parti-la-france-humaniste_6615539_823448.html",
+      "date": "2025-06-24"
+     },
+     {
+      "media": "Regards protestants",
+      "titre": "Dominique de Villepin annonce la création de son parti \"La France humaniste\"",
+      "url": "https://regardsprotestants.com/actualites/societe/dominique-de-villepin-annonce-la-creation-de-son-parti-la-france-humaniste/",
+      "date": "2025-06-23"
+     },
+     {
+      "media": "Euronews",
+      "titre": "Former French Prime Minister Dominique de Villepin launches humanist political party",
+      "url": "https://www.euronews.com/2025/06/25/former-french-prime-minister-dominique-de-villepin-launches-humanist-political-party",
+      "date": "2025-06-25"
+     }
+    ]
+   },
+   {
+    "texte": "Le 30 août 2026 sur BFMTV : « Je veux être candidat, je me bats pour être candidat » ; il revendique « plusieurs centaines » de parrainages, sans avoir atteint les 500, et n'a pas encore officialisé sa candidature.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2027 : \"Je me bats pour être candidat\", déclare Dominique de Villepin, qui revendique \"plusieurs centaines\" de parrainages",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html",
+      "date": "2026-08-30"
+     },
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "date": "2026-05-15"
+     }
+    ]
+   },
+   {
+    "texte": "En tête du classement Ifop des personnalités préférées des Français en février-mars 2025 (54 % de bonnes opinions en mars), avec un meilleur score à gauche qu'à droite.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "\"Une haie à la fois\" : Dominique de Villepin, une voie vers la présidentielle 2027 ?",
+      "url": "https://www.francetvinfo.fr/politique/nouveau-front-populaire/une-haie-a-la-fois-dominique-de-villepin-une-voie-vers-la-presidentielle-2027_7168188.html",
+      "date": "2025-04-13"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Le 19 juin 2024, appelle à voter pour le Nouveau Front populaire en cas de duel face au RN aux législatives.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Dominique de Villepin",
+      "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "economie_fiscalite": {
+   "resume": "Propose un « big bang » fiscal : suppression de toutes les niches fiscales et sociales, neuf grands impôts dont un impôt unique sur le patrimoine, imposition unique et renforcée des successions, taux unique de CSG absorbant plus de 200 Md€ de cotisations ; opposé à la taxe Zucman.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Dans le texte « Big bang - la règle républicaine » (août 2026), il propose une « grande loi d'extinction des niches fiscales et sociales », neuf impôts dont un impôt « unique » sur le patrimoine « incluant l'ensemble des sources de la fortune » et « une imposition unique et renforcée des successions » avec « défiscalisation intégrale des transmissions de son vivant ».",
+     "sources": [
+      {
+       "media": "MoneyVox (avec AFP)",
+       "titre": "Présidentielle 2027 : pour sortir d'un système « féodal », Villepin propose un « big bang » fiscal",
+       "url": "https://www.moneyvox.fr/impot/actualites/110169/presidentielle-2027-pour-sortir-un-systeme-feodal-villepin-propose-un-big-bang-fiscal",
+       "date": "2026-08-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose « un taux unique de CSG pour tous », une assiette élargie aux dépenses d'intelligence artificielle et le basculement vers la CSG de « plus de deux cents milliards d'euros » de cotisations salariales et patronales.",
+     "sources": [
+      {
+       "media": "MoneyVox (avec AFP)",
+       "titre": "Présidentielle 2027 : pour sortir d'un système « féodal », Villepin propose un « big bang » fiscal",
+       "url": "https://www.moneyvox.fr/impot/actualites/110169/presidentielle-2027-pour-sortir-un-systeme-feodal-villepin-propose-un-big-bang-fiscal",
+       "date": "2026-08-28"
+      }
+     ]
+    },
+    {
+     "texte": "Programme économique présenté en juin 2026 : fonds souverain de 100 Md€, fiscalité des plus fortunés, taxe carbone.",
+     "sources": [
+      {
+       "media": "Boursorama / Ecorama (analyse de l'Opinion)",
+       "titre": "Dette, fonds souverain, retraites, ISF : le programme économique de Dominique de Villepin est-il de droite ?",
+       "url": "https://www.boursorama.com/videos/actualites/dette-fonds-souverain-retraites-isf-le-programme-economique-de-dominique-de-villepin-est-il-de-droite-a9c3661c1cc30bef53d95e9e229d2c11",
+       "date": "2026-06-23"
+      }
+     ]
+    },
+    {
+     "texte": "Le 2 juillet 2026 aux Rencontres d'Aix, plaide pour « un grand fonds de souveraineté et de solidarité » mobilisant l'épargne privée (6 500 Md€ en France) et pour que l'Europe devienne « un peu protectionniste ».",
+     "sources": [
+      {
+       "media": "Journal du Net",
+       "titre": "Dominique de Villepin soutient la création d'un \"grand fonds souverain\" pour capter l'épargne des Français",
+       "url": "https://www.journaldunet.com/business/action-publique/1552267-dominique-de-villepin-soutient-la-creation-d-un-grand-fonds-souverain-pour-capter-l-epargne-des-francais/",
+       "date": "2026-07-03"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Promet de ramener le déficit public à 3 % du PIB en fin de quinquennat par une réduction des dépenses, avec une hypothèse de croissance de 0,8 % par an.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Promet de ramener le déficit à 3 % du PIB à la fin du quinquennat « au moyen d'une réduction drastique des dépenses publiques » et d'une croissance annuelle évaluée à 0,8 %.",
+     "sources": [
+      {
+       "media": "MoneyVox (avec AFP)",
+       "titre": "Présidentielle 2027 : pour sortir d'un système « féodal », Villepin propose un « big bang » fiscal",
+       "url": "https://www.moneyvox.fr/impot/actualites/110169/presidentielle-2027-pour-sortir-un-systeme-feodal-villepin-propose-un-big-bang-fiscal",
+       "date": "2026-08-28"
+      }
+     ]
+    },
+    {
+     "texte": "Juge nécessaire d'« assainir » les finances publiques pour « retrouver une crédibilité ».",
+     "sources": [
+      {
+       "media": "Journal du Net",
+       "titre": "Dominique de Villepin soutient la création d'un \"grand fonds souverain\" pour capter l'épargne des Français",
+       "url": "https://www.journaldunet.com/business/action-publique/1552267-dominique-de-villepin-soutient-la-creation-d-un-grand-fonds-souverain-pour-capter-l-epargne-des-francais/",
+       "date": "2026-07-03"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose d'abroger la réforme de 2023 (64 ans) au profit d'un système à points avec critères de pénibilité et une part de capitalisation « à la marge ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Le 24 juin 2025 sur France Inter, se dit favorable à l'abrogation de la réforme Borne et à « reprendre le projet de réforme à points », avec des critères de pénibilité et de la capitalisation « à la marge du système de répartition ».",
+     "sources": [
+      {
+       "media": "Sud Ouest (avec AFP)",
+       "titre": "Retraites : Dominique de Villepin veut abroger la réforme Borne au profit de la retraite à points",
+       "url": "https://www.sudouest.fr/economie/reforme-des-retraites/retraites-dominique-de-villepin-veut-abroger-la-reforme-borne-au-profit-de-la-retraite-a-points-24976094.php",
+       "date": "2025-06-24"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "Dominique de Villepin propose d'abroger la retraite à 64 ans «dans la perspective de 2027»",
+       "url": "https://www.lefigaro.fr/politique/dominique-de-villepin-propose-d-abroger-la-retraite-a-64-ans-dans-la-perspective-de-2027-20250624",
+       "date": "2025-06-24"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Se dit pour une immigration « maîtrisée », contre toute « régularisation massive et globale » ; propose d'enregistrer les sans-papiers par documents biométriques et de renforcer la diplomatie pour appliquer les OQTF.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "En septembre 2026, rejette une « régularisation massive et globale », propose d'enregistrer les étrangers en situation irrégulière à l'aide de documents biométriques et un « travail diplomatique » avec les pays d'origine pour exécuter les OQTF ; estime qu'« il y a trop d'étrangers mal intégrés ».",
+     "sources": [
+      {
+       "media": "20 Minutes (reprise shango.media)",
+       "titre": "Présidentielle 2027 : « Pas de régularisation massive et globale », dit de Villepin sur l'immigration",
+       "url": "https://www.shango.media/20-minutes-presidentielle-2027-pas-de-regularisation-massive-et-globale-dit-de-villepin-sur-limmigration-11855813",
+       "date": "2026-09-18"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Qualifie la situation à Gaza de « génocide » et demande la suspension de l'accord d'association UE-Israël, le soutien aux poursuites de la CPI et la reconnaissance d'un État palestinien.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Le 1er août 2025, dénonce un « crime de génocide » à Gaza et demande la suspension immédiate de l'accord d'association UE-Israël, le soutien aux poursuites devant la CPI, l'acheminement de l'aide humanitaire y compris par une intervention armée et l'ouverture de Gaza aux journalistes.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Dominique de Villepin dénonce un \"crime de génocide\" à Gaza et appelle à la mobilisation internationale",
+       "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/dominique-de-villepin-denonce-un-crime-de-genocide-a-gaza-et-appelle-a-la-mobilisation-internationale_7411846.html",
+       "date": "2025-08-01"
+      }
+     ]
+    },
+    {
+     "texte": "En mai 2025, appelle à « isoler » Israël économiquement et stratégiquement pour empêcher « une épuration ethnique » à Gaza.",
+     "sources": [
+      {
+       "media": "L'Orient-Le Jour",
+       "titre": "L'ex-Premier ministre français Villepin appelle à « isoler » Israël pour empêcher « une épuration ethnique »",
+       "url": "https://www.lorientlejour.com/article/1460980/gaza-lex-premier-ministre-francais-villepin-appelle-a-isoler-israel-pour-empecher-une-epuration-ethnique.html",
+       "date": "2025-05-20"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Dominique de Villepin",
+       "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Salue en septembre 2025 la reconnaissance de l'État de Palestine par la France comme « un moment historique » et appelle à utiliser l'accord d'association UE-Israël comme levier.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Reconnaissance de l'État de Palestine : \"Nous avons une responsabilité historique, une responsabilité devant les peuples et devant l'histoire\", insiste Dominique de Villepin",
+       "url": "https://www.franceinfo.fr/monde/palestine/reconnaissance-de-l-etat-de-palestine-nous-avons-une-responsabilite-historique-une-responsabilite-devant-les-peuples-et-devant-l-histoire-insiste-dominique-de-villepin_7507681.html",
+       "date": "2025-09-22"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Propose un « conseil de sécurité » européen pour affirmer la souveraineté européenne et une Europe davantage protectionniste face aux « empires » chinois, russe et américain.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Le 2 juillet 2026, plaide pour « un conseil de sécurité en Europe » et estime qu'il faut « que nous acceptions de devenir enfin un peu protectionnistes ».",
+     "sources": [
+      {
+       "media": "Journal du Net",
+       "titre": "Dominique de Villepin soutient la création d'un \"grand fonds souverain\" pour capter l'épargne des Français",
+       "url": "https://www.journaldunet.com/business/action-publique/1552267-dominique-de-villepin-soutient-la-creation-d-un-grand-fonds-souverain-pour-capter-l-epargne-des-francais/",
+       "date": "2026-07-03"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose d'inscrire la neutralité carbone dans la Constitution et une nouvelle taxe carbone.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "En avril 2025 (texte publié par Le Grand Continent), propose d'inscrire la « neutralité carbone » dans la Constitution et de « planifier » plutôt qu'« interdire ».",
+     "sources": [
+      {
+       "media": "L'Opinion",
+       "titre": "Sans se positionner pour 2027, Dominique de Villepin distribue les gages à gauche et les coups à droite",
+       "url": "https://www.lopinion.fr/politique/sans-se-positionner-pour-2027-dominique-de-villepin-distribue-les-gages-a-gauche-et-les-coups-a-droite",
+       "date": "2025-04-07"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Dominique de Villepin",
+       "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Son programme économique de juin 2026 comprend une taxe carbone.",
+     "sources": [
+      {
+       "media": "Boursorama / Ecorama (analyse de l'Opinion)",
+       "titre": "Dette, fonds souverain, retraites, ISF : le programme économique de Dominique de Villepin est-il de droite ?",
+       "url": "https://www.boursorama.com/videos/actualites/dette-fonds-souverain-retraites-isf-le-programme-economique-de-dominique-de-villepin-est-il-de-droite-a9c3661c1cc30bef53d95e9e229d2c11",
+       "date": "2026-06-23"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Affaire Clearstream 2",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2011-09-14",
+   "description": "Mis en examen le 27 juillet 2007 pour complicité de dénonciation calomnieuse, recel de vol, recel d'abus de confiance et complicité d'usage de faux, dans l'affaire des faux listings bancaires Clearstream visant notamment Nicolas Sarkozy. Relaxé de tous les chefs par le tribunal correctionnel de Paris le 28 janvier 2010 (le parquet avait requis 18 mois avec sursis et 45 000 € d'amende). Le parquet a fait appel ; la cour d'appel de Paris a confirmé la relaxe le 14 septembre 2011 (15 mois avec sursis requis). Le parquet ne s'est pas pourvu en cassation : relaxe définitive. Les pourvois des coprévenus Jean-Louis Gergorin et Imad Lahoud ont été rejetés en février 2013.",
+   "sources": [
+    {
+     "media": "RTS",
+     "titre": "Affaire Clearstream: Dominique de Villepin relaxé",
+     "url": "https://www.rts.ch/info/monde/1066925-affaire-clearstream-dominique-de-villepin-relaxe.html",
+     "date": "2010-01-28"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Dominique de Villepin relaxé dans l'affaire Clearstream",
+     "url": "https://www.lefigaro.fr/actualite-france/2010/01/28/01016-20100128ARTFIG00559-clearstream-gergorin-lahoud-et-bourges-condamnes-.php",
+     "date": "2010-01-28"
+    },
+    {
+     "media": "Europe 1",
+     "titre": "Clearstream : Villepin relaxé en appel",
+     "url": "https://www.europe1.fr/societe/Clearstream-Villepin-relaxe-en-appel-333910",
+     "date": "2011-09-14"
+    },
+    {
+     "media": "France 24",
+     "titre": "La relaxe de Dominique de Villepin confirmée dans l'affaire Clearstream",
+     "url": "https://www.france24.com/fr/20110914-cour-appel-relaxe-dominique-villepin-affaire-clearstream-justice-france-politique",
+     "date": "2011-09-14"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Clearstream : la cour d'appel confirme la relaxe de Villepin",
+     "url": "https://www.lefigaro.fr/actualite-france/2011/09/14/01016-20110914ARTFIG00451-clearstream-la-cour-d-appel-confirme-la-relaxe-de-villepin.php",
+     "date": "2011-09-14"
+    },
+    {
+     "media": "Al Jazeera",
+     "titre": "Ex-French PM's Clearstream acquittal upheld",
+     "url": "https://www.aljazeera.com/news/2011/9/14/ex-french-pms-clearstream-acquittal-upheld",
+     "date": "2011-09-14"
+    },
+    {
+     "media": "La Dépêche du Midi",
+     "titre": "Clearstream: les condamnations de Lahoud et Gergorin définitives",
+     "url": "https://www.ladepeche.fr/article/2013/02/27/1571094-clearstream-rejet-des-pourvois-de-lahoud-et-gergorin.html",
+     "date": "2013-02-27"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Dominique de Villepin",
+     "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Accusations de Robert Bourgi sur des remises de fonds africains (2011)",
+   "statut": "classe_sans_suite",
+   "date": "2011-09",
+   "description": "En 2011, Robert Bourgi affirme avoir remis à Jacques Chirac et Dominique de Villepin des valises de billets provenant de chefs d'État africains entre 1997 et 2005. Dominique de Villepin conteste et annonce des poursuites en diffamation. L'enquête a été classée sans suite.",
+   "sources": [
+    {
+     "media": "franceinfo (avec AFP)",
+     "titre": "Dominique de Villepin a donné les statuettes qu'il avait reçues en cadeau au Quai d'Orsay après les révélations de \"Complément d'enquête\"",
+     "url": "https://www.franceinfo.fr/politique/dominique-de-villepin-a-donne-les-statuettes-qu-il-avait-recues-en-cadeau-au-quai-d-orsay-apres-les-revelations-de-complement-d-enquete_7984574.html",
+     "date": "2026-05-05"
+    },
+    {
+     "media": "France 24",
+     "titre": "La relaxe de Dominique de Villepin confirmée dans l'affaire Clearstream",
+     "url": "https://www.france24.com/fr/20110914-cour-appel-relaxe-dominique-villepin-affaire-clearstream-justice-france-politique",
+     "date": "2011-09-14"
+    }
+   ]
+  },
+  {
+   "intitule": "Bombardement de Bouaké (2004) – demande de renvoi devant la CJR",
+   "statut": "classe_sans_suite",
+   "date": "2019",
+   "description": "En 2016, une juge d'instruction demande le renvoi devant la Cour de justice de la République de Dominique de Villepin, Michel Barnier et Michèle Alliot-Marie au sujet de l'exfiltration des mercenaires impliqués dans le bombardement de Bouaké (9 soldats français tués). La commission des requêtes de la CJR a décidé de ne pas engager de poursuites (avis du 22 mars 2019, rendu public en mai 2019).",
+   "sources": [
+    {
+     "media": "Europe 1",
+     "titre": "INFO EUROPE 1 - Bombardement de Bouaké : Alliot-Marie, Villepin et Barnier échappent aux poursuites",
+     "url": "https://www.europe1.fr/politique/info-europe-1-bombardement-de-bouake-alliot-marie-villepin-et-barnier-echappent-aux-poursuites-3900237",
+     "date": "2019-05-23"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Dominique de Villepin",
+     "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Affaire des statuettes de Napoléon (Complément d'enquête)",
+   "statut": "accusation",
+   "date": "2026-04-30",
+   "description": "Dans « Complément d'enquête » (France 2, 30 avril 2026), Robert Bourgi affirme avoir servi d'intermédiaire pour offrir à Dominique de Villepin, alors ministre des Affaires étrangères, deux statuettes de Napoléon payées par Blaise Compaoré et l'homme d'affaires Gian Angelo Perrucci, d'une valeur de 125 000 € selon lui (valeur confirmée par la galerie selon franceinfo ; « quatre à cinq fois inférieure » selon l'entourage). Dominique de Villepin a remis les statuettes au Quai d'Orsay le 4 mai 2026, a reconnu « une erreur », nié toute contrepartie et dénoncé une « volonté de nuire » d'un proche de Nicolas Sarkozy. Aucune procédure judiciaire n'a été identifiée à la date du jour.",
+   "sources": [
+    {
+     "media": "franceinfo (avec AFP)",
+     "titre": "Dominique de Villepin a donné les statuettes qu'il avait reçues en cadeau au Quai d'Orsay après les révélations de \"Complément d'enquête\"",
+     "url": "https://www.franceinfo.fr/politique/dominique-de-villepin-a-donne-les-statuettes-qu-il-avait-recues-en-cadeau-au-quai-d-orsay-apres-les-revelations-de-complement-d-enquete_7984574.html",
+     "date": "2026-05-05"
+    },
+    {
+     "media": "Le Figaro (avec AFP)",
+     "titre": "Affaire des statuettes : Dominique de Villepin admet «une erreur» et dénonce une «volonté de nuire» d'un proche de Nicolas Sarkozy",
+     "url": "https://www.lefigaro.fr/politique/affaire-des-statuettes-dominique-de-villepin-admet-une-erreur-et-denonce-une-volonte-de-nuire-d-un-proche-de-nicolas-sarkozy-20260510",
+     "date": "2026-05-10"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Dominique de Villepin",
+     "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Contrat Bugshan et enquête sur le financement libyen de la campagne Sarkozy 2007",
+   "statut": "enquete",
+   "date": "2016",
+   "description": "Selon la cellule investigation de Radio France, Dominique de Villepin a été entendu en 2016 par la police anticorruption, dans le cadre de l'enquête sur les soupçons de financement libyen de la campagne de Nicolas Sarkozy, au sujet des 800 000 € annuels versés à Villepin International par le groupe saoudien Bugshan entre 2008 et 2010 ; les enquêteurs avaient découvert que l'argent provenait d'une société panaméenne liée à Alexandre Djouhri (condamné en septembre 2025 en première instance dans ce dossier, appel en cours). Aucune mise en examen de Dominique de Villepin n'a été identifiée dans cette affaire.",
+   "sources": [
+    {
+     "media": "franceinfo (cellule investigation de Radio France)",
+     "titre": "ENQUÊTE. Chine, Arabie saoudite, Russie… Les secrets bien gardés de Dominique de Villepin sur ses activités à l'étranger",
+     "url": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-chine-arabie-saoudite-ou-russie-les-secrets-bien-gardes-de-dominique-de-villepin-sur-ses-activites-a-l-etranger_7656232.html",
+     "date": "2025-12-04"
+    }
+   ]
+  },
+  {
+   "intitule": "Activités de conseil à l'étranger (Chine, Golfe, Russie)",
+   "statut": "accusation",
+   "date": "2025-12-04",
+   "description": "Enquêtes de presse (L'Express 2015, cellule investigation de Radio France décembre 2025) sur les activités de Villepin International et ses liens avec la Chine, l'Arabie saoudite, le Qatar et la Russie. Dominique de Villepin affirme avoir tenu ses distances avec « tout réseau d'influence », indique que la Chine représente 8 à 10 % de son chiffre d'affaires, a publié les comptes de sa société en août 2025 et dit ne travailler aujourd'hui que pour des entreprises françaises. Aucune procédure judiciaire connue.",
+   "sources": [
+    {
+     "media": "franceinfo (cellule investigation de Radio France)",
+     "titre": "ENQUÊTE. Chine, Arabie saoudite, Russie… Les secrets bien gardés de Dominique de Villepin sur ses activités à l'étranger",
+     "url": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-chine-arabie-saoudite-ou-russie-les-secrets-bien-gardes-de-dominique-de-villepin-sur-ses-activites-a-l-etranger_7656232.html",
+     "date": "2025-12-04"
+    },
+    {
+     "media": "Radio France",
+     "titre": "Révélations - Les affaires chinoises de Dominique de Villepin",
+     "url": "https://www.radiofrance.com/presse/revelations-les-affaires-chinoises-de-dominique-de-villepin",
+     "date": "2025-12-04"
+    },
+    {
+     "media": "L'Express",
+     "titre": "Les vies secrètes de Dominique de Villepin",
+     "url": "https://www.lexpress.fr/actualite/politique/les-vies-secretes-de-dominique-de-villepin_1683274.html",
+     "date": "2015-05-28"
+    },
+    {
+     "media": "Sud Ouest (avec AFP)",
+     "titre": "Dominique de Villepin inaugure les locaux de son parti avec « toute son énergie tendue vers 2027 »",
+     "url": "https://www.sudouest.fr/ile-de-france/paris/dominique-de-villepin-inaugure-les-locaux-de-son-parti-avec-toute-son-energie-tendue-vers-2027-27133746.php",
+     "date": "2025-12-17"
+    }
+   ]
+  },
+  {
+   "intitule": "Propos attribués sur « la domination juive » (BFMTV, 2023)",
+   "statut": "accusation",
+   "date": "2023-11-26",
+   "description": "Après une interview à « Quotidien » (23 novembre 2023), BFMTV lui attribue des propos sur « la domination de la finance juive » et titre « “Domination” juive : de Villepin fait polémique ». La chaîne présente des excuses pour une « formulation inexacte » ; le CDJM conclut en mars 2024 que des propos non tenus lui ont été attribués.",
+   "sources": [
+    {
+     "media": "CDJM",
+     "titre": "Avis sur la saisine n° 23-136",
+     "url": "https://cdjm.org/avis-23-136/",
+     "date": "2024-03-12"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Dominique de Villepin",
+     "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Le 30 août 2026, déclare que son équipe « multiplie les rendez-vous de collecte pour financer la campagne » et dispose d'une centaine de représentants chargés de solliciter les maires pour les parrainages ; pas de compte de campagne 2027 publié à la date du jour.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Présidentielle 2027 : \"Je me bats pour être candidat\", déclare Dominique de Villepin, qui revendique \"plusieurs centaines\" de parrainages",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html",
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  {
+   "texte": "La France humaniste, à adhésion gratuite, revendique près de 50 000 adhérents en décembre 2025 ; siège au 15 rue Le Sueur (Paris 16e), locaux inaugurés le 17 décembre 2025.",
+   "sources": [
+    {
+     "media": "Sud Ouest (avec AFP)",
+     "titre": "Dominique de Villepin inaugure les locaux de son parti avec « toute son énergie tendue vers 2027 »",
+     "url": "https://www.sudouest.fr/ile-de-france/paris/dominique-de-villepin-inaugure-les-locaux-de-son-parti-avec-toute-son-energie-tendue-vers-2027-27133746.php",
+     "date": "2025-12-17"
+    },
+    {
+     "media": "Regards protestants",
+     "titre": "Dominique de Villepin annonce la création de son parti \"La France humaniste\"",
+     "url": "https://regardsprotestants.com/actualites/societe/dominique-de-villepin-annonce-la-creation-de-son-parti-la-france-humaniste/",
+     "date": "2025-06-23"
+    }
+   ]
+  },
+  {
+   "texte": "Aucun compte de campagne présidentielle antérieur : faute de 500 parrainages en 2012, il n'a pas été candidat et n'a donc pas de décision CNCCFP.",
+   "sources": [
+    {
+     "media": "20 Minutes",
+     "titre": "Les 600 signatures de Villepin: info ou intox?",
+     "url": "https://www.20minutes.fr/elections/902255-20120321-600-signatures-villepin-info-intox",
+     "date": "2012-03-21"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Dominique de Villepin",
+     "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "En août 2025, publie les comptes de sa société Villepin International, qui ne les déposait plus depuis 2015 selon Wikipédia.",
+   "sources": [
+    {
+     "media": "franceinfo (cellule investigation de Radio France)",
+     "titre": "ENQUÊTE. Chine, Arabie saoudite, Russie… Les secrets bien gardés de Dominique de Villepin sur ses activités à l'étranger",
+     "url": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-chine-arabie-saoudite-ou-russie-les-secrets-bien-gardes-de-dominique-de-villepin-sur-ses-activites-a-l-etranger_7656232.html",
+     "date": "2025-12-04"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Dominique de Villepin",
+     "url": "https://fr.wikipedia.org/wiki/Dominique_de_Villepin",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ]
+}

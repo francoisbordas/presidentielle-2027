@@ -1,0 +1,790 @@
+{
+ "id": "bernard-cazeneuve",
+ "nom": "Bernard Cazeneuve",
+ "naissance": "1963-06-02",
+ "lieu_naissance": "Senlis (Oise)",
+ "parti": "La Convention",
+ "parti_sigle": "LC",
+ "famille": "centre_gauche",
+ "position": -2,
+ "position_justif": {
+  "texte": "La Convention est classée au centre gauche (social-démocratie, social-libéralisme, républicanisme selon Wikipédia) ; son fondateur a quitté le PS en 2022 contre l'alliance avec LFI, renvoie LFI et le RN dos à dos (« deux blocs dégagistes ») et défend le nucléaire, l'OTAN et la réduction de la dette. Placé entre Place publique (−3) et le MoDem (−0,5).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "La Convention",
+    "url": "https://fr.wikipedia.org/wiki/La_Convention",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "LCP",
+    "titre": "Présidentielle 2027: \"L'objectif\" de Bernard Cazeneuve est de \"devenir président de la République\"",
+    "url": "https://lcp.fr/actualites/presidentielle-2027-l-objectif-de-bernard-cazeneuve-est-de-devenir-president-de-la",
+    "date": "2026-07-30"
+   },
+   {
+    "media": "Europe 1",
+    "titre": "Présidentielle 2027 : Bernard Cazeneuve annonce sa candidature, le barrage à Jean-Luc Mélenchon se précise",
+    "url": "https://www.europe1.fr/politique/presidentielle-2027-bernard-cazeneuve-annonce-sa-candidature-le-barrage-a-jean-luc-melenchon-se-precise-929339",
+    "date": "2026-04-28"
+   },
+   {
+    "media": "Challenges",
+    "titre": "Présidentielle 2027 : pourquoi Bernard Cazeneuve croit en ses chances",
+    "url": "https://www.challenges.fr/politique/presidentielle-2027-pourquoi-bernard-cazeneuve-croit-en-ses-chances_858742",
+    "date": "2023-06-19"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/bernard-cazeneuve.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bernard_Cazeneuve,_(42399145362)_(cropped).jpg",
+  "auteur": "Jérémy Barande",
+  "licence": "CC BY-SA 2.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/lc.png",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Parti_la_Convention.png",
+  "licence": "marque déposée"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Diplômé de l'Institut d'études politiques de Bordeaux (1985) ; titulaire d'une maîtrise de droit public de l'université de Caen.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Legal500",
+      "titre": "Page Legal500 personnelle de Bernard Cazeneuve",
+      "url": "https://www.legal500.fr/firms/13777-august-debouzy/c-france/lawyers/501660-bernard-cazeneuve",
+      "date": ""
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Juriste à la Banque populaire, puis membre de cabinets ministériels (1991-1993) et secrétaire général du Conseil supérieur de la navigation de plaisance.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Avocat au barreau de Cherbourg à partir de 2003, puis au cabinet d'affaires August Debouzy (milieu des années 2000, puis de nouveau dès juillet 2017 après Matignon).",
+    "sources": [
+     {
+      "media": "Tendance Ouest",
+      "titre": "Après Matignon, l'ancien maire de Cherbourg Bernard Cazeneuve (re)devient avocat",
+      "url": "http://www.tendanceouest.com/actualite-234129-apres-matignon-l-ancien-maire-de-cherbourg-bernard-cazeneuve-re-devient-avocat.html",
+      "date": "2017-07-03"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Les décideurs du cabinet August Debouzy",
+      "url": "https://www.lefigaro.fr/decideurs/nomination/2018/04/09/33002-20180409ARTFIG00140--les-decideurs-du-cabinet-august-debouzy.php",
+      "date": "2018-04-09"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Président du Club des juristes (2018-2023) et président du conseil d'administration de Sciences Po Bordeaux à partir de 2019.",
+    "sources": [
+     {
+      "media": "Acteurs publics",
+      "titre": "Nomination : Bernard Cazeneuve prend la présidence d'un groupe de réflexion",
+      "url": "https://www.acteurspublics.fr/nomination/bernard-cazeneuve-prend-la-presidence-dun-think-tank",
+      "date": "2018-11"
+     },
+     {
+      "media": "Sud Ouest",
+      "titre": "Enseignement : Bernard Cazeneuve élu président… de Sciences Po Bordeaux",
+      "url": "https://www.sudouest.fr/2019/10/04/enseignement-bernard-cazeneuve-elu-president-de-sciences-po-bordeaux-6653707-2780.php",
+      "date": "2019-10-04"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Maire d'Octeville (1995-2000) puis de Cherbourg-Octeville (2001-2012) ; président de la communauté urbaine de Cherbourg (2008-2012).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Député de la Manche (1997-2002, 2007-2012, brièvement en 2012 et 2017).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Résultats des élections législatives 2007 - Manche, 5e circonscription",
+      "url": "https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__legislatives_2007/(path)/legislatives_2007/050/circons05.html",
+      "date": "2007"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre délégué aux Affaires européennes (2012-2013), ministre délégué au Budget (2013-2014) après la démission de Jérôme Cahuzac, ministre de l'Intérieur (2014-2016).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Bernard Cazeneuve nommé Premier ministre",
+      "url": "https://www.lemonde.fr/politique/article/2016/12/06/bernard-cazeneuve-nomme-premier-ministre_5044006_823448.html",
+      "date": "2016-12-06"
+     }
+    ]
+   },
+   {
+    "texte": "Premier ministre du 6 décembre 2016 au 10 mai 2017, nommé par François Hollande.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Bernard Cazeneuve nommé Premier ministre",
+      "url": "https://www.lemonde.fr/politique/article/2016/12/06/bernard-cazeneuve-nomme-premier-ministre_5044006_823448.html",
+      "date": "2016-12-06"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Membre du PS de 1987 à 2022 ; il quitte le parti en mai 2022 après l'accord NUPES avec La France insoumise.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Bernard Cazeneuve quitte le PS après l'accord passé avec LFI",
+      "url": "https://www.lemonde.fr/elections-legislatives-2022/article/2022/05/04/bernard-cazeneuve-annonce-qu-il-quitte-le-parti-socialiste-a-la-suite-de-l-accord-passe-avec-la-france-insoumise_6124779_6104324.html",
+      "date": "2022-05-04"
+     },
+     {
+      "media": "France 3 Normandie",
+      "titre": "Bernard Cazeneuve quitte le PS et ce n'est pas rien, voici pourquoi",
+      "url": "https://france3-regions.francetvinfo.fr/normandie/manche/cherbourg-cotentin/bernard-cazeneuve-quitte-le-ps-et-ce-n-est-pas-rien-voici-pourquoi-2536196.html",
+      "date": "2022-05-04"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Fonde en février 2023 le mouvement La Convention, qui fédère notamment le PRG et des élus ex-PS opposés à la NUPES.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Bernard Cazeneuve lance un « mouvement » pour fédérer la gauche hostile à la Nupes",
+      "url": "https://www.lemonde.fr/politique/article/2023/02/01/bernard-cazeneuve-lance-un-mouvement-pour-federer-la-gauche-hostile-a-la-nupes_6160168_823448.html",
+      "date": "2023-02-01"
+     },
+     {
+      "media": "Le Point",
+      "titre": "Bernard Cazeneuve lance son mouvement, La Convention",
+      "url": "https://www.lepoint.fr/politique/bernard-cazeneuve-lance-son-mouvement-la-convention-10-03-2023-2511553_20.php",
+      "date": "2023-03-10"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "La Convention",
+      "url": "https://fr.wikipedia.org/wiki/La_Convention",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "En septembre 2020, il renonce publiquement à se présenter à la présidentielle de 2022.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Présidentielle : Bernard Cazeneuve ferme la porte à toute éventuelle candidature",
+      "url": "https://www.lemonde.fr/politique/article/2020/09/21/presidentielle-bernard-cazeneuve-ferme-la-porte-a-toute-eventuelle-candidature_6052977_823448.html",
+      "date": "2020-09-21"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Cité pour Matignon en août-septembre 2024, reçu à l'Élysée le 1er septembre 2024 ; la direction du PS refuse de soutenir sa nomination.",
+    "sources": [
+     {
+      "media": "Libération",
+      "titre": "Matignon : Bernard Cazeneuve, un favori officieux",
+      "url": "https://www.liberation.fr/politique/matignon-bernard-cazeneuve-un-favori-officieux-20240830_PM2GSX3HNVAOVPSMROLOZZRZYA/",
+      "date": "2024-08-30"
+     },
+     {
+      "media": "Les Échos",
+      "titre": "Nouveau Premier ministre : le PS refuse de parrainer Bernard Cazeneuve",
+      "url": "https://www.lesechos.fr/politique-societe/politique/nouveau-premier-ministre-le-ps-refuse-de-parrainer-bernard-cazeneuve-2116835",
+      "date": "2024-09-04"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Se dit « prêt à être candidat » en avril 2026 (Le Figaro), puis présente sa candidature en juillet 2026 dans une lettre aux Français de 86 pages, sans passer par la primaire socialiste.",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "Bernard Cazeneuve au Figaro : « Je suis prêt à être candidat en 2027 »",
+      "url": "https://www.lefigaro.fr/politique/bernard-cazeneuve-au-figaro-je-suis-pret-a-etre-candidat-en-2027-20260428",
+      "date": "2026-04-28"
+     },
+     {
+      "media": "Europe 1",
+      "titre": "Présidentielle 2027 : Bernard Cazeneuve annonce sa candidature, le barrage à Jean-Luc Mélenchon se précise",
+      "url": "https://www.europe1.fr/politique/presidentielle-2027-bernard-cazeneuve-annonce-sa-candidature-le-barrage-a-jean-luc-melenchon-se-precise-929339",
+      "date": "2026-04-28"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "« C'est par un contrat qui me lie aux Français que je présente ma candidature » : Bernard Cazeneuve dévoile sa lettre pour 2027",
+      "url": "https://www.leparisien.fr/elections/presidentielle/cest-par-un-contrat-qui-me-lie-aux-francais-que-je-presente-ma-candidature-bernard-cazeneuve-devoile-sa-lettre-pour-2027-16-07-2026-IZIQSDYXKBBT5MZBHIDBXGXFYE.php",
+      "date": "2026-07-16"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Déclare le 30 juillet 2026 : « Mon objectif, c'est de devenir président de la République » et ironise sur une primaire « qui irait de Mélenchon à Le Pen […] Ça s'appelle l'élection présidentielle ».",
+    "sources": [
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027: \"L'objectif\" de Bernard Cazeneuve est de \"devenir président de la République\"",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-l-objectif-de-bernard-cazeneuve-est-de-devenir-president-de-la",
+      "date": "2026-07-30"
+     }
+    ]
+   },
+   {
+    "texte": "Témoigne en novembre 2021 au procès des attentats du 13 novembre 2015 en tant qu'ancien ministre de l'Intérieur.",
+    "sources": [
+     {
+      "media": "Mediapart",
+      "titre": "13-Novembre : l'ancien ministre Bernard Cazeneuve « a fait ce qu'il a pu »",
+      "url": "https://www.mediapart.fr/journal/france/181121/13-novembre-l-ancien-ministre-bernard-cazeneuve-fait-ce-qu-il-pu",
+      "date": "2021-11-18"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Bernard Cazeneuve",
+      "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "institutions": {
+   "resume": "Propose le rétablissement du septennat, une dose de proportionnelle aux législatives, une discipline sur le 49.3 et les ordonnances, un Premier ministre engageant sa responsabilité devant le Parlement à son entrée en fonction, et une limitation légale de la concentration des médias.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose le rétablissement du septennat, une « dose de proportionnelle » aux législatives et une « discipline sur le 49.3, les ordonnances et les procédures accélérées ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    },
+    {
+     "texte": "Propose des limites fixées par la loi à la concentration capitalistique des médias et la règle « deux normes supprimées pour une norme créée ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Privilégie l'allongement de la durée de cotisation plutôt que le recul de l'âge légal, rétablit les critères de pénibilité retirés et corrige le dispositif carrières longues.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose « durée de cotisation plutôt que recul de l'âge légal, en reprenant sur des bases nouvelles et négociées la trajectoire d'allongement de 2014 » et le rétablissement de la pénibilité (postures, charges, vibrations, risques chimiques).",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Propose une « règle d'or sociale » : compensation intégrale des exonérations de cotisations (loi Veil), équilibre des comptes sociaux sur cinq ans et loi annuelle d'approbation distincte ; revendique la « vérité budgétaire » avec une dette de 117,5 % du PIB.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose le « rétablissement plein et entier de la loi Veil » (toute exonération compensée à l'euro près, rétroactivement depuis 2019) et un équilibre des comptes sociaux apprécié sur un cycle de cinq ans.",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    },
+    {
+     "texte": "Chiffre la dette à 117,5 % du PIB au premier trimestre 2026 et attribue sa hausse de 1 400 milliards d'euros depuis 2017 à des choix fiscaux (suppression de l'ISF et de la taxe d'habitation, flat tax).",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "economie_fiscalite": {
+   "resume": "Propose de mieux taxer les très grandes fortunes, les hauts revenus du capital et les rentes, de rééquilibrer la taxation travail/capital et de baisser les impôts de production en réduisant les aides fiscales.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose une « fiscalité atteignant réellement les très grandes fortunes, les plus hauts revenus du capital et les rentes » et une « baisse des impôts de production financée par une réduction des aides fiscales ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose une police de proximité, des unités spécialisées contre le narcotrafic, des peines réellement exécutées, un Parquet européen élargi, et la sortie du « tout-comparution immédiate ».",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose contre le trafic de drogue « unités spécialisées, peines réellement exécutées, coopération européenne renforcée, Parquet européen aux compétences élargies, gel des avoirs ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    },
+    {
+     "texte": "Propose le rappel de magistrats retraités volontaires pour qu'« aucune plainte pour violences faites à un enfant ne rest[e] sans réponse », et la « sortie du tout-comparution immédiate et de la prison par défaut ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Propose un réarmement « à proportion de la menace », une préférence aux productions de défense nationales et européennes, le maintien dans l'OTAN et une réflexion avec le Royaume-Uni sur l'apport de la dissuasion à la sécurité européenne.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de rester « dans l'OTAN sans rien y abdiquer », une « réflexion sur l'apport de la dissuasion, y compris avec le Royaume-Uni » et une protection antimissile coordonnée du continent.",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Propose la fin de l'unanimité au profit de la majorité, une politique industrielle commune, une doctrine de concurrence « moins dogmatique » et une politique migratoire européenne.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose la « fin de la règle de l'unanimité au profit des décisions à la majorité » et une « réforme budgétaire et politique industrielle commune ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Défend trois principes : humanité (droit d'asile), intégration (français, lois communes, égalité femmes-hommes) et fermeté contre l'immigration irrégulière et les filières.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose « humanité », « intégration » et « fermeté : lutte sans faiblesse contre l'immigration irrégulière et démantèlement des filières criminelles ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Assume la filière nucléaire et le renouvellement planifié du parc ; propose un plan École-Climat-Solidarité sur dix ans de rénovation des établissements scolaires et une « DATAR du climat ».",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose une « filière électronucléaire assumée, renouvellement du parc planifié, rationalisation des renouvelables, électrification des usages ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    },
+    {
+     "texte": "Défenseur de longue date de l'EPR de Flamanville et de l'usine de la Hague, notamment comme porte-parole de François Hollande en 2012.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Bernard Cazeneuve",
+       "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Propose des enseignants « mieux formés, mieux payés », la philosophie dès la seconde, un service public de l'IA éducative, 2 000 € d'aide supplémentaire aux boursiers et une « avance jeunesse » de 3 000 € pour les 18-24 ans sans diplôme ni emploi.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose « au moins 2 000 € d'aide supplémentaire pour chaque étudiant boursier » durant ses deux premières années et une « avance jeunesse de 3 000 € pour les 18-24 ans sans diplôme ni emploi, sous conditions de ressources ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose une sécurisation des transitions professionnelles « à la manière scandinave », l'apprentissage dès le premier cycle universitaire, le CDI comme norme pour les jeunes et l'emploi des seniors ; refuse une « formule magique » sur le pouvoir d'achat.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose la « protection des transitions professionnelles, à la manière scandinave », le « CDI redevenu la norme pour les jeunes » et présente l'emploi des seniors comme un « gisement de huit cent mille emplois ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "ia_numerique": {
+   "resume": "Propose un droit de recours à un agent humain pour toute décision automatisée, le stockage des données des Français en Europe et la transformation de l'INESIA en autorité contraignante.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose qu'« aucun refus d'aide, de place ou de titre » ne soit opposé « sans qu'un agent l'examine, l'explique et en réponde » et une INESIA dotée d'un « pouvoir contraignant ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Propose un grand plan social et écologique de construction et de rénovation pour faire baisser les prix, avec des mécanismes d'accession à la propriété.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose un « grand plan de constructions et de rénovations, à la fois social et écologique, soutenu par des mécanismes innovants d'accession à la propriété ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Propose de faire de la santé mentale des jeunes une grande cause nationale et un chantier du grand âge et de la dépendance.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose « la santé mentale, épreuve silencieuse de la jeunesse, érigée en grande cause nationale ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Défend la souveraineté alimentaire, des « prix dignes pour les producteurs » et la préservation du foncier agricole.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose « souveraineté alimentaire ; prix dignes pour les producteurs ; préservation du foncier nourricier ».",
+     "sources": [
+      {
+       "media": "La Convention (site officiel)",
+       "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+       "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+       "date": "2026-07-17"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Mort de Rémi Fraisse au barrage de Sivens (2014)",
+   "statut": "accusation",
+   "date": "2014-11-12",
+   "description": "Le militant écologiste Rémi Fraisse est tué par une grenade offensive le 26 octobre 2014. Bernard Cazeneuve, alors ministre de l'Intérieur, réfute avoir donné des consignes de fermeté ; selon Mediapart, des documents d'enquête indiquent que des consignes d'« extrême fermeté » avaient été données. Il n'a pas été personnellement poursuivi ; la France a été condamnée par la CEDH en février 2025.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Mort de Rémi Fraisse: le récit des gendarmes place l'Intérieur dos au mur",
+     "url": "https://www.mediapart.fr/journal/france/121114/mort-de-remi-fraisse-le-recit-des-gendarmes-place-linterieur-dos-au-mur",
+     "date": "2014-11-12"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Bernard Cazeneuve",
+     "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Dispositif de sécurité lors de l'attentat de Nice (14 juillet 2016)",
+   "statut": "accusation",
+   "date": "2016-07-20",
+   "description": "Libération conteste la version du ministère de l'Intérieur sur la protection du périmètre de la promenade des Anglais ; le ministre dément toute faille. Critiques également de Christian Estrosi. Aucune poursuite le visant.",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "Sécurité à Nice. 370 mètres de questions",
+     "url": "http://www.liberation.fr/france/2016/07/20/securite-a-nice-370-metres-de-questions_1467531",
+     "date": "2016-07-20"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Bernard Cazeneuve",
+     "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Passage rapide dans le privé après Matignon",
+   "statut": "accusation",
+   "date": "2017-07",
+   "description": "Il rejoint le cabinet August Debouzy dès juillet 2017 ; le journaliste Vincent Jauvert (« Les Voraces ») relève que les négociations ont commencé avant son départ de Matignon. La HATVP a donné son accord assorti de réserves jusqu'au 15 mai 2020. Aucune procédure judiciaire.",
+   "sources": [
+    {
+     "media": "Robert Laffont (Vincent Jauvert, « Les Voraces »)",
+     "titre": "Les Voraces",
+     "url": "https://books.google.fr/books?id=lfrEDwAAQBAJ&printsec=frontcover&hl=fr#v=onepage&q&f=false",
+     "date": "2020"
+    },
+    {
+     "media": "Tendance Ouest",
+     "titre": "Après Matignon, l'ancien maire de Cherbourg Bernard Cazeneuve (re)devient avocat",
+     "url": "http://www.tendanceouest.com/actualite-234129-apres-matignon-l-ancien-maire-de-cherbourg-bernard-cazeneuve-re-devient-avocat.html",
+     "date": "2017-07-03"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Bernard Cazeneuve",
+     "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Loi « sécurité publique » de 2017 et tirs policiers sur des véhicules",
+   "statut": "accusation",
+   "date": "2023-07-05",
+   "description": "La loi de février 2017, portée par son gouvernement, assouplit les conditions d'usage des armes en cas de refus d'obtempérer ; Libération l'accuse en 2023 de « mensonges » sur ce texte, une étude de chercheurs faisant état d'une multiplication par cinq des personnes tuées par des tirs visant des véhicules entre 2017 et 2023. Aucune procédure judiciaire.",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "Homicides policiers : Bernard Cazeneuve face à ses mensonges",
+     "url": "https://www.liberation.fr/societe/police-justice/homicides-policiers-bernard-cazeneuve-face-a-ses-mensonges-20230705_E53JXOEY2BD7PMKIKQTQR3G3UE/",
+     "date": "2023-07-05"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Bernard Cazeneuve",
+     "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Assignations à résidence sous l'état d'urgence",
+   "statut": "accusation",
+   "date": "2019-06-28",
+   "description": "Le tribunal administratif de Melun condamne l'État en 2019 pour une assignation à résidence infondée signée par le ministre de l'Intérieur (illégalité fautive engageant la responsabilité de l'État). La condamnation vise l'État, pas Bernard Cazeneuve personnellement.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Halim Abdelmalek, symbole des assignations à résidence infondées, obtient la condamnation de l'État",
+     "url": "https://www.lemonde.fr/societe/article/2019/07/04/l-etat-condamne-dans-le-dossier-d-halim-a-symbole-des-assignations-a-residence-infondees_5485475_3224.html",
+     "date": "2019-07-04"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Bernard Cazeneuve",
+     "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Aucun compte de campagne présidentielle antérieur (première candidature).",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Bernard Cazeneuve",
+     "url": "https://fr.wikipedia.org/wiki/Bernard_Cazeneuve",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Le projet présidentiel est préparé avec « près de cent cinquante experts » issus de la haute administration, des syndicats, des associations et des entreprises, selon Bernard Cazeneuve.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "titre": "Bernard Cazeneuve au Figaro : « Je suis prêt à être candidat en 2027 »",
+     "url": "https://www.lefigaro.fr/politique/bernard-cazeneuve-au-figaro-je-suis-pret-a-etre-candidat-en-2027-20260428",
+     "date": "2026-04-28"
+    },
+    {
+     "media": "La Convention (site officiel)",
+     "titre": "Tenir la promesse de la France — Synthèse de la lettre de Bernard Cazeneuve aux Françaises et Français (propositions)",
+     "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+     "date": "2026-07-17"
+    }
+   ]
+  },
+  {
+   "texte": "La Convention revendique 15 000 adhérents (juin 2025) ; aucune information publique trouvée sur l'association de financement ou des prêts pour la campagne 2027.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "La Convention",
+     "url": "https://fr.wikipedia.org/wiki/La_Convention",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,457 @@
+{
+ "id": "delphine-batho",
+ "nom": "Delphine Batho",
+ "naissance": "1973-03-23",
+ "lieu_naissance": "Paris (12e arrondissement)",
+ "parti": "Génération écologie",
+ "parti_sigle": "GE",
+ "famille": "gauche",
+ "position": -4.0,
+ "position_justif": {
+  "texte": "Présidente de Génération écologie, parti classé au centre gauche par Wikipédia (décroissance, écologie intégrale) ; ancienne ministre socialiste, elle revendique une « écologie de gouvernement » ferme sur le régalien et refuse l'alliance avec la gauche radicale. Position retenue au niveau du PS dans le barème (−4).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Génération écologie",
+    "url": "https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_%C3%A9cologie",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Le HuffPost (avec AFP)",
+    "titre": "Delphine Batho, députée écolo, se porte candidate à la présidentielle et fustige la primaire",
+    "url": "https://www.huffingtonpost.fr/politique/article/delphine-batho-deputee-ecolo-se-porte-candidate-a-la-presidentielle-et-fustige-la-primaire_257544.html",
+    "date": "2025-11-26"
+   }
+  ]
+ },
+ "statut": "investi",
+ "photo": {
+  "fichier": "img/candidats/delphine-batho.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Delphine_Batho_(cropped-2).png",
+  "auteur": "DeuxSevres79",
+  "licence": "CC BY-SA 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/ge.png",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:G%C3%A9n%C3%A9ration_%C3%A9cologie_logo.png",
+  "licence": "Marque déposée (logo non libre, Wikipédia fr)"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Bachelière au lycée Henri-IV (Paris) ; études d'histoire à l'université Paris 7, non achevées.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Delphine Batho",
+      "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Grazia",
+      "titre": "10 choses que vous ne savez (peut-être) pas sur Delphine Batho",
+      "url": "https://www.grazia.fr/news-et-societe/news/10-choses-que-vous-ne-savez-peut-etre-pas-sur-delphine-batho-270922.html",
+      "date": "2013-07-03"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Présidente du syndicat lycéen FIDL (1990), puis vice-présidente de SOS Racisme de 1992 à 1998.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Delphine Batho",
+      "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Passage de témoin chez les \" potes \" M. Fodé Sylla remplace M. Harlem Désir à la tête de SOS-Racisme",
+      "url": "https://www.lemonde.fr/archives/article/1992/09/08/passage-de-temoin-chez-les-potes-m-fode-sylla-remplace-m-harlem-desir-a-la-tete-de-sos-racisme_3897148_1819218.html",
+      "date": "1992-09-08"
+     }
+    ]
+   },
+   {
+    "texte": "Auditrice de la 17e session de l'Institut national des hautes études de sécurité (2005-2006).",
+    "sources": [
+     {
+      "media": "Légifrance",
+      "titre": "Arrêté du 28 juin 2006 portant désignation des auditeurs de la dix-septième session nationale d'études de l'Institut national des hautes études de sécurité",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000608675",
+      "date": "2006-06-28"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Delphine Batho",
+      "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Députée de la 2e circonscription des Deux-Sèvres de 2007 à 2012 puis depuis 2013 ; réélue en 2017, 2022 et 2024 (59,21 % en 2024).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Delphine Batho",
+      "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Législatives 2024 – 2e circonscription des Deux-Sèvres",
+      "url": "https://www.resultats-elections.interieur.gouv.fr/legislatives2024/ensemble_geographique/75/79/7902/index.html",
+      "date": "2024-07-07"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre déléguée auprès de la garde des Sceaux Christiane Taubira (mai-juin 2012).",
+    "sources": [
+     {
+      "media": "Le Point",
+      "titre": "Delphine Batho, déléguée à la Justice",
+      "url": "https://www.lepoint.fr/politique/delphine-batho-la-madame-securite-du-ps-16-05-2012-1462261_20.php",
+      "date": "2012-05-16"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Delphine Batho annonce qu'elle quitte son logement du parc social",
+      "url": "https://www.lemonde.fr/election-presidentielle-2012/article/2012/05/18/delphine-batho-annonce-qu-elle-quitte-son-logement-du-parc-social_1703440_1471069.html",
+      "date": "2012-05-18"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre de l'Écologie, du Développement durable et de l'Énergie (21 juin 2012 - 2 juillet 2013) ; limogée par François Hollande après avoir qualifié de « mauvais » le budget 2014 de son ministère.",
+    "sources": [
+     {
+      "media": "Libération",
+      "titre": "Hollande met fin aux fonctions de Delphine Batho",
+      "url": "https://www.liberation.fr/france/2013/07/02/hollande-met-fin-aux-fonctions-de-delphine-batho_915374/",
+      "date": "2013-07-02"
+     },
+     {
+      "media": "L'Obs",
+      "titre": "Hollande, Ayrault et des SMS… Delphine Batho raconte les dessous de son limogeage",
+      "url": "https://www.nouvelobs.com/politique/20141015.OBS2116/hollande-ayrault-et-des-sms-delphine-batho-raconte-les-dessous-de-son-limogeage.html",
+      "date": "2014-10-15"
+     },
+     {
+      "media": "France 24",
+      "titre": "Article sur le limogeage de Delphine Batho (titre non relevé)",
+      "url": "https://www.france24.com/fr/20130704-delphine-batho-limogeage-gouvernement-groupe-pression-gaz-schiste-vallourec",
+      "date": "2013-07-04"
+     }
+    ]
+   },
+   {
+    "texte": "Quitte le PS le 2 mai 2018 et devient présidente de Génération écologie en septembre 2018.",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "L'ex-ministre Delphine Batho quitte le PS",
+      "url": "http://www.lefigaro.fr/politique/le-scan/2018/05/02/25001-20180502ARTFIG00122-l-ex-ministre-delphine-batho-quitte-le-ps.php",
+      "date": "2018-05-02"
+     },
+     {
+      "media": "Génération écologie",
+      "titre": "Delphine BATHO succède à Yves PIETRASANTA à la tête de Génération Ecologie",
+      "url": "http://www.generationecologie.net/2018/08/transition-a-la-tete-de-generation-ecologie.html",
+      "date": "2018-08"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Auteure de l'amendement à la loi biodiversité (2016) interdisant les néonicotinoïdes, entré en vigueur le 1er septembre 2018.",
+    "sources": [
+     {
+      "media": "La Nouvelle République",
+      "titre": "Le combat de Delphine Batho",
+      "url": "https://www.lanouvellerepublique.fr/deux-sevres/le-combat-de-delphine-batho",
+      "date": "2018-09-01"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Delphine Batho",
+      "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Soutient fin 2018 le projet de 16 bassines de rétention d'eau dans les Deux-Sèvres, puis se retire en 2020 des réunions de suivi du protocole, estimant les engagements agricoles non tenus.",
+    "sources": [
+     {
+      "media": "Ouest-France",
+      "titre": "Deux-Sèvres. Bassines non merci dénonce \"la trahison\" de Delphine Batho",
+      "url": "https://www.ouest-france.fr/nouvelle-aquitaine/niort-79000/deux-sevres-bassines-non-merci-denonce-la-trahison-de-delphine-batho-76d5ad50-4539-31f6-aa01-5da6081b6ec9",
+      "date": "2018-11-29"
+     },
+     {
+      "media": "France Bleu (ICI)",
+      "titre": "Delphine Batho ne participera plus aux réunions de suivi du protocole d'accord sur les bassines",
+      "url": "https://www.francebleu.fr/infos/agriculture-peche/delphine-batho-ne-participera-plus-aux-reunions-de-suivi-du-protocole-d-accord-sur-les-bassines-1604401749",
+      "date": "2020-11-03"
+     }
+    ]
+   },
+   {
+    "texte": "En janvier 2018, candidate au poste de premier secrétaire du PS, elle attaque son parti en justice sur les règles du congrès et est déboutée.",
+    "sources": [
+     {
+      "media": "Libération",
+      "titre": "Pourquoi Delphine Batho attaque-t-elle son parti en justice ?",
+      "url": "https://www.liberation.fr/france/2018/01/22/pourquoi-delphine-batho-attaque-t-elle-son-parti-en-justice_1624328/",
+      "date": "2018-01-22"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Déboutée par la justice, Batho maintient sa candidature à la tête du PS",
+      "url": "https://www.lefigaro.fr/politique/le-scan/2018/01/25/25001-20180125ARTFIG00187-deboutee-par-la-justice-batho-maintient-sa-candidature-a-la-tete-du-ps.php",
+      "date": "2018-01-25"
+     }
+    ]
+   },
+   {
+    "texte": "Candidate à la primaire écologiste de 2021 (décroissance, écoféminisme, laïcité) : 3e du premier tour avec 22,32 % ; devient porte-parole de Yannick Jadot en décembre 2021.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Delphine Batho officialise sa candidature à la primaire écologiste pour la présidentielle de 2022",
+      "url": "https://www.lemonde.fr/politique/article/2021/07/05/delphine-batho-officialise-sa-candidature-a-la-primaire-des-verts_6087037_823448.html",
+      "date": "2021-07-05"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Élection présidentielle 2022 : Yannick Jadot et Sandrine Rousseau qualifiés pour le second tour de la primaire écologiste",
+      "url": "https://www.lemonde.fr/politique/article/2021/09/19/election-presidentielle-2022-yannick-jadot-et-sandrine-rousseau-qualifies-pour-le-second-tour-de-la-primaire-ecologiste_6095233_823448.html",
+      "date": "2021-09-19"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Présidentielle 2022. Delphine Batho nommée porte-parole de Yannick Jadot",
+      "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2022-delphine-batho-nommee-porte-parole-de-yannick-jadot-e3f05b6c-1137-4f5a-aff4-6c0ca1a8ed53",
+      "date": "2021-12-06"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce le 25 novembre 2025 sa candidature à l'élection présidentielle de 2027 « pour reconstruire une écologie capable de gouverner » et se déclare opposée à une primaire de la gauche.",
+    "sources": [
+     {
+      "media": "L'Obs",
+      "titre": "Delphine Batho : « Je suis candidate à l'élection présidentielle pour reconstruire une écologie capable de gouverner »",
+      "url": "https://www.nouvelobs.com/politique/20251125.OBS110076/delphine-batho-je-suis-candidate-a-l-election-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner.html",
+      "date": "2025-11-25"
+     },
+     {
+      "media": "Le HuffPost (avec AFP)",
+      "titre": "Delphine Batho, députée écolo, se porte candidate à la présidentielle et fustige la primaire",
+      "url": "https://www.huffingtonpost.fr/politique/article/delphine-batho-deputee-ecolo-se-porte-candidate-a-la-presidentielle-et-fustige-la-primaire_257544.html",
+      "date": "2025-11-26"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "L'ex-ministre Delphine Batho candidate à la présidentielle \"pour reconstruire une écologie capable de gouverner\"",
+      "url": "https://www.franceinfo.fr/politique/eelv/l-ex-ministre-delphine-batho-candidate-a-la-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner_7639496.html",
+      "date": "2025-11-25"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Delphine Batho, ancienne ministre de l'Écologie, annonce sa candidature à la présidentielle 2027",
+      "url": "https://www.ouest-france.fr/elections/presidentielle/delphine-batho-ancienne-ministre-de-lecologie-annonce-sa-candidature-a-la-presidentielle-2027-df964490-ca3e-11f0-a0e6-83b9718ad3c0",
+      "date": "2025-11-25"
+     }
+    ]
+   },
+   {
+    "texte": "Refuse en août 2026 la proposition des Écologistes de discussions en vue d'une candidature commune au premier tour.",
+    "sources": [
+     {
+      "media": "Génération écologie (site officiel)",
+      "titre": "Réponse de Génération Écologie à Marine Tondelier",
+      "url": "https://www.generationecologie.fr/2026/08/20/reponse-de-generation-ecologie-a-marine-tondelier/",
+      "date": "2026-08-20"
+     }
+    ]
+   },
+   {
+    "texte": "Slogan de campagne : « L'espérance ».",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "economie_fiscalite": {
+   "resume": "Défend la décroissance et un modèle économique qui ne soit plus fondé sur la croissance du PIB.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Affirme que « vouloir sauver la croissance du PIB est incompatible avec la sécurité climatique » ; Génération écologie se présente comme « le parti de la décroissance ».",
+     "sources": [
+      {
+       "media": "Génération écologie (site officiel)",
+       "titre": "“Je suis candidate à l'élection présidentielle pour reconstruire une écologie capable de gouverner”",
+       "url": "https://www.generationecologie.fr/2025/11/26/je-suis-candidate-a-lelection-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner/",
+       "date": "2025-11-26"
+      },
+      {
+       "media": "Génération écologie (site officiel)",
+       "titre": "Notre projet",
+       "url": "https://www.generationecologie.fr/a-propos/generation-ecologie/notre-projet/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Prônait déjà la décroissance lors de la primaire écologiste de 2021.",
+     "sources": [
+      {
+       "media": "Mediapart",
+       "titre": "Primaire des écologistes : quatre candidats entre décroissance et « 13e mois écologiste »",
+       "url": "https://www.mediapart.fr/journal/france/130721/primaire-des-ecologistes-quatre-candidats-entre-decroissance-et-13e-mois-ecologiste",
+       "date": "2021-07-13"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Delphine Batho",
+       "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Revendique une écologie ferme sur le régalien ; a voté la loi narcotrafic.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Se dit ferme sur le régalien : « On peut être écologiste et être contre le port de l'abaya », « ne faire preuve d'aucune naïveté face à la montée de l'islamisme » ; seule de son groupe à avoir voté la loi narcotrafic.",
+     "sources": [
+      {
+       "media": "Le HuffPost (avec AFP)",
+       "titre": "Delphine Batho, députée écolo, se porte candidate à la présidentielle et fustige la primaire",
+       "url": "https://www.huffingtonpost.fr/politique/article/delphine-batho-deputee-ecolo-se-porte-candidate-a-la-presidentielle-et-fustige-la-primaire_257544.html",
+       "date": "2025-11-26"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose un plan de sortie complète des énergies fossiles et, en cas de choc pétrolier, la gratuité temporaire des transports en commun, le doublement des cars ruraux et une baisse des vitesses.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Génération écologie propose un « plan de sortie complète des énergies fossiles », la gratuité temporaire des transports en commun, le doublement des fréquences des cars en zones rurales et une baisse des vitesses de circulation (avril 2026).",
+     "sources": [
+      {
+       "media": "Génération écologie (site officiel)",
+       "titre": "Prix de l'essence à la pompe : l'urgence d'agir",
+       "url": "https://www.generationecologie.fr/2026/04/10/prix-de-lessence-a-la-pompe-lurgence-dagir/",
+       "date": "2026-04-10"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "S'oppose aux lois Duplomb et aux néonicotinoïdes ; propose de réorienter les fonds publics vers l'agriculture biologique.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "S'oppose à la loi « Duplomb 2 » (juillet 2026) et propose de réorienter les fonds publics agricoles pour soutenir l'agriculture biologique, « sans argent public supplémentaire ».",
+     "sources": [
+      {
+       "media": "Génération écologie (site officiel)",
+       "titre": "Loi Duplomb 2 : on s'en souviendra en 2027",
+       "url": "https://www.generationecologie.fr/2026/07/21/loi-duplomb-2-on-sen-souviendra-en-2027/",
+       "date": "2026-07-21"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "S'oppose à l'accord UE-Mercosur et demande la saisine de la Cour de justice de l'UE.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Appelle la France et le Parlement européen à saisir la Cour de justice de l'UE contre l'accord UE-Mercosur (janvier 2026).",
+     "sources": [
+      {
+       "media": "Génération écologie (site officiel)",
+       "titre": "Accord avec le Mercosur : la France doit saisir la Cour de justice de l'Union européenne",
+       "url": "https://www.generationecologie.fr/2026/01/09/accord-avec-le-mercosur-la-france-doit-saisir-la-cour-de-justice-de-lunion-europeenne/",
+       "date": "2026-01-09"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Soutient l'effort de défense face à la Russie et une défense européenne indépendante des États-Unis.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Déclare que les écologistes prendront « toute [leur] part à l'effort de défense du pays et de l'Europe » et défend une défense européenne « strictement indépendante des États-Unis » (mars 2025).",
+     "sources": [
+      {
+       "media": "Génération écologie (site officiel)",
+       "titre": "Ni Trump, ni Poutine : en tant qu'écologistes, nous prendrons toute notre part à l'effort de défense du pays et de l'Europe",
+       "url": "https://www.generationecologie.fr/2025/03/05/ni-trump-ni-poutine-en-tant-quecologistes-nous-prendrons-toute-notre-part-a-leffort-de-defense-du-pays-et-de-leurope/",
+       "date": "2025-03-05"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [
+  {
+   "texte": "Pas de candidature présidentielle antérieure (éliminée à la primaire écologiste de 2021) : aucun compte de campagne présidentielle à son nom auprès de la CNCCFP.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Delphine Batho",
+     "url": "https://fr.wikipedia.org/wiki/Delphine_Batho",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Élection présidentielle 2022 : Yannick Jadot et Sandrine Rousseau qualifiés pour le second tour de la primaire écologiste",
+     "url": "https://www.lemonde.fr/politique/article/2021/09/19/election-presidentielle-2022-yannick-jadot-et-sandrine-rousseau-qualifies-pour-le-second-tour-de-la-primaire-ecologiste_6095233_823448.html",
+     "date": "2021-09-19"
+    }
+   ]
+  },
+  {
+   "texte": "En 2024, Les Écologistes ont reversé 172 462 € de leur aide publique à Génération écologie (5,39 % de l'aide perçue) ; Génération écologie a déposé des comptes 2024 certifiés.",
+   "sources": [
+    {
+     "media": "CNCCFP (Journal officiel)",
+     "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (JO du 10 février 2026)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+     "date": "2026-02-10"
+    }
+   ]
+  }
+ ]
+}

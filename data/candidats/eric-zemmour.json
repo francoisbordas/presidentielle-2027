@@ -1,0 +1,1146 @@
+{
+ "id": "eric-zemmour",
+ "nom": "Éric Zemmour",
+ "naissance": "1958-08-31",
+ "lieu_naissance": "Montreuil (Seine, aujourd'hui Seine-Saint-Denis)",
+ "parti": "Reconquête",
+ "parti_sigle": "REC",
+ "famille": "extreme_droite",
+ "position": 9,
+ "position_justif": {
+  "texte": "Position 9 (barème Reconquête). Wikipédia classe Reconquête à l'extrême droite ; franceinfo le présente en 2026 comme « président du parti d'extrême droite Reconquête ».",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Reconquête (parti politique)",
+    "url": "https://fr.wikipedia.org/wiki/Reconqu%C3%AAte_(parti_politique)",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Eric Zemmour, président du parti d'extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle",
+    "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html",
+    "date": "2026-09-17"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/eric-zemmour.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Portrait_%C3%89ric_Zemmour,_avril_2022_cropped.jpg",
+  "auteur": "Anh De France",
+  "licence": "CC0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/rec.svg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Logo_du_parti_Reconqu%C3%AAte.svg",
+  "licence": "Domaine public"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Diplômé de l'Institut d'études politiques de Paris (section Service public, 1979) ; échoue deux fois au concours d'entrée de l'ENA (1980 et 1981).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Éric Zemmour",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Vanity Fair",
+      "titre": "La biographie d'Éric Zemmour",
+      "url": "https://www.vanityfair.fr/pouvoir/politique/articles/biographie-et-actualites-deric-zemmour-par-vanity-fair/79251",
+      "date": "2020-01-01"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Journaliste politique au Quotidien de Paris (1986-1994), puis au Figaro à partir de 1996 ; chroniqueur au Figaro Magazine de 2010 à 2021. Suspend sa collaboration au Figaro en septembre 2021 pour la promotion de son livre « La France n'a pas dit son dernier mot ».",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Éric Zemmour",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Eric Zemmour se retire du Figaro le temps de la promotion de son livre",
+      "url": "https://www.lefigaro.fr/flash-eco/eric-zemmour-se-retire-du-figaro-le-temps-de-la-promotion-de-son-livre-20210901",
+      "date": "2021-09-01"
+     }
+    ]
+   },
+   {
+    "texte": "Chroniqueur et débatteur audiovisuel : « Ça se dispute » (I-Télé, 2003-2014), « On n'est pas couché » (France 2, 2006-2011), RTL (2010-2019), « Zemmour et Naulleau » (Paris Première), puis « Face à l'info » sur CNews (2019-2021).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Éric Zemmour",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Vanity Fair",
+      "titre": "La biographie d'Éric Zemmour",
+      "url": "https://www.vanityfair.fr/pouvoir/politique/articles/biographie-et-actualites-deric-zemmour-par-vanity-fair/79251",
+      "date": "2020-01-01"
+     }
+    ]
+   },
+   {
+    "texte": "Auteur d'essais dont « Le Suicide français » (2014), « Destin français » (2018) et « La France n'a pas dit son dernier mot » (2021).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Éric Zemmour",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Vanity Fair",
+      "titre": "La biographie d'Éric Zemmour",
+      "url": "https://www.vanityfair.fr/pouvoir/politique/articles/biographie-et-actualites-deric-zemmour-par-vanity-fair/79251",
+      "date": "2020-01-01"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "N'a jamais exercé de mandat électif. Fondateur et président de Reconquête, lancé le 5 décembre 2021 au meeting de Villepinte.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Éric Zemmour",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Reconquête (parti politique)",
+      "url": "https://fr.wikipedia.org/wiki/Reconqu%C3%AAte_(parti_politique)",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Eric Zemmour, président du parti d'extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html",
+      "date": "2026-09-17"
+     }
+    ]
+   },
+   {
+    "texte": "Candidat à l'élection présidentielle de 2022 : 4e au premier tour avec 7,07 % des suffrages exprimés.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Éric Zemmour",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Eric Zemmour, président du parti d'extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html",
+      "date": "2026-09-17"
+     }
+    ]
+   },
+   {
+    "texte": "Candidat aux législatives de 2022 dans la 4e circonscription du Var : éliminé au premier tour (23,19 %, 3e position).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Éric Zemmour",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Élections législatives 2022 – Var, 4e circonscription",
+      "url": "https://www.resultats-elections.interieur.gouv.fr/legislatives-2022/083/08304.html",
+      "date": "2022-06-12"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Annonce sa candidature à l'élection présidentielle de 2027 sur BFMTV le 17 septembre 2026 ; une déclaration officielle est annoncée pour l'automne. Sarah Knafo, eurodéputée Reconquête, n'est pas candidate.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Eric Zemmour, président du parti d'extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html",
+      "date": "2026-09-17"
+     },
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : Éric Zemmour officialise sa candidature",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
+      "date": "2026-09-17"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "En juin 2024, exclut de Reconquête Marion Maréchal, Guillaume Peltier, Nicolas Bay et Laurence Trochu (eurodéputés élus sur la liste Reconquête, 5,47 %), qui appelaient à soutenir les candidats de l'alliance RN-Ciotti aux législatives.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Reconquête (parti politique)",
+      "url": "https://fr.wikipedia.org/wiki/Reconqu%C3%AAte_(parti_politique)",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Les Échos",
+      "titre": "Législatives 2024 : Marion Maréchal acte sa rupture avec Eric Zemmour",
+      "url": "https://www.lesechos.fr/elections/legislatives/legislatives-2024-marion-marechal-acte-sa-rupture-avec-eric-zemmour-2101070",
+      "date": "2024-06-12"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "immigration": {
+   "resume": "Défend la « remigration » et propose d'expulser les étrangers, y compris en situation régulière, après un an de chômage ; en 2022, projet d'« immigration zéro » (fin du regroupement familial et du droit du sol, droit d'asile réduit à « quelques dizaines ou centaines de cas »).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Lors de l'annonce de sa candidature (septembre 2026), se dit favorable au principe de « remigration » et propose d'expulser les étrangers, y compris ceux en situation régulière, après un an de chômage.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Eric Zemmour, président du parti d'extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle",
+       "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html",
+       "date": "2026-09-17"
+      }
+     ]
+    },
+    {
+     "texte": "Programme 2022 : « immigration zéro », étudiants étrangers limités à « quelques milliers » par an, droit d'asile réduit à « quelques dizaines ou centaines de cas », fin du regroupement familial et du droit du sol, expulsion des détenus étrangers en conditionnant visas et aide au développement.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "LCI",
+       "titre": "Ces propositions qu'Eric Zemmour emprunte au programme 2017 de François Fillon",
+       "url": "https://www.lci.fr/politique/video-presidentielle-2022-ces-propositions-que-le-potentiel-candidat-eric-zemmour-emprunte-au-programme-de-francois-fillon-2017-2199999.html",
+       "date": "2021-10-26"
+      }
+     ]
+    }
+   ]
+  },
+  "economie_fiscalite": {
+   "resume": "En 2022, propose une baisse massive des impôts de production et de l'impôt sur les sociétés, la suppression des droits de succession sur les transmissions d'entreprise, une taxation accrue des importations extra-européennes ; la plateforme 2027 de Reconquête propose un livret d'épargne dédié à l'industrie.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : baisse massive des impôts de production et de l'impôt sur les sociétés, suppression des droits de succession pour la transmission d'entreprise, opposition au rétablissement de l'ISF, hausse de la taxation des importations extracommunautaires, grand ministère de l'Industrie orientant la commande publique vers les entreprises françaises.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Marine Le Pen et Eric Zemmour esquissent leurs propositions économiques au salon du Made in France",
+       "url": "https://www.lemonde.fr/election-presidentielle-2022/article/2021/11/15/au-salon-du-made-in-france-marine-le-pen-et-eric-zemmour-esquissent-leurs-propositions-economiques_6102106_6059010.html",
+       "date": "2021-11-15"
+      }
+     ]
+    },
+    {
+     "texte": "Plateforme participative « Le programme pour la France » (programme 2027 en construction) : propose de « créer un livret d'épargne dédié au financement de l'industrie française, avec un taux attractif garanti par l'État ».",
+     "sources": [
+      {
+       "media": "Reconquête",
+       "titre": "Le programme pour la France (plateforme 2027)",
+       "url": "https://leprogrammepourlafrance.fr/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "En 2022, propose de porter l'âge légal de départ à 64 ans d'ici 2030 et d'allonger d'un an la durée de cotisation, pour environ 15 Md€ d'économies par an, en tenant compte de la pénibilité.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : âge légal porté à 64 ans d'ici 2030, durée de cotisation allongée d'un an d'ici la fin du quinquennat, économie annoncée de près de 15 milliards d'euros en année pleine ; prise en compte de la pénibilité.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Sciences Po CEVIPOF (G. Ivaldi)",
+       "titre": "Baromètre de la confiance politique, vague 13 – note de recherche (mars 2022)",
+       "url": "https://www.sciencespo.fr/cevipof/sites/sciencespo.fr.cevipof/files/NoteBaroV13_GI_socialpopulisme_mars2022_V4.pdf",
+       "date": "2022-03"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "En 2022, annonce une réduction du déficit dès 2023 et un retour sous 3 % du PIB dès 2025.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : « amorcer une réduction du déficit public dès 2023 » et « repasser sous le seuil des 3 % dès 2025 », notamment grâce à la réforme des retraites.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Sciences Po CEVIPOF (G. Ivaldi)",
+       "titre": "Baromètre de la confiance politique, vague 13 – note de recherche (mars 2022)",
+       "url": "https://www.sciencespo.fr/cevipof/sites/sciencespo.fr.cevipof/files/NoteBaroV13_GI_socialpopulisme_mars2022_V4.pdf",
+       "date": "2022-03"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "En 2022, propose de baisser la CSG sur les bas salaires (« l'équivalent d'un treizième mois » au SMIC), financée par la lutte contre la fraude sociale et la fin des aides sociales pour les étrangers extracommunautaires ; défiscalisation des heures supplémentaires.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Novembre 2021 : baisse de la CSG sur les bas salaires présentée comme « l'équivalent d'un treizième mois pour les travailleurs au SMIC », financée par la lutte contre la fraude sociale et la fin des aides sociales pour les étrangers extracommunautaires.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Marine Le Pen et Eric Zemmour esquissent leurs propositions économiques au salon du Made in France",
+       "url": "https://www.lemonde.fr/election-presidentielle-2022/article/2021/11/15/au-salon-du-made-in-france-marine-le-pen-et-eric-zemmour-esquissent-leurs-propositions-economiques_6102106_6059010.html",
+       "date": "2021-11-15"
+      }
+     ]
+    },
+    {
+     "texte": "Selon Gilles Ivaldi (CEVIPOF), le programme 2022 comprend la défiscalisation des heures supplémentaires, l'allègement de l'IFI et des droits de succession, et la suppression de la loi SRU.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Sciences Po CEVIPOF (G. Ivaldi)",
+       "titre": "Baromètre de la confiance politique, vague 13 – note de recherche (mars 2022)",
+       "url": "https://www.sciencespo.fr/cevipof/sites/sciencespo.fr.cevipof/files/NoteBaroV13_GI_socialpopulisme_mars2022_V4.pdf",
+       "date": "2022-03"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "En 2022, propose la suspension des allocations familiales des parents d'élèves « perturbateurs » ou absentéistes et l'uniforme à l'école ; souhaite scolariser les enfants handicapés, sauf handicap léger, en établissements spécialisés.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Propose (octobre 2021) de supprimer les allocations aux parents qui « ne sanctionnent pas » un enfant perturbateur, et le port de l'uniforme à l'école.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "LCI",
+       "titre": "Ces propositions qu'Eric Zemmour emprunte au programme 2017 de François Fillon",
+       "url": "https://www.lci.fr/politique/video-presidentielle-2022-ces-propositions-que-le-potentiel-candidat-eric-zemmour-emprunte-au-programme-de-francois-fillon-2017-2199999.html",
+       "date": "2021-10-26"
+      }
+     ]
+    },
+    {
+     "texte": "Le 14 janvier 2022, propose que les enfants handicapés soient scolarisés dans des « établissements spécialisés sauf pour les gens légèrement handicapés » et dénonce « l'obsession de l'inclusion ».",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "BFMTV",
+       "titre": "« On me fait un faux procès » : en pleine polémique, Zemmour s'adresse aux parents d'enfants handicapés",
+       "url": "https://www.bfmtv.com/politique/elections/presidentielle/on-me-fait-un-faux-proces-en-pleine-polemique-zemmour-s-adresse-aux-parents-d-enfants-handicapes_AN-202201150265.html",
+       "date": "2022-01-15"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "En 2022, propose de rétablir l'obligation de garde des médecins généralistes le soir et le week-end.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Seul candidat de 2022 à proposer de réinstaurer l'obligation de garde des médecins généralistes.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Libération",
+       "titre": "Faut-il rétablir l'obligation de garde des médecins généralistes ?",
+       "url": "https://www.liberation.fr/societe/sante/faut-il-retablir-lobligation-de-garde-des-medecins-generalistes-20220322_AVAI2L2ADVFLVMPCBACPUHWTF4/",
+       "date": "2022-03-22"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "En 2022, propose de faire primer toute nouvelle loi nationale sur le droit européen existant, de mettre fin à la surtransposition et de bloquer tout nouveau transfert de compétences, sans sortie de l'euro.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Programme 2022 : « faire primer toute nouvelle loi nationale sur le droit européen existant », « mettre fin à la surtransposition », « bloquer tout nouveau transfert de compétence » ; estime que si « l'entrée dans l'euro était une mauvaise idée, en sortir serait pire ».",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Pourquoi la sortie de l'euro n'est plus un slogan politique",
+       "url": "https://www.lemonde.fr/economie/article/2022/01/01/pourquoi-la-sortie-de-l-euro-n-est-plus-un-slogan-politique_6107844_3234.html",
+       "date": "2022-01-01"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "En 2022, propose la sortie du commandement intégré de l'OTAN et un traité mettant fin à l'expansion de l'OTAN en échange du retrait des troupes russes ; opposé aux sanctions contre la Russie et aux livraisons d'armes à l'Ukraine.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Condamne l'invasion de l'Ukraine en février 2022 ; s'oppose aux sanctions contre la Russie et aux livraisons d'armes, propose la sortie du commandement intégré de l'OTAN et « la négociation d'un traité consacrant la fin de l'expansion » de l'OTAN en échange du retrait des troupes russes.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Avec la guerre en Ukraine, la campagne d'Eric Zemmour minée par le doute",
+       "url": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/03/05/election-presidentielle-2022-avec-la-guerre-en-ukraine-la-campagne-zemmour-minee-par-le-doute_6116318_6059010.html",
+       "date": "2022-03-05"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "En 2022, propose l'expulsion des détenus étrangers ; s'est dit « philosophiquement » favorable à la peine de mort.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Septembre 2021 : « Je ne pense pas qu'on ait bien fait d'abolir la peine de mort. Philosophiquement, j'y suis favorable. »",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Le Parisien",
+       "titre": "Présidentielle 2022 : Eric Zemmour « philosophiquement » pour la peine de mort",
+       "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2022-eric-zemmour-philosophiquement-pour-la-peine-de-mort-15-09-2021-5I7YRSO2RRCEZAU4T3YYD2YEJU.php",
+       "date": "2021-09-15"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "En 2022, propose de privatiser l'audiovisuel public (France Inter, France Télévisions) et de supprimer la redevance.",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Octobre-décembre 2021 : propose de supprimer la redevance audiovisuelle et de privatiser « en particulier France Inter et France Télévisions ».",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Éric Zemmour",
+       "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Election présidentielle 2022 : à Béziers, Eric Zemmour propose d'« enlever le pouvoir » aux « contre-pouvoirs »",
+       "url": "https://www.lemonde.fr/politique/article/2021/10/17/a-beziers-eric-zemmour-propose-d-enlever-le-pouvoir-aux-contre-pouvoirs_6098742_823448.html",
+       "date": "2021-10-17"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Provocation à la discrimination raciale (propos sur Canal+ et France Ô, 2010)",
+   "statut": "condamnation_definitive",
+   "date": "2011-02-18",
+   "description": "Le 6 mars 2010, affirme que « la plupart des trafiquants sont noirs et arabes » et que les employeurs « ont le droit de refuser des Arabes ou des Noirs ». Le 18 février 2011, la 17e chambre du tribunal de Paris le condamne pour provocation à la discrimination raciale (amendes de 1 000 € avec sursis dans deux jugements, dommages-intérêts aux associations) et le relaxe de la diffamation raciale. Il annonce le 1er mars 2011 ne pas faire appel : condamnation définitive.",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "Zemmour ne fera pas appel",
+     "url": "http://www.liberation.fr/societe/2011/03/01/zemmour-ne-fera-pas-appel_718412",
+     "date": "2011-03-01"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Provocation à la haine religieuse envers les musulmans (« C à vous », France 5, 2016) – arrêt CEDH",
+   "statut": "condamnation_definitive",
+   "date": "2022-12-20",
+   "description": "Propos tenus le 6 septembre 2016. Cour d'appel de Paris, 3 mai 2018 : 5 000 € d'amende pour provocation à la discrimination et à la haine religieuse. La Cour de cassation rejette son pourvoi le 17 septembre 2019 (condamnation définitive). Le 20 décembre 2022, la Cour européenne des droits de l'homme (Zemmour c. France, n° 63539/19) juge la condamnation compatible avec l'article 10 de la Convention.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Éric Zemmour définitivement condamné pour provocation à la haine raciale",
+     "url": "https://www.lemonde.fr/societe/article/2019/09/20/eric-zemmour-definitivement-condamne-pour-provocation-a-la-haine-raciale_6012389_3224.html",
+     "date": "2019-09-20"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "« Haine religieuse » : Eric Zemmour débouté par la Cour européenne des droits de l'homme",
+     "url": "https://www.lemonde.fr/societe/article/2022/12/20/haine-religieuse-zemmour-deboute-par-la-cedh_6155195_3224.html",
+     "date": "2022-12-20"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "CEDH : Éric Zemmour débouté pour des propos « discriminatoires » en 2016",
+     "url": "https://www.lefigaro.fr/politique/cedh-eric-zemmour-deboute-pour-propos-des-discriminatoires-en-2016-20221220",
+     "date": "2022-12-20"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Injures et provocation à la haine (discours à la « Convention de la droite », 2019)",
+   "statut": "condamnation_definitive",
+   "date": "2025-09-16",
+   "description": "Propos du 28 septembre 2019 (immigrés qualifiés de « colonisateurs », voile et djellaba décrits comme « uniformes d'une armée d'occupation »). Condamné en première instance (25 septembre 2020, 10 000 €), relaxé en appel (8 septembre 2021), relaxe annulée par la Cour de cassation (21 février 2023) ; condamné par la cour d'appel de renvoi le 22 février 2024 à 15 000 € d'amende. La Cour de cassation rejette son pourvoi le 16 septembre 2025 : condamnation définitive.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Éric Zemmour définitivement condamné pour des propos racistes en 2019",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-des-propos-racistes-en-2019_7497130.html",
+     "date": "2025-09-17"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "La Cour de cassation annule une relaxe d'Eric Zemmour, qui sera rejugé pour injures publiques et provocation à la haine raciale",
+     "url": "https://www.francetvinfo.fr/politique/eric-zemmour/la-cour-de-cassation-annule-une-relaxe-d-eric-zemmour-qui-sera-rejuge-pour-injures-publiques-et-provocation-a-la-haine-raciale_5671598.html",
+     "date": "2023-02-21"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Complicité d'injure et de provocation à la haine (« mineurs isolés », CNews, 2020)",
+   "statut": "condamnation_definitive",
+   "date": "2025-12-02",
+   "description": "Le 29 septembre 2020 sur CNews, dit des mineurs étrangers isolés : « ils sont voleurs, ils sont assassins, ils sont violeurs ». Condamné le 17 janvier 2022 par le tribunal de Paris (100 jours-amende à 100 €, soit 10 000 €), condamnation confirmée en appel en septembre 2024 ; la Cour de cassation rejette son pourvoi le 2 décembre 2025 : condamnation définitive. Pour les mêmes propos, CNews a été sanctionnée de 200 000 € par le CSA (mars 2021), sanction confirmée par le Conseil d'État (juillet 2022).",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Eric Zemmour définitivement condamné pour complicité de provocation à la haine, après ses propos sur des mineurs isolés",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-a-ete-definitivement-condamne-pour-complicite-de-provocation-a-la-haine-apres-ses-propos-tenus-sur-des-mineurs-isoles_7653920.html",
+     "date": "2025-12-02"
+    },
+    {
+     "media": "Le Parisien",
+     "titre": "Mineurs isolés, injures homophobes… Éric Zemmour condamné et relaxé en appel dans deux affaires distinctes",
+     "url": "https://www.leparisien.fr/faits-divers/mineurs-isoles-injures-homophobes-eric-zemmour-condamne-et-relaxe-en-appel-dans-deux-affaires-distinctes-12-09-2024-N6I6A5WENBHBDKNOQC6JFVBK4E.php",
+     "date": "2024-09-12"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Contestation de crime contre l'humanité (Pétain « sauveur » des juifs français, CNews, 2019)",
+   "statut": "condamnation_non_definitive",
+   "date": "2025-04-02",
+   "description": "Propos tenus sur CNews en octobre 2019. Relaxé en première instance (4 février 2021) et en appel (mai 2022) ; la Cour de cassation casse la relaxe le 5 septembre 2023. Rejugé, il est condamné par la cour d'appel de Paris le 2 avril 2025 à 10 000 € d'amende (plus 1 € de dommages-intérêts et 1 200 € de frais à chacune des cinq associations). Il a annoncé un pourvoi en cassation ; aucune décision de la Cour de cassation n'a été trouvée à la date du 25 septembre 2026.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Propos sur Pétain : la Cour de cassation annule la relaxe d'Eric Zemmour, qui sera à nouveau jugé pour contestation de crime contre l'humanité",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/propos-sur-petain-la-cour-de-cassation-annule-la-relaxe-d-eric-zemmour-qui-sera-a-nouveau-juge-pour-contestation-de-crime-contre-l-humanite_6044519.html",
+     "date": "2023-09-05"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Eric Zemmour condamné à 10 000 euros d'amende pour avoir soutenu que le maréchal Pétain avait sauvé des juifs français",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-condamne-a-10-000-euros-d-amende-pour-avoir-soutenu-que-le-marechal-petain-avait-sauve-des-juifs-francais_7166175.html",
+     "date": "2025-04-02"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Eric Zemmour condamné à 10 000 euros d'amende après avoir déclaré que Philippe Pétain avait sauvé les juifs français",
+     "url": "https://www.lemonde.fr/societe/article/2025/04/02/eric-zemmour-condamne-a-10-000-euros-d-amende-apres-avoir-declare-que-philippe-petain-avait-sauve-les-juifs-francais_6589971_3224.html",
+     "date": "2025-04-02"
+    },
+    {
+     "media": "Cour de cassation",
+     "titre": "Contestation de l'existence de crime contre l'humanité par un homme politique",
+     "url": "https://www.courdecassation.fr/toutes-les-actualites/2023/09/05/contestation-de-lexistence-de-crime-contre-lhumanite-par-un-homme",
+     "date": "2023-09-05"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Injure à caractère raciste envers Hapsatou Sy",
+   "statut": "condamnation_definitive",
+   "date": "2025-09-02",
+   "description": "Condamné le 12 janvier 2023 à 4 000 € d'amende et 3 000 € de dommages-intérêts pour avoir qualifié le prénom d'Hapsatou Sy d'« insulte à la France » ; condamnation confirmée en appel le 28 mars 2024 ; pourvoi rejeté par la Cour de cassation le 2 septembre 2025.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Confirmation en appel de la condamnation d'Eric Zemmour pour injure raciste envers Hapsatou Sy",
+     "url": "https://www.francetvinfo.fr/politique/eric-zemmour/confirmation-en-appel-de-la-condamnation-d-eric-zemmour-pour-injure-raciste-envers-hapsatou-sy_6453914.html",
+     "date": "2024-03-28"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Eric Zemmour condamné en appel pour avoir qualifié le prénom d'Hapsatou Sy d'« insulte à la France »",
+     "url": "https://www.lemonde.fr/societe/article/2024/03/28/eric-zemmour-condamne-en-appel-pour-avoir-qualifie-le-prenom-d-hapsatou-sy-d-insulte-a-la-france_6224675_3224.html",
+     "date": "2024-03-28"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Diffamation envers l'avocat Patrick Klugman (affaire Jérémie Cohen)",
+   "statut": "condamnation_definitive",
+   "date": "2025-12-02",
+   "description": "Avait accusé sur France 2 (avril 2022) Patrick Klugman de vouloir « étouffer l'affaire » de la mort de Jérémie Cohen. Condamné pour diffamation en janvier 2024 (1 000 € d'amende), condamnation confirmée en appel ; la Cour de cassation rejette son pourvoi début décembre 2025.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Eric Zemmour définitivement condamné pour complicité de provocation à la haine, après ses propos sur des mineurs isolés",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-a-ete-definitivement-condamne-pour-complicite-de-provocation-a-la-haine-apres-ses-propos-tenus-sur-des-mineurs-isoles_7653920.html",
+     "date": "2025-12-02"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Diffamation publique envers une administration (Ined)",
+   "statut": "condamnation_definitive",
+   "date": "2026-01-27",
+   "description": "Après avoir affirmé sur CNews le 2 avril 2021 que l'Ined « trafique les chiffres » de l'immigration, condamné avec CNews pour diffamation publique ; condamnation confirmée en appel le 11 décembre 2024 ; la Cour de cassation rejette les pourvois le 27 janvier 2026.",
+   "sources": [
+    {
+     "media": "ActuaLitté",
+     "titre": "Cour de cassation : Zemmour et CNews définitivement condamnés dans l'affaire Ined",
+     "url": "https://actualitte.com/article/129048/droit-justice/cour-de-cassation-zemmour-et-cnews-definitivement-condamnes-dans-l-affaire-ined",
+     "date": "2026-02-01"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Complicité de diffamation envers la députée Danièle Obono",
+   "statut": "condamnation_definitive",
+   "date": "2026-06-26",
+   "description": "Condamné le 7 février 2024 à 1 000 € d'amende avec sursis et 1 000 € de dommages-intérêts pour des propos de 2020 ; condamnation confirmée en appel (janvier 2025) puis par la Cour de cassation (juin 2026).",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Eric Zemmour condamné pour complicité de diffamation à l'encontre de la députée LFI Danièle Obono",
+     "url": "https://www.lemonde.fr/societe/article/2024/02/07/eric-zemmour-condamne-pour-complicite-de-diffamation-a-l-encontre-de-daniele-obono_6215256_3224.html",
+     "date": "2024-02-07"
+    },
+    {
+     "media": "Mediapart",
+     "titre": "CNews définitivement condamnée pour les propos diffamatoires d'Éric Zemmour contre Danièle Obono",
+     "url": "https://www.mediapart.fr/journal/politique/260626/cnews-definitivement-condamnee-pour-les-propos-diffamatoires-d-eric-zemmour-contre-daniele-obono",
+     "date": "2026-06-26"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Injure raciale (propos sur l'affaire de Crépol)",
+   "statut": "condamnation_non_definitive",
+   "date": "2025-03-26",
+   "description": "Condamné le 26 mars 2025 par le tribunal correctionnel de Paris à 9 000 € d'amende pour injure raciale. Les suites en appel n'ont pas été trouvées à la date du 25 septembre 2026.",
+   "sources": [
+    {
+     "media": "BFMTV",
+     "titre": "Éric Zemmour condamné pour injure raciale après des propos sur le drame de Crépol",
+     "url": "https://www.bfmtv.com/police-justice/eric-zemmour-condamne-pour-injure-raciale-apres-des-propos-sur-le-drame-de-crepol_AD-202503260432.html",
+     "date": "2025-03-26"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Contrefaçon de droits d'auteur (clip d'annonce de candidature, 2021)",
+   "statut": "condamnation_definitive",
+   "date": "2022-03-04",
+   "description": "Le 4 mars 2022, le tribunal judiciaire de Paris condamne Éric Zemmour, Reconquête et le responsable de l'association Les Amis d'Éric Zemmour à verser 165 000 € à des ayants droit (Gaumont, EuropaCorp, Luc Besson, François Ozon, SACD…) pour l'utilisation non autorisée d'extraits de films dans le clip d'annonce. Pas d'appel. La CNCCFP a réintégré une redevance estimée à 16 000 € dans son compte de campagne.",
+   "sources": [
+    {
+     "media": "CNCCFP (Légifrance, JORF)",
+     "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Eric Zemmour, candidat à l'élection présidentielle des 10 et 24 avril 2022",
+     "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047062391",
+     "date": "2022-12-14"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Contrefaçon de droits d'auteur (documentaire « Le Collège d'à côté »)",
+   "statut": "condamnation_non_definitive",
+   "date": "2026-01-16",
+   "description": "Condamné le 16 janvier 2026 pour avoir diffusé sans autorisation des extraits du documentaire de Marc Aderghal. Suites en appel non trouvées.",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "Eric Zemmour à nouveau condamné pour « contrefaçon de droits d'auteur »",
+     "url": "https://www.liberation.fr/culture/eric-zemmour-a-nouveau-condamne-pour-contrefacon-de-droits-dauteur-20260119_TF5U7MP5SBAH5OVYB35SWK2AYA/",
+     "date": "2026-01-19"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Provocation à la haine et injure (propos sur les vendeurs de crack « sénégalais », CNews 2021-2022)",
+   "statut": "proces_en_cours",
+   "date": "2024-05-31",
+   "description": "Renvoyé en mai 2024 devant la 17e chambre correctionnelle de Paris pour provocation publique à la haine ou à la violence et injure publique. Aucune décision n'a été trouvée à la date du 25 septembre 2026.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Eric Zemmour renvoyé devant le tribunal correctionnel de Paris pour « provocation à la haine ou à la violence » et injure publique après des propos sur CNews",
+     "url": "https://www.franceinfo.fr/societe/justice/eric-zemmour-renvoye-devant-le-tribunal-correctionnel-de-paris-pour-provocation-a-la-haine-ou-a-la-violence-et-injure-publique-apres-des-propos-sur-cnews_6576602.html",
+     "date": "2024-05-31"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "SMS de démarchage adressés à des Français identifiés comme juifs (avril 2022)",
+   "statut": "enquete",
+   "date": "2022-04-12",
+   "description": "Le parquet de Paris ouvre une enquête préliminaire le 12 avril 2022 après une plainte de l'UEJF et de J'accuse visant l'envoi, le 8 avril 2022, d'un SMS « Message d'Éric Zemmour aux Français de confession juive » ; la CNIL ouvre une enquête sur les mêmes faits. Issue non trouvée.",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "La justice ouvre une enquête après l'envoi ciblé de SMS par Eric Zemmour à des Français juifs",
+     "url": "https://www.liberation.fr/societe/police-justice/la-justice-ouvre-une-enquete-apres-lenvoi-cible-de-sms-par-eric-zemmour-a-des-francais-juifs-20220412_SX6AROL3ERAILKMELGZMKM3RYE/",
+     "date": "2022-04-12"
+    },
+    {
+     "media": "Libération",
+     "titre": "La Cnil enquête sur des SMS de démarchage envoyés par Eric Zemmour à des Français juifs",
+     "url": "https://www.liberation.fr/politique/elections/la-cnil-enquete-sur-des-sms-de-demarchage-envoyes-par-eric-zemmour-a-des-francais-juifs-20220411_EGX6FQ5NCVBOVI5BZIGYZABQTU/",
+     "date": "2022-04-11"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Sanction CNIL contre Reconquête (collecte d'adresses électroniques)",
+   "statut": "condamnation_definitive",
+   "date": "2024-01-25",
+   "description": "Sanction administrative visant le parti (Éric Zemmour n'est pas personnellement sanctionné) : selon Le Monde (cité par Wikipédia), amende de 20 000 € prononcée le 25 janvier 2024 pour manque de transparence dans la collecte d'adresses électroniques via un réseau de sites et pétitions en 2021-2022. Le registre des sanctions de la CNIL mentionne à cette date une amende de 20 000 € contre une « association à caractère politique » pour manquement à l'information des personnes (prospection politique), sans la nommer. Statut de recours non trouvé.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Reconquête (parti politique)",
+     "url": "https://fr.wikipedia.org/wiki/Reconqu%C3%AAte_(parti_politique)",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "CNIL",
+     "titre": "Les sanctions prononcées par la CNIL",
+     "url": "https://www.cnil.fr/fr/les-sanctions-prononcees-par-la-cnil",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Accusations de violences sexuelles (témoignages publiés par Mediapart)",
+   "statut": "accusation",
+   "date": "2022-03-08",
+   "description": "En avril 2021, six femmes l'accusent dans les médias d'agressions sexuelles ; le 8 mars 2022, Mediapart publie les témoignages de huit femmes portant sur des faits de 1999 à 2019. Aucune plainte n'est mentionnée par son avocat, qui dénonce des « attaques » de campagne ; Éric Zemmour a déclaré ne pas avoir à répondre sur sa « vie privée ».",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Violences sexuelles : huit femmes accusent Éric Zemmour",
+     "url": "https://www.mediapart.fr/journal/france/080322/violences-sexuelles-huit-femmes-accusent-eric-zemmour",
+     "date": "2022-03-08"
+    },
+    {
+     "media": "Libération",
+     "titre": "Éric Zemmour de nouveau accusé de violences sexuelles",
+     "url": "https://www.liberation.fr/politique/eric-zemmour-de-nouveau-accuse-de-violences-sexuelles-20210430_K5VXS4YJXBCHRNIMVIQIMPOGDE/",
+     "date": "2021-04-30"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Propos sur les musulmans dans le Corriere della Sera (2014)",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2018-11-29",
+   "description": "Condamné en première instance (17 décembre 2015, 3 000 €) et en appel (17 novembre 2016) pour provocation à la haine ; la Cour de cassation annule en janvier 2018 ; relaxé par la cour d'appel de renvoi le 29 novembre 2018.",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "Éric Zemmour condamné à 3000 euros d'amende pour provocation à la haine envers les musulmans",
+     "url": "https://www.liberation.fr/france/2015/12/17/eric-zemmour-condamne-a-3000-euros-d-amende-pour-provocation-a-la-haine-envers-les-musulmans_1421427/",
+     "date": "2015-12-17"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Chronique RTL sur des « bandes » d'étrangers (2014)",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2016-06-22",
+   "description": "Poursuivi pour provocation à la haine raciale, relaxé par le tribunal correctionnel de Paris (septembre 2015), relaxe confirmée en appel le 22 juin 2016.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Ozap",
+     "titre": "Éric Zemmour relaxé en appel pour ses « bandes d'étrangers »",
+     "url": "https://www.ozap.com/actu/eric-zemmour-relaxe-en-appel-pour-ses-bandes-d-etrangers/501233",
+     "date": "2016-06-22"
+    }
+   ]
+  },
+  {
+   "intitule": "Injure homophobe (propos sur CNews, octobre 2019)",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2024-09-12",
+   "description": "Condamné en première instance le 28 septembre 2023 à 4 000 € d'amende ; relaxé en appel le 12 septembre 2024. L'association Stop Homophobie a annoncé un pourvoi en cassation ; issue non trouvée.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Eric Zemmour condamné à 4 000 euros d'amende pour injure homophobe",
+     "url": "https://www.lemonde.fr/societe/article/2023/09/28/eric-zemmour-condamne-a-4-000-euros-d-amende-pour-injure-homophobe_6191440_3224.html",
+     "date": "2023-09-28"
+    },
+    {
+     "media": "Le Parisien",
+     "titre": "Mineurs isolés, injures homophobes… Éric Zemmour condamné et relaxé en appel dans deux affaires distinctes",
+     "url": "https://www.leparisien.fr/faits-divers/mineurs-isoles-injures-homophobes-eric-zemmour-condamne-et-relaxe-en-appel-dans-deux-affaires-distinctes-12-09-2024-N6I6A5WENBHBDKNOQC6JFVBK4E.php",
+     "date": "2024-09-12"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Diffamation (villes comparées à l'Afghanistan, France Inter, 2022)",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2024-11-12",
+   "description": "Relaxé le 12 novembre 2024 ; relaxe confirmée en appel en octobre 2025 ; la commune de Vitry-sur-Seine s'est pourvue en cassation (novembre 2025).",
+   "sources": [
+    {
+     "media": "Le Parisien",
+     "titre": "Jugé pour diffamation, Éric Zemmour relaxé après avoir comparé Viry-Chatillon à « l'Afghanistan »",
+     "url": "https://www.leparisien.fr/essonne-91/juge-pour-diffamation-eric-zemmour-relaxe-apres-avoir-compare-viry-chatillon-a-lafghanistan-12-11-2024-RJHBSRKB2BFA5NPXG7M4Q5ERSY.php",
+     "date": "2024-11-12"
+    },
+    {
+     "media": "Le Parisien",
+     "titre": "Comparée à l'Afghanistan par Éric Zemmour, Vitry-sur-Seine saisit la Cour de cassation pour obtenir justice",
+     "url": "https://www.leparisien.fr/val-de-marne-94/comparee-a-lafghanistan-par-eric-zemmour-vitry-sur-seine-saisit-la-cour-de-cassation-pour-obtenir-justice-17-11-2025-BWK3KPBKZVGY5GC2A53LXYPUM4.php",
+     "date": "2025-11-17"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Contestation de crime contre l'humanité (déportation des homosexuels qualifiée de « légende »)",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2026-06-25",
+   "description": "Plainte de plusieurs associations LGBT (mars 2022) après un passage de « La France n'a pas dit son dernier mot ». Relaxé par le tribunal de Paris le 18 septembre 2025, relaxe confirmée en appel en juin 2026.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Déportation des homosexuels : Éric Zemmour fait face à la vérité historique au tribunal",
+     "url": "https://www.mediapart.fr/journal/france/110625/deportation-des-homosexuels-eric-zemmour-fait-face-la-verite-historique-au-tribunal",
+     "date": "2025-06-11"
+    },
+    {
+     "media": "Actu-Juridique",
+     "titre": "Il avait contesté la déportation d'homosexuels entre 1940 et 1945 : Éric Zemmour gagne son second procès",
+     "url": "https://www.actu-juridique.fr/penal/il-avait-conteste-la-deportation-dhomosexuels-entre-1940-et-1945-eric-zemmour-gagne-son-second-proces/",
+     "date": "2026-06-25"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Diffamation envers l'enseignante Sophie Djigo",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2026-06-09",
+   "description": "Jugé du 30 au 31 mars 2026 avec des cadres du RN ; relaxé en juin 2026. L'enseignante a annoncé faire appel.",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "Rencontre Sophie Djigo, prof menacée par la fachosphère : « Les attaques ont conforté mon choix de me battre »",
+     "url": "https://www.liberation.fr/societe/sophie-djigo-prof-menacee-par-la-fachosphere-les-attaques-ont-conforte-mon-choix-de-me-battre-20260609_GFIV4ZW5W5ERTLU5F2OCPBSQ7U/",
+     "date": "2026-06-09"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Provocation à la discrimination (lien immigration-délinquance, Public Sénat, 2022)",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2025-07",
+   "description": "Poursuivi par la LDH et SOS Racisme pour des propos de janvier 2022 ; relaxé en juillet 2025 par le tribunal correctionnel de Paris.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "L'Humanité",
+     "titre": "« Délinquant multirécidiviste » : Zemmour de nouveau devant les tribunaux pour incitation publique à la haine, à la violence ou à la discrimination",
+     "url": "https://www.humanite.fr/societe/eric-zemmour/delinquant-multirecidiviste-zemmour-de-nouveau-devant-les-tribunaux-pour-incitation-publique-a-la-haine-a-la-violence-ou-a-la-discrimination",
+     "date": "2025-05-12"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Présidentielle 2022 – décision CNCCFP du 14 décembre 2022 : compte approuvé après réformation. Dépenses retenues 10 826 804 € (déclarées 10 976 228 €) ; recettes retenues 11 063 135 €, dont un apport personnel du candidat de 10 085 302 €, 501 103 € d'apport de partis et 37 215 € de dons ; remboursement de l'État fixé à 7 804 225 €.",
+   "sources": [
+    {
+     "media": "CNCCFP (Légifrance, JORF)",
+     "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Eric Zemmour, candidat à l'élection présidentielle des 10 et 24 avril 2022",
+     "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047062391",
+     "date": "2022-12-14"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Élection présidentielle française de 2022 (comptes de campagne)",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "La CNCCFP a réduit le remboursement de 200 000 € en raison du « nombre et de la gravité » des irrégularités : avantage en nature d'une personne morale (tribune offerte par l'émission « Face à l'info » de CNews), campagne de 10 000 affiches posées hors emplacements autorisés fin juin 2021 et encore visibles après le 1er octobre 2021, location de salle impayée (1 575 €), et images protégées par le droit d'auteur utilisées dans la vidéo de candidature (redevance estimée à 16 000 € réintégrée).",
+   "sources": [
+    {
+     "media": "CNCCFP (Légifrance, JORF)",
+     "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Eric Zemmour, candidat à l'élection présidentielle des 10 et 24 avril 2022",
+     "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047062391",
+     "date": "2022-12-14"
+    }
+   ]
+  },
+  {
+   "texte": "L'association « Les Amis d'Éric Zemmour », agréée comme association de financement en 2021 puis devenue Reconquête, indique avoir recueilli six millions d'euros auprès de 25 000 donateurs ; selon Mediapart, les grands donateurs (1 000 à 7 500 €) sont issus notamment des milieux financiers et d'affaires. Charles Gave a apporté un soutien financier avant de le retirer en novembre 2021.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Éric Zemmour",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Mediapart",
+     "titre": "Révélations sur les grands donateurs de la campagne d'Éric Zemmour",
+     "url": "https://www.mediapart.fr/journal/france/200122/revelations-sur-les-grands-donateurs-de-la-campagne-d-eric-zemmour",
+     "date": "2022-01-20"
+    },
+    {
+     "media": "Libération",
+     "titre": "Charles Gave, le financier d'extrême droite qui roule pour Zemmour",
+     "url": "https://www.liberation.fr/politique/charles-gave-le-financier-dextreme-droite-qui-roule-pour-zemmour-20210905_MMNQJHIB6ZE5NM6AJDBSPCVBMA/",
+     "date": "2021-09-05"
+    }
+   ]
+  },
+  {
+   "texte": "Comptes 2024 de Reconquête (CNCCFP) : produits 5 552 102 € (cotisations 1 770 734 €, aide publique 1 559 321 €, dons de personnes physiques 1 398 497 €), charges 6 292 868 €, déficit de l'exercice 740 766 € ; dettes 1 387 018 € dont 544 431 € d'emprunts auprès de personnes physiques et 685 209 € de dettes fournisseurs ; situation nette positive de 5 135 926 €.",
+   "sources": [
+    {
+     "media": "CNCCFP",
+     "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (JORF du 10 février 2026)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+     "date": "2026-02-10"
+    }
+   ]
+  },
+  {
+   "texte": "Financement de la campagne 2027 : aucune information publique trouvée (association de financement, prêts) à la date du 25 septembre 2026.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Eric Zemmour, président du parti d'extrême droite Reconquête, annonce qu'il sera candidat à l'élection présidentielle",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html",
+     "date": "2026-09-17"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,403 @@
+{
+ "id": "elisabeth-borne",
+ "nom": "Élisabeth Borne",
+ "naissance": "1961-04-18",
+ "lieu_naissance": "Paris 15e",
+ "parti": "Bâtissons ensemble (adhérente de Renaissance)",
+ "parti_sigle": "RE",
+ "famille": "centre",
+ "position": 0,
+ "position_justif": {
+  "texte": "Ancienne Première ministre d'Emmanuel Macron, longtemps proche du PS ; plaide pour un rassemblement « de la gauche réformiste à la droite modérée » et s'est mise en retrait de Renaissance en désaccord avec la ligne jugée plus à droite de Gabriel Attal (respect du droit international, opposition à l'interdiction du voile pour les mineures). Placée à 0, légèrement à gauche de Renaissance (0,5).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Élisabeth Borne",
+    "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "LCP",
+    "titre": "Présidentielle : en cas de duel RN-LFI, Élisabeth Borne ne votera « ni pour l'un, ni pour l'autre » et appelle son camp à la « responsabilité »",
+    "url": "https://lcp.fr/actualites/presidentielle-en-cas-de-duel-rn-lfi-elisabeth-borne-ne-votera-ni-pour-l-un-ni-pour-l",
+    "date": "2026-06-10"
+   },
+   {
+    "media": "LCP",
+    "titre": "Elisabeth Borne claque la porte de la direction de Renaissance et critique la ligne Attal",
+    "url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne",
+    "date": "2026-05-06"
+   }
+  ]
+ },
+ "statut": "pressenti",
+ "photo": {
+  "fichier": "img/candidats/elisabeth-borne.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:La_Premi%C3%A8re_ministre_fran%C3%A7aise_%C3%89lisabeth_Borne_(cropped).jpg",
+  "auteur": "Benoît Granier",
+  "licence": "Licence Ouverte"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/re.svg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Renaissance-logotype-officiel.svg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Lycée Janson-de-Sailly ; École polytechnique (promotion 1981) ; ingénieure de l'École nationale des ponts et chaussées (1986) ; MBA du Collège des ingénieurs. Ingénieure générale des ponts et chaussées (2007).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Élisabeth Borne",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Haute fonctionnaire : conseillère transports au cabinet de Lionel Jospin à Matignon (1997-2002), directrice de la stratégie de la SNCF (2002), directrice des concessions d'Eiffage (2007), directrice générale de l'urbanisme de la Ville de Paris (2008-2013).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Élisabeth Borne",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Préfète de la région Poitou-Charentes (2013-2014), directrice de cabinet de Ségolène Royal au ministère de l'Écologie (2014-2015), présidente-directrice générale de la RATP (2015-2017).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Élisabeth Borne",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Ministre chargée des Transports (2017-2019), ministre de la Transition écologique et solidaire (2019-2020), ministre du Travail (2020-2022).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Élisabeth Borne",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Première ministre du 16 mai 2022 au 9 janvier 2024 ; a eu recours 23 fois à l'article 49.3, notamment pour la réforme des retraites de 2023 (âge légal porté à 64 ans).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Élisabeth Borne",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "LCP",
+      "titre": "Présidentielle : que proposent les candidats à l'Élysée sur les retraites ?",
+      "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+      "date": "2026-09-16"
+     }
+    ]
+   },
+   {
+    "texte": "Députée de la 6e circonscription du Calvados depuis 2022 (réélue en 2024).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Élisabeth Borne",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "LCP",
+      "titre": "Elisabeth Borne claque la porte de la direction de Renaissance et critique la ligne Attal",
+      "url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne",
+      "date": "2026-05-06"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre d'État, ministre de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche (décembre 2024 - octobre 2025, gouvernements Bayrou et Lecornu I).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Élisabeth Borne",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Présidente du Conseil national de Renaissance (décembre 2024) après avoir retiré sa candidature au secrétariat général au profit de Gabriel Attal.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Élisabeth Borne",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "LCP",
+      "titre": "Elisabeth Borne claque la porte de la direction de Renaissance et critique la ligne Attal",
+      "url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne",
+      "date": "2026-05-06"
+     }
+    ]
+   },
+   {
+    "texte": "Le 6 mai 2026, a quitté la direction de Renaissance (dont elle reste adhérente) en désaccord avec la ligne de Gabriel Attal, pour se consacrer à son mouvement « Bâtissons ensemble ».",
+    "sources": [
+     {
+      "media": "LCP",
+      "titre": "Elisabeth Borne claque la porte de la direction de Renaissance et critique la ligne Attal",
+      "url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne",
+      "date": "2026-05-06"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Renaissance : en désaccord avec la ligne de Gabriel Attal, Élisabeth Borne quitte la direction du parti",
+      "url": "https://www.20minutes.fr/politique/4222167-20260506-renaissance-desaccord-ligne-gabriel-attal-elisabeth-borne-quitte-direction-parti",
+      "date": "2026-05-06"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Élisabeth Borne annonce se retirer de la direction de Renaissance car elle « ne se retrouve pas complètement » dans la ligne du parti",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/06/elisabeth-borne-annonce-se-retirer-de-la-direction-de-renaissance-car-elle-ne-se-retrouve-pas-completement-dans-la-ligne-du-parti_6685942_823448.html",
+      "date": "2026-05-06"
+     },
+     {
+      "media": "Libération",
+      "titre": "« Je ne me retrouve pas complètement dans la ligne » : Élisabeth Borne quitte ses fonctions au parti Renaissance",
+      "url": "https://www.liberation.fr/politique/je-ne-me-retrouve-pas-completement-dans-la-ligne-elisabeth-borne-quitte-ses-fonctions-au-parti-renaissance-20260506_NDTWT2OI4BAJHJN273XRN7HIOU/",
+      "date": "2026-05-06"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Édito. Élisabeth Borne claque la porte de Renaissance et relance le débat sur les micropartis",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-elisabeth-borne-claque-la-porte-de-renaissance-et-relance-le-debat-sur-les-micropartis_7958537.html",
+      "date": "2026-05-07"
+     }
+    ]
+   },
+   {
+    "texte": "A publié « Réveillons-nous ! » (Robert Laffont, mai 2026).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Élisabeth Borne",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "LCP",
+      "titre": "Elisabeth Borne claque la porte de la direction de Renaissance et critique la ligne Attal",
+      "url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne",
+      "date": "2026-05-06"
+     }
+    ]
+   },
+   {
+    "texte": "Le 10 juillet 2026, a convenu avec François Bayrou (MoDem) et Hervé Marseille (UDI) de choisir ensemble un candidat commun à soutenir pour la présidentielle.",
+    "sources": [
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : Bayrou, Borne et Marseille choisissent ensemble un candidat centriste à soutenir",
+      "url": "https://www.20minutes.fr/politique/4233918-20260710-presidentielle-2027-bayrou-borne-marseille-choisissent-ensemble-candidat-centriste-soutenir",
+      "date": "2026-07-10"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "N'a pas déclaré de candidature : LCP la range parmi les indécis, Wikipédia parmi les personnalités pressenties ayant décliné. En septembre 2026, elle estime qu'« il n'y a pas de candidat du centre » dans la campagne.",
+    "sources": [
+     {
+      "media": "LCP",
+      "titre": "Présidentielle 2027 : qui sont les candidats ?",
+      "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Élisabeth Borne sur la campagne présidentielle : « Il n'y a pas de candidat du centre »",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/elisabeth-borne-sur-la-campagne-presidentielle-il-n-y-a-pas-de-candidat-du-centre-20260909",
+      "date": "2026-09-09"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Présidentielle 2027 : dans la course à l'Élysée, Élisabeth Borne tacle Gabriel Attal et Édouard Philippe",
+      "url": "https://www.20minutes.fr/politique/4244043-20260910-presidentielle-2027-course-elysee-elisabeth-borne-tacle-gabriel-attal-edouard-philippe",
+      "date": "2026-09-10"
+     }
+    ]
+   },
+   {
+    "texte": "En cas de second tour RN-LFI en 2027, dit qu'elle ne voterait « ni pour l'un ni pour l'autre » (« sans doute » blanc).",
+    "sources": [
+     {
+      "media": "LCP",
+      "titre": "Présidentielle : en cas de duel RN-LFI, Élisabeth Borne ne votera « ni pour l'un, ni pour l'autre » et appelle son camp à la « responsabilité »",
+      "url": "https://lcp.fr/actualites/presidentielle-en-cas-de-duel-rn-lfi-elisabeth-borne-ne-votera-ni-pour-l-un-ni-pour-l",
+      "date": "2026-06-10"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2027, bilan du macronisme, crise économique : le « 8h30 franceinfo » d'Élisabeth Borne",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/presidentielle-2027-bilan-du-macronisme-crise-economique-le-8h30-franceinfo-d-elisabeth-borne_7998875.html",
+      "date": "2026-05-26"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "institutions": {
+   "resume": "Critique un « pouvoir solitaire et un peu vertical » et propose de revoir la procédure de dissolution de l'Assemblée nationale.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "A affiché son scepticisme, voire son opposition, à l'interdiction du voile pour les mineures de moins de 15 ans défendue par Renaissance, citant parmi ses désaccords le « respect du droit international » et du Conseil constitutionnel.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Elisabeth Borne claque la porte de la direction de Renaissance et critique la ligne Attal",
+       "url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne",
+       "date": "2026-05-06"
+      }
+     ]
+    },
+    {
+     "texte": "Juge qu'une dissolution « est trop importante pour dépendre de la seule intuition d'un président » et souhaite en revoir la procédure ; s'oppose à un « pouvoir solitaire et un peu vertical ».",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Elisabeth Borne claque la porte de la direction de Renaissance et critique la ligne Attal",
+       "url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne",
+       "date": "2026-05-06"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "A porté la réforme de 2023 (64 ans), puis s'est prononcée en octobre 2025 pour sa « suspension » « si c'est la condition de la stabilité du pays ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "En octobre 2025, se prononce pour une « suspension » de la réforme des retraites de 2023 « si c'est la condition de la stabilité du pays ».",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "« Suspension » de la réforme des retraites : l'idée évoquée par Élisabeth Borne fait débat",
+       "url": "https://lcp.fr/actualites/suspension-de-la-reforme-des-retraites-l-idee-evoquee-par-elisabeth-borne-fait-debat",
+       "date": "2025-10-08"
+      }
+     ]
+    },
+    {
+     "texte": "La réforme a ensuite été suspendue jusqu'en 2028 par le gouvernement Lecornu.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle : que proposent les candidats à l'Élysée sur les retraites ?",
+       "url": "https://lcp.fr/actualites/presidentielle-que-proposent-les-candidats-a-l-elysee-sur-les-retraites-441751",
+       "date": "2026-09-16"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Appelle à « sanctuariser » les moyens consacrés à la transition écologique.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Appelle, après la canicule de l'été 2026, à sanctuariser les moyens pour la transition écologique.",
+     "sources": [
+      {
+       "media": "Le Monde",
+       "titre": "Canicule : Élisabeth Borne appelle à sanctuariser les moyens pour la transition écologique",
+       "url": "https://www.lemonde.fr/politique/article/2026/07/07/canicule-elisabeth-borne-appelle-a-sanctuariser-les-moyens-pour-la-transition-ecologique_6721426_823448.html",
+       "date": "2026-07-07"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Omission dans la déclaration d'intérêts HATVP (2020)",
+   "statut": "accusation",
+   "date": "2020-06",
+   "description": "En janvier 2020, le magazine Marianne l'a accusée d'avoir omis de déclarer un poste occupé en 2015-2016. En juin 2020, la HATVP lui a demandé de modifier sa déclaration d'intérêts, tout en estimant que les règles étaient sujettes à interprétation et que les omissions n'étaient pas « de nature à caractériser un risque de conflit d'intérêts ». Aucune poursuite.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Élisabeth Borne",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "N'a jamais été candidate à une présidentielle : aucun compte de campagne présidentielle antérieur.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Élisabeth Borne",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_Borne",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "A lancé sa propre structure, « Bâtissons ensemble », en 2026 ; aucune donnée publique trouvée sur son financement.",
+   "sources": [
+    {
+     "media": "LCP",
+     "titre": "Elisabeth Borne claque la porte de la direction de Renaissance et critique la ligne Attal",
+     "url": "https://lcp.fr/actualites/elisabeth-borne-claque-la-porte-de-la-direction-de-renaissance-et-critique-la-ligne",
+     "date": "2026-05-06"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Édito. Élisabeth Borne claque la porte de Renaissance et relance le débat sur les micropartis",
+     "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-elisabeth-borne-claque-la-porte-de-renaissance-et-relance-le-debat-sur-les-micropartis_7958537.html",
+     "date": "2026-05-07"
+    },
+    {
+     "media": "20 Minutes",
+     "titre": "Présidentielle 2027 : Bayrou, Borne et Marseille choisissent ensemble un candidat centriste à soutenir",
+     "url": "https://www.20minutes.fr/politique/4233918-20260710-presidentielle-2027-bayrou-borne-marseille-choisissent-ensemble-candidat-centriste-soutenir",
+     "date": "2026-07-10"
+    }
+   ]
+  }
+ ]
+}

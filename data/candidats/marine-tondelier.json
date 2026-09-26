@@ -1,0 +1,753 @@
+{
+ "id": "marine-tondelier",
+ "nom": "Marine Tondelier",
+ "naissance": "1986-08-23",
+ "lieu_naissance": "Bois-Bernard (Pas-de-Calais)",
+ "parti": "Les Écologistes",
+ "parti_sigle": "LE",
+ "famille": "gauche",
+ "position": -5.5,
+ "position_justif": {
+  "texte": "Secrétaire nationale des Écologistes (ex-EELV), parti classé à gauche dans le barème du projet (−5,5) ; Wikipédia classe le parti au centre gauche/gauche selon les sources et le range parmi les fondateurs du Nouveau Front populaire (2024), coalition de gauche dont Marine Tondelier a été l'une des initiatrices.",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Les Écologistes",
+    "url": "https://fr.wikipedia.org/wiki/Les_%C3%89cologistes",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Mediapart",
+    "titre": "Pour gagner, le Nouveau Front populaire anticipe sa stratégie de second tour",
+    "url": "https://www.mediapart.fr/journal/politique/230624/pour-gagner-le-nouveau-front-populaire-anticipe-sa-strategie-de-second-tour",
+    "date": "2024-06-23"
+   }
+  ]
+ },
+ "statut": "investi",
+ "photo": {
+  "fichier": "img/candidats/marine-tondelier.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:20210819_tondelier.m-cr3.jpg",
+  "auteur": "Greenbox",
+  "licence": "CC BY-SA 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/le.svg",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Logo_Les_%C3%89cologistes.svg",
+  "licence": "Marque déposée (logo non libre, Wikipédia fr)"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Après une classe préparatoire littéraire, diplômée de l'Institut d'études politiques de Lille (2009, voie carrières publiques) et titulaire d'un master en gestion des établissements de santé.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "France 24",
+      "titre": "Congrès EELV : Marine Tondelier, la favorite qui rêvait d'un avenir en Vert",
+      "url": "https://www.france24.com/fr/france/20221127-congr%C3%A8s-eelv-marine-tondelier-la-favorite-qui-r%C3%AAvait-d-un-avenir-en-vert",
+      "date": "2022-11-27"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Collaboratrice parlementaire de la sénatrice écologiste Aline Archimbaud (2011-2015), puis de la députée Cécile Duflot (2015-2017).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "La Voix du Nord",
+      "titre": "Marine Tondelier (EELV) raconte le harcèlement subi par ses ex-collègues de l'Assemblée",
+      "url": "https://www.lavoixdunord.fr/252188/article/2017-10-24/marine-tondelier-eelv-raconte-le-harcelement-subi-par-ses-ex-collegues-de-l",
+      "date": "2017-10-24"
+     }
+    ]
+   },
+   {
+    "texte": "Déléguée générale d'Atmo France, fédération des associations agréées de surveillance de la qualité de l'air (2017-2022).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "cairn.info (Environnement, Risques & Santé)",
+      "titre": "ATMO France : fédérer au service de la qualité de l'air",
+      "url": "https://www.cairn.info/revue-environnement-risques-et-sante-2018-4-page-416.htm",
+      "date": "2018"
+     }
+    ]
+   },
+   {
+    "texte": "Autrice de « Nouvelles du Front » (Les Liens qui libèrent, 1er mars 2017), récit de la gestion municipale FN/RN à Hénin-Beaumont.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "La Voix du Nord",
+      "titre": "Nouvelles du Front, le récit des sans-voix de Marine Tondelier",
+      "url": "http://www.lavoixdunord.fr/125288/article/2017-03-01/nouvelles-du-front-le-recit-des-sans-voix-de-marine-tondelier",
+      "date": "2017-03-01"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseillère municipale d'opposition d'Hénin-Beaumont et conseillère communautaire d'Hénin-Carvin de 2014 à 2026 ; tête de liste aux municipales de 2020 (18,22 % contre 74,21 % au maire sortant RN Steeve Briois).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "La Croix",
+      "titre": "Résultats Hénin-Beaumont (62110) : élections municipales 2020",
+      "url": "https://www.la-croix.com/elections/resultats-municipales/pas-de-calais-62/henin-beaumont-62110",
+      "date": "2020-03-15"
+     }
+    ]
+   },
+   {
+    "texte": "Conseillère régionale des Hauts-de-France depuis juillet 2021 (liste d'union de la gauche dans le Pas-de-Calais).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Résultats des élections régionales 2021 dans le Pas-de-Calais",
+      "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/regionales-2021/32/3262/index.php",
+      "date": "2021-06-27"
+     }
+    ]
+   },
+   {
+    "texte": "Candidate aux législatives dans la 11e circonscription du Pas-de-Calais face à Marine Le Pen : 1,63 % en 2012, 3,55 % en 2017, 38,97 % au second tour en 2022 (investiture NUPES).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Résultats des élections législatives 2022 – 11e circonscription du Pas-de-Calais",
+      "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives-2022/062/06211.php",
+      "date": "2022-06-19"
+     }
+    ]
+   },
+   {
+    "texte": "Élue secrétaire nationale d'EELV le 10 décembre 2022 (90,8 % au second tour, après 46,97 % au premier tour pour sa motion).",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Marine Tondelier élue secrétaire nationale d'Europe-Ecologie-Les Verts",
+      "url": "https://www.lemonde.fr/politique/article/2022/12/10/eelv-en-congres-pour-elire-marine-tondelier-a-sa-tete_6153788_823448.html",
+      "date": "2022-12-10"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Congrès d'EELV : les militants placent Marine Tondelier en tête et boudent le duel Jadot-Rousseau",
+      "url": "https://www.lemonde.fr/politique/article/2022/11/27/congres-d-eelv-les-militants-placent-marine-tondelier-en-tete-et-boudent-le-duel-jadot-rousseau_6151805_823448.html",
+      "date": "2022-11-27"
+     }
+    ]
+   },
+   {
+    "texte": "Réélue à la tête des Écologistes le 19 avril 2025 avec 72,64 % des voix.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Le parti prend le nom « Les Écologistes » en octobre 2023 sous sa direction.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "La Voix du Nord",
+      "titre": "EELV lance son mouvement Les Ecologistes, destiné à remplacer l'actuel parti",
+      "url": "https://www.lavoixdunord.fr/1385084/article/2023-10-14/eelv-lance-son-mouvement-les-ecologistes-destine-remplacer-l-actuel-parti",
+      "date": "2023-10-14"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Participe en juin 2024 à la création du Nouveau Front populaire (NFP) et représente la coalition dans l'émission d'entre-deux-tours de BFM TV le 3 juillet 2024.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Marine Tondelier s'impose en figure politique centrale avant le second tour des législatives",
+      "url": "https://www.lemonde.fr/politique/article/2024/07/04/legislatives-2024-l-ecologiste-marine-tondelier-s-impose-en-figure-centrale-de-l-entre-deux-tours_6246559_823448.html",
+      "date": "2024-07-04"
+     },
+     {
+      "media": "Mediapart",
+      "titre": "Pour gagner, le Nouveau Front populaire anticipe sa stratégie de second tour",
+      "url": "https://www.mediapart.fr/journal/politique/230624/pour-gagner-le-nouveau-front-populaire-anticipe-sa-strategie-de-second-tour",
+      "date": "2024-06-23"
+     }
+    ]
+   },
+   {
+    "texte": "Déclare sa candidature à l'élection présidentielle le 22 octobre 2025.",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "«Un acte d'amour pour la France» : Marine Tondelier annonce sa «candidature à l'élection présidentielle»",
+      "url": "https://www.lefigaro.fr/politique/un-acte-d-amour-pour-la-france-marine-tondelier-annonce-sa-candidature-a-la-presidentielle-20251022",
+      "date": "2025-10-22"
+     },
+     {
+      "media": "L'Obs",
+      "titre": "Marine Tondelier : “Pourquoi je suis candidate à l'élection présidentielle”",
+      "url": "https://www.nouvelobs.com/politique/20251022.OBS109023/marine-tondelier-pourquoi-je-suis-candidate-a-l-election-presidentielle.html",
+      "date": "2025-10-22"
+     }
+    ]
+   },
+   {
+    "texte": "Désignée le 8 décembre 2025 par les adhérents des Écologistes (86 %) pour représenter le parti à la primaire de la gauche unitaire prévue le 11 octobre 2026.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Sans surprise, Marine Tondelier représentera Les Écologistes en cas de primaire à gauche",
+      "url": "https://www.lemonde.fr/politique/article/2025/12/08/sans-surprise-marine-tondelier-representera-les-ecologistes-en-cas-de-primaire-a-gauche_6656518_823448.html",
+      "date": "2025-12-08"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Marine Tondelier désignée sans surprise pour représenter Les Écologistes à la primaire de la gauche",
+      "url": "https://www.franceinfo.fr/politique/eelv/presidentielle-2027-sans-surprise-marine-tondelier-a-ete-designee-pour-representer-les-ecologistes-a-la-primaire-de-la-gauche_7666159.html",
+      "date": "2025-12-08"
+     }
+    ]
+   },
+   {
+    "texte": "En juillet 2026, les militants écologistes confortent une candidature autonome en cas d'échec de la primaire.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Présidentielle 2027 : la candidature autonome de Marine Tondelier confortée par les militants écologistes en cas d'échec de la primaire",
+      "url": "https://www.lemonde.fr/politique/article/2026/07/06/presidentielle-2027-la-candidature-autonome-de-marine-tondelier-confortee-par-les-militants-ecologistes-en-cas-d-echec-de-la-primaire_6721217_823448.html",
+      "date": "2026-07-06"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Le 21 septembre 2026, le conseil fédéral maintient sa candidature (motion adoptée à 69,44 %) et fixe un référendum interne du 10 au 13 décembre 2026 : maintien de sa candidature ou ralliement à un candidat d'une autre force de gauche.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Présidentielle 2027 : Les Écologistes trancheront en décembre sur l'avenir de la candidature de Marine Tondelier",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/21/presidentielle-2027-les-ecologistes-trancheront-en-decembre-sur-l-avenir-de-la-candidature-de-marine-tondelier_6779300_823448.html",
+      "date": "2026-09-21"
+     },
+     {
+      "media": "LCP",
+      "titre": "Candidature à la présidentielle : pas de choix définitif des Écologistes avant la mi-décembre",
+      "url": "https://lcp.fr/actualites/candidature-a-la-presidentielle-pas-de-choix-definitif-des-ecologistes-avant-la-mi",
+      "date": "2026-09-21"
+     }
+    ]
+   },
+   {
+    "texte": "Janvier-février 2026 : une tribune de plus de 500 adhérents conteste la stratégie d'alliances municipales ; le parti suspend jusqu'à la fin des municipales les signataires refusant de retirer leur signature.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Municipales 2026 : une fronde et des départs qui fragilisent Les Écologistes de Marine Tondelier",
+      "url": "https://www.lemonde.fr/politique/article/2026/01/30/municipales-2026-une-fronde-et-des-departs-qui-fragilisent-les-ecologistes-de-marine-tondelier_6664816_823448.html",
+      "date": "2026-01-30"
+     },
+     {
+      "media": "Mediapart",
+      "titre": "Suspensions chez les Écologistes : la normalisation d'un parti qui voulait faire de la politique « autrement »",
+      "url": "https://www.mediapart.fr/journal/politique/040226/suspensions-chez-les-ecologistes-la-normalisation-d-un-parti-qui-voulait-faire-de-la-politique-autremen",
+      "date": "2026-02-04"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Chez les Écologistes, les signataires d'une tribune critiquant la ligne Tondelier suspendus jusqu'à la fin des municipales",
+      "url": "https://www.leparisien.fr/elections/municipales/chez-les-ecologistes-les-signataires-dune-tribune-critiquant-la-ligne-tondelier-suspendus-jusqua-la-fin-des-municipales-04-02-2026-FD6AIJER5JCZXK5YQYRMYVZCDU.php",
+      "date": "2026-02-04"
+     }
+    ]
+   },
+   {
+    "texte": "Critiques internes avant le congrès d'avril 2025 sur les règles du congrès, notamment de la part d'Éric Piolle et Sandrine Rousseau.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Marine Tondelier, la médiatique cheffe des Écologistes, affronte un début de crise interne",
+      "url": "https://www.lemonde.fr/politique/article/2025/02/26/marine-tondelier-la-mediatique-cheffe-des-ecologistes-affronte-un-debut-de-crise-interne_6564567_823448.html",
+      "date": "2025-02-26"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce le 23 septembre 2026 la naissance de son second fils, Léon.",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "Présidentielle 2027 : Marine Tondelier annonce la naissance de son fils, Léon",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-marine-tondelier-annonce-la-naissance-de-son-fils-leon-20260923",
+      "date": "2026-09-23"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Marine Tondelier",
+      "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "agriculture": {
+   "resume": "Propose de créer une « sécurité sociale de l'alimentation », présentée comme sa première mesure, et de soutenir les caisses locales expérimentales.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Fait de la création d'une « sécurité sociale de l'alimentation » sa première mesure prioritaire en cas d'élection.",
+     "sources": [
+      {
+       "media": "Le HuffPost",
+       "titre": "Si elle est élue présidente, la première mesure de Tondelier concernera l'alimentation",
+       "url": "https://www.huffingtonpost.fr/politique/article/si-marine-tondelier-est-elue-presidente-sa-premiere-mesure-concernera-l-alimentation_256303.html",
+       "date": "2025-10-22"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Tondelier",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose un référendum pour convoquer une Assemblée constituante et fonder une « Première République écologique et citoyenne » (fin du « présidentialisme », suppression du 49.3, proportionnelle intégrale).",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Appelle à un référendum pour la mise en place d'une Assemblée constituante.",
+     "sources": [
+      {
+       "media": "Libération",
+       "titre": "Le bipartisme, «un souvenir lointain» : l'écologiste Marine Tondelier appelle à un référendum pour la mise en place d'une Assemblée constituante",
+       "url": "https://www.liberation.fr/politique/le-bipartisme-un-souvenir-lointain-lecologiste-marine-tondelier-appelle-a-un-referendum-pour-la-mise-en-place-dune-assemblee-constituante-20250208_AIXEB3WV3ZAANJ62BRNI6HBWQQ/",
+       "date": "2025-02-08"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Marine Tondelier",
+       "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme présenté le 13 juillet 2026 propose une « Première République écologique et citoyenne » mettant fin au « présidentialisme ».",
+     "sources": [
+      {
+       "media": "Entrevue",
+       "titre": "Marine Tondelier présente le programme des Écologistes pour 2027",
+       "url": "https://entrevue.fr/elections/marine-tondelier-presente-le-programme-des-ecologistes-pour-2027/",
+       "date": "2026-07-13"
+      },
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    },
+    {
+     "texte": "Propose la suppression de l'article 49.3 et la proportionnelle intégrale.",
+     "sources": [
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose d'abroger la réforme de 2023 et de revenir à 62 ans, avec un objectif de 60 ans pour les carrières longues et métiers pénibles.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose un retour immédiat à l'âge minimum de 62 ans, avec un objectif de 60 ans pour les carrières longues et les métiers pénibles.",
+     "sources": [
+      {
+       "media": "Parlons Politique",
+       "titre": "Ce que le programme écologiste de Marine Tondelier changerait pour les retraites, le nucléaire et les impôts",
+       "url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+       "date": "2026-07-13"
+      },
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    }
+   ]
+  },
+  "economie_fiscalite": {
+   "resume": "Propose une taxe de 2 % sur les patrimoines de plus de 100 millions d'euros (« taxe Zucman »), un ISF climatique et une TVA verte.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose une taxe « Zucman » de 2 % sur les patrimoines supérieurs à 100 millions d'euros.",
+     "sources": [
+      {
+       "media": "Parlons Politique",
+       "titre": "Ce que le programme écologiste de Marine Tondelier changerait pour les retraites, le nucléaire et les impôts",
+       "url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+       "date": "2026-07-13"
+      },
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un « ISF climatique » et une TVA verte.",
+     "sources": [
+      {
+       "media": "Entrevue",
+       "titre": "Marine Tondelier présente le programme des Écologistes pour 2027",
+       "url": "https://entrevue.fr/elections/marine-tondelier-presente-le-programme-des-ecologistes-pour-2027/",
+       "date": "2026-07-13"
+      },
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose une sortie planifiée du nucléaire (environ 20 ans) au profit des énergies renouvelables, avec un objectif de neutralité carbone en 2040.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de planifier la sortie du parc nucléaire sur environ 20 ans et une stratégie 100 % renouvelables.",
+     "sources": [
+      {
+       "media": "Parlons Politique",
+       "titre": "Ce que le programme écologiste de Marine Tondelier changerait pour les retraites, le nucléaire et les impôts",
+       "url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+       "date": "2026-07-13"
+      },
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    },
+    {
+     "texte": "Fixe un objectif de neutralité carbone en 2040.",
+     "sources": [
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose une hausse du SMIC et une semaine de 32 heures pour les métiers pénibles.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose une « forte hausse du SMIC » et la semaine de 32 heures pour les métiers pénibles.",
+     "sources": [
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Défend une Europe fédérale avec des compétences partagées (politique étrangère, défense, fiscalité, protection sociale) et s'oppose à l'accord UE-Mercosur.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose des compétences européennes partagées en politique étrangère, sécurité commune, fiscalité et protection sociale.",
+     "sources": [
+      {
+       "media": "Parlons Politique",
+       "titre": "Ce que le programme écologiste de Marine Tondelier changerait pour les retraites, le nucléaire et les impôts",
+       "url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+       "date": "2026-07-13"
+      },
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un Haut conseil militaire rattaché au Conseil européen.",
+     "sources": [
+      {
+       "media": "Entrevue",
+       "titre": "Marine Tondelier présente le programme des Écologistes pour 2027",
+       "url": "https://entrevue.fr/elections/marine-tondelier-presente-le-programme-des-ecologistes-pour-2027/",
+       "date": "2026-07-13"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "S'oppose aux quotas migratoires et à la remise en cause du droit du sol ; défend des voies légales de migration.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "S'oppose aux quotas migratoires et à toute restriction du droit du sol ; soutient des voies légales de migration.",
+     "sources": [
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Propose la reconnaissance de la Palestine, l'interdiction dans l'UE des produits des colonies israéliennes, et des garanties de sécurité fortes pour l'Ukraine.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose la reconnaissance de l'État de Palestine et l'interdiction dans l'UE des produits issus des colonies israéliennes.",
+     "sources": [
+      {
+       "media": "Parlons Politique",
+       "titre": "Ce que le programme écologiste de Marine Tondelier changerait pour les retraites, le nucléaire et les impôts",
+       "url": "https://www.parlons-politique.fr/elections/ce-que-le-programme-ecologiste-de-marine-tondelier-changerait-pour-les-retraites-le-nucleaire-et-les-impots_23570/",
+       "date": "2026-07-13"
+      }
+     ]
+    },
+    {
+     "texte": "Demande des « garanties de sécurité fortes » pour l'Ukraine.",
+     "sources": [
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose une police de proximité contrôlée par un organe indépendant.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose une police de proximité avec un organe de contrôle indépendant.",
+     "sources": [
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Propose d'imposer la mixité sociale dans les établissements privés sous contrat et de développer l'éducation à la vie affective.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose d'imposer la mixité sociale dans le privé sous contrat et de développer l'éducation affective.",
+     "sources": [
+      {
+       "media": "France-Vote",
+       "titre": "Programme de Marine Tondelier et des Écologistes pour 2027",
+       "url": "https://www.france-vote.fr/actualites/programme-marine-tondelier-2027",
+       "date": "2026-09-07"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Plainte en diffamation de Steeve Briois, Bruno Bilde et Laurent Morel (livre « Nouvelles du Front »)",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2020-11-06",
+   "description": "Poursuivie pour diffamation par le maire RN d'Hénin-Beaumont, son ancien adjoint et l'ancien directeur des services pour son livre de 2017. Le tribunal correctionnel de Paris a jugé certains propos diffamatoires mais l'a relaxée au bénéfice de la bonne foi (novembre 2020). En appel, la cour d'appel de Paris a débouté les plaignants de leurs demandes de dommages et intérêts (décision rendue début 2022).",
+   "sources": [
+    {
+     "media": "France Bleu (ICI)",
+     "titre": "Hénin-Beaumont : relaxe pour Marine Tondelier poursuivie en diffamation par Steeve Briois",
+     "url": "https://www.francebleu.fr/infos/faits-divers-justice/henin-beaumont-relaxe-pour-marine-tondelier-poursuivie-en-diffamation-par-steeve-briois-1604687864",
+     "date": "2020-11-06"
+    },
+    {
+     "media": "franceinfo (France 3 Hauts-de-France)",
+     "titre": "Justice : le maire RN d'Hénin-Beaumont, Steeve Briois, débouté de ses demandes à l'encontre de Marine Tondelier par la Cour d'appel de Paris",
+     "url": "https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/henin-beaumont/justice-poursuivit-en-diffamation-par-le-maire-rn-d-henin-beaumont-steve-briois-l-elue-ecologiste-marine-tondelier-attend-la-decision-de-la-cour-d-appel-de-paris-2424802.html",
+     "date": "2022-01-19"
+    },
+    {
+     "media": "Le Figaro",
+     "titre": "Attaquée en diffamation par le maire RN d'Hénin-Beaumont, une élue EELV défend son livre",
+     "url": "https://www.lefigaro.fr/flash-actu/attaquee-en-diffamation-par-le-maire-rn-d-henin-beaumont-une-elue-eelv-defend-son-livre-20200917",
+     "date": "2020-09-17"
+    }
+   ]
+  },
+  {
+   "intitule": "Plainte en diffamation de deux viticulteurs de l'Aude (« ils ont brûlé la grange »)",
+   "statut": "relaxe_ou_non_lieu",
+   "date": "2024-11-29",
+   "description": "Poursuivie après une vidéo publiée en juin 2023 à la suite d'une altercation avec des viticulteurs ; le parquet n'avait requis aucune peine. Le tribunal correctionnel de Narbonne l'a relaxée le 29 novembre 2024, estimant l'intention diffamatoire non établie.",
+   "sources": [
+    {
+     "media": "franceinfo (France 3 Occitanie)",
+     "titre": "Marine Tondelier relaxée dans une affaire de diffamation contre deux vignerons par le Tribunal correctionnel de Narbonne",
+     "url": "https://france3-regions.franceinfo.fr/occitanie/aude/marine-tondelier-relaxee-dans-une-affaire-de-diffamation-contre-deux-vignerons-par-le-tribunal-correctionnel-de-narbonne-3068653.html",
+     "date": "2024-11-29"
+    },
+    {
+     "media": "Marine & Océans (dépêche AFP)",
+     "titre": "Diffamation envers deux viticulteurs: Marine Tondelier relaxée",
+     "url": "https://marine-oceans.com/actualites/diffamation-envers-deux-viticulteurs-marine-tondelier-relaxee/",
+     "date": "2024-11-29"
+    },
+    {
+     "media": "franceinfo (France 3 Occitanie)",
+     "titre": "\"Ils ont brûlé sa grange\" : la patronne des Écologistes au tribunal, Marine Tondelier poursuivie en diffamation par deux agriculteurs",
+     "url": "https://france3-regions.franceinfo.fr/occitanie/aude/narbonne/ils-ont-brule-sa-grange-la-patronne-des-ecologistes-au-tribunal-marine-tondelier-poursuivie-en-diffamation-par-deux-agriculteurs-3050791.html",
+     "date": "2024-10"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Pas de candidature présidentielle antérieure : aucun compte de campagne présidentielle à son nom auprès de la CNCCFP.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Marine Tondelier",
+     "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Comptes 2024 des Écologistes (CNCCFP) : 8,79 M€ de produits, 7,88 M€ de charges, résultat de +912 259 €, total des dettes de 7,91 M€ et situation nette positive de 10,56 M€ ; aide publique de 3,20 M€, dont 172 462 € reversés à Génération écologie et 355 031 € à Génération.s.",
+   "sources": [
+    {
+     "media": "CNCCFP (Journal officiel)",
+     "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (JO du 10 février 2026)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+     "date": "2026-02-10"
+    }
+   ]
+  },
+  {
+   "texte": "Le parti a emménagé en 2024 dans un nouveau siège parisien (Bastille) après avoir assaini sa situation financière.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Les Écologistes",
+     "url": "https://fr.wikipedia.org/wiki/Les_%C3%89cologistes",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "L'Opinion",
+     "titre": "Un nouveau siège parisien pour Les Ecologistes",
+     "url": "https://www.lopinion.fr/politique/un-nouveau-siege-parisien-pour-les-ecologistes",
+     "date": "2024-01-15"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1523 @@
+{
+ "id": "jean-luc-melenchon",
+ "nom": "Jean-Luc Mélenchon",
+ "naissance": "1951-08-19",
+ "lieu_naissance": "Tanger (Maroc)",
+ "parti": "La France insoumise",
+ "parti_sigle": "LFI",
+ "famille": "gauche",
+ "position": -7.0,
+ "position_justif": {
+  "texte": "Position fixée à −7 (barème LFI). Wikipédia classe LFI à « gauche » / « gauche radicale » ; le ministère de l'Intérieur l'a classée « extrême gauche » dans sa grille de nuances de 2026, classement que le Conseil d'État a jugé sans « erreur manifeste d'appréciation » le 27 février 2026 ; Mélenchon récuse les étiquettes « gauche radicale » et « extrême gauche ». Famille « gauche » conservée comme dans la liste des candidats, le classement étant disputé.",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "La France insoumise",
+    "url": "https://fr.wikipedia.org/wiki/La_France_insoumise",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Le Monde",
+    "titre": "Le Conseil d'Etat confirme la classification de LFI à l'« extrême gauche » et celle de l'UDR à l'« extrême droite » pour les élections municipales",
+    "url": "https://www.lemonde.fr/politique/article/2026/02/27/le-conseil-d-etat-confirme-la-classification-de-lfi-a-l-extreme-gauche-et-celle-de-l-udr-a-l-extreme-droite-pour-les-elections-municipales_6668609_823448.html",
+    "date": "2026-02-27"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "LFI classée à « l'extrême gauche » : comment le ministère de l'Intérieur établit-il sa catégorisation des formations politiques ?",
+    "url": "https://www.franceinfo.fr/politique/lfi-classee-a-l-extreme-gauche-comment-le-ministere-de-l-interieur-etablit-il-une-categorisation-des-formations-politiques_7788827.html",
+    "date": "2026-02-06"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Jean-Luc Mélenchon",
+    "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+    "date": "2026-09-25"
+   }
+  ]
+ },
+ "statut": "investi",
+ "photo": {
+  "fichier": "img/candidats/jean-luc-melenchon.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:M%C3%A9lenchon_2027_-_55261894422_(cropped).jpg",
+  "auteur": "jlm2017.fr",
+  "licence": "CC BY 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/lfi.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:LOGO-LFI-2026.png",
+  "licence": "Domaine public"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Baccalauréat en 1969 au lycée Rouget-de-Lisle de Lons-le-Saunier (Jura).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le JDD",
+      "titre": "Avant l'Élysée, ils passaient le bac",
+      "url": "https://www.lejdd.fr/Politique/Les-candidats-a-la-presidentielles-se-rememorent-leur-bac-331775-3112115",
+      "date": "2011-06-17"
+     }
+    ]
+   },
+   {
+    "texte": "Licence de lettres modernes et licence de philosophie à l'université de Besançon (1972).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "TV5Monde",
+      "titre": "Portrait : Jean-Luc Mélenchon, l'homme en colère",
+      "url": "https://information.tv5monde.com/info/portrait-jean-luc-melenchon-l-homme-en-colere-154495",
+      "date": "2017-02-16"
+     }
+    ]
+   },
+   {
+    "texte": "Titulaire du CAPES de lettres modernes.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Jean-Luc Mélenchon, l'ex-socialiste candidat PC",
+      "url": "http://www.leparisien.fr/election-presidentielle-2012/candidats/jean-luc-melenchon-l-ex-socialiste-candidat-pc-23-06-2011-1505589.php",
+      "date": "2011-06-23"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Correcteur dans une imprimerie de Besançon, puis quelques mois ouvrier dans l'usine horlogère Maty et employé de station-service.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "L'Est républicain",
+      "titre": "Mélenchon, un drôle de coco",
+      "url": "https://www.estrepublicain.fr/actualite/2012/03/18/melenchon-un-drole-de-coco",
+      "date": "2012-03-18"
+     }
+    ]
+   },
+   {
+    "texte": "Surveillant puis maître auxiliaire au lycée du Bois à Mouchard, puis professeur de français dans un lycée technique de Lons-le-Saunier à partir de 1976.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Point",
+      "titre": "Mélenchon se vend… en librairie !",
+      "url": "https://www.lepoint.fr/politique/05-01-2011-melenchon-se-vend-en-librairie-05-01-2011-126779_20.php",
+      "date": "2011-01-05"
+     }
+    ]
+   },
+   {
+    "texte": "Journaliste pigiste aux Dépêches du Jura (pseudonyme Jean-Louis Mula) et dessinateur de presse à La Croix jurassienne (pseudonyme Moz) à partir de 1978.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "L'Obs",
+      "titre": "Chefs indiens et patrons gras : on a retrouvé les dessins de presse de Mélenchon",
+      "url": "https://www.nouvelobs.com/rue89/rue89-politique/20141012.RUE5516/chefs-indiens-et-patrons-gras-on-a-retrouve-les-dessins-de-presse-de-melenchon.html",
+      "date": "2014-10-12"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseiller municipal de Massy (1983-2001), adjoint au maire de 1989 à 1995 ; conseiller général de l'Essonne (1985-1992 et 1998-2004), vice-président puis président délégué du conseil général (1998-2004).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Sénateur de l'Essonne du 2 octobre 1986 au 27 avril 2000 et du 1er octobre 2004 au 7 janvier 2010.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre délégué à l'Enseignement professionnel dans le gouvernement Jospin, du 27 mars 2000 au 6 mai 2002.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Libération",
+      "titre": "Jean-Luc Mélenchon, 48 ans, ex-grande gueule du PS, rentre dans le rang avec celui de ministre délégué",
+      "url": "http://www.liberation.fr/portrait/2000/04/27/jean-luc-melenchon-48-ans-ex-grande-gueule-du-ps-rentre-dans-le-rang-avec-celui-de-ministre-delegue-_321446",
+      "date": "2000-04-27"
+     }
+    ]
+   },
+   {
+    "texte": "Député européen (circonscription Sud-Ouest) du 14 juillet 2009 au 18 juin 2017.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Député de la 4e circonscription des Bouches-du-Rhône du 21 juin 2017 au 21 juin 2022, président du groupe La France insoumise de 2017 à octobre 2021 ; sans mandat électif depuis 2022.",
+    "sources": [
+     {
+      "media": "Assemblée nationale",
+      "titre": "Fiche de Jean-Luc Mélenchon, député (XVe législature)",
+      "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA2150",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Militant trotskiste à l'OCI (1972-1976), membre du Parti socialiste de 1976 à 2008, fondateur du Parti de gauche (2009) puis de La France insoumise (2016).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "La France insoumise",
+      "url": "https://fr.wikipedia.org/wiki/La_France_insoumise",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Candidat à l'élection présidentielle en 2012 (4e, 11,10 %, Front de gauche), 2017 (4e, 19,58 %) et 2022 (3e, 21,95 %).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce sa quatrième candidature à l'élection présidentielle le 3 mai 2026 au journal de 20 heures de TF1, après l'aval des élus insoumis.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Jean-Luc Mélenchon annonce être candidat à l'élection présidentielle pour la quatrième fois, sur une ligne toujours plus antisystème",
+      "url": "https://www.lemonde.fr/politique/article/2026/05/03/jean-luc-melenchon-annonce-etre-candidat-a-l-election-presidentielle-pour-la-quatrieme-fois-sur-une-ligne-toujours-plus-antisysteme_6685247_823448.html",
+      "date": "2026-05-03"
+     },
+     {
+      "media": "LCP",
+      "titre": "Présidentielle : Jean-Luc Mélenchon officialise sa candidature pour 2027",
+      "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+      "date": "2026-05-03"
+     },
+     {
+      "media": "France 24",
+      "titre": "Jean-Luc Mélenchon officialise sa candidature à l'élection présidentielle de 2027",
+      "url": "https://www.france24.com/fr/france/20260503-jean-luc-m%C3%A9lenchon-lfi-officialise-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle-de-2027",
+      "date": "2026-05-03"
+     }
+    ]
+   },
+   {
+    "texte": "Dit avoir recueilli plus de 150 000 parrainages citoyens en moins de 24 heures après l'annonce de sa candidature.",
+    "sources": [
+     {
+      "media": "20 Minutes",
+      "titre": "Mélenchon reçoit le soutien de plus de 150.000 citoyens pour 2027",
+      "url": "https://www.20minutes.fr/politique/4221908-20260505-presidentielle-2027-surprise-melenchon-recoit-soutien-plus-150-000-citoyens-course-vers-elysee",
+      "date": "2026-05-05"
+     },
+     {
+      "media": "TF1 Info",
+      "titre": "Pourquoi Jean-Luc Mélenchon a-t-il réclamé le parrainage de 150.000 citoyens pour valider sa candidature ?",
+      "url": "https://www.tf1info.fr/politique/pourquoi-jean-luc-melenchon-reclame-t-il-le-parrainage-de-150-000-citoyens-pour-valider-sa-candidature-a-la-presidentielle-2439637.html",
+      "date": "2026-05-04"
+     }
+    ]
+   },
+   {
+    "texte": "Au 2 septembre 2026, il avait recueilli un peu plus de 200 promesses de parrainages d'élus sur les 500 nécessaires, selon des sources internes à LFI.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Jean-Luc Mélenchon n'a recueilli pour l'instant qu'un peu plus de 200 promesses de parrainages en vue de la présidentielle, loin des 500 nécessaires",
+      "url": "https://www.franceinfo.fr/politique/melenchon/info-franceinfo-jean-luc-melenchon-n-a-recueilli-pour-l-instant-qu-un-peu-plus-de-200-promesses-de-parrainages-en-vue-de-la-presidentielle-loin-des-500-necessaires_8172731.html",
+      "date": "2026-09-02"
+     }
+    ]
+   },
+   {
+    "texte": "Candidature soutenue notamment par le NPA-L'Anticapitaliste (Philippe Poutou), le Parti de gauche et la Révolution écologique pour le vivant ; il a refusé de participer à une primaire de la gauche.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Le NPA-l'Anticapitaliste soutiendra Jean-Luc Mélenchon à l'élection présidentielle de 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-npa-anticapitaliste-renonce-a-presenter-un-candidat-a-l-election-presidentielle-2027-et-annonce-soutenir-jean-luc-melenchon_8084936.html",
+      "date": "2026-06-29"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Jean-Luc Mélenchon",
+      "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "economie_fiscalite": {
+   "resume": "Propose un impôt sur le revenu à 14 tranches, le rétablissement de l'ISF avec volet climatique, une taxe de 2 % sur le patrimoine des milliardaires, la suppression de la flat tax et un héritage maximal de 12 millions d'euros ; propose en 2026 de « bloquer les prix » et les marges.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose de rendre l'impôt sur le revenu plus progressif avec 14 tranches, de rendre la CSG progressive, de rétablir l'ISF avec un volet climatique et d'introduire une taxe de 2 % sur le patrimoine des milliardaires (« taxe Zucman »).",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 6 : Faire la révolution fiscale",
+       "url": "https://web.archive.org/web/20251208193258/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre6/s5/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose de supprimer la flat tax pour imposer les revenus du capital comme ceux du travail, de rétablir l'exit tax et d'instaurer une taxe permanente sur les superprofits dans tous les secteurs.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 6 : Faire la révolution fiscale",
+       "url": "https://web.archive.org/web/20251208193258/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre6/s5/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose de créer un héritage maximal de 12 millions d'euros et de remplacer le quotient familial par un crédit d'impôt par enfant.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 6 : Faire la révolution fiscale",
+       "url": "https://web.archive.org/web/20251208193258/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre6/s5/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme propose de bloquer les prix des produits de première nécessité (alimentation, énergie, carburant) ; à la braderie de Lille le 5 septembre 2026, Jean-Luc Mélenchon a repris la proposition de « bloquer les prix » et « les marges de profit ».",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 9 : Créer un état d'urgence sociale",
+       "url": "https://web.archive.org/web/20251117215537/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre9/s1/",
+       "date": "2025-01-28"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille",
+       "url": "https://www.franceinfo.fr/politique/melenchon/pouvoir-d-achat-rn-jean-luc-melenchon-a-delivre-un-discours-de-campagne-depuis-la-braderie-de-lille_8178941.html",
+       "date": "2026-09-05"
+      }
+     ]
+    },
+    {
+     "texte": "L'édition 2025 de L'Avenir en commun, présentée le 28 janvier 2025, compte 831 mesures dont 143 nouvelles par rapport à 2022 ; LFI la présente comme une rupture avec le capitalisme fondée sur la planification et le partage des richesses.",
+     "sources": [
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : En dévoilant le programme de LFI, Mélenchon se met en bonne place pour l'élection",
+       "url": "https://www.20minutes.fr/politique/4136043-20250129-presidentielle-2027-devoilant-programme-lfi-melenchon-met-bonne-place-election",
+       "date": "2025-01-29"
+      },
+      {
+       "media": "Mediapart",
+       "titre": "La France insoumise met son programme à jour, et joue la présidentielle anticipée",
+       "url": "https://www.mediapart.fr/journal/politique/280125/la-france-insoumise-met-son-programme-jour-et-joue-la-presidentielle-anticipee",
+       "date": "2025-01-28"
+      },
+      {
+       "media": "Le Parisien",
+       "titre": "Avec son nouveau programme, LFI fait un pas de plus vers la présidentielle",
+       "url": "https://www.leparisien.fr/elections/presidentielle/avec-son-nouveau-programme-lfi-fait-un-pas-de-plus-vers-la-presidentielle-24-01-2025-U27NYRSN6VE2RCJP2X6JY6GPF4.php",
+       "date": "2025-01-24"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "L'Avenir en commun",
+       "url": "https://fr.wikipedia.org/wiki/L%27Avenir_en_commun",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Propose que la BCE transforme la dette publique qu'elle détient en dette perpétuelle à taux nul (« gel » de 636 milliards d'euros de dette française selon lui), un audit citoyen de la dette et la fin des obligations indexées sur l'inflation.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Le 23 août 2026, aux universités d'été de LFI, il propose que la BCE « mette au congélateur » les dettes des États détenues par l'Eurosystème, en commençant par celles de la période Covid ; selon lui, la part française représente 18 % de la dette de l'État, soit 636 milliards d'euros. Il ne s'agit pas de la dette détenue par les investisseurs privés.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Cinq questions sur la proposition de Jean-Luc Mélenchon de geler une partie de la dette française",
+       "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/cinq-questions-sur-la-proposition-de-jean-luc-melenchon-de-geler-une-partie-de-la-dette-francaise_8160833.html",
+       "date": "2026-08-27"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Jean-Luc Mélenchon au centre des débats et des critiques avec sa proposition d'annuler une partie de la dette",
+       "url": "https://www.lemonde.fr/politique/article/2026/08/28/l-annulation-de-la-dette-de-la-france-la-proposition-polemique-qui-place-jean-luc-melenchon-au-c-ur-des-debats-de-la-presidentielle_6758807_823448.html",
+       "date": "2026-08-28"
+      },
+      {
+       "media": "franceinfo",
+       "titre": "Dette publique : peut-on « foutre au feu » une partie de l'emprunt français, comme le propose Jean-Luc Mélenchon ?",
+       "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/dette-publique-peut-on-foutre-au-feu-une-partie-de-l-emprunt-francais-comme-le-propose-jean-luc-melenchon_8188346.html",
+       "date": "2026-09-11"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme propose d'exiger que la BCE transforme la part de dette des États qu'elle possède en dettes perpétuelles à taux nul, de réinstaurer un circuit du Trésor et de réaliser un audit citoyen de la dette pour en déterminer la part « illégitime ».",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 6 : Refuser le chantage : annuler la dette publique",
+       "url": "https://web.archive.org/web/20251113011927/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre6/s4/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Le programme propose de mettre fin à l'émission d'obligations indexées sur l'inflation (OATi) et de retirer la dette Covid des comptes de la Sécurité sociale.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 6 : Refuser le chantage : annuler la dette publique",
+       "url": "https://web.archive.org/web/20251113011927/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre6/s4/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Le gouverneur de la Banque de France, la présidente de la BCE et le président de la Bundesbank ont publiquement rejeté la proposition ; Mélenchon et Manuel Bompard accusent le gouverneur de la Banque de France de mentir sur le contenu des traités.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Dette publique : peut-on « foutre au feu » une partie de l'emprunt français, comme le propose Jean-Luc Mélenchon ?",
+       "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/dette-publique-peut-on-foutre-au-feu-une-partie-de-l-emprunt-francais-comme-le-propose-jean-luc-melenchon_8188346.html",
+       "date": "2026-09-11"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Annulation de la dette",
+       "url": "https://fr.wikipedia.org/wiki/Annulation_de_la_dette",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Effacement de la dette : une idée « illégale, dangereuse et inutile », estime Emmanuel Moulin, le gouverneur de la Banque de France",
+       "url": "https://www.lemonde.fr/economie/article/2026/09/11/effacement-de-la-dette-une-idee-illegale-dangereuse-et-inutile-estime-emmanuel-moulin-le-gouverneur-de-la-banque-de-france_6770543_3234.html",
+       "date": "2026-09-11"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose d'abroger la réforme portant l'âge de départ à 64 ans, de rétablir la retraite à 60 ans à taux plein avec 40 annuités et de porter au minimum au niveau du SMIC toutes les pensions pour une carrière complète.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose d'abroger la réforme des retraites de 2023 et de restaurer le droit à la retraite à 60 ans à taux plein pour 40 annuités de cotisation.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 8 : Garantir une retraite digne",
+       "url": "https://web.archive.org/web/20250226235840/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre8/s8/",
+       "date": "2025-01-28"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : En dévoilant le programme de LFI, Mélenchon se met en bonne place pour l'élection",
+       "url": "https://www.20minutes.fr/politique/4136043-20250129-presidentielle-2027-devoilant-programme-lfi-melenchon-met-bonne-place-election",
+       "date": "2025-01-29"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "L'Avenir en commun",
+       "url": "https://fr.wikipedia.org/wiki/L%27Avenir_en_commun",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose de porter au minimum au niveau du SMIC toutes les pensions pour une carrière complète, le minimum vieillesse au seuil de pauvreté, et d'indexer les retraites sur les salaires.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 8 : Garantir une retraite digne",
+       "url": "https://web.archive.org/web/20250226235840/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre8/s8/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Financement annoncé : hausse du taux de cotisation vieillesse de 0,25 point par an durant le quinquennat et cotisations sur les dividendes, l'intéressement, la participation et les revenus financiers des entreprises.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 8 : Garantir une retraite digne",
+       "url": "https://web.archive.org/web/20250226235840/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre8/s8/",
+       "date": "2025-01-28"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose de porter immédiatement le SMIC à 1 600 euros net, d'indexer les salaires sur l'inflation, de limiter l'écart de salaires de 1 à 20 dans une entreprise et de revaloriser le point d'indice de 10 %.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose de porter immédiatement le SMIC mensuel à 1 600 euros net et d'indexer les salaires sur l'inflation dans le privé et la fonction publique.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 8 : Augmenter les salaires et réduire les inégalités salariales dans l'entreprise",
+       "url": "https://web.archive.org/web/20250319014746/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre8/s4/",
+       "date": "2025-01-28"
+      },
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 9 : Créer un état d'urgence sociale",
+       "url": "https://web.archive.org/web/20251117215537/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre9/s1/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose un salaire maximal limitant l'écart de 1 à 20 entre le plus bas et le plus haut salaire d'une entreprise, et de plafonner les dividendes à la part des bénéfices versée aux salariés.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 8 : Augmenter les salaires et réduire les inégalités salariales dans l'entreprise",
+       "url": "https://web.archive.org/web/20250319014746/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre8/s4/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose de revaloriser de 10 % le point d'indice des fonctionnaires et les APL.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 9 : Créer un état d'urgence sociale",
+       "url": "https://web.archive.org/web/20251117215537/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre9/s1/",
+       "date": "2025-01-28"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Propose le « 100 % Sécu » (remboursement à 100 % des soins prescrits et intégration des mutuelles dans la Sécurité sociale), un service public de santé à moins de 30 minutes de chaque Français et la régulation de l'installation des médecins.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose d'instaurer le « 100 % Sécu » en remboursant à 100 % les soins prescrits et en intégrant les mutuelles dans la Sécurité sociale.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 15 : Faire passer la santé d'abord",
+       "url": "https://web.archive.org/web/20260304102257/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre15/s2/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose de rouvrir des services d'urgences, des maternités et des EHPAD publics pour un service de santé à moins de trente minutes de chaque Français, et d'abroger la hausse des franchises médicales de 2024.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 15 : Faire passer la santé d'abord",
+       "url": "https://web.archive.org/web/20260304102257/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre15/s2/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Contre les déserts médicaux, il propose de réguler l'installation des médecins, de recruter des médecins publics et de créer un réseau public de centres de santé.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 15 : Faire passer la santé d'abord",
+       "url": "https://web.archive.org/web/20260304102257/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre15/s2/",
+       "date": "2025-01-28"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Propose la gratuité réelle de l'école publique (cantine, transport, manuels), la suppression de Parcoursup, la gratuité de l'enseignement supérieur, l'abrogation du « Choc des savoirs » et, en 2026, la cantine bio gratuite pour tous les élèves.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose de démanteler Parcoursup et de garantir à tous les bacheliers l'accès sans sélection à la formation de leur choix, ainsi que la gratuité de l'enseignement supérieur de la licence au doctorat.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 5 : Refonder l'enseignement supérieur",
+       "url": "https://web.archive.org/web/20260204165028/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre5/s6/",
+       "date": "2025-01-28"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : En dévoilant le programme de LFI, Mélenchon se met en bonne place pour l'élection",
+       "url": "https://www.20minutes.fr/politique/4136043-20250129-presidentielle-2027-devoilant-programme-lfi-melenchon-met-bonne-place-election",
+       "date": "2025-01-29"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "L'Avenir en commun",
+       "url": "https://fr.wikipedia.org/wiki/L%27Avenir_en_commun",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose la gratuité réelle de l'éducation publique (cantines, transport, périscolaire, manuels), l'extension de la scolarité obligatoire à 18 ans et l'abrogation du « Choc des savoirs » et des groupes de niveau.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 5 : Reconstruire une école globale pour l'égalité et l'émancipation",
+       "url": "https://web.archive.org/web/20250129203400/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre5/s3/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose d'abroger la loi Carle et d'appliquer un malus au financement public des établissements privés sous contrat contribuant à la ségrégation scolaire.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 5 : Reconstruire une école globale pour l'égalité et l'émancipation",
+       "url": "https://web.archive.org/web/20250129203400/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre5/s3/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "À la braderie de Lille le 5 septembre 2026, il propose la cantine bio gratuite pour tous les élèves.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille",
+       "url": "https://www.franceinfo.fr/politique/melenchon/pouvoir-d-achat-rn-jean-luc-melenchon-a-delivre-un-discours-de-campagne-depuis-la-braderie-de-lille_8178941.html",
+       "date": "2026-09-05"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Propose de régulariser les travailleurs, étudiants et parents d'enfants scolarisés sans papiers, d'instaurer la carte de séjour de dix ans comme titre de référence, d'abroger les dernières lois asile et immigration et de garantir l'AME.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose de faciliter l'accès aux visas, de régulariser les travailleurs, étudiants et parents d'enfants scolarisés, et d'instituer la carte de séjour de dix ans comme titre de séjour de référence.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 16 : Pour une politique migratoire humaniste et réaliste",
+       "url": "https://web.archive.org/web/20260213091741/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre16/s7/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose d'abroger les dernières lois asile et immigration, de garantir l'accès à l'aide médicale d'État (AME), de suspendre le règlement Dublin et de renégocier les accords du Touquet.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 16 : Pour une politique migratoire humaniste et réaliste",
+       "url": "https://web.archive.org/web/20260213091741/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre16/s7/",
+       "date": "2025-01-28"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose d'abroger la loi de 2017 sur l'usage des armes par les policiers (refus d'obtempérer), d'interdire les LBD et grenades de désencerclement, de remplacer l'IGPN par une autorité indépendante et de rétablir les jurés populaires.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose d'abroger la loi Cazeneuve de 2017 sur l'usage des armes à feu par les forces de l'ordre (refus d'obtempérer).",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 4 : Refonder une police républicaine",
+       "url": "https://web.archive.org/web/20260218220238/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre4/s3/",
+       "date": "2025-01-28"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : En dévoilant le programme de LFI, Mélenchon se met en bonne place pour l'élection",
+       "url": "https://www.20minutes.fr/politique/4136043-20250129-presidentielle-2027-devoilant-programme-lfi-melenchon-met-bonne-place-election",
+       "date": "2025-01-29"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "L'Avenir en commun",
+       "url": "https://fr.wikipedia.org/wiki/L%27Avenir_en_commun",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose d'interdire les tasers, les grenades de désencerclement et les LBD 40, les techniques d'immobilisation létales et la « nasse » en manifestation, et de remplacer l'IGPN et l'IGGN par une autorité indépendante rattachée au Défenseur des droits.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 4 : Refonder une police républicaine",
+       "url": "https://web.archive.org/web/20260218220238/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre4/s3/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose de porter à deux ans la formation des gardiens de la paix.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 4 : Refonder une police républicaine",
+       "url": "https://web.archive.org/web/20260218220238/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre4/s3/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "En matière de justice, il propose de recruter magistrats et greffiers, d'augmenter l'aide juridictionnelle et de rétablir les jurés populaires en supprimant les cours criminelles sans jurés.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 7 : La justice au nom du peuple",
+       "url": "https://web.archive.org/web/20260301001202/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre7/s6/",
+       "date": "2025-01-28"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Propose de quitter immédiatement le commandement intégré de l'OTAN puis l'organisation elle-même, de créer un pôle public de l'armement, de reconnaître l'État de Palestine avec un embargo sur les armes vers Israël, et un cessez-le-feu en Ukraine avec retrait des troupes russes.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose de se retirer immédiatement du commandement intégré de l'OTAN puis, par étapes, de l'organisation elle-même.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 16 : Assumer l'indépendance de la France dans le monde",
+       "url": "https://web.archive.org/web/20250717062853/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre16/s1/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose une nouvelle loi de programmation militaire, un pôle public de l'armement, la priorité au matériel militaire français et un service militaire optionnel dans le cadre d'un service citoyen obligatoire.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 16 : Construire une défense souveraine au service de la paix",
+       "url": "https://web.archive.org/web/20250129202744/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre16/s2/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose, en Ukraine, un cadre diplomatique pour obtenir un cessez-le-feu, le retrait des troupes russes et des négociations de paix ; au Proche-Orient, des sanctions contre le gouvernement Netanyahou, un embargo sur les armes et la reconnaissance de l'État de Palestine.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 16 : Agir pour le respect du droit international contre les guerres",
+       "url": "https://web.archive.org/web/20260403072831/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre16/s4/",
+       "date": "2025-01-28"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Propose d'utiliser le veto français contre tout nouvel accord de libre-échange (dont le Mercosur), de conditionner la contribution au budget européen et de « désobéir » aux règles européennes incompatibles avec son programme (règles budgétaires, concurrence, travailleurs détachés).",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose d'utiliser le droit de veto de la France pour refuser tous les nouveaux accords de libre-échange (Mercosur, Inde, Australie…) et tout élargissement sans harmonisation, et de conditionner la contribution française au budget de l'UE.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 17 : Utiliser tous les leviers d'action face aux institutions européennes",
+       "url": "https://web.archive.org/web/20260313205603/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre17/s1/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose de cesser d'appliquer unilatéralement la directive sur le détachement des travailleurs, les règles budgétaires, les règles de concurrence et la libre circulation des capitaux, et d'abroger les accords de libre-échange en vigueur (Canada, Japon, Nouvelle-Zélande).",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 17 : Désobéir à chaque fois que c'est nécessaire",
+       "url": "https://web.archive.org/web/20250129202612/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre17/s2/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose un « opt-out » de la France de l'Europe de la défense ; tout accord de changement des traités serait soumis à référendum.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 17 : Désobéir à chaque fois que c'est nécessaire",
+       "url": "https://web.archive.org/web/20250129202612/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre17/s2/",
+       "date": "2025-01-28"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose 100 % d'énergies renouvelables en 2050, la sortie du nucléaire (abandon des EPR), la renationalisation d'EDF et d'Engie, le retour des tarifs réglementés et l'isolation d'au moins 700 000 logements par an.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose de planifier le passage à 100 % d'énergies renouvelables en 2050 et de sortir du nucléaire en abandonnant les projets d'EPR.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 13 : Organiser le 100 % d'énergies renouvelables en 2050",
+       "url": "https://web.archive.org/web/20251119042628/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre13/s3/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose de renationaliser EDF et Engie dans un pôle public de l'énergie, d'annuler la libéralisation des marchés de l'électricité et du gaz et de rétablir des tarifs réglementés.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 13 : Organiser le 100 % d'énergies renouvelables en 2050",
+       "url": "https://web.archive.org/web/20251119042628/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre13/s3/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose d'isoler au moins 700 000 logements par an et d'interdire réellement la location des passoires thermiques.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 13 : Organiser le 100 % d'énergies renouvelables en 2050",
+       "url": "https://web.archive.org/web/20251119042628/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre13/s3/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Aux universités d'été de LFI le 23 août 2026, il présente la planification de la sortie des énergies fossiles et la création d'« écorégions » liées aux bassins versants.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "« Il est vital de tout changer dans nos manières de vivre » : Jean-Luc Mélenchon lance sa campagne présidentielle",
+       "url": "https://www.franceinfo.fr/politique/melenchon/il-est-vital-de-tout-changer-dans-nos-manieres-de-vivre-jean-luc-melenchon-lance-sa-campagne-presidentielle_8159204.html",
+       "date": "2026-08-24"
+      }
+     ]
+    }
+   ]
+  },
+  "ia_numerique": {
+   "resume": "Propose une mission nationale de maîtrise de l'intelligence artificielle, l'interdiction de certains usages (identification biométrique, notation des individus), un cloud public, une agence publique des logiciels libres et une fonderie française de microprocesseurs.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose de créer une mission nationale de maîtrise de l'intelligence artificielle et d'interdire certains usages de l'IA et du big data (identification biométrique, gestion des flux migratoires, notation pour l'attribution de crédits).",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 18 : Garantir la souveraineté numérique de la France",
+       "url": "https://web.archive.org/web/20251007053306/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre18/s5/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose de passer sous contrôle public les infrastructures du numérique, de construire un cloud public, de créer une agence publique des logiciels libres et une fonderie française pour microprocesseurs.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 18 : Garantir la souveraineté numérique de la France",
+       "url": "https://web.archive.org/web/20251007053306/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre18/s5/",
+       "date": "2025-01-28"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Propose de construire 200 000 logements publics par an pendant cinq ans, d'encadrer les loyers partout (à la baisse dans les grandes villes), de porter le quota SRU à 30 % et, en 2026, de « bloquer les loyers ».",
+   "origine": "programme 2022",
+   "details": [
+    {
+     "texte": "Le programme 2022 propose de construire 200 000 logements publics par an pendant cinq ans, d'encadrer les loyers sur tout le territoire, de porter le quota de logements sociaux (loi SRU) à 30 % et de créer une garantie universelle des loyers.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel 2022)",
+       "titre": "L'Avenir en commun (2022) – Garantir le droit au logement",
+       "url": "https://laec.fr/section/54/garantir-le-droit-au-logement",
+       "date": "2021-11-18"
+      }
+     ]
+    },
+    {
+     "texte": "L'édition 2025 propose de construire 15 000 logements étudiants supplémentaires par an.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 5 : Refonder l'enseignement supérieur",
+       "url": "https://web.archive.org/web/20260204165028/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre5/s6/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "À la braderie de Lille le 5 septembre 2026, il propose de « bloquer les loyers pour ne pas être expulsé avant l'hiver ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille",
+       "url": "https://www.franceinfo.fr/politique/melenchon/pouvoir-d-achat-rn-jean-luc-melenchon-a-delivre-un-discours-de-campagne-depuis-la-braderie-de-lille_8178941.html",
+       "date": "2026-09-05"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Propose de créer 300 000 emplois agricoles, des prix planchers pour les agriculteurs, l'interdiction immédiate du glyphosate et des néonicotinoïdes, une réforme agraire et un protectionnisme écologique.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose une agriculture relocalisée et écologique créant 300 000 emplois agricoles, des prix planchers et l'interdiction des ventes à perte.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 13 : Souveraineté alimentaire et révolution agricole",
+       "url": "https://web.archive.org/web/20251118082501/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre13/s5/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose d'interdire immédiatement le glyphosate et les néonicotinoïdes ainsi que l'importation de productions qui en contiennent, et d'encadrer les marges de l'agro-industrie et de la grande distribution.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 13 : Souveraineté alimentaire et révolution agricole",
+       "url": "https://web.archive.org/web/20251118082501/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre13/s5/",
+       "date": "2025-01-28"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose de convoquer par référendum une Assemblée constituante pour une 6e République parlementaire, d'élire l'Assemblée à la proportionnelle, d'abolir le 49.3, d'instaurer le référendum d'initiative citoyenne (y compris révocatoire) et le vote à 16 ans.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Le programme propose de convoquer un référendum (article 11) pour engager une Assemblée constituante, dont le projet de Constitution serait soumis à référendum après deux ans de travaux.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 1 : Réunir une Assemblée constituante pour passer à la 6e République",
+       "url": "https://web.archive.org/web/20260107170047/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre1/s1/",
+       "date": "2025-01-28"
+      },
+      {
+       "media": "Wikipédia",
+       "titre": "Jean-Luc Mélenchon",
+       "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose un régime parlementaire, l'élection de l'Assemblée nationale à la proportionnelle et l'abolition du 49.3.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 1 : Abolir la monarchie présidentielle",
+       "url": "https://web.archive.org/web/20260102034712/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre1/s2/",
+       "date": "2025-01-28"
+      }
+     ]
+    },
+    {
+     "texte": "Il propose le référendum d'initiative citoyenne permettant de révoquer des élus, de proposer ou d'abroger une loi et de modifier la Constitution, le droit de vote à 16 ans, la reconnaissance du vote blanc et le vote obligatoire.",
+     "sources": [
+      {
+       "media": "La France insoumise (programme officiel, archive)",
+       "titre": "L'Avenir en commun, édition 2025, chapitre 1 : Une République permettant l'intervention populaire",
+       "url": "https://web.archive.org/web/20260113161255/https://programme.lafranceinsoumise.fr/programme2025/livre/chapitre1/s4/",
+       "date": "2025-01-28"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Perquisition d'octobre 2018 : condamnation pour rébellion et provocation",
+   "statut": "condamnation_definitive",
+   "date": "2019-12-09",
+   "description": "Lors de la perquisition du siège de LFI le 16 octobre 2018 (enquêtes sur les comptes de campagne 2017 et les assistants parlementaires européens), il bouscule un représentant du parquet et un policier et appelle à enfoncer la porte (« La République, c'est moi »). Jugé à Bobigny en septembre 2019, il est condamné le 9 décembre 2019 à trois mois d'emprisonnement avec sursis et 8 000 euros d'amende pour actes d'intimidation contre l'autorité judiciaire, rébellion et provocation. Il n'a pas fait appel. Quatre proches sont condamnés à des amendes, Alexis Corbière est relaxé.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Perquisition houleuse de LFI : Jean-Luc Mélenchon condamné à trois mois de prison avec sursis",
+     "url": "https://www.lemonde.fr/police-justice/article/2019/12/09/perquisition-houleuse-a-lfi-jean-luc-melenchon-et-ses-proches-fixes-sur-leur-sort-lundi_6022145_1653578.html",
+     "date": "2019-12-09"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Perquisition à La France insoumise : Jean-Luc Mélenchon condamné à trois mois de prison avec sursis et 8 000 euros d'amende",
+     "url": "https://www.franceinfo.fr/politique/melenchon/perquisition-mouvementee-a-la-france-insoumise-jean-luc-melenchon-condamne-a-trois-mois-de-prison-avec-sursis-et-8000-euros-d-amende_3737089.html",
+     "date": "2019-12-09"
+    },
+    {
+     "media": "Public Sénat",
+     "titre": "Mélenchon condamné à trois mois avec sursis pour la perquisition houleuse à LFI",
+     "url": "https://www.publicsenat.fr/actualites/politique/melenchon-condamne-a-trois-mois-avec-sursis-pour-la-perquisition-houleuse-a-lfi",
+     "date": "2019-12-09"
+    },
+    {
+     "media": "Le Parisien",
+     "titre": "Jean-Luc Mélenchon condamné à trois mois de prison avec sursis pour rébellion et provocation",
+     "url": "http://www.leparisien.fr/politique/jean-luc-melenchon-condamne-a-trois-mois-de-prison-avec-sursis-pour-rebellion-et-provocation-09-12-2019-8212674.php",
+     "date": "2019-12-09"
+    }
+   ]
+  },
+  {
+   "intitule": "Comptes de la campagne présidentielle de 2017 (Mediascop, L'Ère du peuple)",
+   "statut": "enquete",
+   "date": "2026-05",
+   "description": "La CNCCFP valide le compte après réformation (435 000 euros de dépenses écartées selon Le Monde) puis fait un signalement ; enquête préliminaire ouverte le 29 mai 2018, information judiciaire en novembre 2018 (soupçons de surfacturations). Sont mis en examen l'association L'Ère du peuple (mars 2021 pour prêt illicite de main-d'œuvre, puis février 2022 pour faux, escroquerie et tentative d'escroquerie aggravée), sa mandataire Marie-Pierre Oprandi (avril 2021), le trésorier Bastien Lachaud et Sophia Chikirou, dont la société Mediascop a facturé environ 1,16 million d'euros à la campagne (septembre 2024, escroquerie aggravée, abus de biens sociaux et recel d'abus de confiance). L'instruction a été close début mai 2026 sur ces quatre mises en examen ; la décision sur un éventuel procès n'est pas connue au 25 septembre 2026. Jean-Luc Mélenchon n'est pas personnellement mis en cause : ni lui ni son directeur de campagne Manuel Bompard n'ont été entendus ou mis en examen. En 2021, il a perdu son procès en diffamation contre l'ancien rapporteur de la CNCCFP qui avait dénoncé des irrégularités.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2017 : plus de 430 000 euros de dépenses litigieuses pour Mélenchon",
+     "url": "https://www.lemonde.fr/politique/article/2018/02/13/plus-de-430-000-euros-de-depenses-litigieuses-pour-melenchon-lors-de-la-presidentielle-2017_5256022_823448.html",
+     "date": "2018-02-13"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Comptes de campagne de Mélenchon : le parquet de Paris ouvre une enquête",
+     "url": "https://www.lemonde.fr/police-justice/article/2018/05/29/comptes-de-campagne-de-melenchon-le-parquet-de-paris-ouvre-une-enquete_5306593_1653578.html",
+     "date": "2018-05-29"
+    },
+    {
+     "media": "Libération",
+     "titre": "Soupçons de « prêt illicite de main d'œuvre » dans les comptes de campagne de Mélenchon",
+     "url": "https://www.liberation.fr/societe/police-justice/soupcons-de-pret-illicite-de-main-doeuvre-dans-les-comptes-de-campagne-de-melenchon-20210721_JEPLHHEYAZBJRKACDJKBBET7GM/",
+     "date": "2021-07-21"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Comptes de campagne 2017 : l'association prestataire de Jean-Luc Mélenchon de nouveau mise en examen, cette fois pour tentative d'escroquerie aggravée",
+     "url": "https://www.lemonde.fr/politique/article/2022/03/23/comptes-de-campagne-2017-l-association-prestataire-de-jean-luc-melenchon-de-nouveau-mise-en-examen-cette-fois-pour-tentative-d-escroquerie-aggravee_6118852_823448.html",
+     "date": "2022-03-23"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Comptes de campagne de LFI en 2017 : Sophia Chikirou mise en examen pour « escroquerie aggravée »",
+     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/comptes-de-campagne-de-lfi-en-2017-sophia-chikirou-mise-en-examen-pour-escroquerie-aggravee_6799207.html",
+     "date": "2024-09-24"
+    },
+    {
+     "media": "Mediapart",
+     "titre": "La députée insoumise Sophia Chikirou a été mise en examen pour escroquerie aggravée",
+     "url": "https://www.mediapart.fr/journal/france/240924/la-deputee-insoumise-sophia-chikirou-ete-mise-en-examen-pour-escroquerie-aggravee",
+     "date": "2024-09-24"
+    },
+    {
+     "media": "Le JDD",
+     "titre": "Comptes de campagne de LFI : l'enquête sur l'élection présidentielle de 2017 se clôt sur quatre mises en examen",
+     "url": "https://www.lejdd.fr/politique/comptes-de-campagne-de-lfi-lenquete-sur-lelection-presidentielle-de-2017-se-clot-sur-quatre-mises-en-examen-175440",
+     "date": "2026-05"
+    },
+    {
+     "media": "Europe 1",
+     "titre": "Comptes de campagne 2017 de LFI : l'enquête à Paris s'achève sur quatre mises en examen",
+     "url": "https://www.europe1.fr/politique/comptes-de-campagne-2017-de-lfi-lenquete-a-paris-sacheve-sur-quatre-mises-en-examen-941060",
+     "date": "2026-05"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Affaire des comptes de campagne de Jean-Luc Mélenchon en 2017",
+     "url": "https://fr.wikipedia.org/wiki/Affaire_des_comptes_de_campagne_de_Jean-Luc_M%C3%A9lenchon_en_2017",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Financement des campagnes présidentielles en France",
+     "url": "https://fr.wikipedia.org/wiki/Financement_des_campagnes_pr%C3%A9sidentielles_en_France",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Assistants parlementaires au Parlement européen",
+   "statut": "enquete",
+   "date": "2026-05-26",
+   "description": "En juillet 2017, après un signalement de l'eurodéputée FN Sophie Montel, le parquet de Paris étend à Jean-Luc Mélenchon son enquête sur les assistants parlementaires européens (soupçon d'assistants ayant travaillé pour le Parti de gauche) ; il porte plainte pour dénonciation calomnieuse. Information judiciaire ouverte en novembre 2018 ; deux anciens assistants (Laurent Maffeis, Aigline de Causans) sont placés sous le statut de témoin assisté en 2022. L'instruction est close le 26 mai 2026 sans aucune mise en examen ; l'ordonnance finale n'est pas rapportée au 25 septembre 2026.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Enquête sur les assistants parlementaires de LFI : l'instruction est close, sans mise en examen",
+     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/enquete-sur-les-assistants-parlementaires-de-lfi-l-instruction-est-close-sans-mise-en-examen_8029814.html",
+     "date": "2026-05-26"
+    },
+    {
+     "media": "Le Télégramme",
+     "titre": "Assistants parlementaires de Mélenchon : les juges clôturent l'instruction, sans mise en examen",
+     "url": "https://www.letelegramme.fr/france/assistants-parlementaires-de-melenchon-les-juges-cloturent-linstruction-sans-mise-en-examen-7051444.php",
+     "date": "2026-05-26"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Soupçons d'emplois fictifs : deux ex-assistants parlementaires de Mélenchon au Parlement européen placés sous le statut de témoin assisté",
+     "url": "https://www.lemonde.fr/societe/article/2022/11/15/soupcons-d-emplois-fictifs-deux-ex-assistants-parlementaires-de-melenchon-au-parlement-europeen-places-sous-le-statut-de-temoin-assiste_6149945_3224.html",
+     "date": "2022-11-15"
+    },
+    {
+     "media": "Les Échos",
+     "titre": "Mélenchon aussi visé par l'enquête sur les assistants parlementaires",
+     "url": "https://www.lesechos.fr/elections/france-insoumise/010151280056-melenchon-aussi-vise-par-lenquete-sur-les-assistants-parlementaires-2102752.php",
+     "date": "2017-07-18"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Jean-Luc Mélenchon",
+     "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Diffamation envers le journaliste Paulo Paranagua (Le Monde)",
+   "statut": "condamnation_non_definitive",
+   "date": "2022-06-29",
+   "description": "Après des propos tenus sur son blog (il le qualifie notamment d'« assassin repenti »), l'ancien journaliste du Monde porte plainte à deux reprises. Condamné au civil en juillet 2019 (1 euro symbolique) pour absence de mentions légales sur son blog, puis le 24 septembre 2021 à 500 euros d'amende avec sursis pour diffamation ; condamné en appel en juin 2022 pour la première plainte, il avait aussi fait appel de la seconde condamnation. L'issue définitive (arrêt d'appel sur la seconde plainte, pourvoi éventuel) n'a pas été trouvée.",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "Jean-Luc Mélenchon condamné pour diffamation envers un ex-journaliste du Monde",
+     "url": "https://www.liberation.fr/societe/police-justice/jean-luc-melenchon-condamne-pour-diffamation-envers-un-ex-journaliste-du-monde-20210924_CWV57DESMVC3ZOF3E5JK2UT374",
+     "date": "2021-09-24"
+    },
+    {
+     "media": "20 Minutes",
+     "titre": "Mélenchon condamné pour diffamation envers un ex-journaliste du Monde",
+     "url": "https://www.20minutes.fr/politique/3132587-20210924-jean-luc-melenchon-condamne-diffamation-envers-ancien-journaliste-monde",
+     "date": "2021-09-24"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Jean-Luc Mélenchon condamné en appel pour diffamation envers un ancien journaliste du « Monde »",
+     "url": "https://www.lemonde.fr/societe/article/2022/06/29/jean-luc-melenchon-condamne-en-appel-pour-diffamation-envers-un-ancien-journaliste-du-monde_6132610_3224.html",
+     "date": "2022-06-29"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Jean-Luc Mélenchon",
+     "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Injure publique et diffamation envers Radio France",
+   "statut": "condamnation_non_definitive",
+   "date": "2022-01-11",
+   "description": "Après une enquête de la cellule investigation de Radio France sur les factures de sa campagne 2017, il avait qualifié ses journalistes de « menteurs » et d'« abrutis » et appelé à les « pourrir » ; Radio France porte plainte en octobre 2018. Le 11 janvier 2022, le tribunal de Paris le condamne à 500 euros d'amende avec sursis et 3 000 euros de dommages et intérêts. Son avocat a annoncé faire appel ; l'issue de l'appel n'a pas été trouvée.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "titre": "Jean-Luc Mélenchon condamné pour injure publique et diffamation envers Radio France",
+     "url": "https://www.lefigaro.fr/politique/jean-luc-melenchon-condamne-pour-injure-publique-et-diffamation-envers-radio-france-20220111",
+     "date": "2022-01-11"
+    },
+    {
+     "media": "Le Soir",
+     "titre": "France: Jean-Luc Mélenchon condamné pour injure publique et diffamation envers Radio France",
+     "url": "https://www.lesoir.be/417289/article/2022-01-11/france-jean-luc-melenchon-condamne-pour-injure-publique-et-diffamation-envers",
+     "date": "2022-01-11"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Radio France annonce une plainte contre Jean-Luc Mélenchon",
+     "url": "https://www.lemonde.fr/la-france-insoumise/article/2018/10/20/radio-france-annonce-une-plainte-contre-jean-luc-melenchon_5372403_5126047.html",
+     "date": "2018-10-20"
+    }
+   ]
+  },
+  {
+   "intitule": "Atteinte aux droits d'auteur de l'artiste Combo (La Marianne asiatique)",
+   "statut": "condamnation_non_definitive",
+   "date": "2023-07-08",
+   "description": "Procédure civile : Jean-Luc Mélenchon et La France insoumise sont condamnés en appel en juillet 2023 à payer 40 000 euros au street-artiste Combo pour avoir utilisé sans autorisation sa peinture murale « La Marianne asiatique » dans des clips de campagne. Un éventuel pourvoi en cassation n'est pas documenté.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Jean-Luc Mélenchon et La France insoumise condamnés en appel pour l'utilisation sans permission d'une œuvre du street-artiste Combo",
+     "url": "https://www.francetvinfo.fr/culture/arts-expos/street-art/melenchon-et-lfi-condamnes-en-appel-pour-l-utilisation-sans-permission-d-une-oeuvre-du-street-artiste-combo_5940131.html",
+     "date": "2023-07-09"
+    },
+    {
+     "media": "Le Parisien",
+     "titre": "Mélenchon et LFI condamnés en appel pour atteinte aux droits d'auteur de l'artiste Combo",
+     "url": "https://www.leparisien.fr/faits-divers/melenchon-et-lfi-condamnes-en-appel-pour-atteinte-aux-droits-dauteur-de-lartiste-combo-08-07-2023-ZZNVF27OJBAOTGQFC2WTTTQGXM.php",
+     "date": "2023-07-08"
+    }
+   ]
+  },
+  {
+   "intitule": "Plainte pour « doxing » du journaliste Frédéric Haziza",
+   "statut": "accusation",
+   "date": "2025-08-31",
+   "description": "Le journaliste de Radio J Frédéric Haziza annonce avoir porté plainte pour « doxing » (divulgation d'informations exposant une personne à un risque, loi de 2024) après avoir été nommément mis en cause par Jean-Luc Mélenchon lors des universités d'été de LFI le 22 août 2025. Aucune suite judiciaire n'a été trouvée.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Le journaliste de Radio J Frédéric Haziza porte plainte contre Jean-Luc Mélenchon pour « doxing »",
+     "url": "https://www.franceinfo.fr/politique/melenchon/un-journaliste-de-radio-j-porte-plainte-contre-jean-luc-melenchon-pour-doxing_7465348.html",
+     "date": "2025-08-31"
+    }
+   ]
+  },
+  {
+   "intitule": "Livre-enquête « La Meute » : accusations sur ses méthodes internes",
+   "statut": "accusation",
+   "date": "2025-05-07",
+   "description": "Dans « La Meute » (Flammarion, mai 2025), les journalistes Charlotte Belaïch (Libération) et Olivier Pérou (Le Monde) décrivent, après plus de 200 entretiens, un fonctionnement de LFI centré sur Jean-Luc Mélenchon et le qualifient d'« homme violent » ; l'ex-députée Danielle Simonnet dit avoir subi un « harcèlement moral politique » de sa part. Il qualifie les auteurs de « dégénérés » sans porter plainte en diffamation. Aucune procédure judiciaire ne le vise à ce titre.",
+   "sources": [
+    {
+     "media": "franceinfo",
+     "titre": "Jean-Luc Mélenchon est « un homme violent », affirment les auteurs du livre enquête « La Meute » sur La France insoumise",
+     "url": "https://www.franceinfo.fr/politique/melenchon/jean-luc-melenchon-est-un-homme-violent-affirment-les-auteurs-du-livre-enquete-la-meute-sur-la-france-insoumise_7230744.html",
+     "date": "2025-05-06"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "« Mélenchon demande la dévotion aveugle. Celui qui doute trahit » : les extraits de « La Meute »",
+     "url": "https://www.lemonde.fr/idees/article/2025/05/04/melenchon-demande-la-devotion-aveugle-celui-qui-doute-trahit-les-extraits-de-la-meute-une-enquete-sur-la-france-insoumise_6602916_3232.html",
+     "date": "2025-05-04"
+    },
+    {
+     "media": "20 Minutes",
+     "titre": "Mélenchon refuse de lire « La Meute » et critique violemment ses auteurs",
+     "url": "https://www.20minutes.fr/politique/4153321-20250513-melenchon-lu-meute-livre-accuse-methodes-sectaires",
+     "date": "2025-05-13"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "« C'était extrêmement violent » : une ex-députée LFI dit avoir subi un « harcèlement moral politique » de Jean-Luc Mélenchon",
+     "url": "https://www.franceinfo.fr/politique/melenchon/temoignage-c-etait-extremement-violent-une-ex-deputee-lfi-dit-avoir-subi-un-harcelement-moral-politique-de-jean-luc-melenchon-pour-s-etre-opposee-a-sa-communicante-sophia-chikirou_7207995.html",
+     "date": "2025-04-24"
+    }
+   ]
+  },
+  {
+   "intitule": "Accusations d'antisémitisme après des propos sur le nom de Jeffrey Epstein",
+   "statut": "accusation",
+   "date": "2026-02-27",
+   "description": "Lors d'un meeting à Lyon en février 2026, il ironise sur la prononciation du nom de Jeffrey Epstein, puis le 1er mars 2026 sur celui de Raphaël Glucksmann ; ces propos sont dénoncés comme antisémites par une large partie de la classe politique, y compris à gauche, et par la LDH. Aucune procédure judiciaire trouvée.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Jean-Luc Mélenchon accusé d'antisémitisme après des propos sur la prononciation du nom de Jeffrey Epstein",
+     "url": "https://www.lemonde.fr/politique/article/2026/02/27/jean-luc-melenchon-accuse-d-antisemitisme-apres-des-propos-sur-la-prononciation-du-nom-de-jeffrey-epstein-rien-ne-va-dans-ces-propos-ca-suffit-maintenant_6668537_823449.html",
+     "date": "2026-02-27"
+    },
+    {
+     "media": "Mediapart",
+     "titre": "Complotisme et antisémitisme : Jean-Luc Mélenchon scandalise la gauche",
+     "url": "https://www.mediapart.fr/journal/politique/270226/complotisme-et-antisemitisme-jean-luc-melenchon-scandalise-la-gauche",
+     "date": "2026-02-27"
+    },
+    {
+     "media": "L'Humanité",
+     "titre": "Prononciation du nom Epstein : la LDH condamne les propos de Mélenchon",
+     "url": "https://www.humanite.fr/politique/antisemitisme/prononciation-du-nom-epstein-la-ldh-condamne-les-propos-de-melenchon",
+     "date": "2026-02-28"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Présidentielle 2012 : compte approuvé après réformation par la CNCCFP (décision du 19 décembre 2012) ; dépenses retenues de 9 427 731 euros, dont 8 559 200 euros d'apport personnel pris en compte, 499 801 euros de dons ; remboursement de l'État de 8 004 225 euros (plafond).",
+   "sources": [
+    {
+     "media": "CNCCFP",
+     "titre": "Décisions relatives aux comptes de campagne de l'élection présidentielle 2012 (JO du 30 janvier 2013)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2022/04/cnccfp_presidentielle_2012_jo_20130130.pdf",
+     "date": "2013-01-30"
+    }
+   ]
+  },
+  {
+   "texte": "En 2012, il avait prêté 150 000 euros d'épargne personnelle au Front de gauche pour la campagne présidentielle, qui lui ont été remboursés.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Jean-Luc Mélenchon",
+     "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "20 Minutes",
+     "titre": "Jean-Luc Mélenchon dévoile son patrimoine… et ses mensurations",
+     "url": "https://www.20minutes.fr/politique/1136171-20130411-20130411-melenchon-devoile-patrimoineet-mensurations",
+     "date": "2013-04-11"
+    }
+   ]
+  },
+  {
+   "texte": "Présidentielle 2017 : la campagne est financée notamment par un emprunt de 5 millions d'euros auprès d'une banque coopérative et par environ 2 millions d'euros de dons en ligne (83 000 dons en moyenne de 24 euros selon le JDD).",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "Comment les candidats financent-ils leur campagne ?",
+     "url": "http://www.liberation.fr/elections-presidentielle-legislatives-2017/2017/04/10/comment-les-candidats-financent-ils-leur-campagne_1561826",
+     "date": "2017-04-10"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "La France insoumise",
+     "url": "https://fr.wikipedia.org/wiki/La_France_insoumise",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Financement des campagnes présidentielles en France",
+     "url": "https://fr.wikipedia.org/wiki/Financement_des_campagnes_pr%C3%A9sidentielles_en_France",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Présidentielle 2017 : compte approuvé après réformation par la CNCCFP (décision du 21 décembre 2017) ; dépenses retenues de 10 241 760 euros, recettes de 10 606 340 euros dont 6 395 884 euros d'apport personnel et 2 898 199 euros de dons ; remboursement de l'État de 6 031 304 euros. Les dépenses rectifiées s'élèvent à environ 435 000 euros selon Le Monde.",
+   "sources": [
+    {
+     "media": "CNCCFP",
+     "titre": "Décisions relatives aux comptes de campagne de l'élection présidentielle 2017 (JO du 13 février 2018)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2022/04/D%C3%A9cisions_pr%C3%A9sidentielle_2017.pdf",
+     "date": "2018-02-13"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2017 : plus de 430 000 euros de dépenses litigieuses pour Mélenchon",
+     "url": "https://www.lemonde.fr/politique/article/2018/02/13/plus-de-430-000-euros-de-depenses-litigieuses-pour-melenchon-lors-de-la-presidentielle-2017_5256022_823448.html",
+     "date": "2018-02-13"
+    }
+   ]
+  },
+  {
+   "texte": "Présidentielle 2022 : compte approuvé après réformation (décision du 14 décembre 2022) ; dépenses retenues de 13 519 579 euros, recettes de 13 924 466 euros dont 8 059 303 euros d'apport personnel, 2 352 347 euros de dons, 1 300 000 euros de versements définitifs de partis et 2 173 284 euros de contributions directes des partis ; remboursement de l'État de 7 629 786 euros.",
+   "sources": [
+    {
+     "media": "CNCCFP",
+     "titre": "Décisions relatives aux comptes de campagne de l'élection présidentielle 2022 (JO du 27 janvier 2023)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+     "date": "2023-01-27"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Modèle:Élection présidentielle française de 2022 : comptes",
+     "url": "https://fr.wikipedia.org/wiki/Mod%C3%A8le:%C3%89lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2022_:_comptes",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Les comptes de campagne de l'élection présidentielle 2022 validés, avec des réserves",
+     "url": "https://www.lemonde.fr/politique/article/2023/01/27/les-comptes-de-campagne-de-l-election-presidentielle-2022-valides-avec-des-reserves_6159507_823448.html",
+     "date": "2023-01-27"
+    }
+   ]
+  },
+  {
+   "texte": "Dans sa décision sur 2022, la CNCCFP réduit le remboursement de 15 000 euros pour des dépenses omises et écarte 9 630 euros liés à l'affichage irrégulier d'autocollants ; elle relève que la société L'Internationale (ex-Mediascop, présidée par Sophia Chikirou) a facturé 844 636 euros de prestations et dit ne disposer d'aucun élément remettant en cause l'attestation de LFI selon laquelle aucun salarié du parti n'a été mis à disposition de cette société.",
+   "sources": [
+    {
+     "media": "CNCCFP",
+     "titre": "Décisions relatives aux comptes de campagne de l'élection présidentielle 2022 (JO du 27 janvier 2023)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+     "date": "2023-01-27"
+    }
+   ]
+  },
+  {
+   "texte": "Présidentielle 2027 : la période de financement de la campagne est ouverte depuis le 1er avril 2026 ; plafond de dépenses de 16,9 millions d'euros au premier tour. Les modalités de financement de sa campagne (prêts, apport de LFI) n'ont pas été rendues publiques dans les sources consultées ; son site de campagne appelle aux dons via la plateforme Action populaire.",
+   "sources": [
+    {
+     "media": "CNCCFP",
+     "titre": "Élection du Président de la République 2027",
+     "url": "https://cnccfp.fr/elections/election-du-president-de-la-republique-2027/",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Mélenchon 2027 (site officiel)",
+     "titre": "L'avenir en commun – Faire un don",
+     "url": "https://melenchon2027.fr/programme2025/livre/",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Finances de LFI : selon le rapport 2026 de la CNCCFP, la situation nette du parti est positive d'environ 1 million d'euros en 2024, avec 1,6 million d'euros de dons et cotisations ; son aide publique passe de 7,94 millions d'euros (2024) à 6,67 millions (2025).",
+   "sources": [
+    {
+     "media": "Public Sénat",
+     "titre": "Explosion des micro-partis, formations dans le rouge, aides publiques et surprises… Ce que révèle le rapport de la commission des comptes de campagne",
+     "url": "https://www.publicsenat.fr/actualites/politique/explosion-des-micro-partis-formations-dans-le-rouge-aides-publiques-et-surprises-ce-que-revele-le-rapport-de-la-commission-des-comptes-de-campagne",
+     "date": "2026-06-25"
+    }
+   ]
+  },
+  {
+   "texte": "Déclaration de patrimoine à la HATVP comme candidat en 2022 : environ 1,4 million d'euros, dont un appartement parisien de 110 m² estimé à 1,2 million d'euros et une maison dans le Loiret estimée à 170 000 euros.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Jean-Luc Mélenchon",
+     "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "20 Minutes",
+     "titre": "Les déclarations de patrimoine des 12 candidats à la présidentielle",
+     "url": "https://www.20minutes.fr/elections/3248975-20220308-presidentielle-2022-voici-declarations-patrimoine-interets-12-candidats",
+     "date": "2022-03-08"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "Election présidentielle 2022 : ce que révèlent les déclarations d'intérêts et de patrimoine des candidats",
+     "url": "https://www.lemonde.fr/les-decodeurs/article/2022/03/10/presidentielle-2022-ce-que-revelent-les-declarations-d-interets-et-de-patrimoine-des-candidats_6116984_4355770.html",
+     "date": "2022-03-10"
+    }
+   ]
+  }
+ ]
+}

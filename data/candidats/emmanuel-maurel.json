@@ -1,0 +1,569 @@
+{
+ "id": "emmanuel-maurel",
+ "nom": "Emmanuel Maurel",
+ "naissance": "1973-05-10",
+ "lieu_naissance": "Épinay-sur-Seine (Seine-Saint-Denis)",
+ "parti": "Gauche républicaine et socialiste",
+ "parti_sigle": "GRS",
+ "famille": "gauche",
+ "position": -5.0,
+ "position_justif": {
+  "texte": "Animateur national de la Gauche républicaine et socialiste, parti classé à gauche (socialisme démocratique) par Wikipédia ; ancien chef de file de l'aile gauche du PS, élu européen sur les listes LFI puis PCF, il siège à l'Assemblée dans le groupe GDR mené par les communistes. Position retenue entre le PS (−4) et le PCF (−6,5).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Gauche républicaine et socialiste",
+    "url": "https://fr.wikipedia.org/wiki/Gauche_r%C3%A9publicaine_et_socialiste",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "Le député Emmanuel Maurel annonce sa candidature à la primaire socialiste pour l'élection présidentielle",
+    "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/le-depute-emmanuel-maurel-annonce-sa-candidature-a-la-primaire-socialiste-pour-l-election-presidentielle_8176532.html",
+    "date": "2026-09-04"
+   }
+  ]
+ },
+ "statut": "primaire",
+ "photo": {
+  "fichier": "img/candidats/emmanuel-maurel.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Emmanuel_Maurel_en_2016.jpg",
+  "auteur": "Echwander",
+  "licence": "CC BY-SA 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/grs.png",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Logo-GRS-1024x441.png",
+  "licence": "Marque déposée (logo non libre, Wikipédia fr)"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Diplômé de l'Institut d'études politiques de Paris (1996, section Service public) ; diplômé en lettres modernes et en histoire de l'université Paris-Sorbonne.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Emmanuel Maurel",
+      "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "L'Humanité",
+      "titre": "Emmanuel Maurel, fidèle au socialisme républicain",
+      "url": "https://www.humanite.fr/politique/emmanuel-maurel/emmanuel-maurel-fidele-au-socialisme-republicain",
+      "date": "2024-08-04"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Chargé d'enseignement vacataire à Sciences Po Paris.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Emmanuel Maurel",
+      "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Sciences Po (plan de cours)",
+      "titre": "Plan de cours AIPO1100 – E. Maurel",
+      "url": "http://supportscoursenligne.sciences-po.fr/201010/AIPO1100/pdf/AIPO1100_plan_cours_emaurel.pdf",
+      "date": "2010"
+     }
+    ]
+   },
+   {
+    "texte": "Auteur de « Jean Poperen, une vie à gauche » (2005) et coauteur de « Leçons de droit constitutionnel et d'institutions politiques » (Ellipses, 2010).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Emmanuel Maurel",
+      "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseiller municipal de Persan (Val-d'Oise) de 2001 à 2014.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Emmanuel Maurel",
+      "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Conseiller régional d'Île-de-France (2004-2015), vice-président chargé des affaires internationales puis de la formation professionnelle et de l'apprentissage (2009-2014).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Emmanuel Maurel",
+      "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Député européen de 2014 à 2024 (élu sur la liste PS en 2014 dans l'Ouest, puis sur la liste LFI en 2019) ; membre de la commission du commerce international, il suit les négociations du traité transatlantique (TTIP).",
+    "sources": [
+     {
+      "media": "Parlement européen",
+      "titre": "Emmanuel MAUREL – Députés européens",
+      "url": "https://www.europarl.europa.eu/meps/fr/24505/EMMANUEL_MAUREL/home",
+      "date": "2024"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Frondes locales au PS autour des têtes de liste aux européennes",
+      "url": "https://www.lemonde.fr/politique/article/2013/11/21/frondes-locales-au-ps-autour-des-tetes-de-liste-aux-europeennes_3518138_823448.html",
+      "date": "2013-11-21"
+     },
+     {
+      "media": "Mediapart",
+      "titre": "Libre-échange EU-USA : six élus français suivront le dossier à Bruxelles",
+      "url": "http://www.mediapart.fr/journal/international/080714/libre-echange-eu-usa-six-elus-francais-suivront-le-dossier-bruxelles",
+      "date": "2014-07-08"
+     }
+    ]
+   },
+   {
+    "texte": "Député de la 3e circonscription du Val-d'Oise depuis juillet 2024 (62,54 % au second tour) ; membre de la commission des finances, rapporteur spécial « Travail et emploi ».",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Emmanuel Maurel",
+      "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "franceinfo (France 3 Paris Île-de-France)",
+      "titre": "Candidats Législatives 2024. Découvrez qui se présente au premier tour dans le Val-d'Oise",
+      "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/val-d-oise/legislatives-2024-decouvrez-tous-les-candidats-au-premier-tour-des-elections-dans-le-val-d-oise-2989841.html",
+      "date": "2024-06-19"
+     },
+     {
+      "media": "Assemblée nationale",
+      "titre": "Rapport spécial – Annexe 46 : Travail, emploi et administration des ministères sociaux",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b0468-tiii-a46_rapport-fond",
+      "date": "2024"
+     }
+    ]
+   },
+   {
+    "texte": "Animateur national de la Gauche républicaine et socialiste depuis sa création (février 2019).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Emmanuel Maurel",
+      "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Européennes : Emmanuel Maurel lance sa Gauche républicaine et socialiste",
+      "url": "http://www.leparisien.fr/politique/europeennes-emmanuel-maurel-lance-sa-gauche-republicaine-et-socialiste-03-02-2019-8003148.php",
+      "date": "2019-02-03"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Membre du PS de 1990 à 2018 ; en 2012, candidat au poste de premier secrétaire face à Harlem Désir, il obtient 28 % des voix.",
+    "sources": [
+     {
+      "media": "BFM TV",
+      "titre": "PS : Emmanuel Maurel sera l'adversaire d'Harlem Désir",
+      "url": "https://www.bfmtv.com/politique/ps-emmanuel-maurel-sera-ladversaire-dharlem-desir-357416.html",
+      "date": "2012-10-12"
+     },
+     {
+      "media": "Le JDD",
+      "titre": "Le PS a Désir, Maurel le sourire",
+      "url": "http://www.lejdd.fr/Politique/Actualite/Le-PS-a-Desir-Maurel-le-sourire-570151",
+      "date": "2012-10-19"
+     }
+    ]
+   },
+   {
+    "texte": "Quitte le PS en octobre 2018 avec Marie-Noëlle Lienemann et environ 650 militants pour fonder l'APRÉS, devenue la GRS en février 2019.",
+    "sources": [
+     {
+      "media": "Mediapart",
+      "titre": "Maurel organise une \"scission\" du Parti socialiste",
+      "url": "https://www.mediapart.fr/journal/france/121018/maurel-organise-une-scission-du-parti-socialiste",
+      "date": "2018-10-12"
+     },
+     {
+      "media": "Le Monde",
+      "titre": "Maurel et Lienemann annoncent être suivis par 650 socialistes",
+      "url": "https://www.lemonde.fr/politique/article/2018/10/19/maurel-et-lienemann-annoncent-etre-suivis-par-650-socialistes_5371921_823448.html",
+      "date": "2018-10-19"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Européennes : Emmanuel Maurel lance sa Gauche républicaine et socialiste",
+      "url": "http://www.leparisien.fr/politique/europeennes-emmanuel-maurel-lance-sa-gauche-republicaine-et-socialiste-03-02-2019-8003148.php",
+      "date": "2019-02-03"
+     }
+    ]
+   },
+   {
+    "texte": "Troisième sur la liste PCF aux européennes de 2024, il perd son siège, la liste n'ayant pas atteint 5 %.",
+    "sources": [
+     {
+      "media": "L'Humanité",
+      "titre": "Européennes 2024 : qui sont les six premiers noms de la liste PCF conduite par Léon Deffontaines ?",
+      "url": "https://www.humanite.fr/politique/andre-chassaigne/europeennes-2024-qui-sont-les-six-premiers-noms-de-la-liste-pcf-conduite-par-leon-deffontaines",
+      "date": "2024-01-10"
+     },
+     {
+      "media": "Marianne",
+      "titre": "Hassan, Maurel, Hortefeux… Les personnalités gagnantes et perdantes des européennes",
+      "url": "https://www.marianne.net/politique/union-europeenne/hassan-maurel-hortefeux-les-personnalites-gagnantes-et-perdantes-des-europeennes",
+      "date": "2024-06-10"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce le 4 septembre 2026 sa candidature à la primaire « Choisir 2027 » organisée par le PS, Place publique et la GRS (1er tour les 9-10 octobre 2026, second tour les 16-17 octobre).",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Le député Emmanuel Maurel annonce sa candidature à la primaire socialiste pour l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/le-depute-emmanuel-maurel-annonce-sa-candidature-a-la-primaire-socialiste-pour-l-election-presidentielle_8176532.html",
+      "date": "2026-09-04"
+     },
+     {
+      "media": "Toute l'Europe",
+      "titre": "Présidentielle 2027 : qui sont les candidats à la primaire organisée par le Parti socialiste, Place publique et la Gauche républicaine et socialiste ?",
+      "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-a-la-primaire-organisee-par-le-parti-socialiste-place-publique-et-la-gauche-republicaine-et-socialiste/",
+      "date": "2026-09-16"
+     },
+     {
+      "media": "emmanuel-maurel.fr (site de campagne)",
+      "titre": "Emmanuel Maurel · 2027 – Candidat à la primaire de la gauche socialiste et démocratique",
+      "url": "https://emmanuel-maurel.fr/",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "economie_fiscalite": {
+   "resume": "Résume son projet en « démondialiser, démarchandiser, démocratiser » ; propose de rétablir l'ISF, de porter la flat tax (PFU) à 40 % et de taxer les patrimoines de plus de 100 M€.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Résume ses propositions par la formule « un projet de gauche en 3D : démondialiser, démarchandiser, démocratiser ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Le député Emmanuel Maurel annonce sa candidature à la primaire socialiste pour l'élection présidentielle",
+       "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/le-depute-emmanuel-maurel-annonce-sa-candidature-a-la-primaire-socialiste-pour-l-election-presidentielle_8176532.html",
+       "date": "2026-09-04"
+      },
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Emmanuel Maurel · 2027 – Candidat à la primaire de la gauche socialiste et démocratique",
+       "url": "https://emmanuel-maurel.fr/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de rétablir l'ISF, de porter le prélèvement forfaitaire unique à 40 % et de créer une taxe sur les patrimoines supérieurs à 100 millions d'euros ; propose de revoir les niches fiscales (crédit d'impôt recherche, pacte Dutreil).",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Propose un grand emprunt national finançant un plan d'investissement de 300 milliards d'euros (industrie, énergie, savoir).",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de lancer dès 2027 un grand emprunt national pour un plan d'investissement de 300 milliards d'euros, souscrit notamment par les ménages afin de « relocaliser » la dette (55 % détenue à l'étranger selon lui).",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose un SMIC à 1 700 € net, une hausse d'au moins 10 % du point d'indice sur le quinquennat et l'indexation des salaires sur l'inflation.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose le SMIC à 1 700 euros net, la revalorisation du point d'indice d'au moins 10 % sur le quinquennat et l'indexation des salaires sur l'inflation.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose la suppression du plafonnement des indemnités prud'homales et au moins 30 % d'administrateurs salariés dans les entreprises de plus de 50 salariés.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose de consolider la retraite à 62 ans avec rétablissement des critères de pénibilité.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de consolider le droit à la retraite à 62 ans et de rétablir les critères de pénibilité.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Propose de supprimer la tarification à l'activité (T2A) et d'augmenter d'au moins 4 % par an les dotations de la Sécurité sociale à l'hôpital.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de supprimer la T2A et de fixer à 4 % minimum la hausse annuelle des dotations de la Sécurité sociale à l'hôpital.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Propose de porter la recherche publique à 1 % du PIB, d'augmenter de 30 % la dépense par étudiant et de revaloriser les salaires des enseignants.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de porter l'effort de recherche publique à 1 % du PIB et d'augmenter de 30 % la dépense par étudiant ; défend le primat des savoirs fondamentaux et une hausse des salaires des enseignants.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose une électricité décarbonée (nouveau nucléaire, hydroélectricité, renouvelables), la sortie du marché européen de l'électricité et une TVA à 5,5 % sur l'électricité.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de nouvelles capacités nucléaires, hydroélectriques et renouvelables, la sortie du marché européen de l'électricité et une TVA réduite à 5,5 % sur l'électricité ; propose des zones de protection intégrale sur 30 % des eaux territoriales.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "ia_numerique": {
+   "resume": "Propose une convention citoyenne sur l'IA, une IA « bien commun » (modèles ouverts, calcul souverain) et un traité international d'encadrement.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de réunir une convention citoyenne sur l'intelligence artificielle, de développer des modèles ouverts et des capacités de calcul souveraines, et de viser un traité international d'encadrement.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Propose de généraliser l'encadrement des loyers et des prix du foncier.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de généraliser l'encadrement des loyers et des prix du foncier.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Propose de stopper la financiarisation et l'extension des méga-exploitations (seuil d'agrandissement à 1,5 fois la surface moyenne régionale).",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de fixer le seuil maximal d'agrandissement des exploitations à 1,5 fois la surface utile régionale moyenne.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose de limiter ou supprimer le droit de dissolution, de réduire le pouvoir de nomination du président et d'instaurer une journée référendaire annuelle.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de limiter, voire supprimer, le droit de dissolution du président, de réduire son pouvoir de nomination et d'instaurer une journée annuelle référendaire comprenant des questions d'initiative citoyenne.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose une police de proximité, le renforcement de la police judiciaire contre le narcotrafic et davantage de moyens pour la justice.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de renforcer les effectifs de police judiciaire contre la criminalité organisée, une « police républicaine » de proximité et davantage de moyens pour la justice (budget actuel de 12 milliards d'euros selon lui).",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Propose un service public de l'intégration, la régularisation des travailleurs sans papiers, la réduction des délais d'instruction et la concentration des éloignements sur les OQTF pour motifs graves ; défend le droit du sol.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de créer un service public de l'intégration, de régulariser les travailleurs sans papiers et de concentrer les moyens d'éloignement sur les étrangers sous OQTF pour des faits graves ; réaffirme le droit du sol.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "S'oppose à un « saut fédéral » et au vote à la majorité qualifiée en diplomatie et défense ; propose de renoncer aux directives de libéralisation des services publics.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Rejette tout « saut fédéral » et l'extension de la majorité qualifiée aux questions diplomatiques et militaires ; propose de renoncer aux directives libéralisant les services publics et de remettre en cause la libre circulation des capitaux hors UE.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Propose une enveloppe de 100 milliards d'euros pour garantir un budget de défense à 3 % du PIB et exprime des réserves sur l'intégration européenne de la défense.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose une enveloppe de 100 milliards d'euros pour atteindre un budget de défense de 3 % du PIB ; soutient l'aide à l'Ukraine mais exprime « les plus fortes réserves » sur l'intégration européenne de la défense et appelle à débattre de la suspension de l'accord commercial UE-Israël.",
+     "sources": [
+      {
+       "media": "emmanuel-maurel.fr (site de campagne)",
+       "titre": "Programme – La gauche au rendez-vous du sursaut français",
+       "url": "https://emmanuel-maurel.fr/programme/",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [
+  {
+   "texte": "Pas de candidature présidentielle antérieure : aucun compte de campagne présidentielle à son nom auprès de la CNCCFP.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Emmanuel Maurel",
+     "url": "https://fr.wikipedia.org/wiki/Emmanuel_Maurel",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Comptes 2024 de la GRS (CNCCFP) : 240 424 € de produits, 187 496 € de charges, résultat de +52 928 €, dettes de 49 793 € ; aide publique de 180 494 €, dont une partie reversée à L'Engagement (38 873 €), au PCF (15 000 €), aux Radicaux de gauche (11 316 €) et au PS (7 090 €).",
+   "sources": [
+    {
+     "media": "CNCCFP (Journal officiel)",
+     "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024 (JO du 10 février 2026)",
+     "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+     "date": "2026-02-10"
+    }
+   ]
+  }
+ ]
+}

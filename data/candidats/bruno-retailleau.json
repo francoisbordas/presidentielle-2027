@@ -1,0 +1,1474 @@
+{
+ "id": "bruno-retailleau",
+ "nom": "Bruno Retailleau",
+ "naissance": "1960-11-20",
+ "lieu_naissance": "Cholet (Maine-et-Loire)",
+ "parti": "Les Républicains",
+ "parti_sigle": "LR",
+ "famille": "droite",
+ "position": 6.0,
+ "position_justif": {
+  "texte": "LR correspond à 5 dans le barème. Bruno Retailleau est décrit comme « libéral-conservateur » (Les Échos, Libération) et comme représentant de la « droite dure » (Mediapart, Le Canard enchaîné cité par Wikipédia) ; franceinfo relevait en 2024 que ses positions intéressent le RN (« il est plus conservateur que nous »). Son projet 2027 inclut la suppression du droit du sol et des référendums sur l'immigration. Position fixée à 6 : droite de LR, en deçà de DLF (6,5).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Bruno Retailleau",
+    "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Les Échos",
+    "titre": "Bruno Retailleau creuse son sillon à droite",
+    "url": "https://www.lesechos.fr/politique-societe/politique/bruno-retailleau-creuse-son-sillon-a-droite-1002248",
+    "date": "2019-03-20"
+   },
+   {
+    "media": "Mediapart",
+    "titre": "Bruno Retailleau, la droite dure à l'intérieur",
+    "url": "https://www.mediapart.fr/journal/politique/300924/bruno-retailleau-la-droite-dure-l-interieur",
+    "date": "2024-09-30"
+   },
+   {
+    "media": "franceinfo",
+    "titre": "\"Il est plus conservateur que nous !\" : comment Bruno Retailleau intéresse le RN",
+    "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/il-est-plus-conservateur-que-nous-comment-bruno-retailleau-interesse-le-rn_6788746.html",
+    "date": "2024-10-03"
+   },
+   {
+    "media": "AFP (France 24)",
+    "titre": "Retailleau veut supprimer le droit du sol par référendum",
+    "url": "https://www.france24.com/fr/info-en-continu/20260909-retailleau-veut-supprimer-le-droit-du-sol-par-r%C3%A9f%C3%A9rendum",
+    "date": "2026-09-09"
+   }
+  ]
+ },
+ "statut": "investi",
+ "photo": {
+  "fichier": "img/candidats/bruno-retailleau.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg",
+  "auteur": "Anthonymontardyfr",
+  "licence": "CC BY 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/lr.svg",
+  "source_url": "https://fr.wikipedia.org/wiki/Fichier:Logo_Les_R%C3%A9publicains_-_2023.svg",
+  "licence": "Marque déposée (logo non libre, usage d'illustration)"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Diplômé de l'Institut d'études politiques de Paris (section service public, 1985), après une maîtrise de sciences économiques à l'université de Nantes.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Bruno Retailleau, le fidèle inoxydable de François Fillon",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/2017/03/17/35003-20170317ARTFIG00306-bruno-retailleau-le-fidele-inoxydable-de-francois-fillon.php",
+      "date": "2017-03-17"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Repéré à 17 ans comme cavalier bénévole de la Cinéscénie du Puy du Fou par Philippe de Villiers, il en assure la mise en scène pendant 22 ans à partir de 1987 et préside à partir de 1989 la société Grand Parc qui gère le parc ; il en est exclu fin 2009-début 2010.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Retailleau a été metteur en scène de la Cinéscénie",
+      "url": "https://www.ouest-france.fr/pays-de-la-loire/retailleau-ete-metteur-en-scene-de-la-cinescenie-3911741",
+      "date": "2015-12-10"
+     }
+    ]
+   },
+   {
+    "texte": "Directeur général adjoint de la radio locale Alouette (Les Herbiers, Vendée) en 1985, puis directeur général de l'école de communication Sciencescom à Nantes (1987-1994), ultérieurement intégrée à Audencia.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Conseiller général de la Vendée (canton de Mortagne-sur-Sèvre) de 1988 à 2015, président du conseil général de la Vendée de 2010 à 2015.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Sénat",
+      "titre": "Bruno Retailleau – sénateur de la Vendée",
+      "url": "https://www.senat.fr/senateur/retailleau_bruno04033b.html",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Député de la Vendée de 1994 à 1997 (en remplacement de Philippe de Villiers, élu au Parlement européen).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Sénat",
+      "titre": "Bruno Retailleau – sénateur de la Vendée",
+      "url": "https://www.senat.fr/senateur/retailleau_bruno04033b.html",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Sénateur de la Vendée depuis 2004 (mandat interrompu pendant ses fonctions ministérielles, retrouvé en 2025) ; président du groupe UMP puis LR au Sénat de 2014 à 2024.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Sénat",
+      "titre": "Bruno Retailleau – sénateur de la Vendée",
+      "url": "https://www.senat.fr/senateur/retailleau_bruno04033b.html",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "L'Express",
+      "titre": "Un filloniste s'empare du groupe UMP du Sénat",
+      "url": "http://www.lexpress.fr/actualite/politique/assemblees/un-filloniste-s-empare-du-groupe-ump-du-senat_1606072.html",
+      "date": "2014-10-02"
+     }
+    ]
+   },
+   {
+    "texte": "Président du conseil régional des Pays de la Loire de décembre 2015 à octobre 2017, date à laquelle il démissionne en raison du non-cumul des mandats et cède la présidence à Christelle Morançais.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Christelle Morançais remplace Bruno Retailleau à la région Pays de la Loire",
+      "url": "https://www.20minutes.fr/politique/2154187-20171019-pays-loire-fait-christelle-morancais-remplace-bruno-retailleau-tete-region",
+      "date": "2017-10-19"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre de l'Intérieur du 21 septembre 2024 au 12 octobre 2025 (gouvernements Barnier, Bayrou et Lecornu I), avec le titre de ministre d'État à partir du 23 décembre 2024.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Retailleau, Lecornu, Barrot… Voici la composition du nouveau gouvernement Barnier",
+      "url": "https://www.lefigaro.fr/flash-actu/retailleau-lecornu-moutchou-barrot-voici-la-composition-du-nouveau-gouvernement-barnier-20240921",
+      "date": "2024-09-21"
+     },
+     {
+      "media": "Sénat",
+      "titre": "Bruno Retailleau – sénateur de la Vendée",
+      "url": "https://www.senat.fr/senateur/retailleau_bruno04033b.html",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Refuse de participer au gouvernement Lecornu II en octobre 2025 ; LR n'y participe pas officiellement.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Sébastien Lecornu renommé Premier ministre : Bruno Retailleau ne participera pas au nouveau gouvernement",
+      "url": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/direct-crise-politique-emmanuel-macron-doit-faire-connaitre-vendredi-le-nom-de-son-nouveau-premier-ministre_7543819.html",
+      "date": "2025-10-10"
+     },
+     {
+      "media": "France 24",
+      "titre": "Crise politique en France : LR ne participera pas au gouvernement de Sébastien Lecornu",
+      "url": "https://www.france24.com/fr/france/20251011-en-direct-retailleau-et-larcher-d%C3%A9favorables-%C3%A0-une-participation-de-lr-au-gouvernement-lecornu",
+      "date": "2025-10-11"
+     }
+    ]
+   },
+   {
+    "texte": "Élu président des Républicains par les adhérents le 18 mai 2025 face à Laurent Wauquiez.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Les Échos",
+      "titre": "Présidence de LR : Bruno Retailleau remporte une large victoire",
+      "url": "https://www.lesechos.fr/politique-societe/politique/presidence-de-lr-bruno-retailleau-largement-elu-a-la-tete-du-parti-2165931",
+      "date": "2025-05-18"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Membre du Mouvement pour la France de Philippe de Villiers de 1994 à 2010, qu'il quitte le 23 avril 2010 ; adhère à l'UMP en février 2012.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Bruno Retailleau quitte le MPF",
+      "url": "https://www.ouest-france.fr/ofdernmin_-Bruno-Retailleau-quitte-le-MPF_6346-1342640-fils-tous_filDMA.Htm",
+      "date": "2010-04-23"
+     }
+    ]
+   },
+   {
+    "texte": "Coordinateur de la campagne présidentielle de François Fillon en 2017, puis président du micro-parti Force républicaine hérité de ce dernier.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Arnaud de Montlaur, le financier qui lève des fonds pour Bruno Retailleau",
+      "url": "https://www.lefigaro.fr/politique/arnaud-de-montlaur-le-financier-qui-leve-des-fonds-pour-bruno-retailleau-20201227",
+      "date": "2020-12-27"
+     }
+    ]
+   },
+   {
+    "texte": "Candidat à la présidence de LR en décembre 2022, battu au second tour par Éric Ciotti avec 46,3 % des voix.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "France Bleu",
+      "titre": "Éric Ciotti élu président du parti Les Républicains avec 53,7% des voix",
+      "url": "https://www.francebleu.fr/infos/politique/eric-ciotti-elu-president-du-parti-les-republicains-avec-53-7-des-voix-8401172",
+      "date": "2022-12-11"
+     }
+    ]
+   },
+   {
+    "texte": "Se déclare candidat à la présidentielle le 12 février 2026 ; désigné candidat de LR par les adhérents le 19 avril 2026 avec 73,8 % des voix, ceux-ci ayant écarté l'option d'une primaire.",
+    "sources": [
+     {
+      "media": "Le Figaro",
+      "titre": "«J'ai pris la décision d'être candidat» : de la Place Beauvau à la conquête de l'Élysée, la mue présidentielle de Bruno Retailleau",
+      "url": "https://www.lefigaro.fr/politique/j-ai-pris-la-decision-d-etre-candidat-de-la-place-beauvau-a-la-conquete-de-l-elysee-la-mue-presidentielle-de-bruno-retailleau-20260212",
+      "date": "2026-02-12"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Choisi par les adhérents LR pour 2027, Bruno Retailleau veut se placer en candidat naturel pour la droite",
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/les-prochains-mois-seront-strategiques-choisi-par-les-adherents-lr-pour-2027-bruno-retailleau-veut-se-placer-en-candidat-naturel-pour-la-droite_7951148.html",
+      "date": "2026-04-19"
+     },
+     {
+      "media": "Public Sénat",
+      "titre": "Présidentielle : les adhérents LR désignent Bruno Retailleau comme candidat",
+      "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-bruno-retailleau-designe-candidat-par-les-adherents-lr",
+      "date": "2026-04-19"
+     }
+    ]
+   },
+   {
+    "texte": "Catholique pratiquant, marié à une médecin, père de trois enfants.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Bruno Retailleau",
+      "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro",
+      "titre": "Bruno Retailleau, le fidèle inoxydable de François Fillon",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/2017/03/17/35003-20170317ARTFIG00306-bruno-retailleau-le-fidele-inoxydable-de-francois-fillon.php",
+      "date": "2017-03-17"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "economie_fiscalite": {
+   "resume": "Propose de baisser les cotisations de 30 milliards d'euros par an (dont environ 500 € nets par an rendus au salarié médian), d'exonérer totalement de cotisations les heures au-delà de 1 623 h/an et d'alléger de plus de 25 milliards le coût du travail pour les entreprises.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de baisser les cotisations de 30 milliards d'euros par an, la moitié revenant aux salariés, « soit environ 500 euros nets par an au salaire médian ».",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Travail – 6 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/travail",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Les Échos",
+       "titre": "Présidentielle 2027 : carburants, salaires, logement… comment Retailleau veut redonner du pouvoir d'achat aux Français",
+       "url": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-carburants-salaires-logement-comment-retailleau-veut-redonner-du-pouvoir-dachat-aux-francais-2251725",
+       "date": "2026-09-15"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un seuil « zéro cotisation » à partir de 1 623 heures travaillées par an : au-delà, plus aucune cotisation sociale, salariale ni patronale.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Travail – 6 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/travail",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose plus de 25 milliards d'euros d'allègements sur le coût du travail pour les entreprises, la suppression de 100 règles jugées pénalisantes dès le lendemain de l'élection (dont le relèvement du seuil de 50 à 100 salariés) et une refonte du code du travail autour de 50 principes, le reste relevant de la négociation collective.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Entreprises – 17 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/industrie-entreprises",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Veut « tourner la page » des 35 heures et de la « sur-réglementation » en appelant à travailler plus.",
+     "sources": [
+      {
+       "media": "Capital",
+       "titre": "Fin des 35h et de la sur-réglementation : Bruno Retailleau veut tourner la page du macronisme économique",
+       "url": "https://www.capital.fr/economie-politique/fin-des-35h-et-de-la-sur-reglementation-bruno-retailleau-veut-tourner-la-page-du-macronisme-economique-1530482",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Planet.fr",
+       "titre": "Faut-il mettre fin aux 35 heures : Retailleau pour, Édouard Philippe contre",
+       "url": "https://www.planet.fr/faut-il-mettre-fin-aux-35-heures-retailleau-pour-edouard-philippe-contre.2999403.817022.html",
+       "date": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "texte": "Annonce vouloir faire baisser le prix des carburants de 17 centimes par litre, notamment en supprimant le coût des certificats d'économies d'énergie répercuté sur les carburants.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Accueil – « Le plein coûte trop cher »",
+       "url": "https://www.avecretailleau.fr/",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Les Échos",
+       "titre": "Présidentielle 2027 : carburants, salaires, logement… comment Retailleau veut redonner du pouvoir d'achat aux Français",
+       "url": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-carburants-salaires-logement-comment-retailleau-veut-redonner-du-pouvoir-dachat-aux-francais-2251725",
+       "date": "2026-09-15"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Présidentielle 2027 : Bruno Retailleau repart sur le terrain du pouvoir d'achat pour se démarquer des « bonimenteurs » dans la campagne présidentielle",
+       "url": "https://www.lemonde.fr/politique/article/2026/09/16/bruno-retailleau-repart-sur-le-terrain-du-pouvoir-d-achat-pour-se-demarquer-des-bonimenteurs-dans-la-campagne-presidentielle_6775182_823448.html",
+       "date": "2026-09-16"
+      }
+     ]
+    }
+   ]
+  },
+  "budget_dette": {
+   "resume": "Propose de réduire le nombre d'agents publics en ne remplaçant qu'un départ à la retraite sur deux (environ 300 000 postes par quinquennat, 600 000 sur dix ans, hors policiers et infirmiers) et de supprimer la plupart des agences de l'État.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Sur LCI le 22 septembre 2026, annonce ne remplacer qu'un fonctionnaire partant à la retraite sur deux, soit environ 300 000 postes en moins par quinquennat et 600 000 sur deux quinquennats, en ciblant « l'administration administrante » et non les infirmiers ou policiers ; veut « réduire drastiquement les agences » et recruter hors fonctions régaliennes par contrat plutôt que sous statut.",
+     "sources": [
+      {
+       "media": "Capital (repris par MSN)",
+       "titre": "S'attaquer à «l'administration administrante, la bureaucratie» : Bruno Retailleau vise 600 000 agents publics en moins sur dix ans",
+       "url": "https://www.capital.fr/economie-politique/s-attaquer-a-ladministration-administrante-la-bureaucratie-bruno-retailleau-vise-600-000-agents-publics-en-moins-sur-dix-ans-1530410",
+       "date": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de plafonner le cumul des aides sociales non contributives à 70 % du SMIC via un « compte social unique », de fusionner RSA, prime d'activité et ASS dans un « revenu d'incitation à l'activité », et de limiter la durée et le montant des allocations chômage.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Travail – 6 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/travail",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Déclare ne plus vouloir de « la politique du chèque », jugeant que « la France n'en a plus les moyens ».",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Accueil – actualité de campagne",
+       "url": "https://www.avecretailleau.fr/",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Le volet « Comptes publics » du projet est annoncé comme « à venir » sur le site de campagne à la date du 25 septembre 2026.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Le projet – 107 mesures",
+       "url": "https://www.avecretailleau.fr/projet",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "retraites": {
+   "resume": "Propose un âge minimal de départ à 63 ans (décote de 7 % par année manquante), un taux plein automatique à 65 ans indexé sur l'espérance de vie, et un pilier par capitalisation représentant 25 à 30 % de la retraite des jeunes actifs ; vise 40 milliards d'économies cumulées sur cinq ans.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose un âge minimal de départ à 63 ans avec une décote de 7 % par an, et un taux plein automatique à 65 ans même sans toutes les annuités (contre 67 ans aujourd'hui).",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, et le taux plein à 65 ans",
+       "url": "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html",
+       "date": "2026-09-22"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Présidentielle 2027 : Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans et un taux plein à 65 ans",
+       "url": "https://www.lemonde.fr/politique/article/2026/09/23/presidentielle-2027-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-et-un-taux-plein-a-65-ans_6780796_823448.html",
+       "date": "2026-09-23"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "«Je veux sauver le régime de retraite» : départ entre 63 et 65 ans, décote, capitalisation… Bruno Retailleau dévoile sa réforme",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/je-veux-sauver-le-regime-de-retraite-depart-entre-63-et-65-ans-decote-capitalisation-bruno-retailleau-devoile-sa-reforme-20260922",
+       "date": "2026-09-22"
+      },
+      {
+       "media": "Les Échos",
+       "titre": "Présidentielle 2027 : comment Retailleau veut pousser les Français à travailler plus longtemps sans faire bondir l'âge légal",
+       "url": "https://www.lesechos.fr/elections/programmes-dechiffres/presidentielle-2027-comment-retailleau-veut-pousser-les-francais-a-travailler-plus-longtemps-sans-faire-bondir-lage-legal-2253203",
+       "date": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "texte": "Indique que l'âge du taux plein de 65 ans pourra évoluer avec l'espérance de vie et chiffre l'économie à 40 milliards d'euros cumulés sur cinq ans.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, et le taux plein à 65 ans",
+       "url": "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html",
+       "date": "2026-09-22"
+      },
+      {
+       "media": "Les Échos",
+       "titre": "Présidentielle 2027 : comment Retailleau veut pousser les Français à travailler plus longtemps sans faire bondir l'âge légal",
+       "url": "https://www.lesechos.fr/elections/programmes-dechiffres/presidentielle-2027-comment-retailleau-veut-pousser-les-francais-a-travailler-plus-longtemps-sans-faire-bondir-lage-legal-2253203",
+       "date": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un pilier de retraite par capitalisation pour les jeunes entrant sur le marché du travail, représentant 25 à 30 % de leur retraite, sans concerner les retraités actuels ; promet une concertation avec les partenaires sociaux sur la pénibilité.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "S'il est élu, Bruno Retailleau veut instaurer un âge minimal de départ à la retraite à 63 ans, et le taux plein à 65 ans",
+       "url": "https://www.franceinfo.fr/politique/bruno-retailleau/s-il-est-elu-bruno-retailleau-veut-instaurer-un-age-minimal-de-depart-a-la-retraite-a-63-ans-le-taux-plein-a-65_8205254.html",
+       "date": "2026-09-22"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "«Je veux sauver le régime de retraite» : départ entre 63 et 65 ans, décote, capitalisation… Bruno Retailleau dévoile sa réforme",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/je-veux-sauver-le-regime-de-retraite-depart-entre-63-et-65-ans-decote-capitalisation-bruno-retailleau-devoile-sa-reforme-20260922",
+       "date": "2026-09-22"
+      }
+     ]
+    },
+    {
+     "texte": "En juin 2026, LCP résumait sa position comme un recul de l'âge de départ à 65 ans.",
+     "sources": [
+      {
+       "media": "LCP",
+       "titre": "Présidentielle 2027: qui propose quoi sur les retraites?",
+       "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864",
+       "date": "2026-06-19"
+      }
+     ]
+    },
+    {
+     "texte": "En septembre 2026, demande au gouvernement le retour de la réforme des retraites (suspendue) dans le budget 2027.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Budget : Bruno Retailleau demande au gouvernement le retour de la réforme des retraites",
+       "url": "https://www.publicsenat.fr/actualites/politique/budget-bruno-retailleau-demande-au-gouvernement-le-retour-de-la-reforme-des-retraites",
+       "date": "2026-09-16"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un cumul emploi-retraite sans cotisations retraite et chômage pour les seniors ayant tous leurs trimestres.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Travail – 6 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/travail",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose de remplacer RSA, prime d'activité et ASS par un « revenu d'incitation à l'activité » (300 € par mois sans activité), de plafonner les aides à 70 % du SMIC et de réduire la durée d'indemnisation chômage à six mois pour le refus de trois offres.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose un « revenu d'incitation à l'activité » remplaçant RSA, prime d'activité et allocation de solidarité spécifique, fixé à 300 euros par mois sans activité ni revenu, complété en cas de reprise d'emploi.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Travail – 6 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/travail",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'appliquer les règles d'assurance chômage de juin 2024 et de mettre fin à l'indemnisation après le refus d'une troisième offre raisonnable.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Travail – 6 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/travail",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Publie en mai 2026 une tribune « Instaurons la priorité travail ».",
+     "sources": [
+      {
+       "media": "La Tribune",
+       "titre": "OPINION. « Instaurons la priorité travail », par Bruno Retailleau",
+       "url": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/1253976204284314/opinion-instaurons-la-priorite-travail-par-bruno-retailleau-president-des-lr-et-candidat-a-la-presidentielle",
+       "date": "2026-05-02"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un statut d'indépendant optionnel pour les salariés rémunérés au-delà de 100 000 euros bruts annuels (environ 650 000 à 700 000 personnes).",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "L'IA – 15 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/l-ia",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "education": {
+   "resume": "Propose de supprimer la carte scolaire, de créer 1 000 écoles publiques autonomes d'ici 2032, d'instaurer un examen d'entrée en sixième avec groupes de niveau, de rétablir les notes chiffrées et d'augmenter les enseignants (+135 € nets en début de carrière).",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de supprimer la carte scolaire et la règle dite du « 80-20 » entre public et privé sous contrat, et de créer 1 000 établissements publics autonomes d'ici 2032.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Éducation – 11 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/education",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'aligner le début de carrière des professeurs sur la moyenne européenne (+135 euros nets par mois) et de combler la moitié de l'écart en milieu de carrière (environ +300 euros).",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Éducation – 11 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/education",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose un examen d'entrée en sixième déterminant l'affectation dans des groupes de niveau (« tourner la page du collège unique »), le retour des notes chiffrées et des internats disciplinaires (au moins un par académie).",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Éducation – 11 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/education",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose l'apprentissage dès 14 ans et le transfert de la voie professionnelle aux régions et aux branches.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Éducation – 11 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/education",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Entreprises – 17 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/industrie-entreprises",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "immigration": {
+   "resume": "Propose de supprimer le droit du sol par référendum, de faire voter par le Parlement des quotas de visas et titres de séjour, de rendre obligatoire l'expulsion des étrangers condamnés et de conditionner les prestations sociales à cinq ans de séjour et de travail.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose de supprimer le droit du sol par référendum, estimant qu'« on ne peut pas devenir Français par hasard » ; il s'y était déclaré favorable dès le 1er juillet 2026.",
+     "sources": [
+      {
+       "media": "AFP (France 24)",
+       "titre": "Retailleau veut supprimer le droit du sol par référendum",
+       "url": "https://www.france24.com/fr/info-en-continu/20260909-retailleau-veut-supprimer-le-droit-du-sol-par-r%C3%A9f%C3%A9rendum",
+       "date": "2026-09-09"
+      },
+      {
+       "media": "20 Minutes",
+       "titre": "Présidentielle 2027 : Retailleau veut supprimer le droit du sol et refuse la proposition d'Edouard Philippe",
+       "url": "https://www.20minutes.fr/politique/4243720-20260909-presidentielle-2027-retailleau-veut-supprimer-droit-sol-refuse-proposition-edouard-philippe",
+       "date": "2026-09-09"
+      },
+      {
+       "media": "BFMTV (repris par MSN)",
+       "titre": "\"On ne peut pas devenir Français par hasard\": Bruno Retailleau veut supprimer le droit du sol par référendum",
+       "url": "https://www.bfmtv.com/politique/elections/presidentielle/on-ne-peut-pas-devenir-francais-par-hasard-bruno-retailleau-veut-supprimer-le-droit-du-sol-par-referendum_AD-202609080950.html",
+       "date": "2026-09-08"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "Présidentielle 2027 : Bruno Retailleau durcit le ton sur l'immigration et se dit favorable à la suppression du droit du sol",
+       "url": "https://www.lefigaro.fr/politique/presidentielle-2027-bruno-retailleau-durcit-le-ton-sur-l-immigration-et-se-dit-favorable-a-la-suppression-du-droit-du-sol-20260701",
+       "date": "2026-07-01"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'inscrire dans une « charte de l'ordre républicain » constitutionnelle la suppression du droit du sol simple : la nationalité ne s'acquerrait que par filiation ou « assimilation vérifiée ».",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Pour le peuple et par le peuple – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle 2027 : Bruno Retailleau veut « renverser la table » avec une profonde réforme constitutionnelle",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+       "date": "2026-09-03"
+      }
+     ]
+    },
+    {
+     "texte": "Propose que la loi fixe des quotas de visas et de titres de séjour, et de rendre obligatoire l'expulsion de tout étranger condamné pénalement ou menaçant l'ordre public.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Pour le peuple et par le peuple – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle 2027 : Bruno Retailleau veut « renverser la table » avec une profonde réforme constitutionnelle",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+       "date": "2026-09-03"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de conditionner l'accès des étrangers aux prestations sociales (dont le revenu familial) à cinq ans de séjour régulier et de travail.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Pour le peuple et par le peuple – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "AFP (France 24)",
+       "titre": "Présidentielle: Retailleau promet de sortir la France de \"l'hiver démographique\"",
+       "url": "https://www.france24.com/fr/info-en-continu/20260430-pr%C3%A9sidentielle-retailleau-promet-de-sortir-la-france-de-l-hiver-d%C3%A9mographique",
+       "date": "2026-04-30"
+      }
+     ]
+    },
+    {
+     "texte": "Veut soumettre au référendum une « loi pour réduire l'immigration », qu'il juge « devenue une charge ».",
+     "sources": [
+      {
+       "media": "BFMTV (repris par MSN)",
+       "titre": "\"On ne peut pas devenir Français par hasard\": Bruno Retailleau veut supprimer le droit du sol par référendum",
+       "url": "https://www.bfmtv.com/politique/elections/presidentielle/on-ne-peut-pas-devenir-francais-par-hasard-bruno-retailleau-veut-supprimer-le-droit-du-sol-par-referendum_AD-202609080950.html",
+       "date": "2026-09-08"
+      },
+      {
+       "media": "AFP (France 24)",
+       "titre": "Retailleau veut supprimer le droit du sol par référendum",
+       "url": "https://www.france24.com/fr/info-en-continu/20260909-retailleau-veut-supprimer-le-droit-du-sol-par-r%C3%A9f%C3%A9rendum",
+       "date": "2026-09-09"
+      }
+     ]
+    },
+    {
+     "texte": "Wikipédia mentionne aussi la restriction du regroupement familial parmi ses propositions de juillet 2026.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Bruno Retailleau",
+       "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "Présidentielle 2027 : Bruno Retailleau durcit le ton sur l'immigration et se dit favorable à la suppression du droit du sol",
+       "url": "https://www.lefigaro.fr/politique/presidentielle-2027-bruno-retailleau-durcit-le-ton-sur-l-immigration-et-se-dit-favorable-a-la-suppression-du-droit-du-sol-20260701",
+       "date": "2026-07-01"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Propose d'inscrire un « droit à la sécurité » dans la Constitution, d'instaurer des peines minimales (notamment pour les agressions de policiers, gendarmes et pompiers) et de soumettre une loi pénale au référendum.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose des « peines minimales », notamment pour les auteurs de violences contre policiers, gendarmes ou pompiers.",
+     "sources": [
+      {
+       "media": "Europe 1",
+       "titre": "Objectif Élysée 2027 : s'il est élu, Bruno Retailleau souhaite instaurer des «peines minimales»",
+       "url": "https://www.europe1.fr/politique/objectif-elysee-2027-sil-est-elu-bruno-retailleau-souhaite-instaurer-des-peines-minimales-1064336",
+       "date": "2026-09-08"
+      },
+      {
+       "media": "Le JDD",
+       "titre": "Suppression du droit du sol, peines minimales... Bruno Retailleau dévoile ses ambitions sur CNews",
+       "url": "https://www.lejdd.fr/politique/suppression-du-droit-du-sol-peines-minimales-bruno-retailleau-devoile-ses-ambitions-sur-cnews-182979",
+       "date": "2026-09-08"
+      },
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle 2027 : Bruno Retailleau veut « renverser la table » avec une profonde réforme constitutionnelle",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+       "date": "2026-09-03"
+      }
+     ]
+    },
+    {
+     "texte": "Propose une « charte de l'ordre républicain » et d'inscrire le droit à la sécurité dans la Constitution, à égalité avec les libertés fondamentales.",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "Présidentielle 2027 : Bruno Retailleau, présent à la manifestation des policiers à Paris, propose «une charte de l'ordre républicain»",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/en-direct-presidentielle-2027-levee-de-boucliers-contre-le-s-propositions-logement-de-marine-le-pen-20260915",
+       "date": "2026-09-15"
+      },
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Pour le peuple et par le peuple – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Veut soumettre au référendum une loi « sur une politique pénale de grande fermeté ».",
+     "sources": [
+      {
+       "media": "BFMTV (repris par MSN)",
+       "titre": "\"On ne peut pas devenir Français par hasard\": Bruno Retailleau veut supprimer le droit du sol par référendum",
+       "url": "https://www.bfmtv.com/politique/elections/presidentielle/on-ne-peut-pas-devenir-francais-par-hasard-bruno-retailleau-veut-supprimer-le-droit-du-sol-par-referendum_AD-202609080950.html",
+       "date": "2026-09-08"
+      },
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle 2027 : Bruno Retailleau veut « renverser la table » avec une profonde réforme constitutionnelle",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+       "date": "2026-09-03"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'expulser les squatteurs sous dix jours maximum et de permettre aux propriétaires de couper eau et électricité d'un logement squatté.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Logement – 16 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/logement",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Critique la politique de réconciliation avec l'Algérie, qu'il qualifie d'« impasse » ; propose de multiplier par cinq les moyens de l'IA de défense.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Qualifie d'« impasse » la politique de réconciliation d'Emmanuel Macron avec l'Algérie (avril 2026).",
+     "sources": [
+      {
+       "media": "Europe 1",
+       "titre": "«Votre politique de réconciliation était une impasse» : Bruno Retailleau répond à Emmanuel Macron après ses propos sur l'Algérie",
+       "url": "https://www.europe1.fr/politique/votre-politique-de-reconciliation-etait-une-impasse-bruno-retailleau-repond-a-emmanuel-macron-apres-ses-propos-sur-lalgerie-929705",
+       "date": "2026-04-29"
+      },
+      {
+       "media": "Le JDD",
+       "titre": "Algérie : Bruno Retailleau répond à Emmanuel Macron et fustige une politique «d'impasse»",
+       "url": "https://www.lejdd.fr/politique/algerie-bruno-retailleau-repond-emmanuel-macron-et-fustige-une-politique-dimpasse-172680",
+       "date": "2026-04-29"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de multiplier par cinq les moyens consacrés à l'intelligence artificielle de défense, avec commande prioritaire à des entreprises françaises et européennes.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "L'IA – 15 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/l-ia",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "S'est rendu à Kiev en 2026, comme d'autres candidats.",
+     "sources": [
+      {
+       "media": "20 Minutes",
+       "titre": "Guerre en Ukraine : Retailleau, Philippe, Attal… Les visites des candidats à Kiev, tout bénéf' pour Zelensky ?",
+       "url": "https://www.20minutes.fr/monde/ukraine/4225827-20260602-guerre-ukraine-retailleau-philippe-attal-visites-candidats-kiev-tout-benef-zelensky",
+       "date": "2026-06-02"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Propose une clause de sauvegarde constitutionnelle permettant d'écarter le droit européen et les interprétations des cours européennes lorsqu'elles excèdent leurs compétences, et l'interdiction de toute sur-transposition des directives.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose un « bouclier constitutionnel » ou clause de sauvegarde nationale protégeant les lois françaises d'interprétations jugées abusives des juridictions européennes et internationales.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle 2027 : Bruno Retailleau veut « renverser la table » avec une profonde réforme constitutionnelle",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+       "date": "2026-09-03"
+      },
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle 2027 : « Bruno Retailleau propose une révolution copernicienne » dans laquelle « la Constitution ne serait plus le bouclier » qui protège les institutions, relèvent les juristes",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
+       "date": "2026-09"
+      },
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Pour le peuple et par le peuple – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'interdire aux autorités françaises d'appliquer règlements, directives et jurisprudences de la CJUE lorsqu'ils excèdent les compétences de l'Union.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Pour le peuple et par le peuple – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'interdire par loi organique toute sur-transposition des directives européennes et de garantir sur sept ans le budget de la PAC.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Agriculture – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/agriculture",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "A voté contre le traité de Maastricht et, en 2008, contre la ratification du traité de Lisbonne.",
+     "sources": [
+      {
+       "media": "Wikipédia",
+       "titre": "Bruno Retailleau",
+       "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Sénat",
+       "titre": "Séance du 7 février 2008 (compte rendu intégral)",
+       "url": "https://www.senat.fr/seances/s200802/s20080207/s20080207021.html",
+       "date": "2008-02-07"
+      }
+     ]
+    }
+   ]
+  },
+  "energie_climat": {
+   "resume": "Propose de prolonger les centrales nucléaires jusqu'à 80 ans, de construire les six EPR2, d'abroger le volet électricité de la PPE 3 et de cesser de subventionner éolien et solaire, et de supprimer le principe de précaution par référendum.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Promet de « mettre le paquet sur le nucléaire » pour réduire la facture d'électricité ; propose de prolonger les centrales jusqu'à 80 ans, de tenir coûts et délais des six EPR2 et d'accélérer les réacteurs de 4e génération.",
+     "sources": [
+      {
+       "media": "Le Monde",
+       "titre": "Bruno Retailleau promet de « mettre le paquet sur le nucléaire » pour réduire la facture d'électricité",
+       "url": "https://www.lemonde.fr/politique/article/2026/05/07/bruno-retailleau-promet-de-mettre-le-paquet-sur-le-nucleaire-pour-reduire-la-facture-d-electricite_6686607_823448.html",
+       "date": "2026-05-07"
+      },
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Électricité – 10 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/electricite",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'abroger immédiatement le volet électricité de la PPE 3 et de ne plus lancer d'appels d'offres éolien en mer et photovoltaïque ; il appelait dès juillet 2025 à « stopper le financement des renouvelables ».",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Électricité – 10 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/electricite",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Le Figaro",
+       "titre": "Retailleau, Bellamy, Aubert : « Rebâtir un parc nucléaire et stopper le financement des renouvelables, notre plan pour l'énergie »",
+       "url": "https://www.lefigaro.fr/vox/economie/rebatir-un-parc-nucleaire-et-stopper-le-financement-des-renouvelables-notre-plan-pour-l-energie-20250702",
+       "date": "2025-07-02"
+      },
+      {
+       "media": "Libération",
+       "titre": "Propos de Retailleau sur les énergies renouvelables : Macron invite ses ministres à se mêler des affaires pour lesquelles ils sont nommés",
+       "url": "https://www.liberation.fr/politique/propos-de-retailleau-sur-les-energies-renouvelables-macron-invite-ses-ministres-a-se-meler-des-affaires-pour-lesquelles-ils-sont-nommes-20250703_2CBGQZYYORHG5JUUFQ6QHNW4JE/",
+       "date": "2025-07-03"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de supprimer le principe de précaution de la Charte de l'environnement par référendum et de le remplacer par un « principe de responsabilité et d'innovation ».",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Pour le peuple et par le peuple – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Agriculture – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/agriculture",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de s'opposer à l'« European Grid Package » au nom du droit de chaque État à fixer son mix énergétique, et de porter les stocks d'uranium à cinq ans de consommation.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Électricité – 10 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/electricite",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "ia_numerique": {
+   "resume": "Présente un plan IA : formation de millions d'actifs en deux ans, 1 GW de data centers souverains d'ici 2030, assistant administratif « Marianne », achat européen pour l'État.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Présente le 7 juillet 2026 à Station F son projet présidentiel consacré à l'intelligence artificielle.",
+     "sources": [
+      {
+       "media": "Le Figaro (vidéo)",
+       "titre": "«L'IA doit servir le pays tout entier», Bruno Retailleau dévoile son projet présidentiel dédié à l'intelligence artificielle",
+       "url": "https://video.lefigaro.fr/figaro/secteur/high-tech/l-ia-doit-servir-le-pays-tout-entier-bruno-retailleau-devoile-son-projet-presidentiel-dedie-a-l-intelligence-artificielle-20260707",
+       "date": "2026-07-07"
+      },
+      {
+       "media": "Les Échos",
+       "titre": "Présidentielle 2027 : à Station F, Bruno Retailleau se lance à son tour dans la « bataille de l'IA »",
+       "url": "https://www.lesechos.fr/elections/presidentielle/presidentielle-2027-a-station-f-bruno-retailleau-se-lance-a-son-tour-dans-la-bataille-de-lia-2241268",
+       "date": "2026-07-07"
+      },
+      {
+       "media": "Libération",
+       "titre": "Après Philippe et Attal, Bruno Retailleau se met à son tour à l'IA : «La grande bataille technologique de notre histoire»",
+       "url": "https://www.liberation.fr/politique/apres-philippe-et-attal-bruno-retailleau-se-met-a-son-tour-a-lia-la-grande-bataille-technologique-de-notre-histoire-20260707_A4RO7TG4VBGOXHVGXZBI4MWUYA/",
+       "date": "2026-07-07"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de former en deux ans plusieurs millions d'actifs à l'IA (20 heures minimum), de porter la capacité de data centers souverains à environ 1 GW d'ici 2030, de créer un assistant administratif numérique « Marianne » et d'appliquer un principe « Buy European First » aux besoins numériques critiques de l'État.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "L'IA – 15 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/l-ia",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de dégager grâce à l'IA l'équivalent de 250 000 emplois à temps plein de temps de travail dans les services publics d'ici 2032.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "L'IA – 15 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/l-ia",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "logement": {
+   "resume": "Vise 1 million de logements supplémentaires d'ici 2032 : versement de 9 000 € de TVA aux communes par logement neuf, abrogation du ZAN et de l'encadrement des loyers, gel des normes pendant dix ans, intérêts d'emprunt déductibles pour les familles.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Promet un « choc de l'offre » dès le début du quinquennat et un objectif d'un million de logements supplémentaires d'ici 2032.",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "Logement : Bruno Retailleau promet un «choc de l'offre» dès le début du quinquennat",
+       "url": "https://www.lefigaro.fr/politique/logement-bruno-retailleau-promet-un-choc-de-l-offre-des-le-debut-du-quinquennat-20260528",
+       "date": "2026-05-28"
+      },
+      {
+       "media": "La Tribune",
+       "titre": "« La suppression de la taxe d'habitation a été une connerie » : le plan de Retailleau pour sortir 1 million de logements supplémentaires d'ici à 2032",
+       "url": "https://www.latribune.fr/article/economie/biens-d-equipement-btp-immobilier/32487560677150/la-suppression-de-la-taxe-dhabitation-a-ete-une-connerie-le-plan-de-retailleau-pour-sortir-1-million-de-logements-supplementaires-dici-a-2032",
+       "date": "2026-05-28"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de verser automatiquement aux communes 9 000 euros de TVA par logement neuf construit.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Logement – 16 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/logement",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Journal de l'Agence",
+       "titre": "Présidentielle 2027 : les propositions de Bruno Retailleau pour relancer le logement",
+       "url": "https://www.journaldelagence.com/1411841-presidentielle-2027-les-propositions-de-bruno-retailleau-pour-relancer-le-logement",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'abroger le ZAN et l'encadrement des loyers, de geler les normes de construction pendant dix ans, de lever les interdictions de louer liées au DPE et de vendre 10 % des pavillons HLM (environ 86 000) à leurs locataires.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Logement – 16 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/logement",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de rendre déductibles de l'impôt sur le revenu les intérêts d'emprunt de la résidence principale : 50 % avec un enfant, 75 % avec deux, 100 % à partir de trois.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Logement – 16 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/logement",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "AFP (France 24)",
+       "titre": "Présidentielle: Retailleau promet de sortir la France de \"l'hiver démographique\"",
+       "url": "https://www.france24.com/fr/info-en-continu/20260430-pr%C3%A9sidentielle-retailleau-promet-de-sortir-la-france-de-l-hiver-d%C3%A9mographique",
+       "date": "2026-04-30"
+      }
+     ]
+    }
+   ]
+  },
+  "agriculture": {
+   "resume": "Propose de supprimer l'Office français de la biodiversité, de reconnaître le stockage de l'eau d'intérêt général majeur, d'interdire la sur-transposition des normes européennes et de protéger l'agriculture dans la Constitution.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Au Salon de l'élevage (Space, Rennes), dénonce une « écologie dogmatique » qui aurait empêché les agriculteurs de s'adapter au changement climatique et défend le stockage de l'eau.",
+     "sources": [
+      {
+       "media": "Le Figaro",
+       "titre": "Agriculture : Bruno Retailleau dénonce «l'écologie dogmatique» au Salon de l'élevage",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/agriculture-bruno-retailleau-denonce-l-ecologie-dogmatique-au-salon-de-l-elevage-20260917",
+       "date": "2026-09-17"
+      },
+      {
+       "media": "Sud Ouest",
+       "titre": "Présidentielle 2027 : Bruno Retailleau dénonce une « écologie dogmatique » qui a « empêché » les agriculteurs de s'adapter au changement climatique",
+       "url": "https://www.sudouest.fr/politique/bruno-retailleau/presidentielle-2027-bruno-retailleau-denonce-une-ecologie-dogmatique-qui-a-empeche-les-agriculteurs-de-s-adapter-au-changement-climatique-30666149.php",
+       "date": "2026-09-17"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de supprimer l'OFB, de reconnaître les projets de stockage d'eau agricole comme relevant de l'« intérêt général majeur », d'appliquer la reconnaissance mutuelle des autorisations de produits phytosanitaires et d'inscrire l'agriculture parmi les « intérêts supérieurs de la Nation » dans la Constitution.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Agriculture – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/agriculture",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de ne plus financer les associations pratiquant « l'agribashing » et d'exiger des clauses de réciprocité dans les accords commerciaux.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Agriculture – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/agriculture",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Entreprises – 17 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/industrie-entreprises",
+       "date": "2026-09-25"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose, dès son élection, une révision constitutionnelle soumise à référendum à l'automne 2027 : référendum ouvert à toute la matière législative, RIP à 2,5 millions de signatures, « dernier mot » au peuple ou au Congrès après une censure du Conseil constitutionnel, laïcité et « racines judéo-chrétiennes » inscrites dans la Constitution.",
+   "origine": "programme 2027",
+   "details": [
+    {
+     "texte": "Propose d'ouvrir le référendum de l'article 11 à toute la matière législative (immigration, sécurité, justice, éducation…) et d'abaisser le seuil du référendum d'initiative partagée d'environ 5 à 2,5 millions de signatures.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle 2027 : Bruno Retailleau veut « renverser la table » avec une profonde réforme constitutionnelle",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+       "date": "2026-09-03"
+      },
+      {
+       "media": "Le Monde",
+       "titre": "Présidentielle 2027 : Bruno Retailleau promet une réforme constitutionnelle pour donner « le dernier mot » au « peuple français » sur certains sujets",
+       "url": "https://www.lemonde.fr/politique/article/2026/09/02/presidentielle-2027-bruno-retailleau-promet-une-reforme-constitutionnelle-pour-donner-le-dernier-mot-au-peuple-francais-sur-certains-sujets_6764572_823448.html",
+       "date": "2026-09-02"
+      },
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Pour le peuple et par le peuple – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose que, lorsque le Conseil constitutionnel censure une loi, le peuple (par référendum) ou le Congrès puisse avoir le « dernier mot ».",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle 2027 : Bruno Retailleau veut « renverser la table » avec une profonde réforme constitutionnelle",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+       "date": "2026-09-03"
+      },
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle 2027 : « Bruno Retailleau propose une révolution copernicienne » dans laquelle « la Constitution ne serait plus le bouclier » qui protège les institutions, relèvent les juristes",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-propose-une-revolution-copernicienne-dans-laquelle-la-constitution-ne-serait-plus-le-bouclier-qui-prote",
+       "date": "2026-09"
+      },
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Pour le peuple et par le peuple – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Propose d'inscrire dans la Constitution la laïcité et les « racines judéo-chrétiennes » de la France.",
+     "sources": [
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Pour le peuple et par le peuple – 12 mesures",
+       "url": "https://www.avecretailleau.fr/projet/theme/institutions",
+       "date": "2026-09-25"
+      },
+      {
+       "media": "Site officiel du candidat (avecretailleau.fr)",
+       "titre": "Inscrire la laïcité et nos racines dans la Constitution",
+       "url": "https://www.avecretailleau.fr/projet/mesure/inscrire-la-laicite-et-nos-racines-dans-la-constitution",
+       "date": "2026-09-25"
+      }
+     ]
+    },
+    {
+     "texte": "Calendrier annoncé : textes présentés dès l'élection, référendum à l'automne 2027.",
+     "sources": [
+      {
+       "media": "Public Sénat",
+       "titre": "Présidentielle 2027 : Bruno Retailleau veut « renverser la table » avec une profonde réforme constitutionnelle",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-bruno-retailleau-veut-renverser-la-table-avec-une-profonde-reforme-constitutionnelle",
+       "date": "2026-09-03"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "« Remboursements de frais » au groupe UMP du Sénat (article de Mediapart)",
+   "statut": "accusation",
+   "date": "2017-03-18",
+   "description": "Mediapart l'a cité comme bénéficiaire, pour 3 029 euros en mars 2012, du système de « remboursements de frais » du groupe UMP au Sénat, système visé par une enquête judiciaire pour détournement de fonds publics au profit de sénateurs. Bruno Retailleau a indiqué qu'il s'agissait du remboursement sur factures d'activités politiques (impression de journaux, matériel informatique). Aucune poursuite le visant personnellement n'a été trouvée dans les sources consultées.",
+   "sources": [
+    {
+     "media": "Mediapart",
+     "titre": "Les arrangements de Bruno Retailleau avec l'argent du Sénat",
+     "url": "https://www.mediapart.fr/journal/france/180317/les-arrangements-de-bruno-retailleau-avec-largent-du-senat",
+     "date": "2017-03-18"
+    },
+    {
+     "media": "Ouest-France",
+     "titre": "Fonds détournés au Sénat, Retailleau mis en cause par Mediapart",
+     "url": "https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/politique-fonds-detournes-au-senat-retailleau-mis-en-cause-par-mediapart-b73890fe-1db6-3244-a656-6077ba027478",
+     "date": "2017-10"
+    },
+    {
+     "media": "Le Point",
+     "titre": "117 sénateurs sont soupçonnés d'avoir détourné 8 millions d'euros",
+     "url": "https://www.lepoint.fr/politique/117-senateurs-sont-soupconnes-d-avoir-detourne-8-millions-d-euros-13-10-2017-2164246_20.php",
+     "date": "2017-10-13"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Bruno Retailleau",
+     "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Tricherie à l'émission « Intervilles » (1997)",
+   "statut": "accusation",
+   "date": "1997",
+   "description": "Selon Le Canard enchaîné et Arrêt sur images, il aurait, en 1997, aidé l'équipe du Puy du Fou à gagner en relayant des informations fournies par l'animateur Olivier Chiabodo, licencié ensuite. Bruno Retailleau n'a ni démenti ni commenté publiquement. Il ne s'agit pas d'une procédure judiciaire.",
+   "sources": [
+    {
+     "media": "Libération",
+     "titre": "Bruno Retailleau a-t-il triché pour faire gagner le Puy du Fou dans «Intervilles» ?",
+     "url": "https://www.liberation.fr/checknews/bruno-retailleau-a-t-il-triche-pour-faire-gagner-le-puy-du-fou-dans-intervilles-20240923_LBVITWN44NDBJAJ34VMVVL6D54/",
+     "date": "2024-09-23"
+    },
+    {
+     "media": "Le Point",
+     "titre": "Tricherie à « Intervilles » : quel rôle a vraiment joué Bruno Retailleau ?",
+     "url": "https://www.lepoint.fr/people/tricherie-a-intervilles-quel-role-a-vraiment-joue-bruno-retailleau-25-09-2024-2571175_2116.php",
+     "date": "2024-09-25"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Bruno Retailleau",
+     "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Bruno Retailleau n'a jamais été candidat à une élection présidentielle ; aucun compte de campagne présidentielle à son nom n'a été examiné par la CNCCFP.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Bruno Retailleau",
+     "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Sénat",
+     "titre": "Bruno Retailleau – sénateur de la Vendée",
+     "url": "https://www.senat.fr/senateur/retailleau_bruno04033b.html",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Il a créé en juin 2026 l'association de financement de sa campagne présidentielle.",
+   "sources": [
+    {
+     "media": "Le Figaro (AFP)",
+     "titre": "Les Républicains : Bruno Retailleau a créé l'association de financement de sa campagne",
+     "url": "https://www.lefigaro.fr/flash-actu/les-republicains-bruno-retailleau-a-cree-l-association-de-financement-de-sa-campagne-20260608",
+     "date": "2026-06-08"
+    }
+   ]
+  },
+  {
+   "texte": "Lors de la présidentielle 2022, la candidate LR Valérie Pécresse (4,78 %) n'a pas atteint le seuil de 5 % ; les frais de campagne (environ 15 millions d'euros) n'ont pas été remboursés au-delà du forfait et un appel aux dons a été lancé pour la « survie » financière du parti ; elle a déclaré s'être endettée personnellement à hauteur de 5 millions d'euros.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Présidentielle 2022 : à moins de 5 % des suffrages, Les Républicains ne seront pas remboursés de leurs frais de campagne",
+     "url": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/12/presidentielle-2022-a-moins-de-5-des-suffrages-les-republicains-ne-seront-pas-rembourses-de-leurs-frais-de-campagne_6121732_6059010.html",
+     "date": "2022-04-12"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Résultats présidentielle 2022 : Valérie Pécresse lance un \"appel aux dons\" pour la \"survie\" financière des Républicains",
+     "url": "https://www.francetvinfo.fr/politique/les-republicains/resultats-presidentielle-2022-valerie-pecresse-lance-un-appel-aux-dons-pour-la-survie-financiere-des-republicains_5075947.html",
+     "date": "2022-04-11"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Les Républicains",
+     "url": "https://fr.wikipedia.org/wiki/Les_R%C3%A9publicains",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "La dette de LR, de 74 millions d'euros en 2014 (siège, affaire Bygmalion) et 55 millions en 2017, a été ramenée à 13,2 millions fin 2019 après la vente du siège de la rue de Vaugirard.",
+   "sources": [
+    {
+     "media": "L'Express",
+     "titre": "Les Républicains ont réduit leur dette de 80% depuis 2014",
+     "url": "https://www.lexpress.fr/actualite/politique/lr/les-republicains-ont-reduit-leur-dette-de-80-depuis-2014_2109383.html",
+     "date": "2019-11-29"
+    },
+    {
+     "media": "Le Monde",
+     "titre": "LR et le microparti de François Fillon s'accordent sur le partage des dons de la campagne",
+     "url": "https://www.lemonde.fr/politique/article/2017/07/26/le-microparti-de-francois-fillon-et-lr-s-accordent-sur-le-partage-des-dons-de-la-campagne_5165379_823448.html",
+     "date": "2017-07-26"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Les Républicains",
+     "url": "https://fr.wikipedia.org/wiki/Les_R%C3%A9publicains",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Depuis 2017, il préside le micro-parti Force républicaine hérité de François Fillon (environ 10 000 adhérents), dont le financier Arnaud de Montlaur lève des fonds.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "titre": "Arnaud de Montlaur, le financier qui lève des fonds pour Bruno Retailleau",
+     "url": "https://www.lefigaro.fr/politique/arnaud-de-montlaur-le-financier-qui-leve-des-fonds-pour-bruno-retailleau-20201227",
+     "date": "2020-12-27"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Bruno Retailleau",
+     "url": "https://fr.wikipedia.org/wiki/Bruno_Retailleau",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Sa déclaration d'intérêts HATVP (modification du 3 février 2026) mentionne ses rémunérations de ministre de l'Intérieur (31 355 € en 2024, 94 046 € en 2025), de sénateur et de conseiller régional, 66 actions Crédit Agricole (environ 100 €) et des fonctions non rémunérées (présidence de LR et de Force républicaine) ; sa déclaration de patrimoine de fin de fonctions ministérielles (12 mai 2026) est consultable en préfecture de la Vendée.",
+   "sources": [
+    {
+     "media": "HATVP",
+     "titre": "Bruno Retailleau – déclarations",
+     "url": "https://www.hatvp.fr/fiche-nominative/?declarant=retailleau-bruno",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ]
+}

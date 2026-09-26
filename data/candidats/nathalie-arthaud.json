@@ -1,0 +1,569 @@
+{
+  "id": "nathalie-arthaud",
+  "nom": "Nathalie Arthaud",
+  "naissance": "1970-02-23",
+  "lieu_naissance": "Peyrins (Drôme)",
+  "parti": "Lutte ouvrière",
+  "parti_sigle": "LO",
+  "famille": "extreme_gauche",
+  "position": -9.5,
+  "position_justif": {
+    "texte": "Porte-parole de Lutte ouvrière, organisation trotskiste classée à l'extrême gauche ; se présente comme candidate « communiste, révolutionnaire et internationaliste » visant à renverser le capitalisme plutôt qu'à le réformer. Valeur du barème pour LO (−9,5).",
+    "sources": [
+      {
+        "media": "Wikipédia",
+        "titre": "Nathalie Arthaud",
+        "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+        "date": "2026-09-25"
+      },
+      {
+        "media": "franceinfo",
+        "titre": "Présidentielle 2027 : Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature",
+        "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+        "date": "2025-12-08"
+      },
+      {
+        "media": "Lutte ouvrière (site officiel)",
+        "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+        "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+        "date": "2026-05"
+      }
+    ]
+  },
+  "statut": "investi",
+  "photo": {
+    "fichier": "img/candidats/nathalie-arthaud.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024.jpg",
+    "auteur": "Kokluts",
+    "licence": "CC BY-SA 4.0"
+  },
+  "logo_parti": {
+    "fichier": "img/partis/lo.svg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Logo_Lutte_Ouvri%C3%A8re.svg",
+    "licence": "Domaine public"
+  },
+  "bio": {
+    "etudes": [
+      {
+        "texte": "Titulaire du CAPET puis de l'agrégation d'économie et gestion, après une classe préparatoire au lycée du Parc (Lyon).",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          }
+        ]
+      }
+    ],
+    "carriere_hors_politique": [
+      {
+        "texte": "Professeure d'économie-gestion ; enseigne au lycée Albert-Camus de Rillieux-la-Pape puis, à partir de 2011, au lycée Le Corbusier d'Aubervilliers (Seine-Saint-Denis).",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "ICI (ex-France Bleu)",
+            "titre": "Présidentielle 2027 : Nathalie Arthaud annonce sa candidature pour Lutte ouvrière",
+            "url": "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318",
+            "date": "2025-12-08"
+          }
+        ]
+      },
+      {
+        "texte": "A continué d'enseigner pendant la campagne présidentielle de 2017.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Nathalie Arthaud",
+            "url": "https://en.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          }
+        ]
+      }
+    ],
+    "mandats": [
+      {
+        "texte": "Conseillère municipale de Vaulx-en-Velin (Rhône), chargée de la jeunesse, de 2008 à 2014, élue sur une liste conduite par le PCF.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Nathalie Arthaud",
+            "url": "https://en.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Porte-parole nationale de Lutte ouvrière depuis décembre 2008, succédant à Arlette Laguiller.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "franceinfo",
+            "titre": "Présidentielle 2027 : Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature",
+            "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+            "date": "2025-12-08"
+          },
+          {
+            "media": "ICI (ex-France Bleu)",
+            "titre": "Présidentielle 2027 : Nathalie Arthaud annonce sa candidature pour Lutte ouvrière",
+            "url": "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318",
+            "date": "2025-12-08"
+          }
+        ]
+      }
+    ],
+    "autres": [
+      {
+        "texte": "Candidate à l'élection présidentielle en 2012 (0,56 %), 2017 (0,64 %) et 2022 (0,56 %).",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "franceinfo",
+            "titre": "Présidentielle 2027 : Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature",
+            "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+            "date": "2025-12-08"
+          },
+          {
+            "media": "ICI (ex-France Bleu)",
+            "titre": "Présidentielle 2027 : Nathalie Arthaud annonce sa candidature pour Lutte ouvrière",
+            "url": "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318",
+            "date": "2025-12-08"
+          }
+        ]
+      },
+      {
+        "texte": "Annonce le 8 décembre 2025 sa quatrième candidature à l'élection présidentielle, après un vote du congrès de LO.",
+        "sources": [
+          {
+            "media": "franceinfo",
+            "titre": "Présidentielle 2027 : Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature",
+            "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+            "date": "2025-12-08"
+          },
+          {
+            "media": "ICI (ex-France Bleu)",
+            "titre": "Présidentielle 2027 : Nathalie Arthaud annonce sa candidature pour Lutte ouvrière",
+            "url": "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318",
+            "date": "2025-12-08"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Candidatures à l'élection présidentielle française de 2027",
+            "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "Tête de liste LO à Pantin (Seine-Saint-Denis) aux municipales de 2020 (3,05 %) et de 2026.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "franceinfo",
+            "titre": "Présidentielle 2027 : Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature",
+            "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+            "date": "2025-12-08"
+          }
+        ]
+      },
+      {
+        "texte": "Militante de Lutte ouvrière depuis l'âge de 18 ans.",
+        "sources": [
+          {
+            "media": "ICI (ex-France Bleu)",
+            "titre": "Présidentielle 2027 : Nathalie Arthaud annonce sa candidature pour Lutte ouvrière",
+            "url": "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318",
+            "date": "2025-12-08"
+          },
+          {
+            "media": "Wikipédia",
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          }
+        ]
+      },
+      {
+        "texte": "En avril 2017, la dirigeante patronale Sophie de Menthon lance puis retire une pétition demandant qu'elle soit déchargée de son enseignement d'économie.",
+        "sources": [
+          {
+            "media": "Wikipédia",
+            "titre": "Nathalie Arthaud",
+            "url": "https://fr.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          },
+          {
+            "media": "Wikipédia (en)",
+            "titre": "Nathalie Arthaud",
+            "url": "https://en.wikipedia.org/wiki/Nathalie_Arthaud",
+            "date": "2026-09-25"
+          }
+        ]
+      }
+    ]
+  },
+  "programme": {
+    "travail_salaires": {
+      "resume": "Propose une augmentation massive des salaires, pensions et allocations indexés sur les prix (elle estime qu'il faut « au moins 2 200 euros net par mois »), l'interdiction des licenciements et la réduction du temps de travail sans perte de salaire.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose l'interdiction des licenciements et des augmentations de salaire.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "Présidentielle 2027 : Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature",
+              "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+              "date": "2025-12-08"
+            },
+            {
+              "media": "ICI (ex-France Bleu)",
+              "titre": "Présidentielle 2027 : Nathalie Arthaud annonce sa candidature pour Lutte ouvrière",
+              "url": "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318",
+              "date": "2025-12-08"
+            }
+          ]
+        },
+        {
+          "texte": "Propose « une augmentation massive des salaires, des allocations et des pensions et leur indexation sur la hausse des prix » ; écrit qu'« il faut gagner au moins 2 200 euros net par mois pour s'en sortir ».",
+          "sources": [
+            {
+              "media": "Lutte ouvrière (site officiel)",
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "date": "2026-05"
+            }
+          ]
+        },
+        {
+          "texte": "Propose de « baisser le temps et la charge de travail sans perte de salaire » et des centaines de milliers d'embauches dans les hôpitaux, Ehpad, l'éducation et les transports publics.",
+          "sources": [
+            {
+              "media": "Lutte ouvrière (site officiel)",
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "date": "2026-05"
+            }
+          ]
+        }
+      ]
+    },
+    "economie_fiscalite": {
+      "resume": "Propose l'expropriation des banques et, sans indemnité ni rachat, des groupes pétroliers et de l'armement, la levée du secret des affaires et la confiscation des profits dits « de guerre » ; rejette le protectionnisme.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose l'expropriation des banques.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "Présidentielle 2027 : Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature",
+              "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+              "date": "2025-12-08"
+            },
+            {
+              "media": "ICI (ex-France Bleu)",
+              "titre": "Présidentielle 2027 : Nathalie Arthaud annonce sa candidature pour Lutte ouvrière",
+              "url": "https://www.ici.fr/infos/politique/presidentielle-2027-nathalie-arthaud-annonce-sa-candidature-pour-lutte-ouvriere-8888318",
+              "date": "2025-12-08"
+            }
+          ]
+        },
+        {
+          "texte": "Propose l'« expropriation sans indemnité ni rachat » des actionnaires, « en commençant par ceux de l'industrie pétrolière et des industries de guerre », et la « confiscation des bénéfices de ces profiteurs de guerre ».",
+          "sources": [
+            {
+              "media": "Lutte ouvrière (site officiel)",
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "date": "2026-05"
+            }
+          ]
+        },
+        {
+          "texte": "Propose la levée du secret commercial et du secret des affaires pour rendre publics les comptes des grandes entreprises.",
+          "sources": [
+            {
+              "media": "Lutte ouvrière (site officiel)",
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "date": "2026-05"
+            }
+          ]
+        },
+        {
+          "texte": "S'oppose au protectionnisme et au « produire français », qu'elle qualifie d'« arme des capitalistes ».",
+          "sources": [
+            {
+              "media": "Lutte ouvrière (site officiel)",
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "date": "2026-05"
+            }
+          ]
+        }
+      ]
+    },
+    "budget_dette": {
+      "resume": "Refuse les plans d'austérité et dénonce les « 270 milliards d'aides publiques et d'exonérations » annuelles aux entreprises ainsi que les intérêts de la dette versés aux banques.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Dénonce les « 270 milliards d'aides publiques et d'exonérations diverses versés chaque année aux capitalistes privés » et les 74 milliards d'intérêts de la dette dus en 2026, qu'elle attribue aux banques et financiers.",
+          "sources": [
+            {
+              "media": "Lutte ouvrière (site officiel)",
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "date": "2026-05"
+            }
+          ]
+        }
+      ]
+    },
+    "retraites": {
+      "resume": "S'oppose à tout recul de l'âge de départ et propose l'augmentation et l'indexation des pensions sur les prix.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Propose l'augmentation des pensions et leur indexation sur les prix ; dénonce le recul de l'âge de la retraite.",
+          "sources": [
+            {
+              "media": "Lutte ouvrière (site officiel)",
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "date": "2026-05"
+            }
+          ]
+        },
+        {
+          "texte": "Ses programmes antérieurs prévoyaient le retour de la retraite à 60 ans et l'indexation des pensions.",
+          "sources": [
+            {
+              "media": "Wikipédia (en)",
+              "titre": "Nathalie Arthaud",
+              "url": "https://en.wikipedia.org/wiki/Nathalie_Arthaud",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    "sante": {
+      "resume": "Propose des embauches massives dans les hôpitaux et Ehpad, financées par la fin des aides publiques aux grandes entreprises.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Revendique « les milliards pour les hôpitaux, les écoles, pas pour la guerre » et des embauches massives dans les hôpitaux et les Ehpad.",
+          "sources": [
+            {
+              "media": "Lutte ouvrière (site officiel)",
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "date": "2026-05"
+            }
+          ]
+        }
+      ]
+    },
+    "immigration": {
+      "resume": "Propose la régularisation de tous les sans-papiers et la « liberté de circulation et d'installation pour chaque être humain », et s'oppose aux expulsions et à l'« Europe-forteresse ».",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Revendique : « Régularisation de tous les sans-papiers, liberté de circulation et d'installation pour chaque être humain de cette planète » et « À bas l'Europe-forteresse ».",
+          "sources": [
+            {
+              "media": "Lutte ouvrière (site officiel)",
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "date": "2026-05"
+            }
+          ]
+        }
+      ]
+    },
+    "defense_international": {
+      "resume": "S'oppose à la hausse du budget militaire et à l'extension du service militaire ; refuse « l'unité nationale » face aux guerres, qu'elle attribue aux rivalités capitalistes.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "S'oppose à l'extension du service militaire et à l'augmentation du budget militaire.",
+          "sources": [
+            {
+              "media": "franceinfo",
+              "titre": "Présidentielle 2027 : Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature",
+              "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+              "date": "2025-12-08"
+            }
+          ]
+        },
+        {
+          "texte": "Critique les « milliards de rallonge pour l'armée » et les 10 milliards du nouveau porte-avions ; appelle à refuser « l'unité nationale derrière les dirigeants ».",
+          "sources": [
+            {
+              "media": "Lutte ouvrière (site officiel)",
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "date": "2026-05"
+            }
+          ]
+        }
+      ]
+    },
+    "institutions": {
+      "resume": "Présente son programme comme « révolutionnaire, à imposer par les luttes, pas un programme électoral » et prône le pouvoir des travailleurs sur l'économie.",
+      "origine": "programme 2027",
+      "details": [
+        {
+          "texte": "Affirme que « le vrai pouvoir n'est pas à l'Élysée » et que son programme « n'est pas un programme que l'on peut espérer réaliser par le biais des élections ».",
+          "sources": [
+            {
+              "media": "Lutte ouvrière (site officiel)",
+              "titre": "Nathalie Arthaud – Présidentielle 2027 (brochure, fête de LO, mai 2026)",
+              "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure_caravane_2026-01_-_couleur.pdf",
+              "date": "2026-05"
+            }
+          ]
+        },
+        {
+          "texte": "Se distingue de LFI : « nous voulons renverser le capitalisme » plutôt que le réformer.",
+          "sources": [
+            {
+              "media": "Lyon Bondy Blog (repris par Lutte ouvrière)",
+              "titre": "Nathalie Arthaud : une candidature « révolutionnaire » pour 2027 face à la recomposition de la gauche",
+              "url": "https://lyonbondyblog.fr/LBB/nathalie-arthaud-une-candidature-revolutionnaire-pour-2027-face-a-la-recomposition-de-la-gauche/",
+              "date": "2026-06-10"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "affaires": [],
+  "financement": [
+    {
+      "texte": "Présidentielle 2012 : compte approuvé après réformation par la CNCCFP ; dépenses de 1 010 391 €, dont un apport personnel de 780 101 € ; remboursement de l'État fixé à 779 871 €.",
+      "sources": [
+        {
+          "media": "Légifrance (JORF)",
+          "titre": "Décision du 19 décembre 2012 relative au compte de campagne de Mme Nathalie ARTHAUD",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027004644",
+          "date": "2012-12-19"
+        },
+        {
+          "media": "Wikipédia",
+          "titre": "Financement des campagnes présidentielles en France",
+          "url": "https://fr.wikipedia.org/wiki/Financement_des_campagnes_pr%C3%A9sidentielles_en_France",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "texte": "Présidentielle 2017 : compte approuvé après réformation ; dépenses de 956 121 €, apport personnel retenu de 860 884 € ; remboursement de l'État fixé à 800 423 € (plafond de 4,75 % du plafond des dépenses, candidate sous les 5 %).",
+      "sources": [
+        {
+          "media": "Légifrance (JORF)",
+          "titre": "Décision du 21 décembre 2017 relative au compte de campagne de Mme Nathalie ARTHAUD",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000036593733",
+          "date": "2017-12-21"
+        },
+        {
+          "media": "CNCCFP",
+          "titre": "Décisions relatives aux comptes de campagne – présidentielle 2017",
+          "url": "https://www.cnccfp.fr/wp-content/uploads/2022/04/De%CC%81cisions_pre%CC%81sidentielle_2017.pdf",
+          "date": "2017-12-21"
+        },
+        {
+          "media": "Wikipédia",
+          "titre": "Financement des campagnes présidentielles en France",
+          "url": "https://fr.wikipedia.org/wiki/Financement_des_campagnes_pr%C3%A9sidentielles_en_France",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "texte": "Présidentielle 2022 : compte approuvé après réformation (retrait de 1 255 € de frais de transport remboursés par la SNCF) ; dépenses de 889 844 €, recettes de 891 903 € dont 788 745 € d'apport personnel, 63 267 € de dons de personnes physiques et 6 325 € de contributions de partis ; remboursement de l'État fixé à 786 686 €.",
+      "sources": [
+        {
+          "media": "Légifrance (JORF)",
+          "titre": "Décision du 14 décembre 2022 relative au compte de campagne de Mme Nathalie ARTHAUD",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047062288",
+          "date": "2022-12-14"
+        },
+        {
+          "media": "CNCCFP",
+          "titre": "Décisions relatives aux comptes de campagne – présidentielle 2022",
+          "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+          "date": "2022-12-14"
+        },
+        {
+          "media": "Wikipédia",
+          "titre": "Financement des campagnes présidentielles en France",
+          "url": "https://fr.wikipedia.org/wiki/Financement_des_campagnes_pr%C3%A9sidentielles_en_France",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "texte": "Lutte ouvrière, exercice 2024 : 4 839 645 € de produits, 5 966 131 € de charges (déficit de 1 126 486 €), dettes de 232 375 € et situation nette positive de 4 195 534 € ; aide publique (première fraction) de 370 632 €.",
+      "sources": [
+        {
+          "media": "CNCCFP",
+          "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+          "url": "https://cnccfp.fr/wp-content/uploads/2026/02/Avis-relatif-a-la-publication-generale-des-comptes-des-partis-et-groupements-politiques-au-titre-de-lexercice-2024.pdf",
+          "date": "2026-02-10"
+        },
+        {
+          "media": "Légifrance (JORF)",
+          "titre": "Avis relatif à la publication générale des comptes des partis et groupements politiques au titre de l'exercice 2024",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053453043",
+          "date": "2026-02-10"
+        }
+      ]
+    },
+    {
+      "texte": "Campagne 2027 : LO appelle aux dons via sa souscription en ligne (association de financement du parti) ; pas de prêt bancaire rendu public.",
+      "sources": [
+        {
+          "media": "Lutte ouvrière (site officiel)",
+          "titre": "Soutenir financièrement Lutte Ouvrière",
+          "url": "https://souscription.lutte-ouvriere.org/",
+          "date": "2026-09-25"
+        }
+      ]
+    }
+  ]
+}

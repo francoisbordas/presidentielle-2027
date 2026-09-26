@@ -1,0 +1,796 @@
+{
+ "id": "francis-lalanne",
+ "nom": "Francis Lalanne",
+ "naissance": "1958-08-08",
+ "lieu_naissance": "Bayonne",
+ "parti": "France Libre",
+ "parti_sigle": "FL",
+ "famille": "droite",
+ "position": 7.5,
+ "position_justif": {
+  "texte": "Classement incertain. D'abord engagé dans des mouvements écologistes (MEI en 2007, Alliance écologiste indépendante en 2009), il a appelé à voter Marine Le Pen au second tour de 2022, a mené en 2024 la liste « France libre » avec Dieudonné et a rejoint en 2026 à Lyon le mouvement Spartacus, que Le Parisien présente comme une liste d'extrême droite. Il se dit lui-même « souverainiste et libertarien ». Il est placé ici entre Debout la France (6,5) et le RN (8).",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Francis Lalanne",
+    "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Le Parisien",
+    "titre": "Municipales 2026 à Lyon : Francis Lalanne veut se présenter sur une liste d'extrême droite dans le VIIIe arrondissement",
+    "url": "https://www.leparisien.fr/elections/municipales/municipales-2026-a-lyon-francis-lalanne-veut-se-presenter-sur-une-liste-dextreme-droite-dans-le-viiie-arrondissement-20-01-2026-CJPPSZK735ELNLXTOD5MV65AYM.php",
+    "date": "2026-01-20"
+   },
+   {
+    "media": "Le Parisien",
+    "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+    "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+    "date": "2026-08-19"
+   },
+   {
+    "media": "Libération",
+    "titre": "Présidentielle : les complotistes votent Marine Le Pen",
+    "url": "https://www.liberation.fr/politique/elections/presidentielle-les-complotistes-votent-marine-le-pen-20220414_OMUZ4RGSXZCGHHJK6FNFE7XFWE/",
+    "date": "2022-04-14"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/francis-lalanne.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Lalanne_2021_(cropped).jpg",
+  "auteur": "Thomas Bresson",
+  "licence": "CC BY 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/fl.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Dieudo_lalanne_2027_logo_PNG.png",
+  "licence": "CC BY 3.0 (logo de campagne Lalanne-Dieudonné 2027)"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Suit des cours d'art dramatique au conservatoire de Marseille, puis s'inscrit en lettres modernes à la Sorbonne après son baccalauréat.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Auteur-compositeur-interprète, il sort son premier album, « Rentre chez toi », en 1979. Il devient connu en 1986 avec « On se retrouvera », chanson du film « Le Passage » réalisé par son frère René Manzor.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Gérant de l'entreprise de figurines Starlux (Périgueux), rachetée en 1997 et liquidée en 2003.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce en février 2023 la fin de sa carrière de chanteur, après avoir rejoint Dieudonné sur scène.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "N'a exercé aucun mandat électif.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "Candidat aux législatives de 2007 dans la 2e circonscription du Bas-Rhin sous l'étiquette du Mouvement écologiste indépendant (3,5 %).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ministère de l'Intérieur",
+      "titre": "Résultats des élections législatives 2007 – 2e circonscription du Bas-Rhin",
+      "url": "https://www.interieur.gouv.fr/Elections/Les-resultats/Legislatives/elecresult__legislatives_2007/(path)/legislatives_2007/067/circons02.html",
+      "date": "2007-06-10"
+     }
+    ]
+   },
+   {
+    "texte": "Porte-parole de l'Alliance écologiste indépendante aux européennes de 2009.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Francis Lalanne : « Cohn-Bendit, allié de Sarkozy »",
+      "url": "https://www.leparisien.fr/politique/francis-lalanne-cohn-bendit-allie-de-sarkozy-02-06-2009-534133.php",
+      "date": "2009-06-02"
+     }
+    ]
+   },
+   {
+    "texte": "Rallié aux Gilets jaunes fin 2018, il lance un projet de liste « Rassemblement Gilets jaunes » pour les européennes de 2019, puis participe à la liste « Alliance jaune » avec Jean-Marc Governatori (0,53 %).",
+    "sources": [
+     {
+      "media": "RTL",
+      "titre": "Européennes : Francis Lalanne lance une liste « rassemblement Gilets jaunes »",
+      "url": "https://www.rtl.fr/actu/debats-societe/europeennes-francis-lalanne-lance-une-liste-rassemblement-gilets-jaunes-7795961633",
+      "date": "2018-12-18"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Appelle à voter pour Marine Le Pen au second tour de la présidentielle de 2022.",
+    "sources": [
+     {
+      "media": "Libération",
+      "titre": "Présidentielle : les complotistes votent Marine Le Pen",
+      "url": "https://www.liberation.fr/politique/elections/presidentielle-les-complotistes-votent-marine-le-pen-20220414_OMUZ4RGSXZCGHHJK6FNFE7XFWE/",
+      "date": "2022-04-14"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Candidat aux législatives de 2022 en Charente, éliminé au premier tour.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Législatives 2022 : Francis Lalanne, Florian Philippot et Martine Wonner éliminés, la déroute des candidats antivax",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/06/13/legislatives-2022-francis-lalanne-florian-philippot-et-martine-wonner-elimines-la-deroute-des-candidats-antivax_6130085_4355770.html",
+      "date": "2022-06-13"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Conduit en 2024 la liste « France libre » aux européennes, en liste commune avec Dieudonné.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Francis Lalanne et Dieudonné font liste commune pour les élections européennes",
+      "url": "https://www.lemonde.fr/international/article/2024/04/18/francis-lalanne-et-dieudonne-font-liste-commune-pour-les-elections-europeennes_6228597_3210.html",
+      "date": "2024-04-18"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Élections européennes : Francis Lalanne et Dieudonné font liste commune",
+      "url": "https://www.francetvinfo.fr/elections/europeennes/elections-europeennes-francis-lalanne-et-dieudonne-font-liste-commune_6494735.html",
+      "date": "2024-04-18"
+     },
+     {
+      "media": "Libération",
+      "titre": "Européennes : vers une liste Lalanne-Dieudonné",
+      "url": "https://www.liberation.fr/politique/europeennes-vers-une-liste-lalanne-dieudonne-20240214_6VIZEITQ7FFFPIOZSEDGDAOF6A/",
+      "date": "2024-02-14"
+     }
+    ]
+   },
+   {
+    "texte": "Selon Wikipédia, la liste « France libre » obtient 0,02 % des suffrages aux européennes de 2024 ; Le Figaro (AFP) donne aussi 0,02 %, soit moins de 5 500 voix.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro (AFP)",
+      "titre": "Présidentielle : Francis Lalanne lance sa campagne samedi, avec un premier meeting",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-francis-lalanne-lance-sa-campagne-samedi-avec-un-premier-meeting-20260819",
+      "date": "2026-08-19"
+     }
+    ]
+   },
+   {
+    "texte": "Selon Le Parisien, la liste commune Lalanne-Dieudonné « n'avait pas dépassé les 0,04 % » aux européennes de 2024.",
+    "sources": [
+     {
+      "media": "Le Parisien",
+      "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+      "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+      "date": "2026-08-19"
+     }
+    ]
+   },
+   {
+    "texte": "Candidat avec Dieudonné en Guadeloupe aux législatives anticipées de 2024.",
+    "sources": [
+     {
+      "media": "Le Figaro (AFP)",
+      "titre": "Législatives : Francis Lalanne et Dieudonné candidats en Guadeloupe",
+      "url": "https://www.lefigaro.fr/flash-actu/legislatives-dieudonne-et-francis-lalanne-candidats-en-guadeloupe-20240618",
+      "date": "2024-06-18"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+      "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+      "date": "2026-08-19"
+     }
+    ]
+   },
+   {
+    "texte": "Tente en 2026 de se présenter aux municipales à Lyon sur une liste du mouvement Spartacus ; la préfète refuse d'enregistrer la liste en raison de son inéligibilité, et le tribunal administratif de Lyon rejette son recours le 26 février 2026.",
+    "sources": [
+     {
+      "media": "Tribunal administratif de Lyon",
+      "titre": "Élections municipales à Lyon : le tribunal rejette le recours contre le refus de la préfète d'enregistrer la liste de Francis Lalanne",
+      "url": "https://lyon.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/elections-municipales-a-lyon-le-tribunal-rejette-le-recours-contre-le-refus-de-la-prefete-d-enregistrer-la-liste-de-francis-lalanne",
+      "date": "2026-02-27"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Municipales 2026 à Lyon : Francis Lalanne veut se présenter sur une liste d'extrême droite dans le VIIIe arrondissement",
+      "url": "https://www.leparisien.fr/elections/municipales/municipales-2026-a-lyon-francis-lalanne-veut-se-presenter-sur-une-liste-dextreme-droite-dans-le-viiie-arrondissement-20-01-2026-CJPPSZK735ELNLXTOD5MV65AYM.php",
+      "date": "2026-01-20"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Municipales 2026 à Lyon : C'est quoi ce mouvement Spartacus, que Francis Lalanne a rejoint ?",
+      "url": "https://www.20minutes.fr/politique/4198386-20260128-municipales-2026-lyon-quoi-mouvement-spartacus-francis-lalanne-rejoint",
+      "date": "2026-01-28"
+     },
+     {
+      "media": "20 Minutes",
+      "titre": "Municipales 2026 à Lyon : Francis Lalanne reste inéligible, son recours rejeté par la justice",
+      "url": "https://www.20minutes.fr/politique/4200676-20260210-municipales-2026-lyon-francis-lalanne-reste-ineligible-recours-rejete-justice",
+      "date": "2026-02-10"
+     },
+     {
+      "media": "Le Figaro (AFP)",
+      "titre": "Présidentielle : Francis Lalanne lance sa campagne samedi, avec un premier meeting",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-francis-lalanne-lance-sa-campagne-samedi-avec-un-premier-meeting-20260819",
+      "date": "2026-08-19"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce sa candidature à la présidentielle de 2027 le 19 août 2026, avec le soutien du mouvement citoyen « France Libre » et de Dieudonné, et lance sa campagne lors d'un meeting au théâtre Galabru, à Paris.",
+    "sources": [
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2027 : le chanteur Francis Lalanne annonce être candidat, premier meeting vendredi à Paris",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html",
+      "date": "2026-08-19"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+      "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+      "date": "2026-08-19"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Candidatures à l'élection présidentielle française de 2027",
+      "url": "https://fr.wikipedia.org/wiki/Candidatures_%C3%A0_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Figaro (AFP)",
+      "titre": "Présidentielle : Francis Lalanne lance sa campagne samedi, avec un premier meeting",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-francis-lalanne-lance-sa-campagne-samedi-avec-un-premier-meeting-20260819",
+      "date": "2026-08-19"
+     }
+    ]
+   },
+   {
+    "texte": "Annonce qu'en cas de victoire il nommerait Premier ministre Dieudonné, lui-même inéligible.",
+    "sources": [
+     {
+      "media": "Le Point",
+      "titre": "Présidentielle 2027 : Francis Lalanne veut nommer Dieudonné Premier ministre",
+      "url": "https://www.lepoint.fr/politique/presidentielle-2027-francis-lalanne-veut-nommer-dieudonne-premier-ministre-S22UKX7EWNCT7FPCKCDIRIDEAM/",
+      "date": "2026-08-23"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Pendant la crise du Covid-19, a tenu des positions contre la vaccination ; son compte Twitter a été suspendu en 2021 après qu'il a comparé le vaccin à un « crime contre l'humanité ».",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Francis Lalanne",
+      "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Le Parisien",
+      "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+      "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+      "date": "2026-08-19"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "institutions": {
+   "resume": "Propose une « démocratie plus directe et participative », dont le référendum d'initiative citoyenne (RIC), et une « rupture avec le système politique actuel ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Son programme prévoit « l'instauration d'une démocratie plus directe et participative ».",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Présidentielle 2027 : le chanteur Francis Lalanne annonce être candidat, premier meeting vendredi à Paris",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html",
+       "date": "2026-08-19"
+      },
+      {
+       "media": "Le Parisien",
+       "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+       "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+       "date": "2026-08-19"
+      }
+     ]
+    },
+    {
+     "texte": "Son site de campagne cite le référendum d'initiative citoyenne (RIC) parmi ses mesures ; Le Figaro (AFP) mentionne un « référendum d'initiative citoyenne en toutes matières ».",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+       "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+       "date": "2026-08-19"
+      },
+      {
+       "media": "Le Figaro (AFP)",
+       "titre": "Présidentielle : Francis Lalanne lance sa campagne samedi, avec un premier meeting",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-francis-lalanne-lance-sa-campagne-samedi-avec-un-premier-meeting-20260819",
+       "date": "2026-08-19"
+      }
+     ]
+    },
+    {
+     "texte": "Son site de campagne propose d'abroger des « lois liberticides », dont les lois Pleven (racisme et antisémitisme), Gayssot (négationnisme) et Avia (haine en ligne).",
+     "sources": [
+      {
+       "media": "Le Figaro (AFP)",
+       "titre": "Présidentielle : Francis Lalanne lance sa campagne samedi, avec un premier meeting",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-francis-lalanne-lance-sa-campagne-samedi-avec-un-premier-meeting-20260819",
+       "date": "2026-08-19"
+      }
+     ]
+    }
+   ]
+  },
+  "europe": {
+   "resume": "Propose le « frexit » (sortie de l'Union européenne) et le retour au franc, au nom de la « reprise en main de la souveraineté nationale ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Son site de campagne cite le « frexit » (sortie de l'Union européenne) parmi ses mesures.",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+       "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+       "date": "2026-08-19"
+      },
+      {
+       "media": "Le Figaro (AFP)",
+       "titre": "Présidentielle : Francis Lalanne lance sa campagne samedi, avec un premier meeting",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-francis-lalanne-lance-sa-campagne-samedi-avec-un-premier-meeting-20260819",
+       "date": "2026-08-19"
+      },
+      {
+       "media": "L'Indépendant",
+       "titre": "Présidentielle 2027 : avec Dieudonné, pour le « Frexit », le retour au franc et « la fin des obligations médicales »...",
+       "url": "https://www.lindependant.fr/2026/08/19/presidentielle-2027-avec-dieudonne-pour-le-frexit-le-retour-au-franc-et-la-fin-des-obligations-medicales-le-candidat-francis-lalanne-va-devoiler-son-13514736.php",
+       "date": "2026-08-19"
+      }
+     ]
+    },
+    {
+     "texte": "Propose le retour au franc.",
+     "sources": [
+      {
+       "media": "Le Figaro (AFP)",
+       "titre": "Présidentielle : Francis Lalanne lance sa campagne samedi, avec un premier meeting",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-francis-lalanne-lance-sa-campagne-samedi-avec-un-premier-meeting-20260819",
+       "date": "2026-08-19"
+      },
+      {
+       "media": "L'Indépendant",
+       "titre": "Présidentielle 2027 : avec Dieudonné, pour le « Frexit », le retour au franc et « la fin des obligations médicales »...",
+       "url": "https://www.lindependant.fr/2026/08/19/presidentielle-2027-avec-dieudonne-pour-le-frexit-le-retour-au-franc-et-la-fin-des-obligations-medicales-le-candidat-francis-lalanne-va-devoiler-son-13514736.php",
+       "date": "2026-08-19"
+      }
+     ]
+    },
+    {
+     "texte": "Fait de la « reprise en main de la souveraineté nationale » un axe central de sa campagne.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Présidentielle 2027 : le chanteur Francis Lalanne annonce être candidat, premier meeting vendredi à Paris",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html",
+       "date": "2026-08-19"
+      },
+      {
+       "media": "Le Parisien",
+       "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+       "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+       "date": "2026-08-19"
+      }
+     ]
+    }
+   ]
+  },
+  "defense_international": {
+   "resume": "Propose la sortie de la France de l'OTAN.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Son site de campagne cite la sortie de l'OTAN parmi ses mesures.",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+       "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+       "date": "2026-08-19"
+      },
+      {
+       "media": "Le Figaro (AFP)",
+       "titre": "Présidentielle : Francis Lalanne lance sa campagne samedi, avec un premier meeting",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-francis-lalanne-lance-sa-campagne-samedi-avec-un-premier-meeting-20260819",
+       "date": "2026-08-19"
+      }
+     ]
+    }
+   ]
+  },
+  "securite_justice": {
+   "resume": "Annonce une « réforme profonde de la justice », sans détail connu à ce stade.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Cite la « réforme profonde de la justice » parmi les thèmes de sa campagne.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Présidentielle 2027 : le chanteur Francis Lalanne annonce être candidat, premier meeting vendredi à Paris",
+       "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-chanteur-francis-lalanne-officiellement-candidat-premier-meeting-vendredi-a-paris_8153588.html",
+       "date": "2026-08-19"
+      },
+      {
+       "media": "Le Parisien",
+       "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+       "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+       "date": "2026-08-19"
+      }
+     ]
+    }
+   ]
+  },
+  "sante": {
+   "resume": "Met en avant la « santé holistique », la « fin des obligations médicales » et la « reconnaissance des médecines alternatives ».",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Son site de campagne cite la « santé holistique » parmi ses mesures.",
+     "sources": [
+      {
+       "media": "Le Parisien",
+       "titre": "Présidentielle 2027 : Francis Lalanne officiellement candidat, son premier meeting de campagne annoncé à Paris",
+       "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-francis-lalanne-officiellement-candidat-son-premier-meeting-de-campagne-annonce-a-paris-19-08-2026-2VLEW57SFZDZFP6AQ34HPMAZJM.php",
+       "date": "2026-08-19"
+      }
+     ]
+    },
+    {
+     "texte": "Défend la « fin des obligations médicales » et la « reconnaissance des médecines alternatives ».",
+     "sources": [
+      {
+       "media": "Le Figaro (AFP)",
+       "titre": "Présidentielle : Francis Lalanne lance sa campagne samedi, avec un premier meeting",
+       "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-francis-lalanne-lance-sa-campagne-samedi-avec-un-premier-meeting-20260819",
+       "date": "2026-08-19"
+      },
+      {
+       "media": "L'Indépendant",
+       "titre": "Présidentielle 2027 : avec Dieudonné, pour le « Frexit », le retour au franc et « la fin des obligations médicales »...",
+       "url": "https://www.lindependant.fr/2026/08/19/presidentielle-2027-avec-dieudonne-pour-le-frexit-le-retour-au-franc-et-la-fin-des-obligations-medicales-le-candidat-francis-lalanne-va-devoiler-son-13514736.php",
+       "date": "2026-08-19"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [
+  {
+   "intitule": "Tribune appelant l'armée à renverser le gouvernement (FranceSoir)",
+   "statut": "classe_sans_suite",
+   "date": "2021-04-01",
+   "description": "En janvier 2021, il publie sur le site FranceSoir une tribune appelant l'armée à « renverser » Emmanuel Macron et le gouvernement. En février 2021, une enquête est ouverte pour provocation à la commission d'atteintes aux intérêts fondamentaux de la Nation. Elle est classée sans suite début avril 2021, l'infraction étant jugée insuffisamment caractérisée.",
+   "sources": [
+    {
+     "media": "20 Minutes",
+     "titre": "Coronavirus : Francis Lalanne lance un appel « à renverser » Macron sur un site complotiste",
+     "url": "https://www.20minutes.fr/high-tech/2959947-20210123-coronavirus-francis-lalanne-lance-appel-renverser-macron-site-complotiste",
+     "date": "2021-01-23"
+    },
+    {
+     "media": "L'Express",
+     "titre": "Complotisme : quand FranceSoir fait la promotion de QAnon",
+     "url": "https://www.lexpress.fr/actualite/idees-et-debats/complotisme-quand-francesoir-fait-la-promotion-de-qanon_2142544.html",
+     "date": "2021-01-14"
+    },
+    {
+     "media": "20 Minutes",
+     "titre": "Francis Lalanne visé par une enquête après avoir appelé à « mettre l'État hors d'état de nuire »",
+     "url": "https://www.20minutes.fr/justice/2983231-20210222-francis-lalanne-vise-enquete-apres-avoir-appele-mettre-etat-hors-etat-nuire",
+     "date": "2021-02-22"
+    },
+    {
+     "media": "L'Express (AFP)",
+     "titre": "Classement de l'enquête contre Francis Lalanne qui avait appelé à « mettre l'État hors d'état de nuire »",
+     "url": "https://www.lexpress.fr/actualites/1/societe/classement-de-l-enquete-contre-francis-lalanne-qui-avait-appele-a-mettre-l-etat-hors-d-etat-de-nuire_2148016.html",
+     "date": "2021-04-01"
+    }
+   ]
+  },
+  {
+   "intitule": "Plainte de journalistes de « Quotidien » pour violences à Avignon",
+   "statut": "accusation",
+   "date": "2021-06-05",
+   "description": "Le 5 juin 2021 à Avignon, le cadreur Paul Bouffard et le journaliste Paul Larrouturou (« Quotidien ») l'accusent de les avoir agressés physiquement pendant un reportage, et portent plainte. Son avocat conteste la version diffusée. Les sources consultées n'indiquent pas de suite judiciaire.",
+   "sources": [
+    {
+     "media": "Le Monde",
+     "titre": "Francis Lalanne visé par une plainte d'un journaliste de « Quotidien » pour des coups",
+     "url": "https://www.lemonde.fr/actualite-medias/article/2021/06/08/francis-lalanne-vise-par-une-plainte-d-un-journaliste-de-quotidien-pour-des-coups_6083307_3236.html",
+     "date": "2021-06-08"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Francis Lalanne",
+     "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Plainte d'une agente SNCF pour menaces",
+   "statut": "accusation",
+   "date": "2021-09-10",
+   "description": "En septembre 2021, une contrôleuse SNCF porte plainte pour menaces après une altercation dans un train à propos du port du masque. Les sources consultées n'indiquent pas de suite judiciaire.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "titre": "Menacé par Francis Lalanne lors d'un contrôle, un agent de la SNCF porte plainte",
+     "url": "https://www.lefigaro.fr/culture/menace-par-francis-lalanne-lors-d-un-controle-un-agent-de-la-sncf-porte-plainte-20210910",
+     "date": "2021-09-10"
+    }
+   ]
+  },
+  {
+   "intitule": "Harcèlement moral sur son ex-compagne : amende de 800 euros (composition pénale)",
+   "statut": "condamnation_definitive",
+   "date": "2023-02-21",
+   "description": "Après une garde à vue liée à un incident du 18 février 2023 avec son ex-compagne, il est sanctionné pour harcèlement moral par une amende de 800 euros et une interdiction de se présenter au domicile de celle-ci. Selon La Dépêche, qui cite Le Parisien, il s'agit d'une composition pénale proposée par le parquet, les poursuites pour violences ayant été abandonnées. Le caractère définitif n'est pas explicitement confirmé par les sources.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "titre": "Poursuivi pour harcèlement, Francis Lalanne interdit de se présenter chez son ex-compagne",
+     "url": "https://www.lefigaro.fr/musique/poursuivi-pour-harcelement-francis-lalanne-interdit-de-se-presenter-chez-son-ex-compagne-20230221",
+     "date": "2023-02-21"
+    },
+    {
+     "media": "La Dépêche",
+     "titre": "Le chanteur Francis Lalanne condamné après une altercation avec son ex-compagne",
+     "url": "https://www.ladepeche.fr/2023/02/21/le-chanteur-francis-lalanne-condamne-apres-une-altercation-avec-son-ex-compagne-11013713.php",
+     "date": "2023-02-21"
+    }
+   ]
+  },
+  {
+   "intitule": "Enquête pour violences conjugales (garde à vue à Marseille)",
+   "statut": "enquete",
+   "date": "2023-05-10",
+   "description": "Entendu en garde à vue les 2 et 3 mai 2023 à Marseille dans une enquête pour des violences dont l'accuse son ex-compagne. Les sources consultées n'indiquent pas de suite judiciaire.",
+   "sources": [
+    {
+     "media": "Le Figaro",
+     "titre": "Soupçonné de violences conjugales, Francis Lalanne a passé une nuit en garde à vue à Marseille",
+     "url": "https://www.lefigaro.fr/culture/francis-lalanne-a-passe-une-nuit-en-garde-a-vue-a-marseille-20230510",
+     "date": "2023-05-10"
+    }
+   ]
+  },
+  {
+   "intitule": "Vol et dégradation au préjudice de son ex-compagne",
+   "statut": "condamnation_non_definitive",
+   "date": "2025-03-06",
+   "description": "Le 6 mars 2025, le tribunal correctionnel d'Aix-en-Provence le déclare coupable du vol du téléphone de son ex-compagne (29 janvier 2023) et de la dégradation de la porte de son immeuble (11 février 2023), après une audience du 6 février à laquelle il ne s'était pas présenté. La peine et le caractère définitif ne sont pas précisés dans les sources consultées.",
+   "sources": [
+    {
+     "media": "La Provence",
+     "titre": "Le chanteur Francis Lalanne condamné pour vol et dégradation par le tribunal correctionnel d'Aix",
+     "url": "https://www.laprovence.com/article/faits-divers-justice/41223274105986/a-aix-le-chanteur-francis-lalanne-condamne-pour-vol-et-degradation-a-aix-en-provence",
+     "date": "2025-03-07"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Francis Lalanne",
+     "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Abandon de famille (pension alimentaire impayée)",
+   "statut": "proces_en_cours",
+   "date": "2025-10-02",
+   "description": "Poursuivi pour « abandon de famille » (non-versement de la pension alimentaire à son ex-compagne), il devait être jugé par le tribunal correctionnel le 2 octobre 2025. L'issue de ce procès n'a pas été trouvée dans les sources consultées.",
+   "sources": [
+    {
+     "media": "La Provence",
+     "titre": "Le chanteur Francis Lalanne condamné pour vol et dégradation par le tribunal correctionnel d'Aix",
+     "url": "https://www.laprovence.com/article/faits-divers-justice/41223274105986/a-aix-le-chanteur-francis-lalanne-condamne-pour-vol-et-degradation-a-aix-en-provence",
+     "date": "2025-03-07"
+    },
+    {
+     "media": "Wikipédia",
+     "titre": "Francis Lalanne",
+     "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "intitule": "Inéligibilité de 18 mois pour absence de compte de campagne (européennes 2024)",
+   "statut": "condamnation_definitive",
+   "date": "2025-04-17",
+   "description": "Par une décision du 17 avril 2025, le Conseil d'État le déclare inéligible pour dix-huit mois, jusqu'en octobre 2026, parce qu'il n'a pas déposé de compte de campagne comme tête de la liste « France libre » aux européennes de juin 2024. Sur ce fondement, sa liste aux municipales de Lyon a été refusée en 2026. Cette inéligibilité prend fin avant la présidentielle d'avril 2027.",
+   "sources": [
+    {
+     "media": "Tribunal administratif de Lyon",
+     "titre": "Élections municipales à Lyon : le tribunal rejette le recours contre le refus de la préfète d'enregistrer la liste de Francis Lalanne",
+     "url": "https://lyon.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/elections-municipales-a-lyon-le-tribunal-rejette-le-recours-contre-le-refus-de-la-prefete-d-enregistrer-la-liste-de-francis-lalanne",
+     "date": "2026-02-27"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Francis Lalanne, chanteur et ex-candidat aux européennes, déclaré inéligible pendant dix-huit mois",
+     "url": "https://www.francetvinfo.fr/politique/francis-lalanne-chanteur-et-ex-candidat-aux-europeennes-declare-ineligible-pendant-18-mois_7196604.html",
+     "date": "2025-04-18"
+    },
+    {
+     "media": "Le Parisien",
+     "titre": "Francis Lalanne : le chanteur et ex-candidat aux européennes déclaré inéligible par le Conseil d'État",
+     "url": "https://www.leparisien.fr/culture-loisirs/musique/francis-lalanne-le-chanteur-et-ex-candidat-aux-europeennes-declare-ineligible-par-le-conseil-detat-17-04-2025-S22CE5HONFD3TMFPW2IRREF6XU.php",
+     "date": "2025-04-17"
+    },
+    {
+     "media": "Ouest-France",
+     "titre": "Francis Lalanne, chanteur et ex-candidat aux européennes, déclaré inéligible pendant 18 mois",
+     "url": "https://www.ouest-france.fr/societe/justice/francis-lalanne-chanteur-et-ex-candidat-aux-europeennes-declare-ineligible-pendant-18-mois-67e9eea4-1ba4-11f0-a759-74724e64dd56",
+     "date": "2025-04-17"
+    },
+    {
+     "media": "Le Figaro (AFP)",
+     "titre": "Présidentielle : Francis Lalanne lance sa campagne samedi, avec un premier meeting",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-francis-lalanne-lance-sa-campagne-samedi-avec-un-premier-meeting-20260819",
+     "date": "2026-08-19"
+    }
+   ]
+  }
+ ],
+ "financement": [
+  {
+   "texte": "Européennes 2024 : aucun compte de campagne déposé à la CNCCFP pour la liste « France libre », ce qui a entraîné son inéligibilité pour 18 mois (Conseil d'État, 17 avril 2025).",
+   "sources": [
+    {
+     "media": "Tribunal administratif de Lyon",
+     "titre": "Élections municipales à Lyon : le tribunal rejette le recours contre le refus de la préfète d'enregistrer la liste de Francis Lalanne",
+     "url": "https://lyon.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/elections-municipales-a-lyon-le-tribunal-rejette-le-recours-contre-le-refus-de-la-prefete-d-enregistrer-la-liste-de-francis-lalanne",
+     "date": "2026-02-27"
+    },
+    {
+     "media": "franceinfo",
+     "titre": "Francis Lalanne, chanteur et ex-candidat aux européennes, déclaré inéligible pendant dix-huit mois",
+     "url": "https://www.francetvinfo.fr/politique/francis-lalanne-chanteur-et-ex-candidat-aux-europeennes-declare-ineligible-pendant-18-mois_7196604.html",
+     "date": "2025-04-18"
+    },
+    {
+     "media": "Le Parisien",
+     "titre": "Francis Lalanne : le chanteur et ex-candidat aux européennes déclaré inéligible par le Conseil d'État",
+     "url": "https://www.leparisien.fr/culture-loisirs/musique/francis-lalanne-le-chanteur-et-ex-candidat-aux-europeennes-declare-ineligible-par-le-conseil-detat-17-04-2025-S22CE5HONFD3TMFPW2IRREF6XU.php",
+     "date": "2025-04-17"
+    },
+    {
+     "media": "Ouest-France",
+     "titre": "Francis Lalanne, chanteur et ex-candidat aux européennes, déclaré inéligible pendant 18 mois",
+     "url": "https://www.ouest-france.fr/societe/justice/francis-lalanne-chanteur-et-ex-candidat-aux-europeennes-declare-ineligible-pendant-18-mois-67e9eea4-1ba4-11f0-a759-74724e64dd56",
+     "date": "2025-04-17"
+    }
+   ]
+  },
+  {
+   "texte": "Aucun compte de campagne présidentielle antérieur (il n'a jamais été candidat à une présidentielle avant 2027) ; aucune information publique trouvée sur le financement de la campagne 2027 (association de financement, prêts ou dons).",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Francis Lalanne",
+     "url": "https://fr.wikipedia.org/wiki/Francis_Lalanne",
+     "date": "2026-09-25"
+    }
+   ]
+  },
+  {
+   "texte": "Aucune déclaration de patrimoine ou d'intérêts de Francis Lalanne ne figure dans la liste open data de la HATVP consultée le 25/09/2026.",
+   "sources": [
+    {
+     "media": "HATVP",
+     "titre": "Liste open data des déclarations publiées",
+     "url": "https://www.hatvp.fr/livraison/opendata/liste.csv",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ]
+}

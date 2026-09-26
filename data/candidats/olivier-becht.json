@@ -1,0 +1,442 @@
+{
+ "id": "olivier-becht",
+ "nom": "Olivier Becht",
+ "naissance": "1976-04-28",
+ "lieu_naissance": "Strasbourg (Bas-Rhin)",
+ "parti": "Sans étiquette (apparenté groupe Ensemble pour la République)",
+ "parti_sigle": "RE",
+ "famille": "centre",
+ "position": 0.5,
+ "position_justif": {
+  "texte": "Se revendique de « l'extrême centre » et « profondément réformateur », sans camp politique (« Mon parti, ce sont les Français ») ; ancien président du groupe Agir ensemble, ancien ministre du gouvernement Borne, apparenté au groupe Ensemble pour la République. Positionné comme Renaissance (0,5).",
+  "sources": [
+   {
+    "media": "Ouest-France",
+    "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre du Commerce extérieur, est candidat à l'élection",
+    "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-olivier-becht-ancien-ministre-du-commerce-exterieur-est-candidat-a-lelection-21252890-b800-11f1-b8f7-5b3ca074ea4b",
+    "date": "2026-09-24"
+   },
+   {
+    "media": "L'Indépendant",
+    "titre": "Présidentielle 2027 : « Quand on n'a aucune chance, il faut la saisir »... Olivier Becht, ancien ministre d'Élisabeth Borne, se lance dans la course",
+    "url": "https://www.lindependant.fr/2026/09/24/presidentielle-2027-quand-on-na-aucune-chance-il-faut-la-saisir-olivier-becht-ancien-ministre-delisabeth-borne-se-lance-dans-la-course-13567072.php",
+    "date": "2026-09-24"
+   },
+   {
+    "media": "BFMTV (via Yahoo Actualités)",
+    "titre": "Présidentielle 2027 : l'ancien ministre et député Olivier Becht se déclare officiellement candidat",
+    "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-lancien-ministre-d%C3%A9put%C3%A9-081912682.html",
+    "date": "2026-09-24"
+   },
+   {
+    "media": "20 Minutes (via Yahoo Actualités)",
+    "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre de Borne, nouveau candidat centriste",
+    "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-olivier-bech-ancien-135201353.html",
+    "date": "2026-09-24"
+   }
+  ]
+ },
+ "statut": "declare",
+ "photo": {
+  "fichier": "img/candidats/olivier-becht.png",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Olivier_Becht_en_2026_(cropped).png",
+  "auteur": "Dominique Giannelli",
+  "licence": "CC BY 4.0"
+ },
+ "logo_parti": {
+  "fichier": "img/partis/re.svg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Renaissance-logotype-officiel.svg",
+  "licence": "CC BY-SA 4.0"
+ },
+ "bio": {
+  "etudes": [
+   {
+    "texte": "Institut d'études politiques de Strasbourg (1995-1998), DEA de finances publiques et fiscalité (Paris II Panthéon-Assas, 2001), École nationale d'administration (promotion Léopold-Sédar-Senghor, la même qu'Emmanuel Macron).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Becht",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "20 Minutes (via Yahoo Actualités)",
+      "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre de Borne, nouveau candidat centriste",
+      "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-olivier-bech-ancien-135201353.html",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Hausse des prix des carburants : le député Olivier Becht propose d'agir sur le prix de l'électricité",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/hausse-des-prix-des-carburants-le-depute-olivier-becht-propose-d-agir-sur-le-prix-de-l-electricite_8202695.html",
+      "date": "2026-09-21"
+     }
+    ]
+   }
+  ],
+  "carriere_hors_politique": [
+   {
+    "texte": "Magistrat administratif : conseiller puis premier conseiller au tribunal administratif de Nancy ; chargé de cours à l'université de Haute-Alsace depuis 2008.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Becht",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Ancien juge administratif.",
+    "sources": [
+     {
+      "media": "Ouest-France",
+      "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre du Commerce extérieur, est candidat à l'élection",
+      "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-olivier-becht-ancien-ministre-du-commerce-exterieur-est-candidat-a-lelection-21252890-b800-11f1-b8f7-5b3ca074ea4b",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "L'Indépendant",
+      "titre": "Présidentielle 2027 : « Quand on n'a aucune chance, il faut la saisir »... Olivier Becht, ancien ministre d'Élisabeth Borne, se lance dans la course",
+      "url": "https://www.lindependant.fr/2026/09/24/presidentielle-2027-quand-on-na-aucune-chance-il-faut-la-saisir-olivier-becht-ancien-ministre-delisabeth-borne-se-lance-dans-la-course-13567072.php",
+      "date": "2026-09-24"
+     }
+    ]
+   }
+  ],
+  "mandats": [
+   {
+    "texte": "Maire de Rixheim (Haut-Rhin) de 2008 à 2017 ; élu à 31 ans, plus jeune maire d'Alsace.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Becht",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre du Commerce extérieur, est candidat à l'élection",
+      "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-olivier-becht-ancien-ministre-du-commerce-exterieur-est-candidat-a-lelection-21252890-b800-11f1-b8f7-5b3ca074ea4b",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "franceinfo (France 3 Grand Est)",
+      "titre": "« Je suis lucide, je ne suis pas le favori », Olivier Becht, député du Haut-Rhin, déclare sa candidature à l'élection présidentielle",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/je-suis-lucide-je-ne-suis-pas-le-favori-olivier-becht-depute-du-haut-rhin-declare-sa-candidature-a-l-election-presidentielle-3422486.html",
+      "date": "2026-09-24"
+     }
+    ]
+   },
+   {
+    "texte": "Président délégué de Mulhouse Alsace Agglomération (2010-2017) et vice-président du conseil départemental du Haut-Rhin (2015-2017).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Becht",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Député de la 5e circonscription du Haut-Rhin depuis 2017 (élu contre une candidate LREM), réélu en 2024 ; président du groupe Agir ensemble à l'Assemblée (2020-2022).",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Becht",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre du Commerce extérieur, est candidat à l'élection",
+      "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-olivier-becht-ancien-ministre-du-commerce-exterieur-est-candidat-a-lelection-21252890-b800-11f1-b8f7-5b3ca074ea4b",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "20 Minutes (via Yahoo Actualités)",
+      "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre de Borne, nouveau candidat centriste",
+      "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-olivier-bech-ancien-135201353.html",
+      "date": "2026-09-24"
+     }
+    ]
+   },
+   {
+    "texte": "Ministre délégué chargé du Commerce extérieur, de l'Attractivité et des Français de l'étranger dans le gouvernement Borne (juillet 2022 - janvier 2024), non reconduit dans le gouvernement Attal.",
+    "sources": [
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Becht",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+      "date": "2026-09-25"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre du Commerce extérieur, est candidat à l'élection",
+      "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-olivier-becht-ancien-ministre-du-commerce-exterieur-est-candidat-a-lelection-21252890-b800-11f1-b8f7-5b3ca074ea4b",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "franceinfo (France 3 Grand Est)",
+      "titre": "« Je suis lucide, je ne suis pas le favori », Olivier Becht, député du Haut-Rhin, déclare sa candidature à l'élection présidentielle",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/je-suis-lucide-je-ne-suis-pas-le-favori-olivier-becht-depute-du-haut-rhin-declare-sa-candidature-a-l-election-presidentielle-3422486.html",
+      "date": "2026-09-24"
+     }
+    ]
+   }
+  ],
+  "autres": [
+   {
+    "texte": "A annoncé sa candidature à la présidentielle le 24 septembre 2026 dans Paris Match (« Quand on n'a aucune chance, il faut la saisir ! »), puis devant la mairie de Rixheim.",
+    "sources": [
+     {
+      "media": "Le Monde",
+      "titre": "Olivier Becht, ancien ministre du commerce extérieur, candidat à l'élection présidentielle",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/24/l-ancien-ministre-olivier-becht-candidat-a-l-election-presidentielle_6781497_823448.html",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "Ouest-France",
+      "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre du Commerce extérieur, est candidat à l'élection",
+      "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-olivier-becht-ancien-ministre-du-commerce-exterieur-est-candidat-a-lelection-21252890-b800-11f1-b8f7-5b3ca074ea4b",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "Libération",
+      "titre": "Candidat à la présidentielle, Olivier Becht mise sur un malentendu : « Quand on n'a aucune chance, il faut la saisir »",
+      "url": "https://www.liberation.fr/politique/candidat-a-la-presidentielle-olivier-becht-mise-sur-un-malentendu-quand-on-na-aucune-chance-il-faut-la-saisir-20260924_XLVV2APCOBAETK6YXBJROMFZGM/",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "Paris Match",
+      "titre": "EXCLUSIF - « Je suis candidat à la présidentielle » : un ancien ministre d'Élisabeth Borne sort du bois",
+      "url": "https://www.parismatch.com/actu/politique/exclusif-je-suis-candidat-a-la-presidentielle-un-ancien-ministre-delisabeth-borne-sort-du-bois-276281",
+      "date": "2026-09-24"
+     }
+    ]
+   },
+   {
+    "texte": "A été membre du Parti socialiste il y a une trentaine d'années, puis élu sous l'étiquette UDI ; cofondateur du parti Agir.",
+    "sources": [
+     {
+      "media": "Ouest-France",
+      "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre du Commerce extérieur, est candidat à l'élection",
+      "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-olivier-becht-ancien-ministre-du-commerce-exterieur-est-candidat-a-lelection-21252890-b800-11f1-b8f7-5b3ca074ea4b",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "L'Indépendant",
+      "titre": "Présidentielle 2027 : « Quand on n'a aucune chance, il faut la saisir »... Olivier Becht, ancien ministre d'Élisabeth Borne, se lance dans la course",
+      "url": "https://www.lindependant.fr/2026/09/24/presidentielle-2027-quand-on-na-aucune-chance-il-faut-la-saisir-olivier-becht-ancien-ministre-delisabeth-borne-se-lance-dans-la-course-13567072.php",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Becht",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "A lancé en mai-juin 2025 « Projet France », plateforme participative destinée à élaborer un « nouveau modèle » pour le pays.",
+    "sources": [
+     {
+      "media": "L'Indépendant",
+      "titre": "Présidentielle 2027 : « Quand on n'a aucune chance, il faut la saisir »... Olivier Becht, ancien ministre d'Élisabeth Borne, se lance dans la course",
+      "url": "https://www.lindependant.fr/2026/09/24/presidentielle-2027-quand-on-na-aucune-chance-il-faut-la-saisir-olivier-becht-ancien-ministre-delisabeth-borne-se-lance-dans-la-course-13567072.php",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "Wikipédia",
+      "titre": "Olivier Becht",
+      "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+      "date": "2026-09-25"
+     }
+    ]
+   },
+   {
+    "texte": "Revendique « vingt-cinq ans de mandats locaux » et prévoit de visiter les 235 sous-préfectures à partir de novembre 2026.",
+    "sources": [
+     {
+      "media": "Ouest-France",
+      "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre du Commerce extérieur, est candidat à l'élection",
+      "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-olivier-becht-ancien-ministre-du-commerce-exterieur-est-candidat-a-lelection-21252890-b800-11f1-b8f7-5b3ca074ea4b",
+      "date": "2026-09-24"
+     },
+     {
+      "media": "L'Indépendant",
+      "titre": "Présidentielle 2027 : « Quand on n'a aucune chance, il faut la saisir »... Olivier Becht, ancien ministre d'Élisabeth Borne, se lance dans la course",
+      "url": "https://www.lindependant.fr/2026/09/24/presidentielle-2027-quand-on-na-aucune-chance-il-faut-la-saisir-olivier-becht-ancien-ministre-delisabeth-borne-se-lance-dans-la-course-13567072.php",
+      "date": "2026-09-24"
+     }
+    ]
+   }
+  ]
+ },
+ "programme": {
+  "energie_climat": {
+   "resume": "Propose l'indépendance énergétique à moyen terme et une baisse du prix de l'électricité (vente « au coût marginal de l'électron ») ; juge le blocage des prix des carburants et la baisse de TVA inadaptés (coût de plus de 17 Md€).",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose l'indépendance énergétique à moyen terme et la baisse du coût de l'électricité.",
+     "sources": [
+      {
+       "media": "Ouest-France",
+       "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre du Commerce extérieur, est candidat à l'élection",
+       "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-olivier-becht-ancien-ministre-du-commerce-exterieur-est-candidat-a-lelection-21252890-b800-11f1-b8f7-5b3ca074ea4b",
+       "date": "2026-09-24"
+      },
+      {
+       "media": "BFMTV (via Yahoo Actualités)",
+       "titre": "Présidentielle 2027 : l'ancien ministre et député Olivier Becht se déclare officiellement candidat",
+       "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-lancien-ministre-d%C3%A9put%C3%A9-081912682.html",
+       "date": "2026-09-24"
+      }
+     ]
+    },
+    {
+     "texte": "Face à la hausse des carburants, propose à court terme une « énorme ristourne » sur la facture d'électricité en vendant au coût marginal ; juge le blocage des prix « une bêtise » et estime qu'une baisse de TVA créerait un trou de plus de 17 milliards d'euros.",
+     "sources": [
+      {
+       "media": "franceinfo",
+       "titre": "Hausse des prix des carburants : le député Olivier Becht propose d'agir sur le prix de l'électricité",
+       "url": "https://www.franceinfo.fr/economie/automobile/essence/hausse-des-prix-des-carburants-le-depute-olivier-becht-propose-d-agir-sur-le-prix-de-l-electricite_8202695.html",
+       "date": "2026-09-21"
+      }
+     ]
+    }
+   ]
+  },
+  "travail_salaires": {
+   "resume": "Propose un « contrat social universel » protégeant chaque Français « de la naissance au décès », avec des contreparties, dont l'obligation pour un chômeur d'accepter la première offre correspondant à ses qualifications.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose la création d'un contrat social universel accompagnant chaque Français de la naissance au décès.",
+     "sources": [
+      {
+       "media": "Ouest-France",
+       "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre du Commerce extérieur, est candidat à l'élection",
+       "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-olivier-becht-ancien-ministre-du-commerce-exterieur-est-candidat-a-lelection-21252890-b800-11f1-b8f7-5b3ca074ea4b",
+       "date": "2026-09-24"
+      },
+      {
+       "media": "BFMTV (via Yahoo Actualités)",
+       "titre": "Présidentielle 2027 : l'ancien ministre et député Olivier Becht se déclare officiellement candidat",
+       "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-lancien-ministre-d%C3%A9put%C3%A9-081912682.html",
+       "date": "2026-09-24"
+      },
+      {
+       "media": "Paris Match",
+       "titre": "EXCLUSIF - « Je suis candidat à la présidentielle » : un ancien ministre d'Élisabeth Borne sort du bois",
+       "url": "https://www.parismatch.com/actu/politique/exclusif-je-suis-candidat-a-la-presidentielle-un-ancien-ministre-delisabeth-borne-sort-du-bois-276281",
+       "date": "2026-09-24"
+      }
+     ]
+    },
+    {
+     "texte": "Contreparties envisagées : obligation pour un chômeur d'accepter la première offre correspondant à ses qualifications.",
+     "sources": [
+      {
+       "media": "BFMTV (via Yahoo Actualités)",
+       "titre": "Présidentielle 2027 : l'ancien ministre et député Olivier Becht se déclare officiellement candidat",
+       "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-lancien-ministre-d%C3%A9put%C3%A9-081912682.html",
+       "date": "2026-09-24"
+      },
+      {
+       "media": "Paris Match",
+       "titre": "EXCLUSIF - « Je suis candidat à la présidentielle » : un ancien ministre d'Élisabeth Borne sort du bois",
+       "url": "https://www.parismatch.com/actu/politique/exclusif-je-suis-candidat-a-la-presidentielle-un-ancien-ministre-delisabeth-borne-sort-du-bois-276281",
+       "date": "2026-09-24"
+      }
+     ]
+    }
+   ]
+  },
+  "institutions": {
+   "resume": "Propose de refonder le modèle institutionnel par un « fédéralisme à la française », de supprimer la moitié des 400 000 normes réglementaires et de recréer une région Alsace hors du Grand Est.",
+   "origine": "déclarations 2025-2026",
+   "details": [
+    {
+     "texte": "Propose un « fédéralisme à la française » dans le cadre d'une refonte des modèles économique, social, sécuritaire et institutionnel.",
+     "sources": [
+      {
+       "media": "franceinfo (France 3 Grand Est)",
+       "titre": "« Je suis lucide, je ne suis pas le favori », Olivier Becht, député du Haut-Rhin, déclare sa candidature à l'élection présidentielle",
+       "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/je-suis-lucide-je-ne-suis-pas-le-favori-olivier-becht-depute-du-haut-rhin-declare-sa-candidature-a-l-election-presidentielle-3422486.html",
+       "date": "2026-09-24"
+      },
+      {
+       "media": "ICI Alsace (Radio France)",
+       "titre": "« Il faut refonder notre modèle » : le député alsacien Olivier Becht est candidat à la présidentielle",
+       "url": "https://www.ici.fr/grand-est/alsace-cea/rixheim/il-faut-refonder-notre-modele-le-depute-alsacien-olivier-becht-est-candidat-a-la-presidentielle-1401407",
+       "date": "2026-09-24"
+      }
+     ]
+    },
+    {
+     "texte": "Propose de supprimer la moitié des 400 000 normes réglementaires.",
+     "sources": [
+      {
+       "media": "Paris Match",
+       "titre": "EXCLUSIF - « Je suis candidat à la présidentielle » : un ancien ministre d'Élisabeth Borne sort du bois",
+       "url": "https://www.parismatch.com/actu/politique/exclusif-je-suis-candidat-a-la-presidentielle-un-ancien-ministre-delisabeth-borne-sort-du-bois-276281",
+       "date": "2026-09-24"
+      }
+     ]
+    },
+    {
+     "texte": "Qualifie la fusion de l'Alsace dans le Grand Est (2015) d'« erreur historique » et soutient la recréation d'une région Alsace.",
+     "sources": [
+      {
+       "media": "ICI Alsace (Radio France)",
+       "titre": "« Il faut refonder notre modèle » : le député alsacien Olivier Becht est candidat à la présidentielle",
+       "url": "https://www.ici.fr/grand-est/alsace-cea/rixheim/il-faut-refonder-notre-modele-le-depute-alsacien-olivier-becht-est-candidat-a-la-presidentielle-1401407",
+       "date": "2026-09-24"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "affaires": [],
+ "financement": [
+  {
+   "texte": "Déclare avoir déjà collecté « quelques centaines de milliers d'euros » pour sa campagne 2027 ; dispose de donateurs, « pas assez pour la campagne ».",
+   "sources": [
+    {
+     "media": "Ouest-France",
+     "titre": "Présidentielle 2027 : Olivier Becht, ancien ministre du Commerce extérieur, est candidat à l'élection",
+     "url": "https://www.ouest-france.fr/elections/presidentielle/presidentielle-2027-olivier-becht-ancien-ministre-du-commerce-exterieur-est-candidat-a-lelection-21252890-b800-11f1-b8f7-5b3ca074ea4b",
+     "date": "2026-09-24"
+    },
+    {
+     "media": "L'Indépendant",
+     "titre": "Présidentielle 2027 : « Quand on n'a aucune chance, il faut la saisir »... Olivier Becht, ancien ministre d'Élisabeth Borne, se lance dans la course",
+     "url": "https://www.lindependant.fr/2026/09/24/presidentielle-2027-quand-on-na-aucune-chance-il-faut-la-saisir-olivier-becht-ancien-ministre-delisabeth-borne-se-lance-dans-la-course-13567072.php",
+     "date": "2026-09-24"
+    },
+    {
+     "media": "BFMTV (via Yahoo Actualités)",
+     "titre": "Présidentielle 2027 : l'ancien ministre et député Olivier Becht se déclare officiellement candidat",
+     "url": "https://fr.news.yahoo.com/pr%C3%A9sidentielle-2027-lancien-ministre-d%C3%A9put%C3%A9-081912682.html",
+     "date": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "texte": "N'a jamais été candidat à une présidentielle : aucun compte de campagne présidentielle antérieur.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Olivier Becht",
+     "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+     "date": "2026-09-25"
+    }
+   ]
+  }
+ ]
+}

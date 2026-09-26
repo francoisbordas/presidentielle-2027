@@ -1,0 +1,1700 @@
+{
+ "_meta": {
+  "genere_le": "2026-09-25",
+  "convention": "pourcentages des suffrages exprimés ; '<1' = inférieur à 1 % tel que publié ; null = introuvable. Double vérification : Wikipédia + notice officielle déposée à la Commission des sondages (chiffres redressés), plus presse ou institut quand disponible.",
+  "contexte": "Marine Le Pen a officialisé sa candidature le 7 juillet 2026, après la réduction en appel de sa période d'inéligibilité ; avant cette date, les sondages testaient Jordan Bardella. Premier tour prévu le 18 avril 2027, second tour le 2 mai 2027 (Wikipédia)."
+ },
+ "premier_tour": [
+  {
+   "institut": "Cluster17",
+   "commanditaire": "Politico",
+   "date_terrain": "2026-09-15",
+   "date_terrain_fin": "2026-09-16",
+   "echantillon": 1943,
+   "marge": "±2,5 (30 %) à ±2,7 pts (50 %) sur l'effectif utile de 1 337 (notice)",
+   "hypothese": "Hypothèse 1 : Philippe seul au centre (Attal non testé), Glucksmann pour PS/PP, Retailleau (LR), Le Pen (RN). Attal n'a pas été testé avec Philippe par Cluster17",
+   "resultats": {
+    "Nathalie Arthaud": 0.5,
+    "Jean-Luc Mélenchon": 19,
+    "Fabien Roussel": 2,
+    "Marine Tondelier": 2.5,
+    "Raphaël Glucksmann": 12,
+    "Édouard Philippe": 19,
+    "Bruno Retailleau": 7.5,
+    "Nicolas Dupont-Aignan": 3,
+    "Marine Le Pen": 31,
+    "Éric Zemmour": 3.5
+   },
+   "note": "Notice (redressé, non arrondi) : Le Pen 30,8 ; Mélenchon 19,1 ; Philippe 18,8 ; Glucksmann 11,8. Public Sénat arrondit Le Pen à 30 %.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Intentions de vote – Présidentielle 2027 (Cluster17 pour Politico)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10273-pres-iv-cluster17-politico-24-septembre.pdf",
+     "date": "2026-09-24"
+    },
+    {
+     "media": "Public Sénat",
+     "titre": "Sondage présidentielle 2027 : Marine Le Pen largement en tête, suivi de Jean-Luc Mélenchon et Édouard Philippe à égalité",
+     "url": "https://www.publicsenat.fr/actualites/politique/sondage-presidentielle-2027-marine-le-pen-largement-en-tete-suivi-de-jean-luc-melenchon-et-edouard-philippe-a-egalite",
+     "date": "2026-09-24"
+    },
+    {
+     "media": "Cluster17",
+     "titre": "Présidentielle 2027 : Le Pen largement en tête, Mélenchon et Philippe au coude-à-coude",
+     "url": "https://cluster17.com/presidentielle-2027-le-pen-largement-en-tete-melenchon-et-philippe-au-coude-a-coude/",
+     "date": null
+    }
+   ]
+  },
+  {
+   "institut": "OpinionWay",
+   "commanditaire": "CNews",
+   "date_terrain": "2026-09-09",
+   "date_terrain_fin": "2026-09-10",
+   "echantillon": 1001,
+   "marge": "±2,9 (score 30 %) à ±3,2 pts (50 %) sur la base des exprimés (notice)",
+   "hypothese": "Hypothèse 3 : Glucksmann candidat socialiste ; Attal et Philippe tous deux candidats ; Retailleau (LR) ; Lisnard et Bouamrane testés ; Le Pen (RN)",
+   "resultats": {
+    "Nathalie Arthaud": "<1",
+    "Jean-Luc Mélenchon": 17,
+    "Fabien Roussel": 2,
+    "Marine Tondelier": 3,
+    "Raphaël Glucksmann": 9,
+    "Karim Bouamrane": "<1",
+    "Gabriel Attal": 7,
+    "Édouard Philippe": 15,
+    "Bruno Retailleau": 7,
+    "David Lisnard": 2,
+    "Nicolas Dupont-Aignan": 2,
+    "Éric Zemmour": 2,
+    "Marine Le Pen": 34
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Les intentions de vote à l'élection présidentielle de 2027 (OpinionWay pour CNews)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10260-pres-iv-opinionway-cnews-11-septembre.pdf",
+     "date": "2026-09-11"
+    },
+    {
+     "media": "CNews",
+     "titre": "Sondage : sans candidature unique au centre, Jean-Luc Mélenchon en ballotage favorable pour accéder au second tour face à Marine Le Pen",
+     "url": "https://www.cnews.fr/france/2026-09-11/sondage-sans-candidature-unique-au-centre-jean-luc-melenchon-en-ballotage",
+     "date": "2026-09-11"
+    }
+   ]
+  },
+  {
+   "institut": "Toluna Harris Interactive",
+   "commanditaire": "M6 / RTL",
+   "date_terrain": "2026-09-08",
+   "date_terrain_fin": "2026-09-10",
+   "echantillon": 2052,
+   "marge": "entre ±1,4 et ±3,1 pts selon le score (notice)",
+   "hypothese": "Référence : Glucksmann (PP/PS), Attal (RE) et Philippe (HOR) tous candidats, Retailleau (LR), Le Pen (RN) (hypothèse 1 de la notice)",
+   "resultats": {
+    "Nathalie Arthaud": 1,
+    "Jean-Luc Mélenchon": 16,
+    "Fabien Roussel": 2,
+    "Marine Tondelier": 3,
+    "Raphaël Glucksmann": 9,
+    "Gabriel Attal": 8,
+    "Édouard Philippe": 14,
+    "Bruno Retailleau": 7,
+    "Nicolas Dupont-Aignan": 2,
+    "Marine Le Pen": 33,
+    "Éric Zemmour": 5
+   },
+   "note": "Le Pen entre 33 et 36 % selon les 5 hypothèses ; Toluna signale un premier léger recul (-2 pts).",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Intentions de vote à l'élection présidentielle 2027 (Toluna Harris Interactive pour M6 et RTL)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10263-pres-iv-toluna-harris-interactive-rtl-14-septembre.pdf",
+     "date": "2026-09-14"
+    },
+    {
+     "media": "Toluna Harris Interactive",
+     "titre": "Intentions de vote à l'élection présidentielle 2027 – Septembre 2026",
+     "url": "https://tolunacorporate.com/fr/intentions-de-vote-a-lelection-presidentielle-2027-septembre-2026/",
+     "date": null
+    }
+   ]
+  },
+  {
+   "institut": "OpinionWay",
+   "commanditaire": "Les Echos / Radio Classique (PrésiTrack vague 2)",
+   "date_terrain": "2026-09-08",
+   "date_terrain_fin": "2026-09-09",
+   "echantillon": 1001,
+   "marge": "±2,9 (score 30 %) à ±3,2 pts (50 %) sur la base des exprimés (notice)",
+   "hypothese": "Hypothèse 1 : Référence : Glucksmann (PP/PS), Attal (RE) et Philippe (HOR) tous candidats, Retailleau (LR), Le Pen (RN)",
+   "resultats": {
+    "Nathalie Arthaud": "<1",
+    "Jean-Luc Mélenchon": 15,
+    "Fabien Roussel": 2,
+    "Marine Tondelier": 3,
+    "Raphaël Glucksmann": 9,
+    "Gabriel Attal": 8,
+    "Édouard Philippe": 15,
+    "Bruno Retailleau": 8,
+    "Nicolas Dupont-Aignan": 2,
+    "Marine Le Pen": 34,
+    "Éric Zemmour": 4
+   },
+   "note": "Dans la notice PDF, les lignes Le Pen (4 %) et Zemmour (34 %) de l'hypothèse 1 sont visiblement interverties ; Wikipédia et OpinionWay donnent Le Pen 34 %.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "PrésiTrack – vague 2 (OpinionWay pour Les Echos et Radio Classique)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10259-pres-presitrack-v2-opinionway-les-echos-10-septembre.pdf",
+     "date": "2026-09-10"
+    },
+    {
+     "media": "OpinionWay",
+     "titre": "PrésiTrack – vague 2",
+     "url": "https://www.opinion-way.com/fr/publications/presitrack-vague-2-2-2026-24246/",
+     "date": null
+    },
+    {
+     "media": "Europe 1",
+     "titre": "SONDAGE – Présidentielle 2027 : Marine Le Pen assurée d'être au second tour, et de l'emporter face à Jean-Luc Mélenchon",
+     "url": "https://www.europe1.fr/politique/sondage-presidentielle-2027-marine-le-pen-assuree-detre-au-second-tour-et-de-lemporter-face-a-jean-luc-melenchon-1055162",
+     "date": null
+    }
+   ]
+  },
+  {
+   "institut": "Ipsos bva",
+   "commanditaire": "Le Monde / Cevipof / Institut Montaigne / Fondation Jean-Jaurès (Enquête électorale française)",
+   "date_terrain": "2026-09-03",
+   "date_terrain_fin": "2026-09-09",
+   "echantillon": 13060,
+   "marge": "Le Pen 33 % ±0,9 pt ; Mélenchon 15,5 % ±0,7 ; Philippe 14 % ±0,7 (notice, base ~9 445 exprimés)",
+   "hypothese": "Hypothèse 1 : Référence : Glucksmann (PP/PS), Attal (RE) et Philippe (HOR) tous candidats, Retailleau (LR), Le Pen (RN)",
+   "resultats": {
+    "Nathalie Arthaud": 0.5,
+    "Jean-Luc Mélenchon": 15.5,
+    "Fabien Roussel": 2.5,
+    "Marine Tondelier": 4,
+    "Raphaël Glucksmann": 11.5,
+    "Gabriel Attal": 6,
+    "Édouard Philippe": 14,
+    "Bruno Retailleau": 7,
+    "Nicolas Dupont-Aignan": 2,
+    "Marine Le Pen": 33,
+    "Éric Zemmour": 4
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Notice technique – Enquête électorale française – Septembre 2026",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10262-pres-enquete-electorale-ipsos-bva-le-monde-13-septembre.pdf",
+     "date": "2026-09-13"
+    },
+    {
+     "media": "Fondation Jean-Jaurès",
+     "titre": "Enquête électorale 2026 : les enseignements de la vague de septembre",
+     "url": "https://www.jean-jaures.org/publication/enquete-electorale-2026-les-enseignements-de-la-vague-de-septembre/",
+     "date": null
+    },
+    {
+     "media": "Ipsos",
+     "titre": "Présidentielle 2027 : le point à 7 mois du scrutin",
+     "url": "https://www.ipsos.com/fr-fr/presidentielle-2027-le-point-7-mois-du-scrutin",
+     "date": null
+    }
+   ]
+  },
+  {
+   "institut": "OpinionWay",
+   "commanditaire": "Le JDD",
+   "date_terrain": "2026-09-02",
+   "date_terrain_fin": "2026-09-03",
+   "echantillon": 1003,
+   "marge": "±2,9 (30 %) à ±3,2 pts (50 %) sur 930 exprimés (notice)",
+   "hypothese": "Hypothèse 3 : Attal et Philippe tous deux candidats, Glucksmann, Retailleau, Le Pen ; Dupont-Aignan non testé",
+   "resultats": {
+    "Nathalie Arthaud": 1,
+    "Jean-Luc Mélenchon": 17,
+    "Fabien Roussel": 2,
+    "Marine Tondelier": 3,
+    "Raphaël Glucksmann": 11,
+    "Gabriel Attal": 7,
+    "Édouard Philippe": 15,
+    "Bruno Retailleau": 7,
+    "Éric Zemmour": 3,
+    "Marine Le Pen": 34
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Intentions de vote présidentielle 2027 (OpinionWay pour le JDD)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10252-pres-iv-opinionway-jdd-7-septembre.pdf",
+     "date": "2026-09-07"
+    }
+   ]
+  },
+  {
+   "institut": "Ipsos bva",
+   "commanditaire": "Le Parisien",
+   "date_terrain": "2026-08-31",
+   "date_terrain_fin": "2026-09-02",
+   "echantillon": 1500,
+   "marge": "Le Pen 34 % ±2,9 pts ; Mélenchon 15 % ±2,2 ; Philippe 14,5 % ±2,2 (notice)",
+   "hypothese": "Hypothèse 1 : Référence : Glucksmann (PP/PS), Attal (RE) et Philippe (HOR) tous candidats, Retailleau (LR), Le Pen (RN)",
+   "resultats": {
+    "Nathalie Arthaud": 0.5,
+    "Jean-Luc Mélenchon": 15,
+    "Fabien Roussel": 2.5,
+    "Marine Tondelier": 3.5,
+    "Raphaël Glucksmann": 11.5,
+    "Gabriel Attal": 7.5,
+    "Édouard Philippe": 14.5,
+    "Bruno Retailleau": 6,
+    "Nicolas Dupont-Aignan": 2,
+    "Marine Le Pen": 34,
+    "Éric Zemmour": 3
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Intentions de vote présidentielle 2027 (Ipsos bva pour Le Parisien)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10250-pres-iv-ipsos-bva-le-parisien-5-septembre.pdf",
+     "date": "2026-09-05"
+    },
+    {
+     "media": "Ipsos",
+     "titre": "Présidentielle 2027 : Marine Le Pen conserve une avance nette dans les intentions de vote",
+     "url": "https://www.ipsos.com/fr-fr/presidentielle-2027-marine-le-pen-conserve-une-avance-nette-dans-les-intentions-de-vote",
+     "date": "2026-09-05"
+    }
+   ]
+  },
+  {
+   "institut": "Cluster17",
+   "commanditaire": "Le Point",
+   "date_terrain": "2026-08-31",
+   "date_terrain_fin": "2026-09-01",
+   "echantillon": 1628,
+   "marge": "±2,2 (30 %) à ±2,5 pts (50 %) pour 1 628 inscrits (notice)",
+   "hypothese": "Hypothèse 1 : Philippe seul au centre, Villepin testé, Glucksmann, Retailleau, Le Pen",
+   "resultats": {
+    "Nathalie Arthaud": 1,
+    "Jean-Luc Mélenchon": 18,
+    "Fabien Roussel": 2,
+    "Marine Tondelier": 2,
+    "Raphaël Glucksmann": 11.5,
+    "Édouard Philippe": 18,
+    "Dominique de Villepin": 3.5,
+    "Bruno Retailleau": 7.5,
+    "Nicolas Dupont-Aignan": 3,
+    "Marine Le Pen": 30,
+    "Éric Zemmour": 3.5
+   },
+   "note": "Wikipédia indique 1 711 (échantillon total) ; la notice indique 1 628 inscrits. Notice (non arrondi) : Le Pen 30,0 ; Philippe 18,2 ; Mélenchon 17,9.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Intentions de vote présidentielle 2027 (Cluster17 pour Le Point)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10251-pres-iv-cluster-17-le-point-5-septembre.pdf",
+     "date": "2026-09-05"
+    },
+    {
+     "media": "Cluster17",
+     "titre": "Sondage Présidentielle 2027 pour Le Point : Jean-Luc Mélenchon et Edouard Philippe au coude-à-coude",
+     "url": "https://cluster17.com/sondage-presidentielle-2027-pour-le-point-jean-luc-melenchon-et-edouard-philippe-au-coude-a-coude/",
+     "date": null
+    }
+   ]
+  },
+  {
+   "institut": "Elabe",
+   "commanditaire": "BFMTV / La Tribune Dimanche",
+   "date_terrain": "2026-08-26",
+   "date_terrain_fin": "2026-08-28",
+   "echantillon": 1501,
+   "marge": null,
+   "hypothese": "Hypothèse 1 : Philippe seul au centre (Attal non testé dans cette hypothèse), Villepin testé, Glucksmann, Retailleau, Le Pen. Aucune hypothèse Elabe de cette vague ne reproduit exactement la configuration de référence",
+   "resultats": {
+    "Nathalie Arthaud": 1.5,
+    "Jean-Luc Mélenchon": 14,
+    "Fabien Roussel": 3,
+    "Marine Tondelier": 3.5,
+    "Raphaël Glucksmann": 11.5,
+    "Édouard Philippe": 17,
+    "Dominique de Villepin": 2,
+    "Bruno Retailleau": 6.5,
+    "Nicolas Dupont-Aignan": 3,
+    "Marine Le Pen": 34,
+    "Éric Zemmour": 4
+   },
+   "note": "Notice PDF non extractible en texte (marge non relevée). Presse : Le Pen 34 à 35,5 %, Philippe 17 à 20,5 % selon les hypothèses.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Présidentielle 2027 (Elabe)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf",
+     "date": "2026-08-29"
+    },
+    {
+     "media": "Elabe",
+     "titre": "Les Français et l'élection présidentielle 2027",
+     "url": "https://elabe.fr/presidentielle-2027-aout/",
+     "date": "2026-08-29"
+    },
+    {
+     "media": "BFMTV (via Yahoo Actualités)",
+     "titre": "SONDAGE BFMTV. Présidentielle 2027 : Marine Le Pen gagnante dans tous les cas de figure, Édouard Philippe bien placé pour se qualifier au second tour",
+     "url": "https://fr.news.yahoo.com/sondage-bfmtv-presidentielle-2027-marine-180140297.html",
+     "date": "2026-08-29"
+    }
+   ]
+  },
+  {
+   "institut": "Ifop-Fiducial",
+   "commanditaire": "LCI / Le Figaro / Sud Radio (baromètre vague 5)",
+   "date_terrain": "2026-08-24",
+   "date_terrain_fin": "2026-08-25",
+   "echantillon": 1598,
+   "marge": "±2,8 (30 %) à ±3,1 pts (50 %) pour 1 000 répondants (table de la notice) ; un peu moins pour l'échantillon réel",
+   "hypothese": "Hypothèse 1 : Référence : Glucksmann (PP/PS), Attal (RE) et Philippe (HOR) tous candidats, Retailleau (LR), Le Pen (RN)",
+   "resultats": {
+    "Nathalie Arthaud": 0.5,
+    "Jean-Luc Mélenchon": 16,
+    "Fabien Roussel": 3,
+    "Marine Tondelier": 3,
+    "Raphaël Glucksmann": 11,
+    "Gabriel Attal": 8,
+    "Édouard Philippe": 14.5,
+    "Bruno Retailleau": 6,
+    "Nicolas Dupont-Aignan": 1.5,
+    "Marine Le Pen": 33,
+    "Éric Zemmour": 3.5
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Baromètre de l'élection présidentielle – vague 5 (Ifop-Fiducial)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "date": "2026-08-26"
+    },
+    {
+     "media": "Ifop",
+     "titre": "Baromètre de l'élection présidentielle – vague 5",
+     "url": "https://www.ifopgroup.com/article/barometre-de-lelection-presidentielle-vague-5-2/",
+     "date": "2026-08-26"
+    },
+    {
+     "media": "Sud Radio",
+     "titre": "EXCLU Présidentielle 2027 : Le Pen vainqueure dans tous les cas",
+     "url": "https://www.sudradio.fr/sud-radio/marine-le-pen-vainqueure-de-la-presidentielle-2027-dans-tous-les-scenarios",
+     "date": null
+    }
+   ]
+  },
+  {
+   "institut": "Toluna Harris Interactive",
+   "commanditaire": "M6 / RTL",
+   "date_terrain": "2026-08-18",
+   "date_terrain_fin": "2026-08-19",
+   "echantillon": 1764,
+   "marge": "entre ±1,4 et ±3,1 pts selon le score (notice)",
+   "hypothese": "Référence : Glucksmann (PP/PS), Attal (RE) et Philippe (HOR) tous candidats, Retailleau (LR), Le Pen (RN) (hypothèse 1 de la notice)",
+   "resultats": {
+    "Nathalie Arthaud": 1,
+    "Jean-Luc Mélenchon": 16,
+    "Fabien Roussel": 2,
+    "Marine Tondelier": 3,
+    "Raphaël Glucksmann": 10,
+    "Gabriel Attal": 8,
+    "Édouard Philippe": 14,
+    "Bruno Retailleau": 6,
+    "Nicolas Dupont-Aignan": 2,
+    "Marine Le Pen": 35,
+    "Éric Zemmour": 3
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Intentions de vote à l'élection présidentielle 2027 (Toluna Harris Interactive pour M6 et RTL)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10239-pres-toluna-harris-interactive-rtl-24-aout.pdf",
+     "date": "2026-08-24"
+    }
+   ]
+  },
+  {
+   "institut": "Cluster17",
+   "commanditaire": "Le Grand Continent",
+   "date_terrain": "2026-07-22",
+   "date_terrain_fin": "2026-07-24",
+   "echantillon": 1404,
+   "marge": "±2,4 (30 %) à ±2,6 pts (50 %) pour 1 404 inscrits (notice)",
+   "hypothese": "Hypothèse 1 : Philippe seul au centre, Villepin, Glucksmann, Retailleau, Le Pen",
+   "resultats": {
+    "Nathalie Arthaud": 1,
+    "Jean-Luc Mélenchon": 18,
+    "Fabien Roussel": 2,
+    "Marine Tondelier": 3,
+    "Raphaël Glucksmann": 10,
+    "Édouard Philippe": 18,
+    "Dominique de Villepin": 3,
+    "Bruno Retailleau": 8,
+    "Nicolas Dupont-Aignan": 3,
+    "Marine Le Pen": 30,
+    "Éric Zemmour": 4
+   },
+   "note": "Wikipédia indique 1 506 (échantillon total) ; la notice indique 1 404 inscrits.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Intentions de vote présidentielle 2027 (Cluster17 pour Le Grand Continent)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+     "date": "2026-08-31"
+    }
+   ]
+  },
+  {
+   "institut": "Elabe",
+   "commanditaire": "BFMTV / La Tribune Dimanche",
+   "date_terrain": "2026-07-09",
+   "date_terrain_fin": "2026-07-10",
+   "echantillon": 1503,
+   "marge": null,
+   "hypothese": "Hypothèse 5 (Wikipédia) : Référence : Glucksmann (PP/PS), Attal (RE) et Philippe (HOR) tous candidats, Retailleau (LR), Le Pen (RN)",
+   "resultats": {
+    "Nathalie Arthaud": 1,
+    "Jean-Luc Mélenchon": 14.5,
+    "Fabien Roussel": 2.5,
+    "Marine Tondelier": 4,
+    "Raphaël Glucksmann": 8.5,
+    "Gabriel Attal": 7.5,
+    "Édouard Philippe": 14,
+    "Bruno Retailleau": 8.5,
+    "Nicolas Dupont-Aignan": 1.5,
+    "Marine Le Pen": 35,
+    "Éric Zemmour": 3
+   },
+   "note": "Notice PDF non extractible ; chiffres détaillés vérifiés uniquement via Wikipédia. Presse : Le Pen entre 34 et 35,5 % selon les hypothèses.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Présidentielle 2027 (Elabe)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10226-pres-elabe-11-juillet.pdf",
+     "date": "2026-07-11"
+    },
+    {
+     "media": "titrespresse.com (reprise BFMTV)",
+     "titre": "Présidentielle 2027 : découvrez notre sondage Elabe pour BFMTV et La Tribune Dimanche",
+     "url": "https://www.titrespresse.com/13983362603/elabe-bfmtv-tribune",
+     "date": "2026-07-11"
+    }
+   ]
+  },
+  {
+   "institut": "Verian",
+   "commanditaire": "L'Hémicycle",
+   "date_terrain": "2026-07-08",
+   "date_terrain_fin": "2026-07-10",
+   "echantillon": 1047,
+   "marge": null,
+   "hypothese": "Hypothèse unique : Glucksmann, Attal, Philippe, Retailleau, Le Pen ; Arthaud, Tondelier et Dupont-Aignan non testés",
+   "resultats": {
+    "Jean-Luc Mélenchon": 15,
+    "Fabien Roussel": 2,
+    "Raphaël Glucksmann": 11,
+    "Gabriel Attal": 8,
+    "Édouard Philippe": 17,
+    "Bruno Retailleau": 7,
+    "Marine Le Pen": 37,
+    "Éric Zemmour": 3
+   },
+   "note": "Résultats de la notice sous forme d'image, non vérifiés ligne à ligne (Le Pen 37 % confirmé par la recherche).",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "La candidature de Marine Le Pen à l'élection présidentielle (Verian pour L'Hémicycle)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10225-pres-iv-1er-tour-verian-lhemicycle-10-juillet.pdf",
+     "date": "2026-07-10"
+    }
+   ]
+  },
+  {
+   "institut": "OpinionWay",
+   "commanditaire": "Les Echos / Radio Classique (PrésiTrack)",
+   "date_terrain": "2026-07-08",
+   "date_terrain_fin": "2026-07-09",
+   "echantillon": 963,
+   "marge": "±2,9 (score 30 %) à ±3,2 pts (50 %) sur la base des exprimés (notice)",
+   "hypothese": "Hypothèse 1 : Référence : Glucksmann (PP/PS), Attal (RE) et Philippe (HOR) tous candidats, Retailleau (LR), Le Pen (RN) ; Dupont-Aignan non testé",
+   "resultats": {
+    "Nathalie Arthaud": "<1",
+    "Jean-Luc Mélenchon": 13,
+    "Fabien Roussel": 2,
+    "Marine Tondelier": 5,
+    "Raphaël Glucksmann": 9,
+    "Gabriel Attal": 7,
+    "Édouard Philippe": 18,
+    "Bruno Retailleau": 8,
+    "Marine Le Pen": 35,
+    "Éric Zemmour": 3
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "PrésiTrack (OpinionWay pour Les Echos et Radio Classique)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10224-pres-presitrack-opinionway-les-echos-9-juillet.pdf",
+     "date": "2026-07-09"
+    }
+   ]
+  },
+  {
+   "institut": "Toluna Harris Interactive",
+   "commanditaire": "M6 / RTL",
+   "date_terrain": "2026-07-07",
+   "date_terrain_fin": "2026-07-08",
+   "echantillon": 1592,
+   "marge": "entre ±1,4 et ±3,1 pts selon le score (notice)",
+   "hypothese": "Référence : Glucksmann (PP/PS), Attal (RE) et Philippe (HOR) tous candidats, Retailleau (LR), Le Pen (RN) (hypothèse 1 de la notice) ; terrain lancé après l'annonce de candidature de Marine Le Pen le 7 juillet",
+   "resultats": {
+    "Nathalie Arthaud": 1,
+    "Jean-Luc Mélenchon": 16,
+    "Fabien Roussel": 2,
+    "Marine Tondelier": 2,
+    "Raphaël Glucksmann": 10,
+    "Gabriel Attal": 8,
+    "Édouard Philippe": 14,
+    "Bruno Retailleau": 7,
+    "Nicolas Dupont-Aignan": 1,
+    "Marine Le Pen": 35,
+    "Éric Zemmour": 4
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Intentions de vote à l'élection présidentielle 2027 (Toluna Harris Interactive pour M6 et RTL)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10223-pres-iv-toluna-harris-interactive-rtl-8-juillet.pdf",
+     "date": "2026-07-08"
+    }
+   ]
+  },
+  {
+   "institut": "Ifop-Fiducial",
+   "commanditaire": "LCI / Le Figaro / Sud Radio",
+   "date_terrain": "2026-06-22",
+   "date_terrain_fin": "2026-06-24",
+   "echantillon": 1415,
+   "marge": "±2,8 (30 %) à ±3,1 pts (50 %) pour 1 000 répondants (table de la notice) ; un peu moins pour l'échantillon réel",
+   "hypothese": "Hypothèse 1 : configuration de référence mais avec Jordan Bardella pour le RN (avant la décision en appel concernant Marine Le Pen)",
+   "resultats": {
+    "Nathalie Arthaud": 0.5,
+    "Jean-Luc Mélenchon": 13,
+    "Fabien Roussel": 3,
+    "Marine Tondelier": 2.5,
+    "Raphaël Glucksmann": 9,
+    "Gabriel Attal": 8,
+    "Édouard Philippe": 14,
+    "Bruno Retailleau": 8,
+    "Nicolas Dupont-Aignan": 2,
+    "Jordan Bardella": 36,
+    "Éric Zemmour": 4
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Intentions de vote présidentielle 2027 (Ifop-Fiducial pour LCI, Le Figaro et Sud Radio)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juin/10211-pres-iv-ifop-le-figaro-25-juin.pdf",
+     "date": "2026-06-25"
+    }
+   ]
+  },
+  {
+   "institut": "Odoxa",
+   "commanditaire": "Public Sénat et presse régionale",
+   "date_terrain": "2026-05-20",
+   "date_terrain_fin": "2026-05-21",
+   "echantillon": 1005,
+   "marge": null,
+   "hypothese": "Philippe seul au centre, Glucksmann, Retailleau, Bardella (RN)",
+   "resultats": {
+    "Nathalie Arthaud": 0.5,
+    "Jean-Luc Mélenchon": 16,
+    "Fabien Roussel": 2.5,
+    "Marine Tondelier": 4,
+    "Raphaël Glucksmann": 11,
+    "Édouard Philippe": 17,
+    "Bruno Retailleau": 9,
+    "Nicolas Dupont-Aignan": 2,
+    "Jordan Bardella": 32,
+    "Éric Zemmour": 6
+   },
+   "note": "Odoxa confirme Bardella 32, Philippe 17, Mélenchon 16 ; les autres scores proviennent de Wikipédia seulement.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Odoxa",
+     "titre": "Philippe s'effondre, Mélenchon décolle, Bardella s'impose",
+     "url": "https://www.odoxa.fr/sondage/philippe-seffondre-melenchon-decolle-bardella-simpose/",
+     "date": "2026-05-26"
+    }
+   ]
+  },
+  {
+   "institut": "Ifop",
+   "commanditaire": "Le JDD",
+   "date_terrain": "2025-03-21",
+   "date_terrain_fin": "2025-03-26",
+   "echantillon": 1119,
+   "marge": null,
+   "hypothese": "Philippe (centre), Retailleau (LR), Faure (PS), Le Pen (RN) ; avant sa condamnation en première instance (31 mars 2025)",
+   "resultats": {
+    "Nathalie Arthaud": 1,
+    "Philippe Poutou": 1,
+    "Jean-Luc Mélenchon": 13,
+    "Fabien Roussel": 3,
+    "Olivier Faure": 5,
+    "Marine Tondelier": 3,
+    "Édouard Philippe": 21,
+    "Bruno Retailleau": 11,
+    "Nicolas Dupont-Aignan": 3,
+    "Marine Le Pen": 34,
+    "Éric Zemmour": 5
+   },
+   "note": "Point de repère pour 2025.",
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Intentions de vote présidentielle 2027 (Ifop pour Le JDD)",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2025/mars/9912-pres-ifop-jdd-30-mars-notice-pour-publication.pdf",
+     "date": "2025-03-30"
+    }
+   ]
+  }
+ ],
+ "second_tour": [
+  {
+   "institut": "OpinionWay (CNews)",
+   "date_terrain": "2026-09-09",
+   "duel": "Édouard Philippe vs Marine Le Pen",
+   "resultats": {
+    "Édouard Philippe": 45,
+    "Marine Le Pen": 55
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "OpinionWay pour CNews",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10260-pres-iv-opinionway-cnews-11-septembre.pdf",
+     "date": "2026-09-11"
+    }
+   ]
+  },
+  {
+   "institut": "Toluna Harris Interactive (M6/RTL)",
+   "date_terrain": "2026-09-08",
+   "duel": "Édouard Philippe vs Marine Le Pen",
+   "resultats": {
+    "Édouard Philippe": 45,
+    "Marine Le Pen": 55
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Toluna Harris Interactive pour M6 et RTL",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10263-pres-iv-toluna-harris-interactive-rtl-14-septembre.pdf",
+     "date": "2026-09-14"
+    }
+   ]
+  },
+  {
+   "institut": "OpinionWay (JDD)",
+   "date_terrain": "2026-09-02",
+   "duel": "Édouard Philippe vs Marine Le Pen",
+   "resultats": {
+    "Édouard Philippe": 48,
+    "Marine Le Pen": 52
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "OpinionWay pour le JDD",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10252-pres-iv-opinionway-jdd-7-septembre.pdf",
+     "date": "2026-09-07"
+    }
+   ]
+  },
+  {
+   "institut": "Elabe (BFMTV/LTD)",
+   "date_terrain": "2026-08-26",
+   "duel": "Édouard Philippe vs Marine Le Pen",
+   "resultats": {
+    "Édouard Philippe": 47.5,
+    "Marine Le Pen": 52.5
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Elabe pour BFMTV / La Tribune Dimanche",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf",
+     "date": "2026-08-29"
+    }
+   ]
+  },
+  {
+   "institut": "Ifop-Fiducial",
+   "date_terrain": "2026-08-24",
+   "duel": "Édouard Philippe vs Marine Le Pen",
+   "resultats": {
+    "Édouard Philippe": 48,
+    "Marine Le Pen": 52
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Ifop-Fiducial baromètre vague 5",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "date": "2026-08-26"
+    }
+   ]
+  },
+  {
+   "institut": "Toluna Harris Interactive (M6/RTL)",
+   "date_terrain": "2026-08-18",
+   "duel": "Édouard Philippe vs Marine Le Pen",
+   "resultats": {
+    "Édouard Philippe": 45,
+    "Marine Le Pen": 55
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Toluna Harris Interactive pour M6 et RTL",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10239-pres-toluna-harris-interactive-rtl-24-aout.pdf",
+     "date": "2026-08-24"
+    }
+   ]
+  },
+  {
+   "institut": "Cluster17 (Le Grand Continent)",
+   "date_terrain": "2026-07-22",
+   "duel": "Édouard Philippe vs Marine Le Pen",
+   "resultats": {
+    "Édouard Philippe": 48,
+    "Marine Le Pen": 52
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Cluster17 pour Le Grand Continent",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+     "date": "2026-08-31"
+    }
+   ]
+  },
+  {
+   "institut": "Ifop (LCI/Le Figaro)",
+   "date_terrain": "2026-07-07",
+   "duel": "Édouard Philippe vs Marine Le Pen",
+   "resultats": {
+    "Édouard Philippe": 46,
+    "Marine Le Pen": 54
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Ifop pour LCI et Le Figaro",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/juillet/10222-pres-ifop-le-figaro-8-juillet.pdf",
+     "date": "2026-07-08"
+    }
+   ]
+  },
+  {
+   "institut": "Toluna Harris Interactive (M6/RTL)",
+   "date_terrain": "2026-09-08",
+   "duel": "Gabriel Attal vs Marine Le Pen",
+   "resultats": {
+    "Gabriel Attal": 44,
+    "Marine Le Pen": 56
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Toluna Harris Interactive pour M6 et RTL",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10263-pres-iv-toluna-harris-interactive-rtl-14-septembre.pdf",
+     "date": "2026-09-14"
+    }
+   ]
+  },
+  {
+   "institut": "OpinionWay (JDD)",
+   "date_terrain": "2026-09-02",
+   "duel": "Gabriel Attal vs Marine Le Pen",
+   "resultats": {
+    "Gabriel Attal": 45,
+    "Marine Le Pen": 55
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "OpinionWay pour le JDD",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10252-pres-iv-opinionway-jdd-7-septembre.pdf",
+     "date": "2026-09-07"
+    }
+   ]
+  },
+  {
+   "institut": "Ifop-Fiducial",
+   "date_terrain": "2026-08-24",
+   "duel": "Gabriel Attal vs Marine Le Pen",
+   "resultats": {
+    "Gabriel Attal": 46,
+    "Marine Le Pen": 54
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Ifop-Fiducial baromètre vague 5",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "date": "2026-08-26"
+    }
+   ]
+  },
+  {
+   "institut": "Cluster17 (Le Grand Continent)",
+   "date_terrain": "2026-07-22",
+   "duel": "Gabriel Attal vs Marine Le Pen",
+   "resultats": {
+    "Gabriel Attal": 44,
+    "Marine Le Pen": 56
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Cluster17 pour Le Grand Continent",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+     "date": "2026-08-31"
+    }
+   ]
+  },
+  {
+   "institut": "OpinionWay (CNews)",
+   "date_terrain": "2026-09-09",
+   "duel": "Jean-Luc Mélenchon vs Marine Le Pen",
+   "resultats": {
+    "Jean-Luc Mélenchon": 33,
+    "Marine Le Pen": 67
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "OpinionWay pour CNews",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10260-pres-iv-opinionway-cnews-11-septembre.pdf",
+     "date": "2026-09-11"
+    }
+   ]
+  },
+  {
+   "institut": "Toluna Harris Interactive (M6/RTL)",
+   "date_terrain": "2026-09-08",
+   "duel": "Jean-Luc Mélenchon vs Marine Le Pen",
+   "resultats": {
+    "Jean-Luc Mélenchon": 33,
+    "Marine Le Pen": 67
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Toluna Harris Interactive pour M6 et RTL",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10263-pres-iv-toluna-harris-interactive-rtl-14-septembre.pdf",
+     "date": "2026-09-14"
+    }
+   ]
+  },
+  {
+   "institut": "OpinionWay (JDD)",
+   "date_terrain": "2026-09-02",
+   "duel": "Jean-Luc Mélenchon vs Marine Le Pen",
+   "resultats": {
+    "Jean-Luc Mélenchon": 34,
+    "Marine Le Pen": 66
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "OpinionWay pour le JDD",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/septembre/10252-pres-iv-opinionway-jdd-7-septembre.pdf",
+     "date": "2026-09-07"
+    }
+   ]
+  },
+  {
+   "institut": "Elabe (BFMTV/LTD)",
+   "date_terrain": "2026-08-26",
+   "duel": "Jean-Luc Mélenchon vs Marine Le Pen",
+   "resultats": {
+    "Jean-Luc Mélenchon": 30.5,
+    "Marine Le Pen": 69.5
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Elabe pour BFMTV / La Tribune Dimanche",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf",
+     "date": "2026-08-29"
+    }
+   ]
+  },
+  {
+   "institut": "Ifop-Fiducial",
+   "date_terrain": "2026-08-24",
+   "duel": "Jean-Luc Mélenchon vs Marine Le Pen",
+   "resultats": {
+    "Jean-Luc Mélenchon": 33,
+    "Marine Le Pen": 67
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Ifop-Fiducial baromètre vague 5",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "date": "2026-08-26"
+    }
+   ]
+  },
+  {
+   "institut": "Cluster17 (Le Grand Continent)",
+   "date_terrain": "2026-07-22",
+   "duel": "Jean-Luc Mélenchon vs Marine Le Pen",
+   "resultats": {
+    "Jean-Luc Mélenchon": 39,
+    "Marine Le Pen": 61
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Cluster17 pour Le Grand Continent",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+     "date": "2026-08-31"
+    }
+   ]
+  },
+  {
+   "institut": "Ifop-Fiducial",
+   "date_terrain": "2026-08-24",
+   "duel": "Raphaël Glucksmann vs Marine Le Pen",
+   "resultats": {
+    "Raphaël Glucksmann": 45,
+    "Marine Le Pen": 55
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Ifop-Fiducial baromètre vague 5",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "date": "2026-08-26"
+    }
+   ]
+  },
+  {
+   "institut": "Elabe (BFMTV/LTD)",
+   "date_terrain": "2026-08-26",
+   "duel": "Raphaël Glucksmann vs Marine Le Pen",
+   "resultats": {
+    "Raphaël Glucksmann": 43,
+    "Marine Le Pen": 57
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Elabe pour BFMTV / La Tribune Dimanche",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10245-pres-iv-elabe-29-aout.pdf",
+     "date": "2026-08-29"
+    }
+   ]
+  },
+  {
+   "institut": "Ifop-Fiducial",
+   "date_terrain": "2026-08-24",
+   "duel": "Bruno Retailleau vs Marine Le Pen",
+   "resultats": {
+    "Bruno Retailleau": 42,
+    "Marine Le Pen": 58
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Ifop-Fiducial baromètre vague 5",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+     "date": "2026-08-26"
+    }
+   ]
+  },
+  {
+   "institut": "Cluster17 (Le Grand Continent)",
+   "date_terrain": "2026-07-22",
+   "duel": "Bruno Retailleau vs Marine Le Pen",
+   "resultats": {
+    "Bruno Retailleau": 43,
+    "Marine Le Pen": 57
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Commission des sondages (notice officielle)",
+     "titre": "Cluster17 pour Le Grand Continent",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10246-pres-cluster17-le-grand-continent-31-aout.pdf",
+     "date": "2026-08-31"
+    }
+   ]
+  },
+  {
+   "institut": "Odoxa (Public Sénat)",
+   "date_terrain": "2026-05-20",
+   "duel": "Édouard Philippe vs Jordan Bardella",
+   "resultats": {
+    "Édouard Philippe": 48,
+    "Jordan Bardella": 52
+   },
+   "sources": [
+    {
+     "media": "Wikipédia",
+     "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+     "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+     "date": "2026-09-25"
+    },
+    {
+     "media": "Odoxa",
+     "titre": "Philippe s'effondre, Mélenchon décolle, Bardella s'impose",
+     "url": "https://www.odoxa.fr/sondage/philippe-seffondre-melenchon-decolle-bardella-simpose/",
+     "date": "2026-05-26"
+    }
+   ]
+  }
+ ],
+ "popularite_ou_notes": [
+  {
+   "institut": "Ipsos bva-CESI",
+   "commanditaire": "La Tribune Dimanche",
+   "date_terrain": "2026-09-09",
+   "date_terrain_fin": "2026-09-10",
+   "echantillon": 1000,
+   "indicateur": "opinion favorable",
+   "resultats": {
+    "Emmanuel Macron": 16,
+    "Sébastien Lecornu (Premier ministre)": 20
+   },
+   "evolution": {
+    "Emmanuel Macron": "-5 vs juillet",
+    "Sébastien Lecornu (Premier ministre)": "-7"
+   },
+   "verification": "page Ipsos ; Macron 16 % repris par des relais web (brunobertez.com, 13/09/2026) — pas de second média de référence trouvé",
+   "sources": [
+    {
+     "media": "Ipsos",
+     "titre": "Baromètre politique Ipsos bva-CESI pour La Tribune Dimanche – Septembre 2026",
+     "url": "https://www.ipsos.com/fr-fr/barometre-politique-ipsos-bva-la-tribune-dimanche",
+     "date": "2026-09-12"
+    },
+    {
+     "media": "brunobertez.com",
+     "titre": "Sondages. La confiance est brisée. Macron est à 16%",
+     "url": "https://brunobertez.com/2026/09/13/sondages-la-confiance-est-brisee-macron-est-a-16/",
+     "date": "2026-09-13"
+    }
+   ]
+  },
+  {
+   "institut": "Ifop",
+   "commanditaire": null,
+   "date_terrain": "2026-09-09",
+   "date_terrain_fin": "2026-09-17",
+   "echantillon": 1956,
+   "indicateur": "satisfaction",
+   "resultats": {
+    "Emmanuel Macron": 17,
+    "Premier ministre": 24
+   },
+   "evolution": {
+    "Emmanuel Macron": "-4 vs août",
+    "Premier ministre": "-6"
+   },
+   "verification": "source unique (page Ifop) ; commanditaire non confirmé",
+   "sources": [
+    {
+     "media": "Ifop",
+     "titre": "Indices de popularité – Baromètre Ifop Opinion – Septembre 2026",
+     "url": "https://www.ifopgroup.com/article/indices-de-popularite-barometre-ifop-opinion-septembre-2026/",
+     "date": "2026-09-21"
+    }
+   ]
+  },
+  {
+   "institut": "Elabe",
+   "commanditaire": "Les Echos",
+   "date_terrain": null,
+   "echantillon": null,
+   "indicateur": "confiance (exécutif) / image positive (personnalités)",
+   "resultats": {
+    "Emmanuel Macron (confiance)": 20,
+    "Sébastien Lecornu (confiance)": 23,
+    "Jordan Bardella (image positive)": 37,
+    "Marine Le Pen (image positive)": 37,
+    "Marion Maréchal": 29,
+    "Édouard Philippe": 26,
+    "Gabriel Attal": 25,
+    "Raphaël Glucksmann": 23,
+    "Bruno Retailleau": 23
+   },
+   "verification": "source unique (page Elabe)",
+   "sources": [
+    {
+     "media": "Elabe",
+     "titre": "L'Observatoire politique – Septembre 2026",
+     "url": "https://elabe.fr/lobservatoire-politique-septembre-2026/",
+     "date": "2026-09-03"
+    }
+   ]
+  }
+ ],
+ "methode": {
+  "marge_erreur_explication": "Les instituts publient un intervalle de confiance à 95 %, qui dépend de la taille de l'échantillon et du score. Pour 1 000 répondants : environ ±1,4 pt pour un score de 5 %, ±1,8 à 10 %, ±2,8 à 30 % et ±3,1 à 50 % (table Ifop). La marge augmente quand on ne garde que les exprimés (par exemple 935 exprimés chez OpinionWay : ±3,2 à 50 %). Avec la méthode des quotas, ce calcul n'est pas strictement justifié ; Ipsos le rappelle : « Le calcul n'est justifié que pour les sondages aléatoires. » Un an avant le scrutin, les sondages se sont souvent révélés éloignés des résultats (Le Monde, 18/04/2026). Un écart de 1 à 2 points entre deux candidats (Mélenchon/Philippe, Philippe/Le Pen au second tour chez Ifop) n'est donc pas significatif.",
+  "sources": [
+   {
+    "media": "Wikipédia",
+    "titre": "Liste de sondages sur l'élection présidentielle française de 2027",
+    "url": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+    "date": "2026-09-25"
+   },
+   {
+    "media": "Commission des sondages (notice officielle)",
+    "titre": "Table des marges d'erreur (Ifop)",
+    "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/aout/10242-pres-barometre-election-pres-iv-v5-ifop-26-aout.pdf",
+    "date": "2026-08-26"
+   },
+   {
+    "media": "Le Monde (Les Décodeurs)",
+    "titre": "Présidentielle : un an avant, les sondages sont souvent loin du compte",
+    "url": "https://www.lemonde.fr/les-decodeurs/article/2026/04/18/presidentielle-un-an-avant-les-sondages-sont-souvent-loin-du-compte_6681104_4355770.html",
+    "date": "2026-04-18"
+   },
+   {
+    "media": "Ipsos",
+    "titre": "Notice technique (panel électoral 2022) – mention sur les quotas",
+    "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2022-05/NOTICE%20TECHNIQUE%20Ipsos%20Le%20Monde%20FJJ%20Cevipof%20-%20Panel%20e%CC%81lectoral%20Vague%2011.pdf",
+    "date": "2022-05-23"
+   }
+  ]
+ },
+ "financement": {
+  "plafond_depenses_1er_tour": "16,851 M€ (16 851 000 €) par candidat",
+  "plafond_2nd_tour": "22,509 M€ (22 509 000 €) pour chacun des deux finalistes",
+  "note_plafonds": "Montants inchangés depuis 2012 : le gel est prévu par la loi de finances n° 2011-1977 (art. L.52-11 du code électoral) et le décret n° 2009-1730. Le site élection.fr parle d'une indexation sur les prix, ce que le guide de la CNCCFP (édition 2026-2027) contredit. Le guide fait foi.",
+  "periode_financement": "du 1er avril 2026 à la veille du tour de scrutin pour les dépenses ; jusqu'au dépôt du compte pour les recettes",
+  "remboursement": "Remboursement forfaitaire par l'État, plafonné à 4,75 % du plafond du 1er tour (800 423 €) pour les candidats sous 5 % des exprimés ; 47,5 % du plafond du 1er tour (8 004 225 €) au-dessus de 5 % ; 47,5 % du plafond du 2nd tour (10 691 775 €) pour les finalistes. Il ne peut dépasser ni les dépenses remboursables ni l'apport personnel (diminué de l'excédent du compte). L'avance forfaitaire de 200 000 € est déduite. Les dépenses irrégulières, comme l'affichage hors panneaux (art. L.51), ne sont pas remboursées, et le remboursement peut être réduit en cas d'irrégularités (art. L.52-11-1).",
+  "regles_dons": "Seules les personnes physiques de nationalité française ou résidant en France peuvent donner, dans la limite de 4 600 € par personne pour une même élection, tous candidats confondus. Les dons en espèces sont limités à 150 € par don et à 20 % du plafond au total. Les dons des personnes morales, publiques ou privées, françaises ou étrangères, sont interdits sous toute forme, y compris en nature ; seuls les partis soumis à la loi du 11 mars 1988 sont autorisés. Côté prêts : emprunts possibles auprès d'une banque établie dans l'UE ou l'EEE, ou auprès d'un parti politique (sans intérêts s'il prête sur ses fonds propres). Les prêts de personnes physiques sont strictement interdits pour la présidentielle. Les dons passent obligatoirement par le mandataire. Dépasser le plafond de dépenses peut entraîner le rejet du compte et oblige à verser au Trésor le montant du dépassement.",
+  "comptes_2022": [
+   {
+    "candidat": "Marine Le Pen (RN)",
+    "depenses": 10671587,
+    "apport_parti": 0,
+    "apport_personnel_retenu": 11248882,
+    "prets": 10491774,
+    "dons": 76638,
+    "contributions_partis_nature": 36551,
+    "remboursement": 10220842,
+    "decision_CNCCFP": "Approuvé après réformation (14/12/2022, JO du 24/02/2023). Remboursement réduit de 10 537 024 € à 10 220 842 € : 316 182 € de flocage de 12 cars jugés irréguliers (art. L.51). Prêt MKB Bank (Hongrie) utilisé à hauteur de 10 491 774 €. Recours devant le Conseil constitutionnel (demandait 10 552 508 €), désistement ; non-lieu (décision 2023-199 PDR du 23/02/2023).",
+    "sources": [
+     {
+      "media": "Journal officiel / CNCCFP",
+      "titre": "Décision du 14 décembre 2022 relative au compte de campagne de Mme Marine Le Pen",
+      "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+      "date": "2023-02-24"
+     },
+     {
+      "media": "Conseil constitutionnel",
+      "titre": "Décision n° 2023-199 PDR du 23 février 2023",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2023/2023199PDR.htm",
+      "date": "2023-02-23"
+     },
+     {
+      "media": "Blog du droit électoral (R. Rambaud)",
+      "titre": "Marine Le Pen se désiste de son recours devant le Conseil constitutionnel contre la décision de la CNCCFP",
+      "url": "https://blogdudroitelectoral.fr/2023/02/comptes-de-campagne-de-lelection-presidentielle-marine-le-pen-se-desiste-de-son-recours-devant-le-conseil-constitutionnel-contre-la-decision-de-la-cnccfp-r-rambaud/",
+      "date": "2023-02"
+     },
+     {
+      "media": "LCP",
+      "titre": "Dons, banques, argent public… D'où vient l'argent des campagnes présidentielles ?",
+      "url": "https://lcp.fr/actualites/dons-banques-argent-public-d-ou-vient-l-argent-des-campagnes-presidentielles-434695",
+      "date": null
+     }
+    ]
+   },
+   {
+    "candidat": "Jean-Luc Mélenchon (LFI)",
+    "depenses": 13519579,
+    "apport_parti": 1300000,
+    "apport_personnel_retenu": 8059303,
+    "prets": null,
+    "dons": 2352347,
+    "contributions_partis_nature": 2173284,
+    "remboursement": 7629786,
+    "decision_CNCCFP": "Approuvé après réformation ; remboursement 7 629 786 € (maximum théorique 7 654 416 €).",
+    "sources": [
+     {
+      "media": "Journal officiel / CNCCFP",
+      "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Jean-Luc Mélenchon",
+      "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+      "date": "2023-01-27"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2022 : huit choses à retenir des comptes de campagne des candidats",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-huit-choses-a-retenir-des-comptes-de-campagne-des-candidats_5624543.html",
+      "date": "2023-01-27"
+     },
+     {
+      "media": "France Bleu (ICI)",
+      "titre": "Présidentielle : les comptes de campagne des candidats épluchés, Eric Zemmour récolte la plus grosse sanction",
+      "url": "https://www.francebleu.fr/infos/politique/presidentielle-les-comptes-de-campagne-des-candidats-epluches-eric-zemmour-recolte-la-plus-grosse-sanction-9320784",
+      "date": "2023-01-27"
+     }
+    ]
+   },
+   {
+    "candidat": "Éric Zemmour (Reconquête)",
+    "depenses": 10826804,
+    "apport_parti": 0,
+    "apport_personnel_retenu": 10085302,
+    "prets": null,
+    "dons": 37215,
+    "contributions_partis_nature": 501103,
+    "remboursement": 7804225,
+    "decision_CNCCFP": "Approuvé après réformation ; remboursement plafonné à 8 004 225 € (47,5 % du plafond du 1er tour) puis réduit de 200 000 € pour irrégularités (art. L.52-12) → 7 804 225 €.",
+    "sources": [
+     {
+      "media": "Journal officiel / CNCCFP",
+      "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Eric Zemmour",
+      "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+      "date": "2023-01-27"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2022 : huit choses à retenir des comptes de campagne des candidats",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-huit-choses-a-retenir-des-comptes-de-campagne-des-candidats_5624543.html",
+      "date": "2023-01-27"
+     },
+     {
+      "media": "France Bleu (ICI)",
+      "titre": "Présidentielle : les comptes de campagne des candidats épluchés, Eric Zemmour récolte la plus grosse sanction",
+      "url": "https://www.francebleu.fr/infos/politique/presidentielle-les-comptes-de-campagne-des-candidats-epluches-eric-zemmour-recolte-la-plus-grosse-sanction-9320784",
+      "date": "2023-01-27"
+     }
+    ]
+   },
+   {
+    "candidat": "Fabien Roussel (PCF)",
+    "depenses": 3880949,
+    "apport_parti": 1200000,
+    "apport_personnel_retenu": 976461,
+    "prets": null,
+    "dons": 182545,
+    "contributions_partis_nature": 1431008,
+    "remboursement": 754886,
+    "decision_CNCCFP": "Approuvé après réformation et réduction du remboursement : 45 537 € d'affichage irrégulier (flocage de véhicules, façades PCF) déduits du plafond de 800 423 € → 754 886 €.",
+    "sources": [
+     {
+      "media": "Journal officiel / CNCCFP",
+      "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Fabien Roussel",
+      "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+      "date": "2023-01-27"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2022 : huit choses à retenir des comptes de campagne des candidats",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-huit-choses-a-retenir-des-comptes-de-campagne-des-candidats_5624543.html",
+      "date": "2023-01-27"
+     }
+    ]
+   },
+   {
+    "candidat": "Nathalie Arthaud (LO)",
+    "depenses": 889844,
+    "apport_parti": 0,
+    "apport_personnel_retenu": 788745,
+    "prets": null,
+    "dons": 63267,
+    "contributions_partis_nature": 6325,
+    "remboursement": 786686,
+    "decision_CNCCFP": "Approuvé après réformation ; remboursement 786 686 € (apport personnel moins l'excédent, sous le plafond de 800 423 €). franceinfo cite le plafond de 800 423 €.",
+    "sources": [
+     {
+      "media": "Journal officiel / CNCCFP",
+      "titre": "Décision du 14 décembre 2022 relative au compte de campagne de Mme Nathalie Arthaud",
+      "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+      "date": "2023-01-27"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2022 : huit choses à retenir des comptes de campagne des candidats",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-huit-choses-a-retenir-des-comptes-de-campagne-des-candidats_5624543.html",
+      "date": "2023-01-27"
+     }
+    ]
+   },
+   {
+    "candidat": "Nicolas Dupont-Aignan (DLF)",
+    "depenses": 857428,
+    "apport_parti": 0,
+    "apport_personnel_retenu": 737018,
+    "prets": null,
+    "dons": 63133,
+    "contributions_partis_nature": 48367,
+    "remboursement": 728884,
+    "decision_CNCCFP": "Approuvé après réformation ; remboursement 728 884 € (calcul initial 729 884 €).",
+    "sources": [
+     {
+      "media": "Journal officiel / CNCCFP",
+      "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Nicolas Dupont-Aignan",
+      "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+      "date": "2023-01-27"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2022 : huit choses à retenir des comptes de campagne des candidats",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-huit-choses-a-retenir-des-comptes-de-campagne-des-candidats_5624543.html",
+      "date": "2023-01-27"
+     }
+    ]
+   },
+   {
+    "candidat": "Philippe Poutou (NPA)",
+    "depenses": 810556,
+    "apport_parti": 0,
+    "apport_personnel_retenu": 800870,
+    "prets": null,
+    "dons": null,
+    "contributions_partis_nature": 13150,
+    "remboursement": 794406,
+    "decision_CNCCFP": "Approuvé après réformation ; remboursement 794 406 € (calcul initial 797 406 €). franceinfo cite le plafond de 800 423 €.",
+    "sources": [
+     {
+      "media": "Journal officiel / CNCCFP",
+      "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Philippe Poutou",
+      "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+      "date": "2023-01-27"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2022 : huit choses à retenir des comptes de campagne des candidats",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-huit-choses-a-retenir-des-comptes-de-campagne-des-candidats_5624543.html",
+      "date": "2023-01-27"
+     }
+    ]
+   },
+   {
+    "candidat": "Jean Lassalle (Résistons !)",
+    "depenses": 812595,
+    "apport_parti": 0,
+    "apport_personnel_retenu": 786502,
+    "prets": null,
+    "dons": 0,
+    "contributions_partis_nature": 2009,
+    "remboursement": 770991,
+    "decision_CNCCFP": "Approuvé après réformation ; 465 € de billets de rugby retirés ; 15 000 € de flocage de bus irrégulier → remboursement 770 991 €. Note : l'article 1er du JO écrit « 795 520 € » de dépenses mais le tableau et le considérant 6 donnent 812 595 €.",
+    "sources": [
+     {
+      "media": "Journal officiel / CNCCFP",
+      "titre": "Décision du 14 décembre 2022 relative au compte de campagne de M. Jean Lassalle",
+      "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+      "date": "2023-01-27"
+     },
+     {
+      "media": "franceinfo",
+      "titre": "Présidentielle 2022 : huit choses à retenir des comptes de campagne des candidats",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2022-huit-choses-a-retenir-des-comptes-de-campagne-des-candidats_5624543.html",
+      "date": "2023-01-27"
+     }
+    ]
+   }
+  ],
+  "note_comptes": "Montants retenus par la CNCCFP, en euros, après réformation. « apport_parti » correspond aux versements définitifs des partis ; les contributions en nature et les dépenses payées directement par les partis figurent à part. L'apport personnel inclut les emprunts. Les décisions du JO ne détaillent le prêt que pour Le Pen (et Jadot) ; pour les autres candidats, « prets » vaut null. « dons » : null si la ligne est vide dans le JO pour Poutou ; 0 pour Lassalle (ligne vide au JO). Macron, Pécresse, Hidalgo et Jadot sont absents car ils ne sont pas candidats en 2027.",
+  "sources": [
+   {
+    "media": "CNCCFP",
+    "titre": "Guide à l'usage des candidats à l'élection du Président de la République et de leur mandataire – édition 2026-2027 (adopté le 26 mars 2026)",
+    "url": "https://cnccfp.fr/wp-content/uploads/2026/04/Guide-a-lusage-des-candidats-a-lelection-du-President-de-la-Republique.pdf",
+    "date": "2026-03-26"
+   },
+   {
+    "media": "Wikipédia",
+    "titre": "Financement des campagnes présidentielles en France",
+    "url": "https://fr.wikipedia.org/wiki/Financement_des_campagnes_pr%C3%A9sidentielles_en_France",
+    "date": null
+   },
+   {
+    "media": "Public Sénat",
+    "titre": "Ouverture des comptes de campagne au 1er avril : ce que ça change pour les candidats potentiels à la présidentielle",
+    "url": "https://www.publicsenat.fr/actualites/politique/ouverture-des-comptes-de-campagne-au-1er-avril-ce-que-ca-change-pour-les-candidats-potentiels",
+    "date": null
+   },
+   {
+    "media": "CNCCFP / Journal officiel",
+    "titre": "Décisions relatives aux comptes de campagne – présidentielle 2022 (JO du 27/01/2023 et du 24/02/2023)",
+    "url": "https://cnccfp.fr/wp-content/uploads/2023/02/cnccfp-decisions-presidentielle-2022.pdf",
+    "date": "2023-01-27"
+   },
+   {
+    "media": "CNCCFP",
+    "titre": "Élection présidentielle des 10 et 24 avril 2022 – publication au JO des décisions de la Commission",
+    "url": "https://cnccfp.fr/election-presidentielle-des-10-et-24-avril-2022-publication-au-journal-officiel-des-decisions-de-la-commission/",
+    "date": null
+   }
+  ]
+ }
+}
